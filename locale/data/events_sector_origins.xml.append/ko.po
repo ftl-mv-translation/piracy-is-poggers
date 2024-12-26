@@ -1,0 +1,30 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_origins.xml.append:19
+msgid ""
+"data/events_sector_origins.xml.append$//mod:findName[@name=\"CULTIST_PIRATES_BURN_RESCUE\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "선원들은 해적들을 구하기 위해 서둘러 승선했습니다. 다행히, 생존자 한 명과 함께 모두 무사히 돌아왔습니다."
+
+#: src-en/data/events_sector_origins.xml.append:21
+msgid ""
+"data/events_sector_origins.xml.append$//mod:findName[@name=\"CULTIST_PIRATES_BURN_RESCUE\"]/mod:findWithChildLike[1]/mod-"
+"append:choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_origins.xml.append:26
+msgid ""
+"data/events_sector_origins.xml.append$//mod:findName[@name=\"CULTIST_PIRATES_BURN_RESCUE\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+"선원들은 해적들을 구하기 위해 서둘러 승선했습니다. 구조대는 생존자 한 명을 데리고 돌아왔지만, 당신의 선원 한 명이 보이지 않았습니다."
+" 보고에 따르면, 그는 불길에 갇혀 결국 살아서 나오지 못했다고 합니다."
+
+#: src-en/data/events_sector_origins.xml.append:28
+msgid ""
+"data/events_sector_origins.xml.append$//mod:findName[@name=\"CULTIST_PIRATES_BURN_RESCUE\"]/mod:findWithChildLike[2]/mod-"
+"append:choice/text"
+msgstr "계속..."

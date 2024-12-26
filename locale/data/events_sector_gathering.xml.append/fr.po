@@ -1,0 +1,262 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_gathering.xml.append:16
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "Défendre le centre d'immigration."
+
+#: src-en/data/events_sector_gathering.xml.append:26
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "Éviter la scène."
+
+#: src-en/data/events_sector_gathering.xml.append:30
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:32
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:34
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:36
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"mind\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:38
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"mind\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_gathering.xml.append:44
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:46
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:51
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_gathering.xml.append:57
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"hacking\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:59
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:64
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_gathering.xml.append:70
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"slug_saboteur\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:72
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"slug_saboteur\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:74
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"slug_saboteur\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_gathering.xml.append:80
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"rock_paladin\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:82
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"rock_paladin\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:84
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"rock_paladin\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_gathering.xml.append:90
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"CREW_FIREARMS\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:94
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"unique_irwin\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:98
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"unique_turzil\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:102
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"unique_ariadne\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:106
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/text"
+msgstr "Nous ne pouvons pas aider."
+
+#: src-en/data/events_sector_gathering.xml.append:108
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:110
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_sector_gathering.xml.append:114
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_sector_gathering.xml.append:122
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/text"
+msgstr "Éviter la scène."
+
+#: src-en/data/events_sector_gathering.xml.append:124
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"Vous n'avez pas vraiment de raison de vous en mêler et, en plus, cela "
+"pourrait s'avérer très dangereux."
+
+#: src-en/data/events_sector_gathering.xml.append:126
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_sector_gathering.xml.append:130
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_sector_gathering.xml.append:138
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"PIP_ORCHID_REFUGEES_MERCENARY_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:142
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"PIP_ORCHID_REFUGEES_MERCENARY_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_gathering.xml.append:149
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "Aider le vaisseau Orchidée."
+
+#: src-en/data/events_sector_gathering.xml.append:159
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "Éviter le conflit."
+
+#: src-en/data/events_sector_gathering.xml.append:163
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:165
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:167
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr "Le prendre à bord."
+
+#: src-en/data/events_sector_gathering.xml.append:173
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr "Décliner et demander un paiement à la place."
+
+#: src-en/data/events_sector_gathering.xml.append:181
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/text"
+msgstr "Éviter le conflit."
+
+#: src-en/data/events_sector_gathering.xml.append:183
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"Tant que le syndicat n'interfère pas avec les affaires des renégats, vous "
+"n'avez aucune raison de vous mêler de cette histoire."
+
+#: src-en/data/events_sector_gathering.xml.append:185
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_sector_gathering.xml.append:189
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr "Ne rien faire."

@@ -1,0 +1,26 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_spider.xml.append:12
+msgid ""
+"data/events_sector_spider.xml.append$//mod:findName[@name=\"INFESTATION_SLAVERS\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "Kaufe einen Sklaven."
+
+#: src-en/data/events_sector_spider.xml.append:22
+msgid ""
+"data/events_sector_spider.xml.append$//mod:findName[@name=\"INFESTATION_SLAVERS\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "[Ansehen: 3+] Kaufe einen exotischen Sklaven."
+
+#: src-en/data/events_sector_spider.xml.append:32
+msgid ""
+"data/events_sector_spider.xml.append$//mod:findName[@name=\"INFESTATION_SLAVERS\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr "Kämpfe gegen das Schiff."
+
+#: src-en/data/events_sector_spider.xml.append:49
+msgid ""
+"data/events_sector_spider.xml.append$//mod:findName[@name=\"INFESTATION_IRWIN\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "Intervenieren."

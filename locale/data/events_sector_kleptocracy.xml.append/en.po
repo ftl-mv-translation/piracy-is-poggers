@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:5
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SLUG_PIRATE\"]/mod:findWithChildLike/mod:selector"
+msgstr "Attack!"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:20
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "Engage the pirate."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:30
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "Head for the cache."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:40
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "Attack the Slugs."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:42
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"The pirate might not be someone you want to mess with, but he might reward "
+"you for siding with him. You direct your weapons towards the Slugs."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:45
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:51
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "Leave them with the pirate."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:53
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"You cut communications and pilot away from the battle. Once you're sure that"
+" neither ship can disturb you, you busy yourself with doing something "
+"onboard the ship."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:55
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:59
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:69
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"ESCAPE_SLUG_PIRATE\"]/text"
+msgstr ""
+"\"Ah crap, they're coming for usss!\" The Slugs begin to power their "
+"engines. Just before you engage them, you receive a message from the pirate:"
+" \"Those rotten slime balls have been pestering me for too damn long! Take "
+"this last one out and I've got a reward waiting for you.\""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:73
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/text"
+msgstr ""
+"Despite your best efforts, the Slugs have successfully escaped. "
+"Unfortunately, that means you won't get the pirate's reward either."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:75
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/choice/text"
+msgstr "Contact the pirate."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:77
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/choice/event/text"
+msgstr ""
+"\"Though you have failed in destroying those slime balls, I will still "
+"acknowledge that you chose to side with us instead of teaming up on us. So "
+"here, take some junk and get lost.\""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:84
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/text"
+msgstr ""
+"The Slug ship has been destroyed. You scrap the remains before contacting "
+"the pirates."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:87
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/text"
+msgstr "Contact the pirate."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:89
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/event/text"
+msgstr ""
+"\"Very good. You have eliminated the last of the annoying slime creatures. "
+"As promised, your reward.\""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:92
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:100
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/text"
+msgstr ""
+"The Slug crew have been eliminated. You scrap the remains before contacting "
+"the pirates."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:103
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/text"
+msgstr "Contact the pirate."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:105
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/event/text"
+msgstr ""
+"\"Very good. You have eliminated the last of the annoying slime creatures. "
+"As promised, your reward.\""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:108
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/event/choice/text"
+msgstr "Continue..."

@@ -1,0 +1,88 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_asteroid.xml.append:15
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:19
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/text"
+msgstr "За ними!"
+
+#: src-en/data/events_sector_asteroid.xml.append:21
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:24
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_asteroid.xml.append:30
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:32
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:37
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_asteroid.xml.append:39
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:41
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/text"
+msgstr "Связаться с пиявками и сообщить им о завершении работы."
+
+#: src-en/data/events_sector_asteroid.xml.append:43
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"\"Превосходно! Иргенская Республика выражает вам огромную благодарность. "
+"Только... никому не говорите о том, что это произошло. В связи со всей этой "
+"историей с Коалицией, это вроде как было незаконно, но мне действительно не "
+"хочется вас убивать\"."
+
+#: src-en/data/events_sector_asteroid.xml.append:46
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_asteroid.xml.append:52
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/text"
+msgstr "Украсть груз для себя."
+
+#: src-en/data/events_sector_asteroid.xml.append:54
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/text"
+msgstr ""
+"Вы открываете груз и обнаруживаете, что в нем находится дрон. "
+"Удовлетворенный и готовый предать пиявок, вы забираете его и готовитесь к "
+"отлету."
+
+#: src-en/data/events_sector_asteroid.xml.append:57
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_asteroid.xml.append:67
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[3]/text"
+msgstr ""

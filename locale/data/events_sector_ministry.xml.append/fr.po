@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_ministry.xml.append:22
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:selector"
+msgstr "Regarder qui ils ont à vendre."
+
+#: src-en/data/events_sector_ministry.xml.append:25
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "Acheter le Zoltan."
+
+#: src-en/data/events_sector_ministry.xml.append:39
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:41
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:43
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:45
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:51
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_ministry.xml.append:57
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "Refuser."
+
+#: src-en/data/events_sector_ministry.xml.append:68
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "Payer le code de lois."
+
+#: src-en/data/events_sector_ministry.xml.append:78
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "Simplement les combattre."
+
+#: src-en/data/events_sector_ministry.xml.append:88
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr "Partir."
+
+#: src-en/data/events_sector_ministry.xml.append:91
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[3]/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "Payer le code de lois."
+
+#: src-en/data/events_sector_ministry.xml.append:101
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[3]/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "Simplement les combattre."
+
+#: src-en/data/events_sector_ministry.xml.append:113
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:115
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:117
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:152
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_ARREST\"]/mod:findWithChildLike/mod:selector"
+msgstr "Prévenir les Zoltans des agissements des pirates."
+
+#: src-en/data/events_sector_ministry.xml.append:155
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_ARREST\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_ministry.xml.append:164
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr ""
+"Il semblerait que les pirates étaient des esclavagistes. Reconnaissants de "
+"votre assistance, ils vous proposent un de leurs 'travailleurs' "
+"gratuitement."
+
+#: src-en/data/events_sector_ministry.xml.append:166
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[1]/mod-"
+"append:choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_ministry.xml.append:171
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+"Les pirates semblent être des mercenaires, ironiquement engagés par les "
+"Rebelles pour vous trouver. Après un silence gênant, ils promettent de "
+"mentir à la flotte."
+
+#: src-en/data/events_sector_ministry.xml.append:173
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[2]/mod-"
+"append:choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_ministry.xml.append:178
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr ""
+"Les pirates semblent être des contrebandiers. Ils expliquent que leur client"
+" les ont cafardés, d'où leur arrestation. Maintenant que vous les avez "
+"sauvés, ils vous proposent de commercer avec vous à la place."
+
+#: src-en/data/events_sector_ministry.xml.append:183
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[3]/mod-"
+"append:choice/text"
+msgstr "Continuer..."

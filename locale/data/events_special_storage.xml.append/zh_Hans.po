@@ -1,0 +1,2702 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:392
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:394
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:396
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:398
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:405
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[1]/event/choice[@req=\"loc_merc_transmitter_use\""
+" and @lvl=\"0\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:409
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[1]/event/choice[@req=\"loc_merc_transmitter_use\""
+" and @lvl=\"1\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:415
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:417
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:424
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[2]/event/choice[@req=\"loc_merc_transmitter_use\""
+" and @lvl=\"0\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:428
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[2]/event/choice[@req=\"loc_merc_transmitter_use\""
+" and @lvl=\"1\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:434
+#, fuzzy
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/event/choice[3]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_storage.xml.append:442
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:446
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:465
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:469
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:473
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:477
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:481
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:485
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:489
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:493
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:497
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:501
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[10]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:505
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[11]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:509
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[12]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:514
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[13]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:518
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[14]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:522
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[15]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:526
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[16]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:530
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[17]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:534
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[18]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:538
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[19]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:542
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[20]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:546
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[21]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:550
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[22]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:554
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[23]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:558
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[24]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:562
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[25]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:566
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[26]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:570
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[27]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:574
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[28]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:578
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[29]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:582
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[30]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:586
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[31]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:590
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[32]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:594
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[33]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:598
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[34]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:602
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[35]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:606
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[36]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:611
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[37]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:615
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[38]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:619
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[39]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:623
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[40]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:627
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[41]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:631
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[42]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:635
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[43]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:639
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[44]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:643
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[45]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:647
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[46]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:651
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[47]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:655
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[48]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:659
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[49]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:663
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[50]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:667
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[51]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:671
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[52]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:675
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[53]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:679
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[54]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:683
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[55]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:687
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[56]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:691
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[57]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:695
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[58]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:699
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[59]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:703
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[60]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:708
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[61]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:712
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[62]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:716
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[63]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:720
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[64]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:724
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[65]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:728
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[66]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:732
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[67]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:736
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[68]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:740
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[69]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:744
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[70]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:748
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[71]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:752
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[72]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:756
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[73]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:760
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[74]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:764
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[75]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:768
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[76]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:772
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[77]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:776
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[78]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:780
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[79]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:784
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[80]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:788
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[81]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:792
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[82]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:796
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[83]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:800
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
+"append:choice[84]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:814
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "跳过。"
+
+#: src-en/data/events_special_storage.xml.append:818
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "切换多效或多级设备的模式。"
+
+#: src-en/data/events_special_storage.xml.append:822
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr "做一些战前检查。"
+
+#: src-en/data/events_special_storage.xml.append:827
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:832
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:836
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:840
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:844
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:848
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:852
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[7]/text"
+msgstr "切换多效或多级设备的模式。"
+
+#: src-en/data/events_special_storage.xml.append:856
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[8]/text"
+msgstr "做一些战前检查。"
+
+#: src-en/data/events_special_storage.xml.append:860
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[9]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_storage.xml.append:930
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:933
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"reactor\"]/text"
+msgstr "确定"
+
+#: src-en/data/events_special_storage.xml.append:935
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"reactor\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:938
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"reactor\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:940
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"reactor\"]/event/choice/event/text"
+msgstr "你启用该战斗部件。"
+
+#: src-en/data/events_special_storage.xml.append:944
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"reactor\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:950
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"reactor\"]/event/choice/event/choice/text"
+msgstr "开始战斗！"
+
+#: src-en/data/events_special_storage.xml.append:960
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"DEBUG_GENERATOR\"]/text"
+msgstr "使用应急供能器来为该部件供能。"
+
+#: src-en/data/events_special_storage.xml.append:962
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"DEBUG_GENERATOR\"]/event/text"
+msgstr "你启用该战斗部件。"
+
+#: src-en/data/events_special_storage.xml.append:966
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"DEBUG_GENERATOR\"]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:972
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"DEBUG_GENERATOR\"]/event/choice/text"
+msgstr "开始战斗！"
+
+#: src-en/data/events_special_storage.xml.append:980
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[3]/text"
+msgstr "执行其他操作。"
+
+#: src-en/data/events_special_storage.xml.append:984
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[4]/text"
+msgstr "算了，直接战斗！"
+
+#: src-en/data/events_special_storage.xml.append:986
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[4]/event/text"
+msgstr "你决定什么都不做，准备战斗。"
+
+#: src-en/data/events_special_storage.xml.append:993
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER_POWERDOWN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:999
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER_POWERDOWN\"]/choice/text"
+msgstr "继续战斗..."
+
+#: src-en/data/events_special_storage.xml.append:1020
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1023
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"weapons_enemy\"]/text"
+msgstr "武器。"
+
+#: src-en/data/events_special_storage.xml.append:1025
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"weapons_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1031
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"weapons_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1033
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1036
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1049
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"shields_enemy\"]/text"
+msgstr "护盾。"
+
+#: src-en/data/events_special_storage.xml.append:1051
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"shields_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1057
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"shields_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1059
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"shields_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1062
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"shields_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1070
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"engines_enemy\"]/text"
+msgstr "引擎。"
+
+#: src-en/data/events_special_storage.xml.append:1072
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"engines_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1078
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"engines_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1080
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"engines_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1083
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"engines_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1091
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"piloting_enemy\"]/text"
+msgstr "驾驶。"
+
+#: src-en/data/events_special_storage.xml.append:1093
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"piloting_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1099
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"piloting_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1101
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1104
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1112
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"medbay_enemy\"]/text"
+msgstr "医疗舱。"
+
+#: src-en/data/events_special_storage.xml.append:1114
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"medbay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1120
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"medbay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1122
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1125
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1133
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"clonebay_enemy\"]/text"
+msgstr "克隆舱。"
+
+#: src-en/data/events_special_storage.xml.append:1135
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"clonebay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1141
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"clonebay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1143
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1146
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1154
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"oxygen_enemy\"]/text"
+msgstr "氧气。"
+
+#: src-en/data/events_special_storage.xml.append:1156
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"oxygen_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1162
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"oxygen_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1164
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1167
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1175
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"drones_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1177
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"drones_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1183
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"drones_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1185
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"drones_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1188
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"drones_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1196
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"cloaking_enemy\"]/text"
+msgstr "隐形。"
+
+#: src-en/data/events_special_storage.xml.append:1198
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"cloaking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1204
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"cloaking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1206
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1209
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1217
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"teleporter_enemy\"]/text"
+msgstr "传送器。"
+
+#: src-en/data/events_special_storage.xml.append:1219
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"teleporter_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1225
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"teleporter_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1227
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1230
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1238
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"mind_enemy\"]/text"
+msgstr "心灵控制。"
+
+#: src-en/data/events_special_storage.xml.append:1240
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"mind_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1246
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"mind_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1248
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"mind_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1251
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"mind_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1259
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"hacking_enemy\"]/text"
+msgstr "黑客。"
+
+#: src-en/data/events_special_storage.xml.append:1261
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"hacking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1267
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"hacking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1269
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1272
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1280
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"temporal_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1282
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"temporal_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1288
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"temporal_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1290
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1293
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1301
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"doors_enemy\"]/text"
+msgstr "舱门。"
+
+#: src-en/data/events_special_storage.xml.append:1303
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"doors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1309
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"doors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1311
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"doors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1314
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"doors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1322
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"sensors_enemy\"]/text"
+msgstr "传感器"
+
+#: src-en/data/events_special_storage.xml.append:1324
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"sensors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1330
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"sensors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1332
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1335
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1343
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"battery_enemy\"]/text"
+msgstr "备用电池"
+
+#: src-en/data/events_special_storage.xml.append:1345
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"battery_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1351
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"battery_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1353
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"battery_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1356
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[@req=\"battery_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1364
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[17]/text"
+msgstr "执行其他操作。"
+
+#: src-en/data/events_special_storage.xml.append:1368
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[18]/text"
+msgstr "算了，直接战斗！"
+
+#: src-en/data/events_special_storage.xml.append:1370
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/choice[18]/event/text"
+msgstr "你决定什么都不做，准备战斗。"
+
+#: src-en/data/events_special_storage.xml.append:1377
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1380
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"weapons_enemy\"]/text"
+msgstr "武器。"
+
+#: src-en/data/events_special_storage.xml.append:1382
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"weapons_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1388
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"weapons_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1390
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1401
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"shields_enemy\"]/text"
+msgstr "护盾。"
+
+#: src-en/data/events_special_storage.xml.append:1403
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"shields_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1409
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"shields_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1411
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"shields_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"shields_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1422
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"engines_enemy\"]/text"
+msgstr "引擎。"
+
+#: src-en/data/events_special_storage.xml.append:1424
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"engines_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1430
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"engines_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1432
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"engines_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1435
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"engines_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1443
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"piloting_enemy\"]/text"
+msgstr "驾驶。"
+
+#: src-en/data/events_special_storage.xml.append:1445
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"piloting_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1451
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"piloting_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1453
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1456
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1464
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"medbay_enemy\"]/text"
+msgstr "医疗舱。"
+
+#: src-en/data/events_special_storage.xml.append:1466
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"medbay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"medbay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1474
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1477
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1485
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"clonebay_enemy\"]/text"
+msgstr "克隆舱。"
+
+#: src-en/data/events_special_storage.xml.append:1487
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"clonebay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1493
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"clonebay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1495
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1498
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1506
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"oxygen_enemy\"]/text"
+msgstr "氧气。"
+
+#: src-en/data/events_special_storage.xml.append:1508
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"oxygen_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"oxygen_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1516
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1519
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1527
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"drones_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1529
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"drones_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1535
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"drones_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1537
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"drones_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1540
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"drones_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1548
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"cloaking_enemy\"]/text"
+msgstr "隐形。"
+
+#: src-en/data/events_special_storage.xml.append:1550
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"cloaking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1556
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"cloaking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1558
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1561
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1569
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"teleporter_enemy\"]/text"
+msgstr "传送器。"
+
+#: src-en/data/events_special_storage.xml.append:1571
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"teleporter_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1577
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"teleporter_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1579
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1582
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1590
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"mind_enemy\"]/text"
+msgstr "心灵控制。"
+
+#: src-en/data/events_special_storage.xml.append:1592
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"mind_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1598
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"mind_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1600
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"mind_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1603
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"mind_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1611
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"hacking_enemy\"]/text"
+msgstr "黑客。"
+
+#: src-en/data/events_special_storage.xml.append:1613
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"hacking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1619
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"hacking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1621
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1624
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1632
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"temporal_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1634
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"temporal_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1640
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"temporal_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1642
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1645
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1653
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"doors_enemy\"]/text"
+msgstr "舱门。"
+
+#: src-en/data/events_special_storage.xml.append:1655
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"doors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1661
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"doors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1663
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"doors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1666
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"doors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1674
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"sensors_enemy\"]/text"
+msgstr "传感器"
+
+#: src-en/data/events_special_storage.xml.append:1676
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"sensors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1682
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"sensors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1684
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1687
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1695
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"battery_enemy\"]/text"
+msgstr "备用电池"
+
+#: src-en/data/events_special_storage.xml.append:1697
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"battery_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1703
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"battery_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1705
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"battery_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1708
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[@req=\"battery_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1716
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[17]/text"
+msgstr "执行其他操作。"
+
+#: src-en/data/events_special_storage.xml.append:1720
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[18]/text"
+msgstr "算了，直接战斗！"
+
+#: src-en/data/events_special_storage.xml.append:1722
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/choice[18]/event/text"
+msgstr "你决定什么都不做，准备战斗。"
+
+#: src-en/data/events_special_storage.xml.append:1729
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1732
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"weapons_enemy\"]/text"
+msgstr "武器。"
+
+#: src-en/data/events_special_storage.xml.append:1734
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"weapons_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1740
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"weapons_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1742
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1745
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1753
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"shields_enemy\"]/text"
+msgstr "护盾。"
+
+#: src-en/data/events_special_storage.xml.append:1755
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"shields_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1761
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"shields_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1763
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"shields_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1766
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"shields_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1774
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"engines_enemy\"]/text"
+msgstr "引擎。"
+
+#: src-en/data/events_special_storage.xml.append:1776
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"engines_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1782
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"engines_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1784
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"engines_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1787
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"engines_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1795
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"piloting_enemy\"]/text"
+msgstr "驾驶。"
+
+#: src-en/data/events_special_storage.xml.append:1797
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"piloting_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1803
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"piloting_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1805
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1808
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1816
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"medbay_enemy\"]/text"
+msgstr "医疗舱。"
+
+#: src-en/data/events_special_storage.xml.append:1818
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"medbay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1824
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"medbay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1826
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1829
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1837
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"clonebay_enemy\"]/text"
+msgstr "克隆舱。"
+
+#: src-en/data/events_special_storage.xml.append:1839
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"clonebay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1845
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"clonebay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1847
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1850
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1858
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"oxygen_enemy\"]/text"
+msgstr "氧气。"
+
+#: src-en/data/events_special_storage.xml.append:1860
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"oxygen_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1866
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"oxygen_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1868
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1871
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1879
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"drones_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1881
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"drones_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1887
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"drones_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1889
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"drones_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1892
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"drones_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1900
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"cloaking_enemy\"]/text"
+msgstr "隐形。"
+
+#: src-en/data/events_special_storage.xml.append:1902
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"cloaking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1908
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"cloaking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1910
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1913
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1921
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"teleporter_enemy\"]/text"
+msgstr "传送器。"
+
+#: src-en/data/events_special_storage.xml.append:1923
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"teleporter_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1929
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"teleporter_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1931
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1934
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1942
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"mind_enemy\"]/text"
+msgstr "心灵控制。"
+
+#: src-en/data/events_special_storage.xml.append:1944
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"mind_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1950
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"mind_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1952
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"mind_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1955
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"mind_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1963
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"hacking_enemy\"]/text"
+msgstr "黑客。"
+
+#: src-en/data/events_special_storage.xml.append:1965
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"hacking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1971
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"hacking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1973
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1976
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1984
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"temporal_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1986
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"temporal_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:1992
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"temporal_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:1994
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1997
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2005
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"doors_enemy\"]/text"
+msgstr "舱门。"
+
+#: src-en/data/events_special_storage.xml.append:2007
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"doors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2013
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"doors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2015
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"doors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2018
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"doors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2026
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"sensors_enemy\"]/text"
+msgstr "传感器"
+
+#: src-en/data/events_special_storage.xml.append:2028
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"sensors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2034
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"sensors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2036
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2039
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2047
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"battery_enemy\"]/text"
+msgstr "备用电池"
+
+#: src-en/data/events_special_storage.xml.append:2049
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"battery_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2055
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"battery_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2057
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"battery_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2060
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[@req=\"battery_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2068
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[17]/text"
+msgstr "执行其他操作。"
+
+#: src-en/data/events_special_storage.xml.append:2072
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[18]/text"
+msgstr "算了，直接战斗！"
+
+#: src-en/data/events_special_storage.xml.append:2074
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/choice[18]/event/text"
+msgstr "你决定什么都不做，准备战斗。"
+
+#: src-en/data/events_special_storage.xml.append:2081
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2084
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"weapons_enemy\"]/text"
+msgstr "武器。"
+
+#: src-en/data/events_special_storage.xml.append:2086
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"weapons_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2092
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"weapons_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2094
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2097
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"weapons_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2105
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"shields_enemy\"]/text"
+msgstr "护盾。"
+
+#: src-en/data/events_special_storage.xml.append:2107
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"shields_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2113
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"shields_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2115
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"shields_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2118
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"shields_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2126
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"engines_enemy\"]/text"
+msgstr "引擎。"
+
+#: src-en/data/events_special_storage.xml.append:2128
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"engines_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2134
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"engines_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2136
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"engines_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2139
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"engines_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2147
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"piloting_enemy\"]/text"
+msgstr "驾驶。"
+
+#: src-en/data/events_special_storage.xml.append:2149
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"piloting_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2155
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"piloting_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2157
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2160
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"piloting_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2168
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"medbay_enemy\"]/text"
+msgstr "医疗舱。"
+
+#: src-en/data/events_special_storage.xml.append:2170
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"medbay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2176
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"medbay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2178
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2181
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"medbay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2189
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"clonebay_enemy\"]/text"
+msgstr "克隆舱。"
+
+#: src-en/data/events_special_storage.xml.append:2191
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"clonebay_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2197
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"clonebay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2199
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2202
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"clonebay_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2210
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"oxygen_enemy\"]/text"
+msgstr "氧气。"
+
+#: src-en/data/events_special_storage.xml.append:2212
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"oxygen_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2218
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"oxygen_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2220
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"oxygen_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2231
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"drones_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2233
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"drones_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2239
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"drones_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2241
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"drones_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2244
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"drones_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2252
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"cloaking_enemy\"]/text"
+msgstr "隐形。"
+
+#: src-en/data/events_special_storage.xml.append:2254
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"cloaking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2260
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"cloaking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2262
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2265
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"cloaking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2273
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"teleporter_enemy\"]/text"
+msgstr "传送器。"
+
+#: src-en/data/events_special_storage.xml.append:2275
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"teleporter_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2281
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"teleporter_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2283
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2286
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"teleporter_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2294
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"mind_enemy\"]/text"
+msgstr "心灵控制。"
+
+#: src-en/data/events_special_storage.xml.append:2296
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"mind_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2302
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"mind_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2304
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"mind_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2307
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"mind_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2315
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"hacking_enemy\"]/text"
+msgstr "黑客。"
+
+#: src-en/data/events_special_storage.xml.append:2317
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"hacking_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2323
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"hacking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2325
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2328
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"hacking_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2336
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"temporal_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2338
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"temporal_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2344
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"temporal_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2346
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2349
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"temporal_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2357
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"doors_enemy\"]/text"
+msgstr "舱门。"
+
+#: src-en/data/events_special_storage.xml.append:2359
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"doors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2365
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"doors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2367
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"doors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2370
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"doors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2378
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"sensors_enemy\"]/text"
+msgstr "传感器"
+
+#: src-en/data/events_special_storage.xml.append:2380
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"sensors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2386
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"sensors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2388
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2391
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"sensors_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2399
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"battery_enemy\"]/text"
+msgstr "备用电池"
+
+#: src-en/data/events_special_storage.xml.append:2401
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"battery_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2407
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"battery_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2409
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"battery_enemy\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2412
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[@req=\"battery_enemy\"]/event/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2420
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[17]/text"
+msgstr "执行其他操作。"
+
+#: src-en/data/events_special_storage.xml.append:2424
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[18]/text"
+msgstr "算了，直接战斗！"
+
+#: src-en/data/events_special_storage.xml.append:2426
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/choice[18]/event/text"
+msgstr "你决定什么都不做，准备战斗。"
+
+#: src-en/data/events_special_storage.xml.append:2433
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2436
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"weapons_enemy\"]/text"
+msgstr "武器。"
+
+#: src-en/data/events_special_storage.xml.append:2438
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"weapons_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2444
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"weapons_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2450
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"shields_enemy\"]/text"
+msgstr "护盾。"
+
+#: src-en/data/events_special_storage.xml.append:2452
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"shields_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2458
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"shields_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2464
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"engines_enemy\"]/text"
+msgstr "引擎。"
+
+#: src-en/data/events_special_storage.xml.append:2466
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"engines_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"engines_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2478
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"piloting_enemy\"]/text"
+msgstr "驾驶。"
+
+#: src-en/data/events_special_storage.xml.append:2480
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"piloting_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2486
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"piloting_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2492
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"medbay_enemy\"]/text"
+msgstr "医疗舱。"
+
+#: src-en/data/events_special_storage.xml.append:2494
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"medbay_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2500
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"medbay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2506
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"clonebay_enemy\"]/text"
+msgstr "克隆舱。"
+
+#: src-en/data/events_special_storage.xml.append:2508
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"clonebay_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"clonebay_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2520
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"oxygen_enemy\"]/text"
+msgstr "氧气。"
+
+#: src-en/data/events_special_storage.xml.append:2522
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"oxygen_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2528
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"oxygen_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2534
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"drones_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2536
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"drones_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2542
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"drones_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2548
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"cloaking_enemy\"]/text"
+msgstr "隐形。"
+
+#: src-en/data/events_special_storage.xml.append:2550
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"cloaking_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2556
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"cloaking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2562
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"teleporter_enemy\"]/text"
+msgstr "传送器。"
+
+#: src-en/data/events_special_storage.xml.append:2564
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"teleporter_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2570
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"teleporter_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2576
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"mind_enemy\"]/text"
+msgstr "心灵控制。"
+
+#: src-en/data/events_special_storage.xml.append:2578
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"mind_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2584
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"mind_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2590
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"hacking_enemy\"]/text"
+msgstr "黑客。"
+
+#: src-en/data/events_special_storage.xml.append:2592
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"hacking_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2598
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"hacking_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2604
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"temporal_enemy\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2606
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"temporal_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2612
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"temporal_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2618
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"doors_enemy\"]/text"
+msgstr "舱门。"
+
+#: src-en/data/events_special_storage.xml.append:2620
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"doors_enemy\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2626
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"doors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2632
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"sensors_enemy\"]/text"
+msgstr "传感器"
+
+#: src-en/data/events_special_storage.xml.append:2634
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"sensors_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2640
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"sensors_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2646
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"battery_enemy\"]/text"
+msgstr "备用电池"
+
+#: src-en/data/events_special_storage.xml.append:2648
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"battery_enemy\"]/event/text"
+msgstr "你部署了磁性爆弹并将其从星舰内发射。"
+
+#: src-en/data/events_special_storage.xml.append:2654
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[@req=\"battery_enemy\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2660
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[17]/text"
+msgstr "执行其他操作。"
+
+#: src-en/data/events_special_storage.xml.append:2664
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[18]/text"
+msgstr "算了，直接战斗！"
+
+#: src-en/data/events_special_storage.xml.append:2666
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/choice[18]/event/text"
+msgstr "你决定什么都不做，准备战斗。"
+
+#: src-en/data/events_special_storage.xml.append:2689
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIRST\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2691
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIRST\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_storage.xml.append:2707
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIGHT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2709
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIGHT\"]/choice/text"
+msgstr "开始战斗！"

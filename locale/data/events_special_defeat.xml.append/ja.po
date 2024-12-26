@@ -1,0 +1,186 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_defeat.xml.append:29
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:30
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:31
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:32
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:48
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:49
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:50
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:63
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_WEAPON\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_defeat.xml.append:65
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_WEAPON\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:75
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_DRONE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_defeat.xml.append:77
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_DRONE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:87
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_AUGMENT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_defeat.xml.append:89
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_AUGMENT\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:102
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:103
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:104
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:105
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:121
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:122
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:123
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:136
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_WEAPON\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_defeat.xml.append:138
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_WEAPON\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:148
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_DRONE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_defeat.xml.append:150
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_DRONE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:160
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_AUGMENT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_defeat.xml.append:162
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_AUGMENT\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:176
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:177
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:178
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:179
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:196
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:197
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:198
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:199
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:206
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_MAP\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_defeat.xml.append:208
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_MAP\"]/choice/event/text"
+msgstr ""

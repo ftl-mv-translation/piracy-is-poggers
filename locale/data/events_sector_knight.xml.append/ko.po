@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_knight.xml.append:6
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:selector"
+msgstr "교신한다. 밀수품을 좀 살 수 있을지도 모른다."
+
+#: src-en/data/events_sector_knight.xml.append:9
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "환각제를 산다. 나이트의 부하들을 상대로 귀중한 협상 카드가 될 수 있다."
+
+#: src-en/data/events_sector_knight.xml.append:12
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_knight.xml.append:21
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_knight.xml.append:30
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_knight.xml.append:39
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findLike[3]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_knight.xml.append:45
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "거절한다."
+
+#: src-en/data/events_sector_knight.xml.append:49
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:51
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:53
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:55
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/text"
+msgstr ""
+"\"잘 생각했어! 뭐로 만들어졌는지는 묻지 마.\" 당신은 해적이 오키드 아이들과 에퀴노이드의 배설물에 대해 뭔가 중얼거리는 것을 들은 "
+"후, 통신을 끊었습니다."
+
+#: src-en/data/events_sector_knight.xml.append:61
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_knight.xml.append:67
+#, fuzzy
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr "아무것도 아니다."
+
+#: src-en/data/events_sector_knight.xml.append:73
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:75
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:78
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:80
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/text"
+msgstr ""
+"\"잘 생각했어! 뭐로 만들어졌는지는 묻지 마.\" 당신은 해적이 오키드 아이들과 에퀴노이드의 배설물에 대해 뭔가 중얼거리는 것을 들은 "
+"후, 통신을 끊었습니다."
+
+#: src-en/data/events_sector_knight.xml.append:86
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_knight.xml.append:92
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:117
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+"당신이 공격하러 다가가자, 밀수업자가 다시 교신을 보냈습니다. \"좋아, 가격이 좀 비쌌던 것 같네! 서두르지 말자고. 이 정도면 "
+"괜찮으려나?\""
+
+#: src-en/data/events_sector_knight.xml.append:119
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "새로운 가격에 환각제를 산다."
+
+#: src-en/data/events_sector_knight.xml.append:122
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_knight.xml.append:128
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "아니, 우린 그냥 널 죽일 거야."

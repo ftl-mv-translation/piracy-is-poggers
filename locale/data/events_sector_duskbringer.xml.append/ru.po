@@ -1,0 +1,166 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_duskbringer.xml.append:11
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE\"]/mod:findWithChildLike/mod:selector"
+msgstr "Убить этих ублюдков."
+
+#: src-en/data/events_sector_duskbringer.xml.append:23
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "Купить энджи."
+
+#: src-en/data/events_sector_duskbringer.xml.append:26
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:32
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "Купить валуна."
+
+#: src-en/data/events_sector_duskbringer.xml.append:35
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:41
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr "Купить Вампсорняк."
+
+#: src-en/data/events_sector_duskbringer.xml.append:44
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[3]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:53
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:55
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:57
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "Согласиться."
+
+#: src-en/data/events_sector_duskbringer.xml.append:59
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:63
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:69
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "Отказаться от их предложения."
+
+#: src-en/data/events_sector_duskbringer.xml.append:71
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:80
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:83
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/text"
+msgstr "Связаться с пиратами."
+
+#: src-en/data/events_sector_duskbringer.xml.append:85
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:88
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:97
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING_CONTACT\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+"Удивительно, но никто из пиратов не шелохнулся при вашем приближении. Один "
+"из них обратился к вам, требуя сообщить о своих намерениях."
+
+#: src-en/data/events_sector_duskbringer.xml.append:99
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING_CONTACT\"]/mod:findWithChildLike/mod:findWithChildLike/mod:selector"
+msgstr "Атаковать!"
+
+#: src-en/data/events_sector_duskbringer.xml.append:113
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DISTRESS_DUSK_MONASTERY\"]/mod:findWithChildLike/mod:selector"
+msgstr "Помочь Вестникам Заката отбить монастырь у пиратов."
+
+#: src-en/data/events_sector_duskbringer.xml.append:126
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "Освободить Монахов."
+
+#: src-en/data/events_sector_duskbringer.xml.append:129
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:135
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "Нам нужна часть ценных вещей Монахов."
+
+#: src-en/data/events_sector_duskbringer.xml.append:138
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:147
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:selector"
+msgstr "Отправить Анурака на поиски Деворака."
+
+#: src-en/data/events_sector_duskbringer.xml.append:156
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "Мы должны что-то сделать! Атакуем судно!"
+
+#: src-en/data/events_sector_duskbringer.xml.append:166
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "Нам нужно быстро уходить отсюда!"
+
+#: src-en/data/events_sector_duskbringer.xml.append:169
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Продолжить..."

@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_hektar.xml.append:6
+msgid ""
+"data/events_sector_hektar.xml.append$//mod:findName[@name=\"BILLY\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_hektar.xml.append:19
+msgid ""
+"data/events_sector_hektar.xml.append$//mod:findName[@name=\"BILLY\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "Rifiuta."
+
+#: src-en/data/events_sector_hektar.xml.append:55
+msgid ""
+"data/events_sector_hektar.xml.append$//mod:findName[@name=\"DISTRESS_HEKTAR_GHETTO\"]/mod:findWithChildLike/mod:selector"
+msgstr "Salva i lucertoloidi."
