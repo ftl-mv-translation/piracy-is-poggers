@@ -59,7 +59,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_asteroid.xml.append:39
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/text"
-msgstr "Теперь у вас есть выбор."
+msgstr "Теперь вам предстоит сделать выбор."
 
 #: src-en/data/events_sector_asteroid.xml.append:41
 msgid ""
