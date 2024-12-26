@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 14:47+0000\n"
+"PO-Revision-Date: 2024-12-26 14:49+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_asteroidxmlappend/ru/>\n"
@@ -47,6 +47,8 @@ msgstr "(Репутация пиратов +1) Связаться и предл�
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/text"
 msgstr ""
+"Пиратам еще предстоит вскрыть груз. Решив, что они смогут выгодно "
+"заработать, а не играть на содержимом груза, они принимают ваше предложение."
 
 #: src-en/data/events_sector_asteroid.xml.append:37
 msgid ""
