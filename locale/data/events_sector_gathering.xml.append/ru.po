@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_sector_gatheringxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_gathering.xml.append:16
 msgid ""
@@ -20,24 +28,37 @@ msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Репутация наемников 2+) Связаться с наемниками и предложить им свою помощь."
 
 #: src-en/data/events_sector_gathering.xml.append:32
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"О, привет, как вовремя. Полагаю, вы подслушали наши переговоры. Корабль "
+"Теократии нанял нас, чтобы выследить Затерянное Солнце по имени Корбен, "
+"который скрывается в этом центре. К несчастью для нас, он нужен им живым для "
+"допроса, поэтому мы не можем уничтожить это место с помощью нашего оружия. У "
+"нас достаточно команды, чтобы захватить его, но нам нужно как-то избавиться "
+"от охранников, чтобы минимизировать потери. Любая помощь в этом вопросе была "
+"бы весьма ценной\"."
 
 #: src-en/data/events_sector_gathering.xml.append:34
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "(Контроль разума) Обратить охранников друг против друга."
 
 #: src-en/data/events_sector_gathering.xml.append:36
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"mind\"]/event/text"
 msgstr ""
+"Ваш контроль разума оказывается эффективным против дезорганизованных "
+"охранников. Вы находите главного охранника, похоже, единственного, кто "
+"сохранил самообладание, и управляете им, чтобы обезоружить остальных "
+"охранников. Проходит совсем немного времени, и все они оказываются в "
+"глубокой отключке."
 
 #: src-en/data/events_sector_gathering.xml.append:38
 msgid ""
@@ -49,13 +70,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/text"
-msgstr ""
+msgstr "(Абордажный дрон) Отправить абордажный дрон с командой наемников. [-2|]"
 
 #: src-en/data/events_sector_gathering.xml.append:46
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/event/text"
 msgstr ""
+"Вы отправляете абордажный дрон, чтобы отвлечь охрану. Несмотря на то что "
+"охранникам удается уничтожить первый дрон, вы отправляете второй, что дает "
+"команде наемников достаточно времени, чтобы перебить всех охранников."
 
 #: src-en/data/events_sector_gathering.xml.append:51
 msgid ""
@@ -67,13 +91,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Взломщик) Взломать систему безопасности центра. [-1|]"
 
 #: src-en/data/events_sector_gathering.xml.append:59
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"Благодаря Взломщику вы сможете провести команду наемников через центр без "
+"помех. Дезорганизованные охранники легко обезвреживаются благодаря вашему "
+"Взломщику, изолирующему их и отключающему связь."
 
 #: src-en/data/events_sector_gathering.xml.append:64
 msgid ""
@@ -86,12 +113,18 @@ msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"slug_saboteur\"]/text"
 msgstr ""
+"(Член экипажа-Диверсант) Ваш член экипажа может взломать систему "
+"безопасности центра."
 
 #: src-en/data/events_sector_gathering.xml.append:72
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"slug_saboteur\"]/event/text"
 msgstr ""
+"Ваш экипаж пробирается внутрь комплекса, где захватывает контроль над "
+"комнатой охраны у пьяного охранника. Благодаря его помощи, команде наемников "
+"удается обнаружить дезорганизованных охранников и обезвредить их без "
+"сопротивления."
 
 #: src-en/data/events_sector_gathering.xml.append:74
 msgid ""
@@ -103,13 +136,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"rock_paladin\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Паладин) Ваш член экипажа может возглавить отряд."
 
 #: src-en/data/events_sector_gathering.xml.append:82
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"rock_paladin\"]/event/text"
 msgstr ""
+"Ваш паладин - не только хороший кандидат на роль танка, но и мастерски "
+"обеспечивает успешный захват Затерянного солнца. Он прорываются через "
+"временные сооружения и сбивают с ног нескольких охранников, привлекая к себе "
+"огонь дезорганизованной охраны. Как и ожидалось, к тому моменту, когда "
+"наемники обезвреживают оставшихся охранников, ваш член экипажа почти не "
+"пострадал."
 
 #: src-en/data/events_sector_gathering.xml.append:84
 msgid ""
@@ -122,36 +161,52 @@ msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"CREW_FIREARMS\"]/text"
 msgstr ""
+"Вы предлагаете наемникам свое улучшенное огнестрельное оружие, но они "
+"отказываются. \"Этого будет недостаточно. Нам нужно либо вырубить их до "
+"того, как они приблизятся, либо изолировать, чтобы их было легче захватить, "
+"либо иметь кого-то, кто готов танковать за нас\"."
 
 #: src-en/data/events_sector_gathering.xml.append:94
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"unique_irwin\"]/text"
 msgstr ""
+"Ирвин качает головой, когда вы обращаетесь к нему за советом. Похоже, опыт "
+"работы в Синдикате заставил его настороженно относиться ко всем, кто состоит "
+"в его рядах."
 
 #: src-en/data/events_sector_gathering.xml.append:98
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"unique_turzil\"]/text"
 msgstr ""
+"Турзил отказывается помочь наемникам. \"Это нападение на [невинных] "
+"необоснованно. Я не буду -помогать- в этом. Я требую, чтобы вы [попросили] "
+"кого-нибудь другого\"."
 
 #: src-en/data/events_sector_gathering.xml.append:102
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"unique_ariadne\"]/text"
 msgstr ""
+"Вы заметили, что Ариадна заперлась в своей каюте, как только узнала, что на "
+"Корбена объявлена охота. Любая помощь, которую она могла бы оказать, не "
+"обсуждается."
 
 #: src-en/data/events_sector_gathering.xml.append:106
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[10]/text"
-msgstr ""
+msgstr "Мы не можем помочь."
 
 #: src-en/data/events_sector_gathering.xml.append:108
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[10]/event/text"
 msgstr ""
+"\"Очень жаль. Теперь, если вы не возражаете, я должен вернуться к "
+"планированию наступления со своей командой\". Вы оба киваете и отключаете "
+"связь."
 
 #: src-en/data/events_sector_gathering.xml.append:110
 msgid ""
@@ -195,6 +250,12 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_gathering.xml.append$//event[@name=\"PIP_ORCHID_REFUGEES_MERCENARY_WIN\"]/text"
 msgstr ""
+"Убрав с пути охранников, команда наемников легко находит Корбена. Он решает "
+"сдаться, а не рисковать жизнями других переселенцев, сопротивляясь. Пока его "
+"сопровождают на корабль, капитан наемников передает на ваш корабль немного "
+"лома. \"Большое спасибо за помощь! Вот часть вознаграждения. В качестве "
+"бонуса я выиграю для вас немного времени от флота, когда мы доставим "
+"пленника\"."
 
 #: src-en/data/events_sector_gathering.xml.append:142
 msgid ""
@@ -215,13 +276,24 @@ msgstr "Избегать конфликта."
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Репутация наемников 2+) Убедить Синдикат оставить его в покое."
 
 #: src-en/data/events_sector_gathering.xml.append:165
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"Вы обсуждаете ситуацию с кораблем Синдиката. Кажется, они не хотят "
+"отказываться от вознаграждения, но вам удается убедить их, что они могут "
+"обмануть своего клиента, заставив его поверить, что они выполнили работу и "
+"при этом не попали в список приоритетных целей для Преторов. Наемник "
+"поворачивается к орхидеям и предупреждает. \"Теперь вам лучше играть хорошо "
+"и притворяться мертвыми! Иначе мы скоро вернемся сюда, чтобы закончить "
+"работу!\" Как только наемники уходят в прыжок, Флорал благодарит вас и на "
+"языке жестов умоляет забрать его. \"Пожалуйста, с тех пор как я стал членом "
+"радикальной ячейки, желающей избавиться от коммунизма, меня повсюду "
+"преследуют люди, желающие моей смерти! Я не могу вернуться к прежней жизни, "
+"но, может быть, с вами я смогу обрести новую!\""
 
 #: src-en/data/events_sector_gathering.xml.append:167
 msgid ""
