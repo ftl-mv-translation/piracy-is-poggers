@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 18:34+0000\n"
-"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
+"PO-Revision-Date: 2024-12-27 19:13+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
 "Language: ru\n"
@@ -603,9 +603,9 @@ msgstr "Не обращать внимания на станцию."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[3]/event/text"
 msgstr ""
-"Даже если бы вы могли сюда войти, офицеры Федерации не славятся среди "
-"пиратских банд. Вдруг на вас враждебно настроятся пираты? Лучше вам не лезть "
-"не в своё дело, что никак не связаны с Федерацией."
+"Даже если бы вы смогли войти, офицеры Федерации не пользуются популярностью "
+"среди пиратских банд. Кто знает, не настроятся ли пираты против вас? Лучше "
+"не совать нос в дела пиратов, которые, возможно, не касаются Федерации."
 
 #: src-en/data/events_sector_pirate.xml.append:691
 msgid ""
@@ -621,57 +621,73 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_FAIL\"]/text"
 msgstr ""
+"Несмотря на то, что пираты неоднократно проявляли к вам враждебность, вы все "
+"равно решаете войти. Когда вы входите, в главном зале воцаряется тишина, а "
+"несколько пиратов смотрят в вашу сторону. Вы чувствуете, что ваше "
+"присутствие здесь совсем не приветствуется, и поспешно уходите, не "
+"дожидаясь, пока банда буйных пиратов погонится за вами!"
 
 #: src-en/data/events_sector_pirate.xml.append:714
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/text"
 msgstr ""
+"При входе становится ясно, что это что-то вроде места отдыха пиратов, "
+"которые хотят отдохнуть от своей \"работы\". Пираты из разных фракций "
+"тусуются в баре и играют в бильярд в какой-то чужеродной версии. Большинство "
+"развлечений вас не заинтересовало, но дальнейшее исследование станции "
+"приводит к тому, что вы обнаруживаете различных пиратов, обращающихся к вам "
+"за услугами. По иронии судьбы, один из пиратов, просящих об услуге, - "
+"наемник Синдиката."
 
 #: src-en/data/events_sector_pirate.xml.append:716
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Вы сомневаетесь, что работорговец будет вас обслуживать."
 
 #: src-en/data/events_sector_pirate.xml.append:720
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "Подойти к работорговцу."
 
 #: src-en/data/events_sector_pirate.xml.append:724
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_mercenary\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Вы сомневаетесь, что наемник будет вас обслуживать."
 
 #: src-en/data/events_sector_pirate.xml.append:728
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_mercenary\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "Подойти к наемнику."
 
 #: src-en/data/events_sector_pirate.xml.append:732
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_smuggler\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Вы сомневаетесь, что контрабандист будет вас обслуживать."
 
 #: src-en/data/events_sector_pirate.xml.append:736
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_smuggler\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "Подойти к контрабандисту."
 
 #: src-en/data/events_sector_pirate.xml.append:740
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[7]/text"
-msgstr ""
+msgstr "Здесь нам нечего делать, пройти уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:747
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[1]/text"
 msgstr ""
+"Пока пираты находятся на станции, вы с легкостью расстреливаете пустующие "
+"корабли. Однако прежде чем вы успеваете собрать большую часть обломков, ваши "
+"сенсоры сообщают о приближении более крупного флота пиратов. Вы спешите уйти "
+"со своим грузом, пока флот не начал преследование."
 
 #: src-en/data/events_sector_pirate.xml.append:750
 msgid ""
@@ -682,6 +698,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[2]/text"
 msgstr ""
+"Вы налетаете и уничтожаете большинство кораблей пиратов, прежде чем они "
+"успевают понять, что на них напали. Не имея других средств самообороны, они "
+"неохотно сдаются. Вы обещаете оставить их в покое после того, как разберете "
+"несколько уничтоженных вами кораблей."
 
 #: src-en/data/events_sector_pirate.xml.append:758
 msgid ""
@@ -692,6 +712,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[3]/text"
 msgstr ""
+"Несмотря на отсутствие должной защиты, эта станция является местом встречи "
+"пиратов, которые не боятся дать отпор. Пиратский корабль, который собирался "
+"состыковаться, заметил, что вы включили оружие, и бросился на вас, чтобы "
+"остановить. В результате сражения вы выходите из зоны досягаемости станции, "
+"но ваша агрессия не осталась бы незамеченной."
 
 #: src-en/data/events_sector_pirate.xml.append:766
 msgid ""
@@ -702,6 +727,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[4]/text"
 msgstr ""
+"Несмотря на отсутствие должной защиты, эта станция является местом встречи "
+"пиратов, которые не боятся дать отпор. Группа пиратов, отдыхавших на своих "
+"кораблях, заметила вас и бросилась в погоню. В результате боя вы "
+"оказываетесь вне пределов досягаемости станции, но все равно становитесь "
+"мишенью для нескольких пиратских кораблей, которые продолжают оказывать "
+"огневую поддержку, пока вы сражаетесь с их главарем."
 
 #: src-en/data/events_sector_pirate.xml.append:775
 msgid ""
@@ -712,26 +743,37 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/text"
 msgstr ""
+"Работорговец кажется удивленным, что к нему обратился ренегат Федерации, но "
+"быстро переходит к делу. \"Эти ублюдки из Коалиции бесчисленное количество "
+"раз портили жизнь моей команде. Когда я услышал, что поблизости есть "
+"несколько кораблей Коалиции, я понял, что это отличная возможность "
+"отомстить. Я бы и сам отправился за ними, но у меня все еще слишком мало "
+"обученного экипажа, чтобы рисковать столкновением, поэтому я ищу людей, "
+"готовых отправиться по их скальпы.Уничтожьте любого из них любым способом, и "
+"я отдам вам одного из своих рабов бесплатно\"."
 
 #: src-en/data/events_sector_pirate.xml.append:786
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправиться за стандартным кораблем Коалиции."
 
 #: src-en/data/events_sector_pirate.xml.append:788
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Хорошо-хорошо. Просто свяжитесь со мной, как только разберетесь с ними\"."
 
 #: src-en/data/events_sector_pirate.xml.append:793
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Отправиться за элитным кораблем Коалиции."
 
 #: src-en/data/events_sector_pirate.xml.append:795
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Дерзкие сегодня, да? Я позабочусь о том, чтобы вас ждал лучший раб, если "
+"вы справитесь с этими плохими мальчиками\"."
 
 #: src-en/data/events_sector_pirate.xml.append:800
 msgid ""
@@ -742,31 +784,46 @@ msgstr "Отклонить предложение."
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[3]/event/text"
 msgstr ""
+"\"Ладно, тогда хватит тратить мое время. Позвольте мне найти кого-то, кто "
+"действительно мне поможет\"."
 
 #: src-en/data/events_sector_pirate.xml.append:810
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/text"
 msgstr ""
+"Наемник делает долгий глоток пива и затягивается сигаретой, прежде чем "
+"обратиться к вам. \"Если вам интересно, почему я не оказываю услуги вон тем "
+"работорговцам и контрабандистам, то это потому, что на этой неделе мне не "
+"хочется ввязываться в драку. Я бы предпочел устроить хаос, не рискуя "
+"сражаться с другим разъяренным кораблем, понимаете? Я хочу, чтобы вы помогли "
+"мне уничтожить несколько целей, которые наняли другие мои клиенты. Зная, что "
+"вы федерал, вам наверняка понравится охотиться за повстанцами, и, к счастью, "
+"у меня есть два таких корабля на примете\"."
 
 #: src-en/data/events_sector_pirate.xml.append:812
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправиться за стандартным кораблем повстанцев."
 
 #: src-en/data/events_sector_pirate.xml.append:814
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Хорошо, вот координаты корабля повстанцев. Свяжитесь со мной, как только "
+"уничтожите его, и я займусь флотом...\""
 
 #: src-en/data/events_sector_pirate.xml.append:819
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Отправиться за элитным кораблем повстанцев."
 
 #: src-en/data/events_sector_pirate.xml.append:821
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Хорошо, вот координаты корабля повстанцев. Я знаю, что это сложная задача, "
+"так что свяжитесь со мной, как только вы их уничтожите, и я устрою флоту "
+"огромную головную боль...\""
 
 #: src-en/data/events_sector_pirate.xml.append:826
 msgid ""
@@ -777,31 +834,54 @@ msgstr "Отклонить предложение."
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[3]/event/text"
 msgstr ""
+"\"Я не против. Если передумаете, я буду здесь\". К несчастью для него, у вас "
+"нет времени ждать здесь, поскольку флот повстанцев уже в пути."
 
 #: src-en/data/events_sector_pirate.xml.append:836
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/text"
 msgstr ""
+"Контрабандист поднимает глаза от своего планшета, когда вы приближаетесь, и "
+"щурится сквозь толстые очки, чтобы взглянуть на вас. Вы не знаете, что он "
+"думает о вас, но все равно делаете ему предложение. \"Я только что получил "
+"большую партию товаров, которые нужно переправить на ближайшие станции "
+"Аргеонна. Проблема в том, что мои ребята разозлили местную полицию, взорвав "
+"одну из их станций, поэтому меня объявили в розыск. Самостоятельно "
+"заниматься доставкой слишком рискованно, поэтому я вынужден обратиться за "
+"помощью к таким людям, как вы. Выполните доставку, и люди на станции хорошо "
+"заплатят вам, хотя я должен предупредить вас, что они могут быть "
+"заблокированы враждебно настроенными силовиками\"."
 
 #: src-en/data/events_sector_pirate.xml.append:838
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[1]/text"
 msgstr ""
+"Доставить товары на небольшой аванпост за достойное вознаграждение и низкий "
+"риск."
 
 #: src-en/data/events_sector_pirate.xml.append:840
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[1]/event/text"
 msgstr ""
+"Контрабандист дает сигнал своей команде передать вам несколько ящиков. \"Не "
+"нужно связываться со мной за вознаграждением, на аванпосте и так знают, что "
+"посылка пришла от меня. Удачи с доставкой и постарайтесь не взорваться\"."
 
 #: src-en/data/events_sector_pirate.xml.append:845
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[2]/text"
 msgstr ""
+"Доставить товары на крупный аванпост, чтобы получить большую награду, но при "
+"этом подвергнуться большему риску."
 
 #: src-en/data/events_sector_pirate.xml.append:847
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[2]/event/text"
 msgstr ""
+"Контрабандист дает сигнал своей команде отправиться с вами и загрузить ваш "
+"корабль ящиками в стыковочном отсеке. \"Не нужно связываться со мной за "
+"вознаграждением, на аванпосте будут знать, что посылка пришла от меня. Удачи "
+"с доставкой и постарайтесь не взорваться\"."
 
 #: src-en/data/events_sector_pirate.xml.append:852
 msgid ""
@@ -812,11 +892,17 @@ msgstr "Отклонить предложение."
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[3]/event/text"
 msgstr ""
+"Контрабандист фыркает и возвращается к своему планшету. Подождав минуту в "
+"неловком молчании, вы решаете, что пора уходить."
 
 #: src-en/data/events_sector_pirate.xml.append:862
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER_COALITION\"]/text"
 msgstr ""
+"Прибыв к маяку, вы обнаружите, что корабль Коалиции отдыхает неподалеку, но "
+"когда они замечают вас, то сразу же идут в атаку. Вам придется сражаться в "
+"любом случае, но если вы справитесь с ними, то сможете получить награду от "
+"работорговца."
 
 #: src-en/data/events_sector_pirate.xml.append:865
 msgid ""
@@ -827,26 +913,32 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/text"
 msgstr ""
+"Вы победили корабль Коалиции. Перед тем как связаться с работорговцем, вы "
+"собираете все, что можно."
 
 #: src-en/data/events_sector_pirate.xml.append:874
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/text"
-msgstr ""
+msgstr "Связаться с работорговцем."
 
 #: src-en/data/events_sector_pirate.xml.append:876
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/text"
 msgstr ""
+"\"Ха! Вы показали им, кто здесь хозяин. Спасибо за помощь. Как и обещал, мой "
+"друг сейчас доставит к вам пару рабов. Выбирайте одного из них\"."
 
 #: src-en/data/events_sector_pirate.xml.append:878
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Выбрать первого раба."
 
 #: src-en/data/events_sector_pirate.xml.append:880
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Друг работорговца передает вам раба. Вы пожимаете друг другу руки и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:883
 msgid ""
@@ -856,12 +948,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:889
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Выбрать второго раба."
 
 #: src-en/data/events_sector_pirate.xml.append:891
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Друг работорговца передает вам раба. Вы пожимаете друг другу руки и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:894
 msgid ""
@@ -871,12 +965,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:900
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Выбрать третьего раба."
 
 #: src-en/data/events_sector_pirate.xml.append:902
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Друг работорговца передает вам раба. Вы пожимаете друг другу руки и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:905
 msgid ""
@@ -887,6 +983,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/text"
 msgstr ""
+"Прибыв к маяку, вы обнаружите, что корабль ЭЭРЕ отдыхает неподалеку, но "
+"когда они замечают вас, то немедленно нападают. Вам придется сражаться в "
+"любом случае, но если вы справитесь с ними, то сможете получить награду от "
+"работорговца."
 
 #: src-en/data/events_sector_pirate.xml.append:918
 msgid ""
@@ -897,26 +997,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/text"
 msgstr ""
+"Вы победили корабль ЭЭРЕ. Прежде чем связаться с работорговцем, вы собираете "
+"все, что можно."
 
 #: src-en/data/events_sector_pirate.xml.append:927
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/text"
-msgstr ""
+msgstr "Связаться с работорговцем."
 
 #: src-en/data/events_sector_pirate.xml.append:929
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/text"
 msgstr ""
+"\"Заявляю, капитан, вы официально самый впечатляющий наемник, которого я "
+"когда-либо нанимал. Мой друг сейчас направляется к вам с несколькими моими "
+"лучшими рабами и дополнительным ломом в знак моего уважения. Пожалуйста, "
+"возьмите одного из них\"."
 
 #: src-en/data/events_sector_pirate.xml.append:932
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Выбрать первого раба."
 
 #: src-en/data/events_sector_pirate.xml.append:934
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Друг работорговца передает вам раба. Вы пожимаете друг другу руки и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:937
 msgid ""
@@ -926,12 +1034,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:943
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Выбрать второго раба."
 
 #: src-en/data/events_sector_pirate.xml.append:945
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Друг работорговца передает вам раба. Вы пожимаете друг другу руки и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:948
 msgid ""
@@ -941,12 +1051,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:954
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Выбрать третьего раба."
 
 #: src-en/data/events_sector_pirate.xml.append:956
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Друг работорговца передает вам раба. Вы пожимаете друг другу руки и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:959
 msgid ""
@@ -956,12 +1068,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:965
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "Выбрать четвертого раба."
 
 #: src-en/data/events_sector_pirate.xml.append:967
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[4]/event/text"
 msgstr ""
+"Друг работорговца передает вам раба. Вы пожимаете друг другу руки и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:970
 msgid ""
@@ -972,6 +1086,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY_REBEL\"]/text"
 msgstr ""
+"Вы быстро находите корабль повстанцев по указанным координатам, и оба не "
+"теряете времени на подготовку к бою. Наемник будет доволен, если вам удастся "
+"их уничтожить."
 
 #: src-en/data/events_sector_pirate.xml.append:988
 msgid ""
@@ -982,16 +1099,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL\"]/text"
 msgstr ""
+"Вы победили корабль повстанцев. Прежде чем связаться с наемником, вы "
+"соберите все, что можно."
 
 #: src-en/data/events_sector_pirate.xml.append:997
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL\"]/choice/text"
-msgstr ""
+msgstr "Связаться с наемником."
 
 #: src-en/data/events_sector_pirate.xml.append:999
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL\"]/choice/event/text"
 msgstr ""
+"\"Хорошая работа. Теперь о моей части сделки и о самом интересном: Я буду "
+"досаждать флоту Повстанцев своей «тактикой\". Всего хорошего, капитан»."
 
 #: src-en/data/events_sector_pirate.xml.append:1002
 msgid ""
@@ -1002,6 +1123,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/text"
 msgstr ""
+"Вы быстро находите элиту повстанцев по указанным координатам, и оба не "
+"теряете времени на подготовку к бою. Наемник будет доволен, если вы "
+"расправитесь с ними."
 
 #: src-en/data/events_sector_pirate.xml.append:1013
 msgid ""
@@ -1012,16 +1136,22 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/text"
 msgstr ""
+"Вы победили элиту повстанцев. Прежде чем связаться с наемником, вы соберите "
+"все, что можно."
 
 #: src-en/data/events_sector_pirate.xml.append:1022
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/choice/text"
-msgstr ""
+msgstr "Связаться с наемником."
 
 #: src-en/data/events_sector_pirate.xml.append:1024
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/choice/event/text"
 msgstr ""
+"\"Отличная работа! Я боялся, что никто не сможет успешно расправиться с "
+"элитой повстанцев до назначенного срока. Поскольку вы были так добры, "
+"помогая мне, я также посылаю вам карту сектора в дополнение к оговоренной "
+"задержке флота. Всего доброго, капитан\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1028
 msgid ""
@@ -1032,6 +1162,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ZOLTAN\"]/text"
 msgstr ""
+"Вы прибыли на станцию Аргеонн, где, к своему удивлению, обнаружили корабль "
+"Министерства, штурмующий станцию. Однако, как только они заметили вас, они "
+"решили, что вы прибыли, чтобы помочь контрабандистам, и напали! Возможно, "
+"они правы в своих предположениях, но у вас нет другого выбора, кроме как "
+"сражаться."
 
 #: src-en/data/events_sector_pirate.xml.append:1058
 msgid ""
@@ -1042,6 +1177,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_FEDERATION\"]/text"
 msgstr ""
+"Вы прибыли на станцию Аргеонн, которую в данный момент атакует корабль "
+"Федерации. Однако, как только они заметили вас, они решили, что вы прибыли, "
+"чтобы помочь контрабандистам, и напали! Хотя они, возможно, и правы в своих "
+"предположениях, вы, не желая активировать оружие, задаетесь вопросом, "
+"понимают ли они, что вы Ренегат Федерации."
 
 #: src-en/data/events_sector_pirate.xml.append:1067
 msgid ""
@@ -1052,6 +1192,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ORCHID\"]/text"
 msgstr ""
+"Вы прибыли на станцию Аргеонн, которую, к вашему удивлению, атакует корабль "
+"орхидей. Однако как только они заметили вас, то решили, что вы прибыли, "
+"чтобы помочь контрабандистам, и напали! Хотя они, возможно, и правы в своих "
+"предположениях, вы задаетесь вопросом, почему орхидеи начали атаковать "
+"пиратские станции. Возможно, они еще больше ужесточили свою борьбу с "
+"пиратством?"
 
 #: src-en/data/events_sector_pirate.xml.append:1076
 msgid ""
@@ -1062,6 +1208,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ZOLTAN_ELITE\"]/text"
 msgstr ""
+"Вы прибыли на станцию Аргеонн, где с удивлением обнаружили корабль "
+"Миротворцев Министерства штурмующий станцию. Однако, как только они замечают "
+"вас, они думают, что вы прибыли, чтобы помочь контрабандистам, и нападают! "
+"Хотя они, возможно, и правы в своих предположениях, у вас нет другого "
+"выбора, кроме как сражаться."
 
 #: src-en/data/events_sector_pirate.xml.append:1086
 msgid ""
@@ -1072,6 +1223,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_FEDERATION_ELITE\"]/text"
 msgstr ""
+"Вы прибыли на станцию Аргеонн, которую в данный момент атакует элитный "
+"корабль Федерации. Однако, как только они заметили вас, они решили, что вы "
+"прибыли, чтобы помочь контрабандистам, и напали! Хотя они, возможно, и правы "
+"в своих предположениях, вы, нехотя активируете оружие, задаетесь вопросом, "
+"понимают ли они, что вы - Ренегат Федерации."
 
 #: src-en/data/events_sector_pirate.xml.append:1095
 msgid ""
@@ -1082,6 +1238,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ORCHID_ELITE\"]/text"
 msgstr ""
+"Вы прибыли на станцию Аргеонн, которую, к вашему удивлению, атакует корабль "
+"Вождей орхидей. Однако как только они заметили вас, то решили, что вы "
+"прибыли, чтобы помочь контрабандистам, и напали! Хотя они, возможно, и правы "
+"в своих предположениях, вы задаетесь вопросом, почему орхидеи начали "
+"атаковать пиратские станции. Может быть, они еще больше ужесточили свою "
+"борьбу с пиратством?"
 
 #: src-en/data/events_sector_pirate.xml.append:1104
 msgid ""
@@ -1092,26 +1254,37 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY\"]/text"
 msgstr ""
+"Когда корабль разваливается на части, вы чувствуете себя немного виноватым "
+"за то, что вам пришлось сражаться с собственными союзниками. Однако это не "
+"помешает вам разобрать корабль на лом и завершить доставку."
 
 #: src-en/data/events_sector_pirate.xml.append:1113
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY\"]/choice/text"
-msgstr ""
+msgstr "Доставить товар на станцию."
 
 #: src-en/data/events_sector_pirate.xml.append:1119
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_SMUGGLER_DELIVERY\"]/text"
 msgstr ""
+"Когда корабль затихает, вы чувствуете себя немного виноватым за то, что вам "
+"пришлось сражаться с собственными союзниками. Однако это не помешает вам "
+"разобрать корабль на лом и завершить доставку."
 
 #: src-en/data/events_sector_pirate.xml.append:1122
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_SMUGGLER_DELIVERY\"]/choice/text"
-msgstr ""
+msgstr "Доставить товар на станцию."
 
 #: src-en/data/events_sector_pirate.xml.append:1128
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/text"
 msgstr ""
+"После завершения передачи контрабандист, который, как вы предполагаете, "
+"является \"владельцем\" станции, приветствует вас. \"Спасибо за доставку и "
+"помощь. Не думаю, что нам удалось бы выбраться из этого места целыми и "
+"невредимыми без вашего вмешательства. В качестве вознаграждения мы дадим вам "
+"бесплатный товар. Что бы вы хотели?\""
 
 #: src-en/data/events_sector_pirate.xml.append:1130
 msgid ""
@@ -1122,6 +1295,8 @@ msgstr "Запросить орудие."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[1]/event/text"
 msgstr ""
+"\"Конечно. Дайте моим ребятам 5 минут на поиски оружия, и мы быстро погрузим "
+"его на ваш корабль\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1135
 msgid ""
@@ -1131,12 +1306,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1141
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "Запросить дрон."
 
 #: src-en/data/events_sector_pirate.xml.append:1143
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[2]/event/text"
 msgstr ""
+"\"Конечно. Дайте моим ребятам 5 минут, чтобы найти схему дрона, и мы "
+"отправим ее вам в кратчайшие сроки\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1146
 msgid ""
@@ -1146,12 +1323,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1152
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[3]/text"
-msgstr ""
+msgstr "Запросить модуль."
 
 #: src-en/data/events_sector_pirate.xml.append:1154
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[3]/event/text"
 msgstr ""
+"\"Конечно. Дайте моим ребятам 5 минут, чтобы найти модуль, и мы быстро "
+"отправим его на ваш корабль\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1157
 msgid ""
@@ -1162,26 +1341,38 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY_HARD\"]/text"
 msgstr ""
+"Когда корабль разваливается на части, вы чувствуете себя немного виноватым "
+"за то, что вам пришлось сражаться с собственными союзниками. Однако это не "
+"помешает вам разобрать корабль на лом и завершить доставку."
 
 #: src-en/data/events_sector_pirate.xml.append:1168
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY_HARD\"]/choice/text"
-msgstr ""
+msgstr "Доставить товар на станцию."
 
 #: src-en/data/events_sector_pirate.xml.append:1174
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_SMUGGLER_DELIVERY_HARD\"]/text"
 msgstr ""
+"Когда корабль затихает, вы чувствуете себя немного виноватым за то, что вам "
+"пришлось сражаться с собственными союзниками. Однако это не помешает вам "
+"разобрать корабль на лом и завершить доставку."
 
 #: src-en/data/events_sector_pirate.xml.append:1177
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_SMUGGLER_DELIVERY_HARD\"]/choice/text"
-msgstr ""
+msgstr "Доставить товар на станцию."
 
 #: src-en/data/events_sector_pirate.xml.append:1183
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/text"
 msgstr ""
+"После завершения передачи контрабандист, который, как вы предполагаете, "
+"является \"владельцем\" станции, приветствует вас. \"Большое спасибо за "
+"доставку и помощь. Я был почти уверен, что нас арестуют, когда появился "
+"элитный корабль и начал нас атаковать. В качестве вознаграждения я "
+"договорился о ремонте вашего корпуса, и мы дадим вам отличный бесплатный "
+"товар. Что бы вы хотели?\""
 
 #: src-en/data/events_sector_pirate.xml.append:1186
 msgid ""
@@ -1192,6 +1383,8 @@ msgstr "Запросить орудие."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/choice[1]/event/text"
 msgstr ""
+"\"Конечно. Дайте моим ребятам 5 минут на поиски оружия, и мы быстро погрузим "
+"его на ваш корабль\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1191
 msgid ""
@@ -1201,12 +1394,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1197
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "Запросить другое оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:1199
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/choice[2]/event/text"
 msgstr ""
+"\"Конечно. Дайте моим ребятам 5 минут на поиски оружия, и мы быстро погрузим "
+"его на ваш корабль\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1202
 msgid ""
@@ -1216,12 +1411,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1208
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/choice[3]/text"
-msgstr ""
+msgstr "Запросить дрон."
 
 #: src-en/data/events_sector_pirate.xml.append:1210
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/choice[3]/event/text"
 msgstr ""
+"\"Конечно. Дайте моим ребятам 5 минут, чтобы найти схему дрона, и мы "
+"отправим ее вам в кратчайшие сроки\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1213
 msgid ""
@@ -1231,12 +1428,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1219
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/choice[4]/text"
-msgstr ""
+msgstr "Запросить модуль."
 
 #: src-en/data/events_sector_pirate.xml.append:1221
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_HARD_REWARD\"]/choice[4]/event/text"
 msgstr ""
+"\"Конечно. Дайте моим ребятам 5 минут, чтобы найти модуль, и мы быстро "
+"отправим его на ваш корабль\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1224
 msgid ""
@@ -1247,6 +1446,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS\"]/text"
 msgstr ""
+"На соседней планете была создана станция Тииикаки. Она кажется намного "
+"больше и лучше защищена, чем другие аванпосты, которые вы видели."
 
 #: src-en/data/events_sector_pirate.xml.append:1242
 msgid ""
@@ -1262,6 +1463,9 @@ msgstr "Не обращать внимания."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS\"]/choice[2]/event/text"
 msgstr ""
+"Возможно, там есть что-то стоящее для Тииикаки, чтобы создать должным "
+"образом защищенную станцию, но раскрывать себя перед хорошо защищенной "
+"пиратской станцией не стоит."
 
 #: src-en/data/events_sector_pirate.xml.append:1250
 msgid ""
@@ -1277,6 +1481,11 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BANNED\"]/text"
 msgstr ""
+"Несмотря на то, что вас поймали за мошенничество на другой станции Тииикаки, "
+"вы все равно решаете приблизиться. Пираты не сразу понимают, кто вы, и "
+"гонятся за вами, чтобы получить свой потерянный лом. Пока пиратский корабль "
+"вступает с вами в бой, группа пиратов телепортируется на борт, и теперь на "
+"вас направлена противокорабельная батарея. Убирайтесь оттуда!"
 
 #: src-en/data/events_sector_pirate.xml.append:1273
 msgid ""
@@ -1287,26 +1496,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/text"
 msgstr ""
+"Вы уже собираетесь состыковаться, когда получаете сигнал от станции. \"Вход "
+"на эту станцию разрешен только проверенным пиратам. У вас есть "
+"доказательства того, что вы достаточно надежны, чтобы вас пропустили?\""
 
 #: src-en/data/events_sector_pirate.xml.append:1281
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/choice/text"
-msgstr ""
+msgstr "Мы федералы, но мы еще не начали стрелять."
 
 #: src-en/data/events_sector_pirate.xml.append:1283
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/choice/event/text"
 msgstr ""
+"\"Если вы еще не напали, это не значит, что не нападете. Так что либо вы "
+"найдете более вескую причину, чтобы мы вас впустили, либо можете "
+"проваливать\"."
 
 #: src-en/data/events_sector_pirate.xml.append:1285
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Заверить пиратов в том, что вы дружелюбны."
 
 #: src-en/data/events_sector_pirate.xml.append:1287
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Не знаю, с чего вы взяли, что слепая уверенность поможет, но вы только зря "
+"тратите наше время\". Пиратский корабль вылетает, чтобы прогнать вас."
 
 #: src-en/data/events_sector_pirate.xml.append:1290
 msgid ""
@@ -1317,11 +1534,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/choice/event/choice[@req=\"rep_comb_slaver\"]/text"
 msgstr ""
+"(Репутация работорговцев 3+) Попросить работорговцев подтвердить вашу "
+"личность."
 
 #: src-en/data/events_sector_pirate.xml.append:1300
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/choice/event/choice[@req=\"rep_pirate\"]/text"
-msgstr ""
+msgstr "(Репутация пиратов 3+) Попросить пиратов подтвердить вашу личность."
 
 #: src-en/data/events_sector_pirate.xml.append:1304
 msgid ""
@@ -1331,7 +1550,7 @@ msgstr "Мы уходим."
 #: src-en/data/events_sector_pirate.xml.append:1306
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_APPROACH_OK\"]/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "\"Хорошо. Но без фокусом мне\". Пират отключает связь."
 
 #: src-en/data/events_sector_pirate.xml.append:1308
 msgid ""
@@ -1347,60 +1566,99 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/text"
 msgstr ""
+"Проходит всего несколько минут, и пираты разрешают вашему кораблю "
+"состыковаться. Похоже, ваша репутация у пиратов оправдала себя."
 
 #: src-en/data/events_sector_pirate.xml.append:1324
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/text"
-msgstr ""
+msgstr "Войти на станцию."
 
 #: src-en/data/events_sector_pirate.xml.append:1326
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/text"
 msgstr ""
+"Вы с удивлением видите, что станция, которая раньше была торговым "
+"комплексом, была переоборудована в большую арену в центре комплекса! Из "
+"разговора с дружелюбным пиратом выясняется, что Тииикака устраивает эти "
+"гладиаторские поединки, а гладиаторами выступают их рабы. Большая толпа "
+"пиратов собралась посмотреть на игры. Работорговцы выставляют бойцов в "
+"клетках на втором этаже. На втором этаже комплекса вы также замечаете "
+"кабинку - игорную зону, где можно делать ставки, если вы хотите угадать "
+"победителя."
 
 #: src-en/data/events_sector_pirate.xml.append:1328
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Побыть здесь и посмотреть несколько игр."
 
 #: src-en/data/events_sector_pirate.xml.append:1330
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Бои оказываются более зрелищными, чем вы могли бы предположить. Похоже, что "
+"рабы, сражаясь друг с другом уже столько раз, способны устроить неплохое "
+"шоу, даже если очевидно, что они сражаются не за свою жизнь. Может, "
+"работорговцы и мерзавцы, но они не позволят рабам убивать друг друга и "
+"лишатся своих главных активов. Пока ваша команда бежит покупать чужеродный "
+"попкорн, вы успеваете стать свидетелем грандиозного возвращения, когда "
+"жалкий золтанец разоружает Сюзерена! Вы даже подружитесь с пиратом, сидящим "
+"рядом с вами, когда вы оба чуть не лишились чувств от этого поворота "
+"событий. Несмотря на то что флот, скорее всего, приблизится, опыт был "
+"потрясающим, и пират даже предлагает присоединиться к вашей команде! Он "
+"также приносит с собой часть своего выигрыша от удачных ставок на бои."
 
 #: src-en/data/events_sector_pirate.xml.append:1337
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Побыть здесь и посмотреть несколько игр."
 
 #: src-en/data/events_sector_pirate.xml.append:1339
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Бои оказываются более зрелищными, чем вы могли бы предположить. Похоже, что "
+"рабы, сражаясь друг с другом уже столько раз, способны устроить неплохое "
+"шоу, даже если очевидно, что они сражаются не за свою жизнь. Может быть, "
+"работорговцы и мерзавцы, но они не допустят, чтобы рабы убивали друг друга и "
+"лишились своих главных активов. Вам удается стать свидетелем грандиозного "
+"поединка, когда жалкий золтанец Обезоруживает сюзерена! Вы даже подружились "
+"с пиратом, сидящим рядом с вами, когда оба чуть не лишились чувств от этого "
+"поворота событий. Несмотря на то что флот, скорее всего, приблизится, опыт "
+"был потрясающим, и пират даже предлагает присоединиться к вашей команде! Он "
+"также приносит с собой часть своего выигрыша от удачных ставок на бои."
 
 #: src-en/data/events_sector_pirate.xml.append:1346
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Посмотреть на доступных рабов."
 
 #: src-en/data/events_sector_pirate.xml.append:1348
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Вы поднимаетесь на второй этаж, где содержатся рабы. К вашему удивлению, "
+"оказывается, что вы можете купить некоторых из рабов. Очевидно, эти "
+"гладиаторские поединки были предназначены для рекламы товаров работорговцев, "
+"а не только для развлечения пиратов."
 
 #: src-en/data/events_sector_pirate.xml.append:1350
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Купить раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1352
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[1]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1358
 msgid ""
@@ -1410,12 +1668,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1364
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Купить раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1366
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[2]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1372
 msgid ""
@@ -1425,12 +1687,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1378
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[3]/text"
-msgstr ""
+msgstr "Купить хорошего раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1380
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[3]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1386
 msgid ""
@@ -1440,12 +1706,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1392
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[4]/text"
-msgstr ""
+msgstr "Купить выдающегося раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1394
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[4]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1400
 msgid ""
@@ -1455,12 +1725,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1406
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/text"
-msgstr ""
+msgstr "(Репутация работорговцев 4+) Поинтересоваться их текущим чемпионом."
 
 #: src-en/data/events_sector_pirate.xml.append:1408
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/text"
 msgstr ""
+"Работорговцы проводят вас в уединенную комнату, где находится действующий "
+"чемпион-гладиатор. Когда вы смотрите на чемпиона, становится ясно, почему "
+"это явный лидер: это богомол-Епископ, одна из самых страшных суперэлит во "
+"всей галактике благодаря своей смертоносности в бою. Странно, но этот "
+"Епископ не кажется таким враждебным, как другие богомолы, которых вы видели "
+"в Улье, и даже радостно машет рукой в вашу сторону при вашем появлении."
 
 #: src-en/data/events_sector_pirate.xml.append:1410
 msgid ""
@@ -1471,41 +1747,59 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/text"
 msgstr ""
+"Прежде чем вы успеете поинтересоваться ценой, работорговцы честно "
+"предупреждают вас. \"Если кто-то хочет нанять нашего действующего чемпиона, "
+"он должен провести гладиаторский турнир среди наших рабов, чтобы мы могли "
+"назначить нового чемпиона на его место. Турнир займет некоторое время, и вам "
+"также придется заплатить... 125 лома за нашего нынешнего чемпиона. Вы все "
+"еще хотите заполучить его?\""
 
 #: src-en/data/events_sector_pirate.xml.append:1414
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Согласиться на условия."
 
 #: src-en/data/events_sector_pirate.xml.append:1416
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[1]/event[1]/text"
 msgstr ""
+"Работорговцы с нетерпением готовятся к турниру, как только вы передаете им "
+"лом. Это занимает некоторое время, но большая часть турнира проходит без "
+"проблем, и новым чемпионом становится Полководец Свободных Богомолов. Вы "
+"готовитесь к отлету вместе со своим новым членом экипажа."
 
 #: src-en/data/events_sector_pirate.xml.append:1424
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[1]/event[1]/choice/text"
-msgstr ""
+msgstr "Спросить Епископа о его прошлом."
 
 #: src-en/data/events_sector_pirate.xml.append:1429
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[1]/event[2]/text"
 msgstr ""
+"Работорговцы с нетерпением готовятся к турниру, как только вы передадите им "
+"лом. Это занимает некоторое время, но большая часть турнира проходит без "
+"проблем, и новым чемпионом становится богомол-Сюзерен. Вы готовитесь к "
+"отлету вместе со своим новым членом экипажа."
 
 #: src-en/data/events_sector_pirate.xml.append:1437
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[1]/event[2]/choice/text"
-msgstr ""
+msgstr "Спросить Епископа о его прошлом."
 
 #: src-en/data/events_sector_pirate.xml.append:1443
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Просто купить раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1445
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1451
 msgid ""
@@ -1515,12 +1809,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1457
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Просто купить раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1459
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1465
 msgid ""
@@ -1530,12 +1828,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1471
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "Просто купить хорошего раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1473
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[4]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1479
 msgid ""
@@ -1545,12 +1847,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1485
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[5]/text"
-msgstr ""
+msgstr "Просто купить выдающегося раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1487
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_AVAILABLE\"]/event/choice/event/choice[5]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1493
 msgid ""
@@ -1565,22 +1871,31 @@ msgstr "Неважно, просто уходим."
 #: src-en/data/events_sector_pirate.xml.append:1507
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/text"
-msgstr ""
+msgstr "(Репутация работорговцев 4+) Поинтересоваться их текущим чемпионом."
 
 #: src-en/data/events_sector_pirate.xml.append:1509
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/text"
 msgstr ""
+"\"Извини, приятель, но мы уже продали кое-кому нашего предыдущего чемпиона! "
+"Мы пока не готовы отпустить нашего нового чемпиона. Знаете, вы очень похожи "
+"на капитана, который его купил...\" Вы уверяете их, что то, на кого вы "
+"похожи, не имеет значения. Похоже, здесь нет особых рабов, кроме стандартных "
+"предложений."
 
 #: src-en/data/events_sector_pirate.xml.append:1511
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Купить раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1513
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[1]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1519
 msgid ""
@@ -1590,12 +1905,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1525
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Купить раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1527
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[2]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1533
 msgid ""
@@ -1605,12 +1924,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1539
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Купить хорошего раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1541
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[3]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1547
 msgid ""
@@ -1620,12 +1943,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1553
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Купить выдающегося раба-бойца."
 
 #: src-en/data/events_sector_pirate.xml.append:1555
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[3]/event/choice[@req=\"PIP_CHAMPION_NOTAVAILABLE\"]/event/choice[4]/event/text"
 msgstr ""
+"Работорговцы благодарят вас за торговлю и предлагают бесплатный попкорн, "
+"чтобы вы могли с комфортом посмотреть на проходящие игры. Вы смотрите "
+"несколько раундов вместе со своим новым членом экипажа, а затем решаете "
+"отправиться в путь."
 
 #: src-en/data/events_sector_pirate.xml.append:1561
 msgid ""
@@ -1645,252 +1972,341 @@ msgstr "Ничего не покупать."
 #: src-en/data/events_sector_pirate.xml.append:1579
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/text"
-msgstr ""
+msgstr "Поучаствовать в ставках."
 
 #: src-en/data/events_sector_pirate.xml.append:1581
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/text"
 msgstr ""
+"Вы поднимаетесь на второй этаж, где шумный пират пытается справиться с "
+"азартными игроками, пытающимися сделать новые ставки или получить свой "
+"выигрыш. Хотя он выглядит довольно неорганизованным, вы замечаете несколько "
+"необычно хорошо вооруженных пиратов, наблюдающих за толпой. Это, как вы "
+"догадываетесь, блюстители порядка, призванные предотвратить мошенничество "
+"или воровство. Вы узнаете, на кого можно сделать ставку."
 
 #: src-en/data/events_sector_pirate.xml.append:1583
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/text"
 msgstr ""
+"Поставить на богомола-Сюзерена, чтобы получить потенциально приличный куш, "
+"ведь он с большой вероятностью выиграет."
 
 #: src-en/data/events_sector_pirate.xml.append:1585
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/event/text"
 msgstr ""
+"После того как пират получил ваш лом, он разрешает вам посмотреть на раба, "
+"на которого вы поставили. Сюзерен, занятый энергичной разминкой перед "
+"следующим боем, едва замечает вас, когда вы приближаетесь к нему. А может, "
+"он просто не обращает на вас внимания из-за интенсивной разминки?"
 
 #: src-en/data/events_sector_pirate.xml.append:1590
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1594
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/event/choice[@req=\"mantis_bishop\"]/text"
 msgstr ""
+"(Член экипажа-Епископ) Ваш Епископ может научить его нескольким приемам."
 
 #: src-en/data/events_sector_pirate.xml.append:1596
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/event/choice[@req=\"mantis_bishop\"]/event/text"
 msgstr ""
+"Ваш Епископ, один из немногих бойцов, который сильнее Сюзерена (и к которому "
+"он готов прислушаться), есть несколько приемов в рукаве, которые он может "
+"продемонстрировать Сюзерену. С этими приемами вы почти уверены, что Сюзерен "
+"сможет победить."
 
 #: src-en/data/events_sector_pirate.xml.append:1598
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/event/choice[@req=\"mantis_bishop\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1604
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/text"
 msgstr ""
+"Поскольку у Сюзерена есть свои феромоны, вы сомневаетесь, что ваши феромоны "
+"принесут какую-то пользу, кроме того, что вас поймают за мошенничество."
 
 #: src-en/data/events_sector_pirate.xml.append:1608
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[1]/event/choice[@req=\"QUARP_JUICE\"]/text"
 msgstr ""
+"Поскольку у Сюзерена есть свои феромоны, вы сомневаетесь, что ваш Кварповый "
+"сок даст какие-то дополнительные преимущества, кроме того, что вас поймают "
+"за мошенничество."
 
 #: src-en/data/events_sector_pirate.xml.append:1614
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/text"
 msgstr ""
+"Поставить на человека-Солдата, чтобы получить потенциально крупный выигрыш, "
+"ведь вероятность его победы довольно высока."
 
 #: src-en/data/events_sector_pirate.xml.append:1616
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/text"
 msgstr ""
+"После того как пират получил ваш лом, он разрешает вам посмотреть на раба, "
+"на которого вы поставили. Солдат, выполняющий несколько дыхательных "
+"упражнений, смотрит в вашу сторону и коротко кивает, прежде чем продолжить "
+"занятия."
 
 #: src-en/data/events_sector_pirate.xml.append:1621
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1625
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"PIP_LIST_CREW_HUMAN_SELITE\"]/text"
 msgstr ""
+"(Член экипажа-суперэлита) Ваш член экипажа может научить его нескольким "
+"приемам."
 
 #: src-en/data/events_sector_pirate.xml.append:1627
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"PIP_LIST_CREW_HUMAN_SELITE\"]/event/text"
 msgstr ""
+"Ваш член экипажа, обладающий более высоким уровнем подготовки, чем Солдат, "
+"может показать ему несколько приемов, которые повысят его шансы на победу. "
+"Хотя это и не очень большое преимущество, по крайней мере, оно не запрещено "
+"правилами турнира."
 
 #: src-en/data/events_sector_pirate.xml.append:1629
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"PIP_LIST_CREW_HUMAN_SELITE\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1639
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/text"
-msgstr ""
+msgstr "(Феромоны богомолов) Дать ему немного феромонов."
 
 #: src-en/data/events_sector_pirate.xml.append:1641
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/text"
 msgstr ""
+"Хотя поначалу Солдат не хотел принимать феромоны, вам удалось убедить его "
+"принять их. Это должно придать ему сил, но остается надеяться, что пираты "
+"ничего не заметят..."
 
 #: src-en/data/events_sector_pirate.xml.append:1643
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1649
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"QUARP_JUICE\"]/text"
-msgstr ""
+msgstr "(Кварповый сок) Дать ему немного Кварпового сока."
 
 #: src-en/data/events_sector_pirate.xml.append:1651
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"QUARP_JUICE\"]/event/text"
 msgstr ""
+"Хотя поначалу Солдат не хотел принимать сок, вам удалось убедить его выпить "
+"его. Это должно придать ему сил, но остается надеяться, что пираты ничего не "
+"заметят..."
 
 #: src-en/data/events_sector_pirate.xml.append:1653
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[2]/event/choice[@req=\"QUARP_JUICE\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1661
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/text"
 msgstr ""
+"Поставить на валуна-Изгоя, чтобы получить потенциально большой куш, хотя он "
+"вряд ли выиграет."
 
 #: src-en/data/events_sector_pirate.xml.append:1663
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/text"
 msgstr ""
+"После того как пират получил ваш лом, он разрешает вам посмотреть на раба, "
+"на которого вы поставили. Изгой занятый отработкой своих боксерских навыков "
+"на боксерской груше, едва взглянул на вас, прежде чем вернуться к ударам по "
+"мешку."
 
 #: src-en/data/events_sector_pirate.xml.append:1668
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1672
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"LIST_CREW_CRUSADER\"]/text"
 msgstr ""
+"(Член экипажа-Инквизиция) Ваш элитный валун может научить его нескольким "
+"приемам."
 
 #: src-en/data/events_sector_pirate.xml.append:1674
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"LIST_CREW_CRUSADER\"]/event/text"
 msgstr ""
+"Сокрушив множество врагов благодаря своей подготовке и грубой силе, ваш член "
+"экипажа может научить его нескольким приемам, которые повысят его шансы на "
+"победу. Пусть это и не очень большое преимущество, но, по крайней мере, не "
+"запрещенное правилами турнира."
 
 #: src-en/data/events_sector_pirate.xml.append:1676
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"LIST_CREW_CRUSADER\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1682
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/text"
-msgstr ""
+msgstr "(Феромоны богомолов) Дать ему немного феромонов."
 
 #: src-en/data/events_sector_pirate.xml.append:1684
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/text"
 msgstr ""
+"Хотя поначалу вам он не хотел, но вам удалось убедить Изгоя употребить "
+"феромоны. Это должно придать ему сил, но остается надеяться, что пираты "
+"ничего не заметят..."
 
 #: src-en/data/events_sector_pirate.xml.append:1686
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1692
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"QUARP_JUICE\"]/text"
-msgstr ""
+msgstr "(Кварповый сок) Дать ему немного Кварпового сока."
 
 #: src-en/data/events_sector_pirate.xml.append:1694
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"QUARP_JUICE\"]/event/text"
 msgstr ""
+"Хотя поначалу он отказывался, но вам удалось убедить Изгоя выпить сок. Это "
+"должно придать ему сил, но остается надеяться, что пираты ничего не "
+"заметят..."
 
 #: src-en/data/events_sector_pirate.xml.append:1696
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[3]/event/choice[@req=\"QUARP_JUICE\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1704
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/text"
 msgstr ""
+"Поставить на Сепаратиста энджи, чтобы получить потенциально крупный выигрыш, "
+"хотя вероятность его победы невелика."
 
 #: src-en/data/events_sector_pirate.xml.append:1706
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/text"
 msgstr ""
+"После того как пират получил ваш лом, он разрешает вам посмотреть на раба, "
+"на которого вы поставили. Сепаратист, который был занят калибровкой своих "
+"нанитов, удивлен вашим присутствием, вероятно, потому, что никто никогда не "
+"ставил на то, что он выиграет бой. Сепаратист неловко смотрит на вас, пока "
+"вы не решаете показать ему большой палец вверх и понадеяться на лучшее."
 
 #: src-en/data/events_sector_pirate.xml.append:1711
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1715
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"PIP_ENGI_COMBAT\"]/text"
 msgstr ""
+"(Член экипажа-энджи + боевые системы) Ваш энджи может показать ему, как "
+"настроить его наниты для боя."
 
 #: src-en/data/events_sector_pirate.xml.append:1717
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"PIP_ENGI_COMBAT\"]/event/text"
 msgstr ""
+"Хотя это, конечно, не боевой совет в обычном смысле слова, ваш "
+"усовершенствованный энджи может научить Сепаратиста некоторым способам "
+"повышения эффективности его нанитов в бою. Даже если Сепаратист не очень "
+"хорошо приспособлен к бою, это должно немного помочь ему, и технически это "
+"не запрещено."
 
 #: src-en/data/events_sector_pirate.xml.append:1719
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"PIP_ENGI_COMBAT\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1725
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/text"
-msgstr ""
+msgstr "(Феромоны богомолов) Дать ему немного феромонов."
 
 #: src-en/data/events_sector_pirate.xml.append:1727
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/text"
 msgstr ""
+"Хотя поначалу он отказывался, но вам удалось убедить Сепаратиста принять "
+"феромоны. Это должно придать ему сил, хотя вы можете только надеяться, что "
+"пираты ничего не заметят..."
 
 #: src-en/data/events_sector_pirate.xml.append:1729
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1735
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"QUARP_JUICE\"]/text"
-msgstr ""
+msgstr "(Кварповый сок) Дать ему немного Кварпового сока."
 
 #: src-en/data/events_sector_pirate.xml.append:1737
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"QUARP_JUICE\"]/event/text"
 msgstr ""
+"Хотя поначалу он отказывался, вам удалось убедить Сепаратиста выпить сок. "
+"Это должно придать ему сил, но остается надеяться, что пираты ничего не "
+"заметят..."
 
 #: src-en/data/events_sector_pirate.xml.append:1739
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"QUARP_JUICE\"]/event/choice/text"
-msgstr ""
+msgstr "Смотреть бой с надеждой, что вы победите."
 
 #: src-en/data/events_sector_pirate.xml.append:1747
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[5]/text"
-msgstr ""
+msgstr "Не ставить ни на кого."
 
 #: src-en/data/events_sector_pirate.xml.append:1753
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiator_cheat\"]/text"
 msgstr ""
+"Вы решаете, что попытка играть в азартные игры, когда вы уже находитесь в их "
+"списке подозреваемых в мошенничестве, - не самая лучшая идея."
 
 #: src-en/data/events_sector_pirate.xml.append:1757
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[6]/text"
-msgstr ""
+msgstr "Здесь нет ничего интересного для нас, просто уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:1765
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BISHOP_TALK\"]/text"
 msgstr ""
+"Когда вы спрашиваете Епископа о том, как он стал рабом Тииикаки, он с "
+"удовольствием отвечает. \"Паркиопаиики - это имя. Думаю, вы знаете, что я "
+"Епископ! У меня была важная работа - заботиться о важной колонии, но я "
+"бездействовал и не справлялся. Спасаясь от Улья, я позволил работорговцу "
+"забрать меня, чтобы получить свободу при помощи тайного транспорта. Мои "
+"навыки лучше всего проявились в боевых играх! Но и дружелюбные рабы-богомолы "
+"учили меня быть дружелюбным, как они. Теперь я здесь, и на этом моя история "
+"закончилась. Жизнь епископа Улья прошла, жизнь раба прошла, теперь я пытаюсь "
+"жить Ренегатом Федерации!\""
 
 #: src-en/data/events_sector_pirate.xml.append:1767
 msgid ""
@@ -1901,51 +2317,83 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_1_WIN\"]/text"
 msgstr ""
+"Как и ожидалось, Сюзерен, на которого вы поставили, быстро расправляется с "
+"остальными бойцами и с легкостью побеждает в турнире. Вы забираете свой "
+"выигрыш!"
 
 #: src-en/data/events_sector_pirate.xml.append:1789
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_1_LOSE\"]/text"
 msgstr ""
+"Казалось бы, все идет хорошо, но в последнем бою против свободного богомола, "
+"ему удается поставить Сюзерену подножку и обезвредить его одним быстрым "
+"движением. Толпа ликует от триумфа аутсайдера, ухудшает ваши шансы на "
+"выполнение миссии."
 
 #: src-en/data/events_sector_pirate.xml.append:1809
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN\"]/text"
 msgstr ""
+"Солдат быстро расправляется с обычными бойцами, чтобы в финале сразиться с "
+"Полководцем свободных богомолов. Благодаря просчитанному риску и осторожному "
+"ведению боя Солдат выходит победителем из схватки с Полководцем свободных "
+"богомолов без единой царапины. Вы получаете свой выигрыш!"
 
 #: src-en/data/events_sector_pirate.xml.append:1815
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_LOSE\"]/text"
 msgstr ""
+"Если с обычными бойцами Солдат справился быстро, то финальная схватка с "
+"слизнем-Рейнджером оказывается довольно сложной. Будучи опытным охотником за "
+"добычей, Рейнджер предугадывает почти все тактические приемы Солдата, и "
+"вскоре у него заканчиваются силы, и он уступает. Это все равно было хорошее "
+"выступление, но оно не заменит вам только что потерянного лома."
 
 #: src-en/data/events_sector_pirate.xml.append:1818
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT\"]/text"
 msgstr ""
+"Под действием стимуляторов Солдат легко справляется со всеми соперниками, "
+"даже с богомолом-Сюзереном, на которого вы могли бы сделать ставку. Вы "
+"отправляетесь за своим выигрышем."
 
 #: src-en/data/events_sector_pirate.xml.append:1823
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT\"]/choice/text"
-msgstr ""
+msgstr "Попытаться уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:1837
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT_ESCAPE\"]/text"
 msgstr ""
+"Каким-то образом вам удается ускользнуть незамеченным. Известно ли пиратам о "
+"нелегальных стимуляторах или они просто не могут найти того, кто их "
+"применил, останется для вас загадкой, но вы не хотите оставаться здесь, "
+"чтобы выяснить это."
 
 #: src-en/data/events_sector_pirate.xml.append:1840
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT_CAUGHT\"]/text"
 msgstr ""
+"Когда вы собираетесь уходить, на пути у вас встает блюститель порядка. "
+"Похоже, вы не остались незамеченными, как вам казалось, потому что теперь "
+"блюститель требует, чтобы вы вернули ему большую часть выигрыша, который вы "
+"получили незаконным путем."
 
 #: src-en/data/events_sector_pirate.xml.append:1842
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT_CAUGHT\"]/choice[1]/text"
-msgstr ""
+msgstr "Отказаться и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:1844
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT_CAUGHT\"]/choice[1]/event/text"
 msgstr ""
+"Вы притворяетесь, что собираетесь вернуть выигрыш, но затем быстро достаете "
+"свой бластер и стреляете в блюстителя порядка. Раненый блюститель кричит "
+"своим товарищам, чтобы они бежали за вами, а затем теряет сознание. Отряд "
+"пиратов телепортируется на борт станции, и корабль работорговцев вступает в "
+"бой."
 
 #: src-en/data/events_sector_pirate.xml.append:1849
 msgid ""
@@ -1955,82 +2403,127 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1855
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT_CAUGHT\"]/choice[2]/text"
-msgstr ""
+msgstr "Вернуть ему большую часть своего выигрыша."
 
 #: src-en/data/events_sector_pirate.xml.append:1857
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_2_WIN_CHEAT_CAUGHT\"]/choice[2]/event/text"
 msgstr ""
+"После того как вы вернули лом, силовик разрешает вам уйти, но предупреждает, "
+"чтобы вы больше никогда не связывались с ними."
 
 #: src-en/data/events_sector_pirate.xml.append:1892
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN\"]/text"
 msgstr ""
+"Сначала вы беспокоитесь из-за плохой ловкости валунов, но, похоже, грубой "
+"силы Изгоя оказалось достаточно, чтобы проложить себе путь через всю группу "
+"соперников. В конце все становится совсем непросто, когда скользкая пиявка-"
+"Ампер почти переигрывает Изгоя своей скоростью, но один точно нанесенный "
+"удар отправляет пиявку в полет и в нокаут. Вы забираете свой выигрыш!"
 
 #: src-en/data/events_sector_pirate.xml.append:1898
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_LOSE\"]/text"
 msgstr ""
+"К сожалению, слабость расы валунов снова дает о себе знать: Изгоя быстро и "
+"уверенно обезоруживает довольно ловкий золтан. В любом случае, шансов было "
+"немного, но потеря лома все равно неприятна."
 
 #: src-en/data/events_sector_pirate.xml.append:1901
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT\"]/text"
 msgstr ""
+"Стимуляторы оказываются чрезвычайно эффективными для Изгоя. Сведя на нет "
+"свою медленную скорость и получив еще больше силы, Изгой демонстрирует "
+"доминирующее выступление, почти уничтожая Рейнджера слизней без какого-либо "
+"сопротивления. Вы отправляетесь за своим выигрышем."
 
 #: src-en/data/events_sector_pirate.xml.append:1906
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT\"]/choice/text"
-msgstr ""
+msgstr "Попытаться уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:1911
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_LOSE_CHEAT\"]/text"
 msgstr ""
+"К сожалению, стимуляторов оказалось недостаточно, чтобы Изгой смог одолеть "
+"Полководца-свободного богомола. Хотя он прошел дальше, чем многие ожидали, "
+"до победы в турнире ему все равно не хватило, и вы остаетесь без выигрыша. "
+"Вы спешите уйти, пока пираты не узнали о ваших нелегальных стимуляторах."
 
 #: src-en/data/events_sector_pirate.xml.append:1913
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_LOSE_CHEAT\"]/choice/text"
-msgstr ""
+msgstr "Попытаться уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:1921
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_LOSE_CHEAT_LEAVE\"]/loadEventList/event[1]/text"
 msgstr ""
+"Вам успешно удается ускользнуть незамеченным. Вы включаете питание корабля и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:1924
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_LOSE_CHEAT_LEAVE\"]/loadEventList/event[2]/text"
 msgstr ""
+"Вам успешно удается ускользнуть незамеченным. Вы включаете питание корабля и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:1927
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_LOSE_CHEAT_LEAVE\"]/loadEventList/event[3]/text"
 msgstr ""
+"Вам успешно удается ускользнуть незамеченным. Вы включаете питание корабля и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:1930
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_LOSE_CHEAT_LEAVE\"]/loadEventList/event[4]/text"
 msgstr ""
+"Как только вы подумали, что сможете сбежать, не будучи пойманным, вы "
+"слышите, как один из силовиков кричит, чтобы вы явились к нему с повинной за "
+"подозрительное поведение Изгоя. Вы решаете сорваться с места и бежите к "
+"своему кораблю. К счастью, большинство из них, похоже, занимаются более "
+"серьезными делами, чем делами связанными с мошенничеством, но несколько из "
+"них преследуют вас до самого корабля."
 
 #: src-en/data/events_sector_pirate.xml.append:1947
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT_ESCAPE\"]/text"
 msgstr ""
+"Каким-то образом, по чистому везению, вам удается ускользнуть незамеченным. "
+"Знают ли пираты о нелегальных стимуляторах или просто не могут найти того, "
+"кто их применил, останется для вас загадкой, но вы не хотите оставаться "
+"здесь, чтобы выяснить это. Вы просто рады, что пираты, управляющие шоу, - "
+"кучка идиотов."
 
 #: src-en/data/events_sector_pirate.xml.append:1950
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT_CAUGHT\"]/text"
 msgstr ""
+"Когда вы собираетесь уходить, на пути у вас встает блюститель порядка. "
+"Похоже, вы не остались незамеченными, как вам казалось, потому что теперь "
+"блюститель требует, чтобы вы вернули ему большую часть выигрыша, который вы "
+"получили незаконным путем."
 
 #: src-en/data/events_sector_pirate.xml.append:1952
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT_CAUGHT\"]/choice[1]/text"
-msgstr ""
+msgstr "Отказаться и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:1954
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT_CAUGHT\"]/choice[1]/event/text"
 msgstr ""
+"Вы притворяетесь, что собираетесь вернуть выигрыш, но затем быстро достаете "
+"свой бластер и стреляете в блюстителя порядка. Раненый блюститель кричит "
+"своим товарищам, чтобы они бежали за вами, а затем теряет сознание. В то "
+"время как отряд рабов-бойцов телепортируется на борт станции, корабль "
+"работорговцев вылетает за вами, сенсоры также показывают, что ПКБ "
+"нацеливается на ваш корабль!"
 
 #: src-en/data/events_sector_pirate.xml.append:1960
 msgid ""
@@ -2040,22 +2533,35 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:1966
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT_CAUGHT\"]/choice[2]/text"
-msgstr ""
+msgstr "Вернуть ему большую часть своего выигрыша."
 
 #: src-en/data/events_sector_pirate.xml.append:1968
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_3_WIN_CHEAT_CAUGHT\"]/choice[2]/event/text"
 msgstr ""
+"После того как вы вернули лом, силовик разрешает вам уйти, но предупреждает, "
+"чтобы вы больше никогда не связывались с ними."
 
 #: src-en/data/events_sector_pirate.xml.append:2010
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN\"]/text"
 msgstr ""
+"Вы не знаете, на что рассчитывали, делая ставку на Сепаратиста, но все "
+"оказалось гораздо лучше, чем вы ожидали. Сепаратисту по большей части "
+"удается легко одержать верх, а когда он доходит до последнего Солдата, на "
+"которого вы могли бы поставить, Сепаратисту удается обхитрить уставшего "
+"Солдата несколькими удачными приемами и одержать победу. Среди огромной "
+"шумихи, охватившей всю станцию, вы получаете свой выигрыш!"
 
 #: src-en/data/events_sector_pirate.xml.append:2016
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_LOSE\"]/text"
 msgstr ""
+"Как и ожидалось, Сепаратист быстро выбывает из игры, побежденный всего лишь "
+"Фантомом в первом раунде. Его участие в турнире завершилось настолько "
+"быстро, что вернувшись на свой корабль, вы понимаете, что у вас еще есть "
+"время что-то сделать, прежде чем вам придется уходить. Вы делаете себе "
+"мысленную заметку, что в будущем лучше делать менее рискованные ставки."
 
 #: src-en/data/events_sector_pirate.xml.append:2018
 msgid ""
@@ -2071,83 +2577,132 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_LOSE_CHEAT\"]/text"
 msgstr ""
+"К сожалению, стимуляторов оказалось недостаточно, чтобы Сепаратист смог "
+"одолеть валуна. Хотя он прошел дальше, чем многие ожидали, до победы в "
+"турнире не хватило совсем немного, и вы остались без выигрыша. Вы спешите "
+"уйти, пока пираты не узнали о ваших нелегальных стимуляторах."
 
 #: src-en/data/events_sector_pirate.xml.append:2030
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_LOSE_CHEAT\"]/choice/text"
-msgstr ""
+msgstr "Попытаться уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:2032
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_LOSE_CHEAT\"]/choice/event[1]/text"
 msgstr ""
+"Вам успешно удается ускользнуть незамеченным. Вы включаете питание корабля и "
+"готовитесь к прыжку."
 
 #: src-en/data/events_sector_pirate.xml.append:2035
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_LOSE_CHEAT\"]/choice/event[2]/text"
 msgstr ""
+"Как только вы подумали, что сможете сбежать, не будучи пойманным, вы "
+"слышите, как один из силовиков кричит, чтобы вы явились к нему с повинной за "
+"подозрительное поведение Сепаратиста. Вы решаете сорваться с места и бежите "
+"к своему кораблю. К счастью, большинство из них, похоже, занимаются более "
+"серьезными делами, чем делами связанными с мошенничеством, но несколько из "
+"них преследуют вас до самого корабля."
 
 #: src-en/data/events_sector_pirate.xml.append:2043
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/text"
 msgstr ""
+"Стимуляторы помогают Сепаратисту выровнять ситуацию в большинстве боев. "
+"Благодаря удаче и расчетливым атакам Сепаратист выходит победителем в "
+"большинстве боев и лишь с трудом справляется с Культистом-валуном. Вы "
+"отправляетесь за своим выигрышем."
 
 #: src-en/data/events_sector_pirate.xml.append:2048
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Попытаться уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:2050
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы готовитесь уходить вместе со своим экипажем, один из силовиков "
+"подходит к вам и преграждает путь. \"Послушай, приятель. Мы понимаем, что ты "
+"просто пытаешься выжать как можно больше денег из любой возможности. "
+"Проблема в том, что этот турнир не должен был стать одной из таких "
+"возможностей. Мои люди подозревают, что ты давал незаконные стимуляторы "
+"рабу, на которого ставил, а это не очень хорошо, когда раб, от которого "
+"никто не ожидает победы, получает свой первый выигрыш в день, когда какой-то "
+"капитан Федерации решает поставить на него. Я понимаю, что ты достаточно "
+"известен в этих краях, и было бы обидно, если бы все закончилось именно так. "
+"Поэтому я разрешаю тебе уйти с очень небольшой частью выигрыша, если ты "
+"отдашь нам оставшуюся часть\". Прежде чем вы успеваете обдумать свой ответ, "
+"вы замечаете, как остальные силовики медленно тянутся к оружию, а ваш экипаж "
+"тоже начинает доставать бластеры. Кажется, все взгляды устремлены на вас и "
+"ваш экипаж. Если вы откажетесь от предложения силовика, это может плохо "
+"закончиться."
 
 #: src-en/data/events_sector_pirate.xml.append:2052
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Отказаться и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2054
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/text"
 msgstr ""
+"Вы делаете вид, что обдумываете этот компромисс, но затем быстро достаете "
+"свой бластер и стреляете в стоящего у вас на пути силовика. Как только он "
+"уходит с дороги, чтобы избежать выстрела, вы и ваш экипаж бросаетесь в "
+"бегство, но не успокоившийся силовик жестом приказывает своим людям "
+"преследовать вас!"
 
 #: src-en/data/events_sector_pirate.xml.append:2057
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Бежать назад к кораблю!"
 
 #: src-en/data/events_sector_pirate.xml.append:2059
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Чудом всем членам вашего экипажа удается избежать пуль при отступлении к "
+"кораблю, но по пятам за вами следуют силовики. Вам придется отбиваться от "
+"них на своем корабле."
 
 #: src-en/data/events_sector_pirate.xml.append:2062
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2064
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/text"
 msgstr ""
+"Когда ваш корабль собирается покинуть стыковочную зону, регистрируется "
+"сигнал телепорта: Похоже, пираты подняли на борт несколько своих рабов-"
+"бойцов, чтобы помочь захватить контроль над вашим кораблем! В то же время "
+"сенсоры показывают, что ваш корабль попал под прицел ПКБ, и пара абордажных "
+"дронов была запущена для помощи в бою."
 
 #: src-en/data/events_sector_pirate.xml.append:2068
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/text"
-msgstr ""
+msgstr "Приготовиться отбиваться от толпы абордажников."
 
 #: src-en/data/events_sector_pirate.xml.append:2070
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/event/text"
 msgstr ""
+"Когда абордажные дроны врезаются в ваш корабль, во многих системах "
+"регистрируется падение мощности: Пираты запустили вирус, чтобы ослабить ваши "
+"системы! Хуже того, пираты послали хорошо вооруженный корабль работорговцев, "
+"чтобы сразиться с вами в воздухе. Эти пираты хотят вернуть свой лом, и, "
+"возможно, на этот раз вы откусили больше, чем могли прожевать."
 
 #: src-en/data/events_sector_pirate.xml.append:2085
 msgid ""
@@ -2158,13 +2713,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Взломщик) Использовать свой Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2091
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вашему Взломщику удается обратить вспять большую часть нанесенного ущерба, "
+"хотя на это потребовалось все, на что был способен ваш Взломщик. Возможно, "
+"вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2099
 msgid ""
@@ -2176,13 +2734,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(Улучш. Взломщик) Использовать Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2107
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Вашему Взломщику удается обратить вспять большую часть нанесенного ущерба, "
+"хотя на это потребовалось все, на что был способен ваш Взломщик. Возможно, "
+"вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2119
 msgid ""
@@ -2193,12 +2754,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2125
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(Антивирусный модуль) Использовать свой Антивирус для борьбы с вирусом."
 
 #: src-en/data/events_sector_pirate.xml.append:2127
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[1]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
+"Вашему Антивирусному модулю удается обратить вспять большую часть "
+"нанесенного ущерба. Возможно, вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2138
 msgid ""
@@ -2208,12 +2771,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2146
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/text"
-msgstr ""
+msgstr "(Защитный дрон) Настроить свой дрон, чтобы сбивать абордажные дроны."
 
 #: src-en/data/events_sector_pirate.xml.append:2148
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/text"
 msgstr ""
+"Ваш дрон обнаруживает оба абордажных дрона и сбивает их. Однако это не "
+"помешает пиратам запустить вирус, который ослабил множество ваших систем! "
+"Хуже того, пираты послали хорошо вооруженный корабль работорговцев, чтобы "
+"сразиться с вами в воздухе. Эти пираты не прочь получить назад свою добычу, "
+"и, возможно, на этот раз вы откусили больше, чем могли прожевать."
 
 #: src-en/data/events_sector_pirate.xml.append:2160
 msgid ""
@@ -2224,13 +2792,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Взломщик) Использовать свой Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2166
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вашему Взломщику удается обратить вспять большую часть нанесенного ущерба, "
+"хотя на это потребовалось все, на что был способен ваш Взломщик. Возможно, "
+"вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2174
 msgid ""
@@ -2242,13 +2813,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(Улучш. Взломщик) Использовать Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2182
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Вашему Взломщику удается обратить вспять большую часть нанесенного ущерба, "
+"хотя на это потребовалось все, на что был способен ваш Взломщик. Возможно, "
+"вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2194
 msgid ""
@@ -2259,12 +2833,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2200
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(Антивирусный модуль) Использовать свой Антивирус для борьбы с вирусом."
 
 #: src-en/data/events_sector_pirate.xml.append:2202
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
+"Вашему Антивирусному модулю удается обратить вспять большую часть "
+"нанесенного ущерба. Возможно, вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2213
 msgid ""
@@ -2274,12 +2850,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2221
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/text"
-msgstr ""
+msgstr "(Энергетический щит) Ваш энергетический щит уничтожит абордажные дроны."
 
 #: src-en/data/events_sector_pirate.xml.append:2223
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/text"
 msgstr ""
+"Абордажные дроны взрываются при контакте с вашим энергетическим щитом. "
+"Однако это не помешало пиратам запустить вирус, который ослабил множество "
+"ваших систем! Хуже того, пираты выслали хорошо вооруженный корабль "
+"работорговцев, чтобы сражаться с вами в воздухе. Эти пираты не прочь "
+"получить назад свою добычу, и, возможно, на этот раз вы откусили больше, чем "
+"могли прожевать."
 
 #: src-en/data/events_sector_pirate.xml.append:2235
 msgid ""
@@ -2290,13 +2872,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Взломщик) Использовать свой Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2241
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вашему Взломщику удается обратить вспять большую часть нанесенного ущерба, "
+"хотя на это потребовалось все, на что был способен ваш Взломщик. Возможно, "
+"вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2249
 msgid ""
@@ -2308,13 +2893,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(Улучш. Взломщик) Использовать Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2257
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Вашему Взломщику удается обратить вспять большую часть нанесенного ущерба, "
+"хотя на это потребовалось все, на что был способен ваш Взломщик. Возможно, "
+"вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2269
 msgid ""
@@ -2325,12 +2913,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2275
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(Антивирусный модуль) Использовать свой Антивирус для борьбы с вирусом."
 
 #: src-en/data/events_sector_pirate.xml.append:2277
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
+"Вашему Антивирусному модулю удается обратить вспять большую часть "
+"нанесенного ущерба. Возможно, вам все же удастся это сделать."
 
 #: src-en/data/events_sector_pirate.xml.append:2288
 msgid ""
@@ -2341,7 +2931,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "(Телепортатор) Быстро телепортировать всех обратно."
 
 #: src-en/data/events_sector_pirate.xml.append:2302
 msgid ""
@@ -2349,51 +2939,69 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[@req=\"teleporter\"]/event/text"
 msgstr ""
+"Телепортатор возвращает ваш экипаж в безопасное место, и у вас появляется "
+"достаточно времени, чтобы отстыковаться от станции до того, как вас "
+"настигнут силовики. Однако еще ничего не закончено: по всей станции "
+"раздаются сигналы тревоги, оповещающие всех силовиков о вашем побеге. Это не "
+"к добру..."
 
 #: src-en/data/events_sector_pirate.xml.append:2304
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[@req=\"teleporter\"]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2310
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[@req=\"mind\"]/text"
 msgstr ""
+"(Контроль разума) Контролировать разум силовиков, чтобы они сражались друг с "
+"другом."
 
 #: src-en/data/events_sector_pirate.xml.append:2312
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[@req=\"mind\"]/event/text"
 msgstr ""
+"Ваш Контроль разума оказался весьма эффективным, так как теперь "
+"подконтрольный вам силовик взрывает других преследующих вас силовиков, "
+"заставляя их расправиться с ним. Пока вы выигрываете время, чтобы добраться "
+"до корабля, вы слышите вдалеке крики о том, что нужно отправить рабов. Это "
+"не к добру..."
 
 #: src-en/data/events_sector_pirate.xml.append:2314
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[@req=\"mind\"]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2320
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[@req=\"doors\"]/text"
 msgstr ""
+"(Улучш. Укрепленные Двери) Заблокировать корабль, как только окажетесь "
+"внутри."
 
 #: src-en/data/events_sector_pirate.xml.append:2322
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[@req=\"doors\"]/event/text"
 msgstr ""
+"Двери захлопываются перед носом у силовиков, а ваш экипаж бежит к своим "
+"боевым постам. Вы включаете питание корабля, чтобы успеть взлететь до того, "
+"как пираты успеют прорваться. Однако вдалеке раздаются крики о том, что "
+"нужно отправить рабов. Это не к добру..."
 
 #: src-en/data/events_sector_pirate.xml.append:2324
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[@req=\"doors\"]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2332
 msgid ""
@@ -2406,63 +3014,100 @@ msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
+"Силовик похлопывает вас по спине и улыбается. \"Мудрый выбор, друг. Рад, что "
+"сегодня обошлось без кровопролития. Хотя я бы посоветовал тебе не устраивать "
+"в этих краях никаких авантюр. Большинство моих друзей не такие дружелюбные, "
+"как я, и тебе не стоит с ними связываться\"."
 
 #: src-en/data/events_sector_pirate.xml.append:2344
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Попытаться уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:2346
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Когда вы готовитесь уходить, один из силовиков подходит к вам и преграждает "
+"путь. \"Послушай, приятель. Мы понимаем, что ты просто пытаешься выжать как "
+"можно больше денег из любой возможности. Проблема в том, что этот турнир не "
+"должен был стать одной из таких возможностей. Мои люди подозревают, что ты "
+"давал незаконные стимуляторы рабу, на которого ставил, а это не очень "
+"хорошо, когда раб, от которого никто не ожидает победы, получает свой первый "
+"выигрыш в день, когда какой-то капитан Федерации решает поставить на него. Я "
+"понимаю, что ты достаточно известен в этих краях, и было бы обидно, если бы "
+"все закончилось именно так. Поэтому я разрешаю тебе уйти с очень небольшой "
+"частью выигрыша, если ты отдашь нам оставшуюся часть\". Прежде чем вы "
+"успеваете обдумать свой ответ, вы замечаете, как остальные силовики медленно "
+"достают свои бластеры, а вибрация в вашем кармане сигнализирует о том, что "
+"ИИ на вашем корабле готов прикрыть вас, если вы захотите бежать. Кажется, "
+"все взгляды устремлены на вас и только на вас. Это может закончиться очень "
+"плохо, если вы откажетесь от предложения силовика."
 
 #: src-en/data/events_sector_pirate.xml.append:2348
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/text"
-msgstr ""
+msgstr "Отказаться и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2350
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/text"
 msgstr ""
+"Вы делаете вид, что обдумываете компромисс, но затем быстро достаете свой "
+"бластер и стреляете в стоящего на вашем пути силовика. Как только он уходит "
+"с дороги, чтобы избежать выстрела, вы бросаетесь бежать, но не успокоившийся "
+"силовик жестом приказывает своим людям преследовать вас!"
 
 #: src-en/data/events_sector_pirate.xml.append:2353
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Бежать назад к кораблю!"
 
 #: src-en/data/events_sector_pirate.xml.append:2355
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Пока вы мчитесь назад, корабельный ИИ активировал оружие, чтобы открыть "
+"ответный огонь по пиратам, и вы смогли благополучно добраться до корабля. "
+"Однако некоторым пиратам удается избежать огня, и они идут по вашим следам. "
+"Вам придется отбиваться от них на своем корабле."
 
 #: src-en/data/events_sector_pirate.xml.append:2358
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2360
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/text"
 msgstr ""
+"Когда ваш корабль собирается покинуть стыковочную зону, регистрируется "
+"сигнал телепорта: Похоже, пираты подняли на борт несколько своих рабов-"
+"бойцов, чтобы помочь захватить контроль над вашим кораблем! В то же время "
+"сенсоры показывают, что ваш корабль попал под прицел ПКБ, и пара абордажных "
+"дронов была запущена для помощи в бою."
 
 #: src-en/data/events_sector_pirate.xml.append:2364
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Приготовиться отбиваться от толпы абордажников."
 
 #: src-en/data/events_sector_pirate.xml.append:2366
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[1]/event/text"
 msgstr ""
+"Когда абордажные дроны врезаются в ваш корабль, ваши сенсоры и двигатели "
+"регистрируют падение мощности: Пираты запустили вирус, чтобы ослабить ваши "
+"системы! Хуже того, пираты послали хорошо вооруженный корабль работорговцев, "
+"чтобы сразиться с вами в воздухе. Эти пираты хотят вернуть свой лом, и, "
+"возможно, на этот раз вы откусили больше, чем могли прожевать."
 
 #: src-en/data/events_sector_pirate.xml.append:2374
 msgid ""
@@ -2472,12 +3117,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2378
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[1]/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Взломщик) Использовать свой Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2380
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[1]/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"Вам удалось вывести из строя вирус пиратов, хотя в процессе вы получили "
+"небольшой урон. Возможно, вы еще сможете справиться с этой задачей."
 
 #: src-en/data/events_sector_pirate.xml.append:2385
 msgid ""
@@ -2487,12 +3134,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2391
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[1]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(Антивирусный модуль) Использовать свой Антивирус для борьбы с вирусом."
 
 #: src-en/data/events_sector_pirate.xml.append:2393
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[1]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
+"Вашему Антивирусному модулю удается обезвредить вирус пиратов. Возможно, вы "
+"еще сможете справиться с этой задачей."
 
 #: src-en/data/events_sector_pirate.xml.append:2397
 msgid ""
@@ -2502,12 +3151,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2405
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/text"
-msgstr ""
+msgstr "(Защитный дрон) Настроить свой дрон, чтобы сбивать абордажные дроны."
 
 #: src-en/data/events_sector_pirate.xml.append:2407
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/text"
 msgstr ""
+"Ваш дрон обнаруживает оба абордажных дрона и сбивает их. Однако это не "
+"мешает пиратам внедрить вирус, который ослабил ваши сенсоры и двигатели! "
+"Хуже того, пираты выслали хорошо вооруженный корабль работорговцев, чтобы "
+"сражаться с вами в воздухе. Эти пираты хотят вернуть свой лом, и, возможно, "
+"на этот раз вы откусили больше, чем могли прожевать."
 
 #: src-en/data/events_sector_pirate.xml.append:2412
 msgid ""
@@ -2517,12 +3171,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2416
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Взломщик) Использовать свой Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2418
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"Вам удалось вывести из строя вирус пиратов, хотя в процессе вы получили "
+"небольшой урон. Возможно, вы еще сможете справиться с этой задачей."
 
 #: src-en/data/events_sector_pirate.xml.append:2423
 msgid ""
@@ -2532,12 +3188,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2429
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(Антивирусный модуль) Использовать свой Антивирус для борьбы с вирусом."
 
 #: src-en/data/events_sector_pirate.xml.append:2431
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"BLUELIST_DRONES_DEFENSE\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
+"Вашему Антивирусному модулю удается обезвредить вирус пиратов. Возможно, вы "
+"еще сможете справиться с этой задачей."
 
 #: src-en/data/events_sector_pirate.xml.append:2435
 msgid ""
@@ -2547,12 +3205,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2443
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/text"
-msgstr ""
+msgstr "(Энергетический щит) Ваш энергетический щит уничтожит абордажные дроны."
 
 #: src-en/data/events_sector_pirate.xml.append:2445
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/text"
 msgstr ""
+"Абордажные дроны взрываются при контакте с вашим энергетическим щитом. "
+"Однако это не мешает пиратам внедрить вирус, который ослабил ваши сенсоры и "
+"двигатели! Хуже того, пираты выслали хорошо вооруженный корабль "
+"работорговцев, чтобы сражаться с вами в воздухе. Эти пираты хотят вернуть "
+"свой лом, и, возможно, на этот раз вы откусили больше, чем могли прожевать."
 
 #: src-en/data/events_sector_pirate.xml.append:2450
 msgid ""
@@ -2562,12 +3225,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2454
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Взломщик) Использовать свой Взломщик, чтобы противостоять вирусу."
 
 #: src-en/data/events_sector_pirate.xml.append:2456
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"Вам удалось вывести из строя вирус пиратов, хотя в процессе вы получили "
+"небольшой урон. Возможно, вы еще сможете справиться с этой задачей."
 
 #: src-en/data/events_sector_pirate.xml.append:2461
 msgid ""
@@ -2577,12 +3242,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2467
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(Антивирусный модуль) Использовать свой Антивирус для борьбы с вирусом."
 
 #: src-en/data/events_sector_pirate.xml.append:2469
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_ENFORCER_3_SHIPRUN_NOCREW\"]/choice[@req=\"LIST_CHECK_ENERGY_SHIELD\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
+"Вашему Антивирусному модулю удается обезвредить вирус пиратов. Возможно, вы "
+"еще сможете справиться с этой задачей."
 
 #: src-en/data/events_sector_pirate.xml.append:2473
 msgid ""
@@ -2593,58 +3260,75 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "(Телепортатор) Быстро телепортироваться обратно."
 
 #: src-en/data/events_sector_pirate.xml.append:2487
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[@req=\"teleporter\"]/event/text"
 msgstr ""
+"Телепортатор возвращает вас в безопасное место, и у вас появляется "
+"достаточно времени, чтобы отстыковаться от станции до того, как вас догонят "
+"силовики. Однако все еще не закончено: по всей станции раздаются сигналы "
+"тревоги, оповещающие всех силовиков о вашем побеге. Это не к добру..."
 
 #: src-en/data/events_sector_pirate.xml.append:2489
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and "
 "not(@lvl)]/event/choice[1]/event/choice[@req=\"teleporter\"]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2495
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[@req=\"mind\"]/text"
 msgstr ""
+"(Контроль разума) Контролировать разум силовиков, чтобы они сражались друг с "
+"другом."
 
 #: src-en/data/events_sector_pirate.xml.append:2497
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[@req=\"mind\"]/event/text"
 msgstr ""
+"Ваш Контроль разума оказался весьма эффективным, так как теперь "
+"подконтрольный вам силовик взрывает других преследующих вас силовиков, "
+"заставляя их расправиться с ним. Пока вы выигрываете время, чтобы добраться "
+"до корабля, вы слышите вдалеке крики о том, что нужно отправить рабов. Это "
+"не к добру..."
 
 #: src-en/data/events_sector_pirate.xml.append:2499
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and "
 "not(@lvl)]/event/choice[1]/event/choice[@req=\"mind\"]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2505
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[@req=\"doors\"]/text"
 msgstr ""
+"(Улучш. Укрепленные Двери) Заблокировать корабль, как только окажетесь "
+"внутри."
 
 #: src-en/data/events_sector_pirate.xml.append:2507
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[1]/event/choice[@req=\"doors\"]/event/text"
 msgstr ""
+"Двери захлопываются перед носом у силовиков, и вы бросаетесь в Рулевую "
+"рубку. Вы успеваете запитать корабль, чтобы взлететь до того, как пираты "
+"успеют прорваться. Однако вдалеке раздаются крики о том, что нужно прислать "
+"рабов. Это не к добру..."
 
 #: src-en/data/events_sector_pirate.xml.append:2509
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and "
 "not(@lvl)]/event/choice[1]/event/choice[@req=\"doors\"]/event/choice/text"
-msgstr ""
+msgstr "Активировать системы корабля и бежать!"
 
 #: src-en/data/events_sector_pirate.xml.append:2517
 msgid ""
@@ -2657,31 +3341,42 @@ msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and not(@lvl)]/event/choice[2]/event/text"
 msgstr ""
+"Силовик похлопывает вас по спине и улыбается. \"Мудрый выбор, друг. Рад, что "
+"сегодня обошлось без кровопролития. Хотя я бы посоветовал тебе не устраивать "
+"в этих краях никаких авантюр. Большинство моих друзей не такие дружелюбные, "
+"как я, и тебе не стоит с ними связываться\"."
 
 #: src-en/data/events_sector_pirate.xml.append:2532
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/text"
 msgstr ""
+"Похоже, расположенные неподалеку контрабандисты привлекли большое количество "
+"людей своими товарами. Они продают то, что, по их словам, является "
+"\"продвинутым прототипом оборудования, пригодного для различных целей\"."
 
 #: src-en/data/events_sector_pirate.xml.append:2535
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/text"
-msgstr ""
+msgstr "Посмотреть на прототип оборудования."
 
 #: src-en/data/events_sector_pirate.xml.append:2537
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/text"
 msgstr ""
+"Контрабандистов, похоже, не волнует, что вы федерал. Они приветствуют вас и "
+"показывают товары на продажу."
 
 #: src-en/data/events_sector_pirate.xml.append:2539
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Купить поврежденный золтанский реактор."
 
 #: src-en/data/events_sector_pirate.xml.append:2541
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2547
 msgid ""
@@ -2691,12 +3386,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2553
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Купить комплект защитных костюмов."
 
 #: src-en/data/events_sector_pirate.xml.append:2555
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2561
 msgid ""
@@ -2707,11 +3404,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[3]/text"
 msgstr ""
+"Купить улучшенную версию печально известного \"Конденсатора перегрузки "
+"двигателя мод. III\"."
 
 #: src-en/data/events_sector_pirate.xml.append:2569
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2575
 msgid ""
@@ -2721,12 +3422,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2581
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Купить большой стек Мини-боезарядов."
 
 #: src-en/data/events_sector_pirate.xml.append:2583
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2589
 msgid ""
@@ -2736,12 +3439,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2595
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "Купить маленький стек Мини-боезарядов."
 
 #: src-en/data/events_sector_pirate.xml.append:2597
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2603
 msgid ""
@@ -2751,12 +3456,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2609
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "Купить Ускоренный перезарядник."
 
 #: src-en/data/events_sector_pirate.xml.append:2611
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2617
 msgid ""
@@ -2771,22 +3478,26 @@ msgstr "Ничего не покупать."
 #: src-en/data/events_sector_pirate.xml.append:2629
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/text"
-msgstr ""
+msgstr "[Репутация контрабандистов 2+] Запросить скидку."
 
 #: src-en/data/events_sector_pirate.xml.append:2631
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/text"
 msgstr ""
+"\"А, друг! Добро пожаловать в мой скромный магазин. Я, конечно, могу сделать "
+"для тебя скидку, посмотри, что тебя может заинтересовать!\""
 
 #: src-en/data/events_sector_pirate.xml.append:2633
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Купить поврежденный золтанский реактор."
 
 #: src-en/data/events_sector_pirate.xml.append:2635
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[1]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2641
 msgid ""
@@ -2796,12 +3507,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2647
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Купить комплект защитных костюмов."
 
 #: src-en/data/events_sector_pirate.xml.append:2649
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[2]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2655
 msgid ""
@@ -2812,11 +3525,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[3]/text"
 msgstr ""
+"Купить улучшенную версию печально известного \"Конденсатора перегрузки "
+"двигателя мод. III\"."
 
 #: src-en/data/events_sector_pirate.xml.append:2663
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[3]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2669
 msgid ""
@@ -2826,12 +3543,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2675
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Купить большой стек Мини-боезарядов."
 
 #: src-en/data/events_sector_pirate.xml.append:2677
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[4]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2683
 msgid ""
@@ -2841,12 +3560,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2689
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[5]/text"
-msgstr ""
+msgstr "Купить маленький стек Мини-боезарядов."
 
 #: src-en/data/events_sector_pirate.xml.append:2691
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[5]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2697
 msgid ""
@@ -2856,12 +3577,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:2703
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[6]/text"
-msgstr ""
+msgstr "Купить Ускоренный перезарядник."
 
 #: src-en/data/events_sector_pirate.xml.append:2705
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[@req=\"rep_comb_smuggler\"]/event/choice[6]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку, а затем возвращается к своим другим "
+"клиентам."
 
 #: src-en/data/events_sector_pirate.xml.append:2711
 msgid ""
@@ -2876,12 +3599,18 @@ msgstr "Ничего не покупать."
 #: src-en/data/events_sector_pirate.xml.append:2723
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[3]/text"
-msgstr ""
+msgstr "Атаковать контрабандистов!"
 
 #: src-en/data/events_sector_pirate.xml.append:2725
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[3]/event/text"
 msgstr ""
+"Ваше агрессивное поведение отпугивает остальных покупателей. Вы замечаете, "
+"как контрабандисты перегружают груз на небольшой транспортный корабль, а "
+"затем поворачивается, чтобы вступить с вами в бой. Скорее всего, "
+"контрабандисты уже перевезли специальное оборудование, чтобы продать его в "
+"другом месте. По крайней мере, вы сможете довольствоваться останками "
+"корабля, если победите их."
 
 #: src-en/data/events_sector_pirate.xml.append:2728
 msgid ""
@@ -2897,6 +3626,8 @@ msgstr "Не обращать на них внимания."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[4]/event/text"
 msgstr ""
+"Пиратское оборудование не отличается надежностью, и это, скорее всего, "
+"очередная рекламная ловушка. Вы готовитесь идти дальше."
 
 #: src-en/data/events_sector_pirate.xml.append:2738
 msgid ""
@@ -2912,11 +3643,13 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING\"]/text"
 msgstr ""
+"Несколько пиратов организовали здесь торговый порт. Если они узнают вас, то, "
+"возможно, разрешат вам торговать с ними."
 
 #: src-en/data/events_sector_pirate.xml.append:2753
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с пиратами."
 
 #: src-en/data/events_sector_pirate.xml.append:2757
 msgid ""
@@ -2926,7 +3659,7 @@ msgstr "Не обращать внимания на пиратов."
 #: src-en/data/events_sector_pirate.xml.append:2759
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы не заинтересованы в торговле с ними."
 
 #: src-en/data/events_sector_pirate.xml.append:2761
 msgid ""
@@ -2942,6 +3675,11 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_FAIL\"]/text"
 msgstr ""
+"Приблизившись, вы понимаете, что они и правда узнали вас, хотя и не так, как "
+"вы надеялись. \"Ты набрался смелости и явился сюда. Думаешь, мы не знаем, "
+"что ты сделал с нашими друзьями?! Пришло время получить по заслугам\". С "
+"этими словами пиратский корабль бросается в бой с вами, а другие пираты "
+"оказывают огневую поддержку с флангов!"
 
 #: src-en/data/events_sector_pirate.xml.append:2783
 msgid ""
@@ -2952,6 +3690,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/text"
 msgstr ""
+"Как и следовало ожидать, пираты не очень-то рады, что вы приблизились к ним "
+"так близко. \"Эй, федералам сюда нельзя! Этот торговый порт предназначен "
+"только для пиратов, так что говори зачем ты сюда явился или проваливай\"."
 
 #: src-en/data/events_sector_pirate.xml.append:2791
 msgid ""
@@ -2962,6 +3703,10 @@ msgstr "Запросить торговлю."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[1]/event/text"
 msgstr ""
+"\"Ты глухой? Этот торговый порт предназначен для пиратов, а не для каких-то "
+"вонючих федералов. Хватит тратить мое время\". Пират отключает связь и "
+"возвращается к разговору со своими друзьями. Вы можете напасть на них, если "
+"захотите, но они, скорее всего, объединят свои усилия против вас."
 
 #: src-en/data/events_sector_pirate.xml.append:2795
 msgid ""
@@ -2972,6 +3717,10 @@ msgstr "Атаковать их!"
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Как только ваше оружие активируется, все пираты готовятся сражаться с вами. "
+"Пока одни пираты телепортируются на борт, другие на пиратском корабле "
+"занимают свои посты, чтобы сразиться с вами. Остальные пираты также "
+"оказывают огневую поддержку с флангов!"
 
 #: src-en/data/events_sector_pirate.xml.append:2802
 msgid ""
@@ -2986,92 +3735,105 @@ msgstr "Оставить их в покое."
 #: src-en/data/events_sector_pirate.xml.append:2814
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SLAVER_REP_2_OFFER\"]/text"
-msgstr ""
+msgstr "[Репутация работорговцев 2+] Запросить торговлю."
 
 #: src-en/data/events_sector_pirate.xml.append:2816
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SLAVER_REP_2_OFFER\"]/event/text"
 msgstr ""
+"Поскольку работорговцы поручились за вас, пираты разрешают вам торговать с "
+"ними, хотя по ним видно, что они настроены несколько скептически. Несмотря "
+"на это, работорговец, кажется, рад вас видеть и предлагает купить у него "
+"несколько рабов."
 
 #: src-en/data/events_sector_pirate.xml.append:2819
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SLAVER_REP_2_OFFER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_sector_pirate.xml.append:2823
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SLAVER_REP_2_OFFER\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Неважно, ограничимся обычными товарами."
 
 #: src-en/data/events_sector_pirate.xml.append:2829
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"MERCENARY_REP_2_OFFER\"]/text"
-msgstr ""
+msgstr "[Репутация наемников 2+] Запросить торговлю."
 
 #: src-en/data/events_sector_pirate.xml.append:2831
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"MERCENARY_REP_2_OFFER\"]/event/text"
 msgstr ""
+"Поскольку наемники за вас поручились, пираты разрешили вам торговать с ними, "
+"хотя по ним видно, что они настроены несколько скептически. Несмотря на это, "
+"наемник, похоже, рад вас видеть и предлагает свои услуги."
 
 #: src-en/data/events_sector_pirate.xml.append:2834
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"MERCENARY_REP_2_OFFER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_sector_pirate.xml.append:2838
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"MERCENARY_REP_2_OFFER\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Неважно, ограничимся обычными товарами."
 
 #: src-en/data/events_sector_pirate.xml.append:2844
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SMUGGLER_REP_2_OFFER\"]/text"
-msgstr ""
+msgstr "[Репутация контрабандистов 2+] Запросить торговлю."
 
 #: src-en/data/events_sector_pirate.xml.append:2846
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SMUGGLER_REP_2_OFFER\"]/event/text"
 msgstr ""
+"Поскольку контрабандисты за вас поручились, пираты разрешили вам торговать с "
+"ними, хотя по ним видно, что они настроены несколько скептически. Несмотря "
+"на это, контрабандист, кажется, рад вас видеть и предлагает купить у него "
+"контрабандные товары."
 
 #: src-en/data/events_sector_pirate.xml.append:2849
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SMUGGLER_REP_2_OFFER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_sector_pirate.xml.append:2853
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"SMUGGLER_REP_2_OFFER\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Неважно, ограничимся обычными товарами."
 
 #: src-en/data/events_sector_pirate.xml.append:2859
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"rep_pirate\"]/text"
-msgstr ""
+msgstr "[Репутация пиратов 3+] Запросить торговлю."
 
 #: src-en/data/events_sector_pirate.xml.append:2861
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"rep_pirate\"]/event/text"
 msgstr ""
+"\"Подождите, вы не просто федерал, вы тот самый федерал! Простите, что не "
+"узнал вас сразу\". Пират дарит вам припасы и предлагает торговать с ним."
 
 #: src-en/data/events_sector_pirate.xml.append:2865
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"rep_pirate\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Запросить торговлю с работорговцами."
 
 #: src-en/data/events_sector_pirate.xml.append:2869
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"rep_pirate\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Запросить торговлю с наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:2873
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"rep_pirate\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Запросить торговлю с контрабандистами."
 
 #: src-en/data/events_sector_pirate.xml.append:2877
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[@req=\"rep_pirate\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Просто купить обычные товары."
 
 #: src-en/data/events_sector_pirate.xml.append:2883
 msgid ""
@@ -3082,6 +3844,9 @@ msgstr "Неважно, просто уходим."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_LEAVE\"]/loadEventList/event[3]/text"
 msgstr ""
+"Большинство пиратов не обращают на вас внимания, пока вы готовитесь к уходу, "
+"но один особо ретивый пират решает погнаться за вами, надеясь, что у вас "
+"есть товар, который он сможет продать своим друзьям."
 
 #: src-en/data/events_sector_pirate.xml.append:2896
 msgid ""
@@ -3092,16 +3857,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE\"]/text"
 msgstr ""
+"Как только вы прибыли в систему, вы заметили дрейфующий неподалеку тайник. "
+"Вы уже собираетесь направиться к нему, когда замечаете поблизости два "
+"пиратских корабля. Быстрое прослушивание их незашифрованного канала связи "
+"говорит о том, что они только что украли тайник с военной станции. Если вы "
+"хотите заполучить тайник, вам придется сразиться с этими пиратами."
 
 #: src-en/data/events_sector_pirate.xml.append:2907
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE\"]/choice[1]/text"
-msgstr ""
+msgstr "Атаковать пиратов, чтобы заполучить тайник."
 
 #: src-en/data/events_sector_pirate.xml.append:2909
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE\"]/choice[1]/event/text"
 msgstr ""
+"Вы заряжаете оружие и устремляетесь к одному из пиратских кораблей. Другой "
+"корабль начинает оказывать огневую поддержку, так что вам лучше поторопиться!"
 
 #: src-en/data/events_sector_pirate.xml.append:2913
 msgid ""
@@ -3117,6 +3889,8 @@ msgstr "Оставить их в покое."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE\"]/choice[2]/event/text"
 msgstr ""
+"Как бы заманчиво это ни было, вы не считаете, что ради тайника не стоит "
+"вступать в бой сразу с двумя пиратскими кораблями."
 
 #: src-en/data/events_sector_pirate.xml.append:2923
 msgid ""
@@ -3132,26 +3906,36 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_DEFEAT\"]/text"
 msgstr ""
+"Вы победили пиратский корабль. Вы быстро разбираете обломки, а затем ищете "
+"тайник."
 
 #: src-en/data/events_sector_pirate.xml.append:2938
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Найти тайник."
 
 #: src-en/data/events_sector_pirate.xml.append:2940
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_DEFEAT\"]/choice/event/text"
 msgstr ""
+"Вы обнаруживаете, что другой пиратский корабль уже вызвал подкрепление, и "
+"еще один корабль уже прибыл. Если вы останетесь и будете сражаться, то "
+"окажетесь в меньшинстве, поэтому, если вы хотите забрать тайник, вам "
+"придется сделать это быстро и убраться восвояси, но при этом вы, скорее "
+"всего, получите повреждения."
 
 #: src-en/data/events_sector_pirate.xml.append:2942
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_DEFEAT\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Отправиться за тайником."
 
 #: src-en/data/events_sector_pirate.xml.append:2944
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_DEFEAT\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Вы приближаетесь к тайнику на небольшое расстояние и поднимаете его на борт. "
+"Ваш корабль получает несколько попаданий от других пиратов, но вы успешно "
+"забираете тайник."
 
 #: src-en/data/events_sector_pirate.xml.append:2948
 msgid ""
@@ -3161,42 +3945,56 @@ msgstr "Осмотреть тайник."
 #: src-en/data/events_sector_pirate.xml.append:2954
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_DEFEAT\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Оставить его в покое."
 
 #: src-en/data/events_sector_pirate.xml.append:2956
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_DEFEAT\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Тайник не стоит получения повреждений. Вы готовитесь к прыжку, пока другие "
+"пираты не успели напасть на вас."
 
 #: src-en/data/events_sector_pirate.xml.append:2966
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_REWARD\"]/loadEventList/event[1]/text"
 msgstr ""
+"В тайнике находится совершенно новое оружие и боеприпасы! Вы откладываете "
+"оружие, чтобы установить его позже, и готовитесь первым делом прыгнуть "
+"подальше от маяка."
 
 #: src-en/data/events_sector_pirate.xml.append:2971
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_REWARD\"]/loadEventList/event[2]/text"
 msgstr ""
+"В тайнике находится новая схема дрона и несколько дрон-комплектов для него! "
+"Вы откладываете схему, чтобы просмотреть ее позже, и готовитесь первым делом "
+"прыгнуть подальше от маяка."
 
 #: src-en/data/events_sector_pirate.xml.append:2976
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_REWARD\"]/loadEventList/event[3]/text"
 msgstr ""
+"В тайнике содержится большое количество топлива и лома. Должно быть, пираты "
+"добыли их на шахте."
 
 #: src-en/data/events_sector_pirate.xml.append:2980
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_GUARD_CACHE_REWARD\"]/loadEventList/event[4]/text"
 msgstr ""
+"В тайнике находится карта сектора и некоторые современные приборы "
+"наблюдения. Вы можете использовать их для модернизации своих сенсоров после "
+"того, как прыгнете подальше от маяка."
 
 #: src-en/data/events_sector_pirate.xml.append:2989
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP\"]/text"
 msgstr ""
+"Вы заметили корабль, скрывающийся за планетой. Вы не знаете, чей это корабль."
 
 #: src-en/data/events_sector_pirate.xml.append:2991
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP\"]/choice[1]/text"
-msgstr ""
+msgstr "Проверить их."
 
 #: src-en/data/events_sector_pirate.xml.append:2995
 msgid ""
@@ -3207,6 +4005,9 @@ msgstr "Не обращать внимания на корабль."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP\"]/choice[2]/event/text"
 msgstr ""
+"Независимо от того, является корабль дружественным или вражеским, вы не "
+"хотите это выяснять. Вы удаляетесь от планеты, не сводя с нее глаз, чтобы "
+"убедиться, что не попадете в засаду."
 
 #: src-en/data/events_sector_pirate.xml.append:2999
 msgid ""
@@ -3222,6 +4023,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_HOSTILE\"]/loadEventList/event[1]/text"
 msgstr ""
+"Когда вы поворачиваете за угол планеты, становится ясно, что это корабль "
+"Коалиции! Как только они вас замечают, сразу же вступают в бой."
 
 #: src-en/data/events_sector_pirate.xml.append:3026
 msgid ""
@@ -3232,6 +4035,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_HOSTILE\"]/loadEventList/event[2]/text"
 msgstr ""
+"Когда вы поворачиваете за угол планеты, становится ясно, что это корабль "
+"повстанцев! Как только они замечают вас, сразу же вступают в бой."
 
 #: src-en/data/events_sector_pirate.xml.append:3034
 msgid ""
@@ -3242,6 +4047,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_HOSTILE\"]/loadEventList/event[3]/text"
 msgstr ""
+"Когда вы поворачиваете за угол планеты, становится ясно, что это корабль "
+"пиратов! Как только они замечают вас, сразу же вступают в бой."
 
 #: src-en/data/events_sector_pirate.xml.append:3042
 msgid ""
@@ -3252,6 +4059,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN\"]/text"
 msgstr ""
+"Повернув за угол планеты, вы обнаружите гражданский корабль с заметными "
+"повреждениями двигателей и щитов. Они объясняют, что у предыдущего маяка их "
+"преследовала банда пиратов, но им удалось прыгнуть к этому маяку. Поскольку "
+"они знают, как починить свои системы, им нужен только лом, и они готовы "
+"выторговать его."
 
 #: src-en/data/events_sector_pirate.xml.append:3053
 msgid ""
@@ -3261,12 +4073,14 @@ msgstr "Торговать с ними."
 #: src-en/data/events_sector_pirate.xml.append:3057
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN\"]/choice[2]/text"
-msgstr ""
+msgstr "Подарить им немного лома."
 
 #: src-en/data/events_sector_pirate.xml.append:3059
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN\"]/choice[2]/event/text"
 msgstr ""
+"Вы передаете гражданским немного лома, чтобы помочь им с ремонтом. Они "
+"благодарят вас за пожертвование."
 
 #: src-en/data/events_sector_pirate.xml.append:3064
 msgid ""
@@ -3276,12 +4090,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3070
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN\"]/choice[3]/text"
-msgstr ""
+msgstr "Закончить начатое пиратами."
 
 #: src-en/data/events_sector_pirate.xml.append:3072
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN\"]/choice[3]/event/text"
 msgstr ""
+"Вы не даете гражданским шанса спасти свои жизни, когда отключаете связь и "
+"готовитесь покончить с ними в своей мелочной погоне за ломом."
 
 #: src-en/data/events_sector_pirate.xml.append:3078
 msgid ""
@@ -3292,26 +4108,38 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN_GIFT\"]/loadEventList/event[1]/text"
 msgstr ""
+"Один из членов их экипажа предлагает присоединиться к вам, надеясь, что с "
+"вашей помощью сможет защититься от пиратов."
 
 #: src-en/data/events_sector_pirate.xml.append:3092
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN_GIFT\"]/loadEventList/event[2]/text"
 msgstr ""
+"Инженер на их корабле предлагает в качестве оплаты улучшить ваши двигатели."
 
 #: src-en/data/events_sector_pirate.xml.append:3096
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN_GIFT\"]/loadEventList/event[3]/text"
 msgstr ""
+"В качестве оплаты гражданские передают ненужные им боеголовки и "
+"дрон-комплекты."
 
 #: src-en/data/events_sector_pirate.xml.append:3103
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_CIVILIAN_GIFT\"]/loadEventList/event[4]/text"
 msgstr ""
+"Мастер по дронам на их корабле передает вам схему дрона, который вы можете "
+"использовать для решения своих проблем."
 
 #: src-en/data/events_sector_pirate.xml.append:3110
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER\"]/text"
 msgstr ""
+"Вы обнаруживаете гражданский корабль на другой стороне планеты, но "
+"чувствуете, что что-то не так, когда его оружие начинает включаться. Вы "
+"включаете связь и получаете сообщение с корабля. \"Что ты хочешь от нас, "
+"федерал? Оставь нас в покое!\" Похоже, группа пиратов захватила гражданский "
+"корабль и готовится к бою!"
 
 #: src-en/data/events_sector_pirate.xml.append:3113
 msgid ""
@@ -3321,12 +4149,16 @@ msgstr "Приготовиться к бою."
 #: src-en/data/events_sector_pirate.xml.append:3117
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER\"]/choice[2]/text"
-msgstr ""
+msgstr "Успокойтесь, мы здесь не для того, чтобы сражаться с вами."
 
 #: src-en/data/events_sector_pirate.xml.append:3119
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER\"]/choice[2]/event/text"
 msgstr ""
+"\"Ты лжец! Не спрашивай меня, откуда я знаю, я просто знаю! Придираешься к "
+"слабым, как эти богатые ублюдки из союза. Я тебе покажу!\" Вы подозреваете, "
+"что им что-то нужно, но они явно не собираются говорить, пока вы их немного "
+"не потреплете."
 
 #: src-en/data/events_sector_pirate.xml.append:3122
 msgid ""
@@ -3337,36 +4169,48 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/text"
 msgstr ""
+"Пираты были сильно ослаблены. Теперь вы можете проявить к ним милосердие, "
+"если захотите."
 
 #: src-en/data/events_sector_pirate.xml.append:3132
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/text"
-msgstr ""
+msgstr "Выключить оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3134
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/text"
 msgstr ""
+"Вы выключаете оружие и снова вызываете пиратов. Пират, который разговаривал "
+"с вами вначале, отвечает. \"А? Что ты делаешь? Не пытаешься ли ты убить нас "
+"или что-то в этом роде?\""
 
 #: src-en/data/events_sector_pirate.xml.append:3136
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Мы же сказали вам, что мы здесь не для того, чтобы сражаться с вами."
 
 #: src-en/data/events_sector_pirate.xml.append:3138
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Подождите, ты это сказал? О да, ты сказал! Значит, мы получили урон без "
+"причины и теперь выглядим как идиоты. Ну, если ты здесь не для того, чтобы "
+"сражаться, тогда мы пойдем. Пожалуй...\""
 
 #: src-en/data/events_sector_pirate.xml.append:3141
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Вам что-нибудь нужно?"
 
 #: src-en/data/events_sector_pirate.xml.append:3143
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"Ну, раз уж ты спрашиваешь... Мы украли этот корабль у группы торговцев, но "
+"система защиты уничтожила запасы топлива на этом корабле. Мы теряли топливо "
+"на всем пути сюда, и теперь у нас нет топлива. Не мог бы ты выделить немного?"
+"\""
 
 #: src-en/data/events_sector_pirate.xml.append:3145
 msgid ""
@@ -3377,16 +4221,27 @@ msgstr "Дать им немного топлива."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Вы передаете несколько топливных элементов, которые пираты любезно "
+"принимают. \"Спасибо за них, надеюсь, с ними мы сможем добраться до "
+"пиратской станции. Мой приятель знает толк в реакторах. Возможно, он сможет "
+"немного поработать над твоим в качестве платы за топливо\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3155
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
+"Дать им большое количество топлива и потратить некоторое время на починку их "
+"корабля."
 
 #: src-en/data/events_sector_pirate.xml.append:3157
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы передаете большое количество топливных элементов и принимаетесь за работу "
+"над их корпусом и утечкой топлива еще до того, как они успевают "
+"поблагодарить вас. Это занимает некоторое время, но в итоге вы ремонтируете "
+"большую часть повреждений. Это позволит им продержаться на плаву довольно "
+"долгое время."
 
 #: src-en/data/events_sector_pirate.xml.append:3163
 msgid ""
@@ -3397,6 +4252,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Я... вау\". Пират на несколько минут потерял дар речи, прежде чем вновь "
+"обрел самообладание. \"Я не могу выразить свою благодарность за это. Может, "
+"я и пират, но оставить это без оплаты было бы еще большим преступлением, чем "
+"пиратство. Возьми это, оно принадлежало бывшим владельцам этого корабля\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3168
 msgid ""
@@ -3407,11 +4266,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/text"
 msgstr ""
+"(Ремонтный дрон) Дать им большое количество топлива и быстро починить их "
+"корабль."
 
 #: src-en/data/events_sector_pirate.xml.append:3178
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/event/text"
 msgstr ""
+"Вы передаете большое количество топливных элементов и принимаетесь за работу "
+"над их корпусом и утечкой топлива еще до того, как они успевают "
+"поблагодарить вас. Это занимает некоторое время, но в итоге вы ремонтируете "
+"большую часть повреждений. Это позволит им продержаться на плаву довольно "
+"долгое время."
 
 #: src-en/data/events_sector_pirate.xml.append:3184
 msgid ""
@@ -3422,6 +4288,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/event/choice/event/text"
 msgstr ""
+"\"Я... вау\". Пират на несколько минут потерял дар речи, прежде чем вновь "
+"обрел самообладание. \"Я не могу выразить свою благодарность за это. Может, "
+"я и пират, но оставить это без оплаты было бы еще большим преступлением, чем "
+"пиратство. Возьми это, оно принадлежало бывшим владельцам этого корабля\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3189
 msgid ""
@@ -3431,27 +4301,31 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3197
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "Мы ничем не можем помочь."
 
 #: src-en/data/events_sector_pirate.xml.append:3199
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[4]/event/text"
 msgstr ""
+"\"Ну, ладно. Спасибо, что хотя бы не убил нас, хотя я не знаю, как мы отсюда "
+"выберемся...\""
 
 #: src-en/data/events_sector_pirate.xml.append:3209
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[2]/text"
-msgstr ""
+msgstr "Если они хотят сражаться, они получат сражение."
 
 #: src-en/data/events_sector_pirate.xml.append:3216
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK\"]/text"
 msgstr ""
+"Вы замечаете поврежденный корабль, дрейфующий вокруг расположенной "
+"поблизости луны. Похоже, они вас не заметили."
 
 #: src-en/data/events_sector_pirate.xml.append:3218
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK\"]/choice[1]/text"
-msgstr ""
+msgstr "Приблизиться к кораблю и выйти на связь."
 
 #: src-en/data/events_sector_pirate.xml.append:3222
 msgid ""
@@ -3461,7 +4335,7 @@ msgstr "Не обращать на них внимания."
 #: src-en/data/events_sector_pirate.xml.append:3224
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "У вас нет никакого интереса к судну, чьим бы оно ни было."
 
 #: src-en/data/events_sector_pirate.xml.append:3226
 msgid ""
@@ -3477,6 +4351,11 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/text"
 msgstr ""
+"При ближайшем рассмотрении оказывается, что поврежденное судно - это "
+"работорговцы Тииикака. Работорговцы на удивление дружелюбны и отвечают на "
+"ваш вызов. \"Не так давно на нас напали наемники и контрабандисты. Не знаю, "
+"чем мы их так разозлили, или они сделали это из забавы. В любом случае, раз "
+"уж вы здесь, может быть, вы сможете за нас отомстить?\""
 
 #: src-en/data/events_sector_pirate.xml.append:3249
 msgid ""
@@ -3487,16 +4366,23 @@ msgstr "Разумеется."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/text"
 msgstr ""
+"\"Отлично. Однако, насколько я помню, после нападения на нас они оба "
+"разлетелись в разные стороны. Не похоже, чтобы у вас было много свободного "
+"времени, поэтому я попрошу вас напасть только на одного из них. Убейте их, и "
+"я подарю вам раба\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3253
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправиться за наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:3255
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Работорговец указывает вам направление, куда направились наемники. Вы "
+"находите корабль наемников, который соответствует описанию работорговца, и "
+"заряжаете оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3258
 msgid ""
@@ -3506,12 +4392,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3264
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отправиться за контрабандистами."
 
 #: src-en/data/events_sector_pirate.xml.append:3266
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Работорговец указывает вам направление, куда направились контрабандисты. Вы "
+"находите корабль контрабандистов, который соответствует описанию "
+"работорговца, и заряжаете оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3269
 msgid ""
@@ -3527,6 +4416,9 @@ msgstr "Атаковать их, пока они слабы!"
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[2]/event/text"
 msgstr ""
+"Эти пираты терроризируют мирных жителей в этой части галактики. Лучшего "
+"шанса отомстить за всех, кто пострадал от этих мерзавцев, вам не "
+"представится."
 
 #: src-en/data/events_sector_pirate.xml.append:3285
 msgid ""
@@ -3536,47 +4428,52 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3291
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[3]/text"
-msgstr ""
+msgstr "Мы не собираемся быть вашими наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:3293
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[3]/event/text"
 msgstr ""
+"\"Ладно, если вы не собираетесь помогать, тогда нам больше не о чем "
+"говорить. Мы собираемся отремонтировать корабль, так что, пожалуйста, "
+"оставьте нас в покое\". Работорговцы отключают связь."
 
 #: src-en/data/events_sector_pirate.xml.append:3299
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_MERCENARY_WIN\"]/text"
-msgstr ""
+msgstr "Вам удалось победить наемников. Вы разбираете останки."
 
 #: src-en/data/events_sector_pirate.xml.append:3302
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_MERCENARY_WIN\"]/choice/text"
-msgstr ""
+msgstr "Связаться с работорговцами."
 
 #: src-en/data/events_sector_pirate.xml.append:3307
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_SMUGGLER_WIN\"]/text"
-msgstr ""
+msgstr "Вам удалось победить контрабандистов. Вы разбираете останки."
 
 #: src-en/data/events_sector_pirate.xml.append:3310
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_SMUGGLER_WIN\"]/choice/text"
-msgstr ""
+msgstr "Связаться с работорговцами."
 
 #: src-en/data/events_sector_pirate.xml.append:3316
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/text"
 msgstr ""
+"\"Хорошая работа. Рад видеть, что мы можем ладить друг с другом, несмотря на "
+"то, что являемся противниками в целом. Какой из этих рабов вам приглянулся?\""
 
 #: src-en/data/events_sector_pirate.xml.append:3318
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[1]/text"
-msgstr ""
+msgstr "Взять первого раба."
 
 #: src-en/data/events_sector_pirate.xml.append:3320
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"Конечно. Мы передадим его вам прямо сейчас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3323
 msgid ""
@@ -3586,12 +4483,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3329
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "Взять второго раба."
 
 #: src-en/data/events_sector_pirate.xml.append:3331
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"Конечно. Мы передадим его вам прямо сейчас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3334
 msgid ""
@@ -3601,12 +4498,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3340
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[3]/text"
-msgstr ""
+msgstr "Взять третьего раба."
 
 #: src-en/data/events_sector_pirate.xml.append:3342
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "\"Конечно. Мы передадим его вам прямо сейчас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3345
 msgid ""
@@ -3617,6 +4514,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/text"
 msgstr ""
+"При ближайшем рассмотрении оказывается, что поврежденное судно принадлежит "
+"наемникам Синдиката. Наемники на удивление дружелюбны и отвечают на ваш "
+"вызов. \"Не так давно на нас напали работорговцы и контрабандисты. Не знаю "
+"точно, чем мы их разозлили, или они сделали это забавы ради. В любом случае, "
+"раз уж вы здесь, может быть, вы сможете нам отомстить?\""
 
 #: src-en/data/events_sector_pirate.xml.append:3356
 msgid ""
@@ -3627,16 +4529,23 @@ msgstr "Разумеется."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/text"
 msgstr ""
+"\"Отлично. Насколько я помню, после нападения на нас они оба разлетелись в "
+"разные стороны. Не похоже, чтобы у вас было много свободного времени, "
+"поэтому я попрошу вас атаковать только одного из них. Убейте их, и я задержу "
+"флот для вас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3360
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправиться за работорговцами."
 
 #: src-en/data/events_sector_pirate.xml.append:3362
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Наемник указывает вам направление, куда направились работорговцы. Вы "
+"находите корабль наемников, который соответствует описанию наемника, и "
+"заряжаете оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3365
 msgid ""
@@ -3646,12 +4555,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3371
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отправиться за контрабандистами."
 
 #: src-en/data/events_sector_pirate.xml.append:3373
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Наемник указывает вам направление, куда направились контрабандисты. Вы "
+"находите корабль контрабандистов, который соответствует описанию наемника, и "
+"заряжаете оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3376
 msgid ""
@@ -3667,6 +4579,9 @@ msgstr "Атаковать их, пока они слабы!"
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[2]/event/text"
 msgstr ""
+"Эти пираты терроризируют мирных жителей в этой части галактики. Лучшего "
+"шанса отомстить за всех, кто пострадал от этих мерзавцев, вам не "
+"представится."
 
 #: src-en/data/events_sector_pirate.xml.append:3392
 msgid ""
@@ -3676,37 +4591,43 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3398
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[3]/text"
-msgstr ""
+msgstr "Мы не собираемся быть вашими наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:3400
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[3]/event/text"
 msgstr ""
+"\"Ладно, если вы не собираетесь помогать, тогда нам больше не о чем "
+"говорить. Мы собираемся отремонтировать корабль, так что, пожалуйста, "
+"оставьте нас в покое\". Наемники отключают связь."
 
 #: src-en/data/events_sector_pirate.xml.append:3406
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SLAVER_WIN\"]/text"
-msgstr ""
+msgstr "Вам удалось победить работорговцев. Вы разбираете останки."
 
 #: src-en/data/events_sector_pirate.xml.append:3409
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SLAVER_WIN\"]/choice/text"
-msgstr ""
+msgstr "Связаться с наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:3414
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SMUGGLER_WIN\"]/text"
-msgstr ""
+msgstr "Вам удалось победить контрабандистов. Вы разбираете останки."
 
 #: src-en/data/events_sector_pirate.xml.append:3417
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SMUGGLER_WIN\"]/choice/text"
-msgstr ""
+msgstr "Связаться с наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:3423
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_REWARD\"]/text"
 msgstr ""
+"\"Хорошая работа. Рад видеть, что мы можем ладить друг с другом, несмотря на "
+"то, что являемся противниками в целом. Чтобы погасить свой долг, я немного "
+"отвлеку флот, когда мы устраним повреждения. Заодно и лом заработаем\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3427
 msgid ""
@@ -3717,6 +4638,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/text"
 msgstr ""
+"При ближайшем рассмотрении оказывается, что поврежденное судно принадлежит "
+"контрабандистам Аргеонна. Наемники на удивление дружелюбны и отвечают на ваш "
+"вызов. \"Не так давно на нас напали работорговцы и контрабандисты. Не знаю "
+"точно, чем мы их разозлили, или они сделали это забавы ради. В любом случае, "
+"раз уж вы здесь, может быть, вы сможете нам отомстить?\""
 
 #: src-en/data/events_sector_pirate.xml.append:3436
 msgid ""
@@ -3727,16 +4653,23 @@ msgstr "Разумеется."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/text"
 msgstr ""
+"\"Отлично. Насколько я помню, после нападения на нас они оба разлетелись в "
+"разные стороны. Не похоже, чтобы у вас было много свободного времени, "
+"поэтому я попрошу вас атаковать только одного из них. Убейте их, и я подарю "
+"вам кое-какую вещь\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3440
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправиться за работорговцами."
 
 #: src-en/data/events_sector_pirate.xml.append:3442
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Контрабандист указывает вам направление, куда направились работорговцы. Вы "
+"находите корабль работорговцев, который соответствует описанию "
+"контрабандиста, и заряжаете оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3445
 msgid ""
@@ -3746,12 +4679,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3451
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отправиться за наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:3453
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Контрабандист указывает вам направление, куда направились наемники. Вы "
+"находите корабль наемников, который соответствует описанию контрабандиста, и "
+"заряжаете оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3456
 msgid ""
@@ -3767,6 +4703,9 @@ msgstr "Атаковать их, пока они слабы!"
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[2]/event/text"
 msgstr ""
+"Эти пираты терроризируют мирных жителей в этой части галактики. Лучшего "
+"шанса отомстить за всех, кто пострадал от этих мерзавцев, вам не "
+"представится."
 
 #: src-en/data/events_sector_pirate.xml.append:3472
 msgid ""
@@ -3776,47 +4715,53 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3478
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[3]/text"
-msgstr ""
+msgstr "Мы не собираемся быть вашими наемниками."
 
 #: src-en/data/events_sector_pirate.xml.append:3480
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[3]/event/text"
 msgstr ""
+"\"Ладно, если вы не собираетесь помогать, тогда нам больше не о чем "
+"говорить. Мы собираемся отремонтировать корабль, так что, пожалуйста, "
+"оставьте нас в покое\". Наемники отключают связь."
 
 #: src-en/data/events_sector_pirate.xml.append:3486
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_SLAVER_WIN\"]/text"
-msgstr ""
+msgstr "Вам удалось победить работорговцев. Вы разбираете останки."
 
 #: src-en/data/events_sector_pirate.xml.append:3489
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_SLAVER_WIN\"]/choice/text"
-msgstr ""
+msgstr "Связаться с контрабандистами."
 
 #: src-en/data/events_sector_pirate.xml.append:3494
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_MERCENARY_WIN\"]/text"
-msgstr ""
+msgstr "Вам удалось победить наемников. Вы разбираете останки."
 
 #: src-en/data/events_sector_pirate.xml.append:3497
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_MERCENARY_WIN\"]/choice/text"
-msgstr ""
+msgstr "Связаться с контрабандистами."
 
 #: src-en/data/events_sector_pirate.xml.append:3503
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/text"
 msgstr ""
+"\"Хорошая работа. Рад видеть, что мы можем ладить друг с другом, несмотря на "
+"то, что являемся противниками в целом. Теперь о моей части сделки. Что бы вы "
+"хотели?\""
 
 #: src-en/data/events_sector_pirate.xml.append:3505
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[1]/text"
-msgstr ""
+msgstr "Мы хотим оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3507
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"Без проблем. Я попрошу своих ребят передать его вам прямо сейчас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3510
 msgid ""
@@ -3826,12 +4771,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3516
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "Мы хотим дрон."
 
 #: src-en/data/events_sector_pirate.xml.append:3518
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"Без проблем. Я попрошу своих ребят передать его вам прямо сейчас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3521
 msgid ""
@@ -3841,12 +4786,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3527
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[3]/text"
-msgstr ""
+msgstr "Мы хотим модуль."
 
 #: src-en/data/events_sector_pirate.xml.append:3529
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "\"Без проблем. Я попрошу своих ребят передать его вам прямо сейчас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3532
 msgid ""
@@ -3857,6 +4802,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/text"
 msgstr ""
+"Как только вы прибываете к маяку, вы замечаете пиратский корабль почти рядом "
+"с вами. Вы уже собираетесь приготовиться к бою, когда понимаете, что пираты "
+"обращены в противоположную сторону и не замечают вас. Более того, вы видите, "
+"что перед пиратами пролетает какое-то приспособление. Была ли это "
+"запланированная пиратская засада?"
 
 #: src-en/data/events_sector_pirate.xml.append:3545
 msgid ""
@@ -3866,17 +4816,19 @@ msgstr "Задать этот вопрос пиратам."
 #: src-en/data/events_sector_pirate.xml.append:3549
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[2]/text"
-msgstr ""
+msgstr "Медленно отдаляться, не привлекая внимания пиратов."
 
 #: src-en/data/events_sector_pirate.xml.append:3553
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "(Маскировка) Замаскироваться и уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:3555
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
+"Вам удалось незаметно скрыться. Теперь у вас есть время сделать кое-что на "
+"корабле."
 
 #: src-en/data/events_sector_pirate.xml.append:3557
 msgid ""
@@ -3891,12 +4843,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_pirate.xml.append:3567
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(Улучш. Двигатели) Направить энергию в двигатели, чтобы быстро улететь."
 
 #: src-en/data/events_sector_pirate.xml.append:3569
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"engines\"]/event/text"
 msgstr ""
+"Благодаря улученным двигателям вы можете быстро отдалиться от пиратов. Хотя, "
+"скорее всего, они уже заметили вас, но не стали преследовать. Теперь у вас "
+"есть время сделать что-нибудь на борту корабля."
 
 #: src-en/data/events_sector_pirate.xml.append:3571
 msgid ""
@@ -3912,6 +4867,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_LEAVE\"]/loadEventList/event[1]/text"
 msgstr ""
+"Почему-то пираты не оборачиваются и не замечают вас. Компетентность этих "
+"пиратов можно поставить под сомнение, но это значит, что у вас есть время "
+"что-то сделать на корабле."
 
 #: src-en/data/events_sector_pirate.xml.append:3587
 msgid ""
@@ -3927,6 +4885,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_LEAVE\"]/loadEventList/event[2]/text"
 msgstr ""
+"Прежде чем вы успеваете отлететь на безопасное расстояние, пиратский корабль "
+"разворачивается и приводит в действие свое оружие! Похоже, вы не остались "
+"незамеченными, как вам казалось."
 
 #: src-en/data/events_sector_pirate.xml.append:3599
 msgid ""
@@ -3937,36 +4898,52 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/text"
 msgstr ""
+"Пираты в шоке поворачиваются в вашу сторону. \"Эй, как долго ты там "
+"находишься, приятель?\" Вы уверяете их, что только что прибыли, и указываете "
+"на устройство, которое теперь находится позади пиратов. \"Погодите, мы же "
+"вроде поставили здесь ловушку? Ах, черт возьми, вот почему нельзя засыпать "
+"при попытке совершить преступление! Честно говоря, мы планировали заманить в "
+"ловушку следующий прибывший корабль и украсть все его вещи. Но, как видишь, "
+"ничего не вышло\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3609
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/text"
-msgstr ""
+msgstr "Вы уверены, что ловушка вообще работает?"
 
 #: src-en/data/events_sector_pirate.xml.append:3611
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/text"
 msgstr ""
+"\"Ну, это хороший вопрос. Мы впервые пробуем это снаряжение для ловушек, "
+"которое нам подарил друг. Идея была в том, чтобы зацепиться за твои "
+"двигатели и сделать бум! Мы должны были убедиться, что оно вообще работает..."
+"\""
 
 #: src-en/data/events_sector_pirate.xml.append:3613
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[1]/text"
 msgstr ""
+"Отправить им немного припасов, чтобы они попытались устроить ловушку для "
+"флота."
 
 #: src-en/data/events_sector_pirate.xml.append:3615
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"А, ты действительно хочешь попробовать это сделать? Ну, думаю, ничего "
+"страшного в этом нет\". Пираты принимают ваши припасы и приступают к работе. "
+"Вы надеетесь, что у них все получится..."
 
 #: src-en/data/events_sector_pirate.xml.append:3621
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Позволить пиратам закончить свою работу."
 
 #: src-en/data/events_sector_pirate.xml.append:3627
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/text"
-msgstr ""
+msgstr "(Миномет) Показать им свой миномет."
 
 #: src-en/data/events_sector_pirate.xml.append:3629
 msgid ""
