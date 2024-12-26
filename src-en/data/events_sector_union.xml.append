@@ -1,0 +1,57 @@
+<FTL>
+
+	<!--Remove fillers from sector-specific pool
+	<mod:findName type="eventList" name="EXIT_LIST_CIVILIAN">
+		<mod-append:event load="PIP_PIRATE_GUARD_CACHE"/>
+		<mod-append:event load="PIP_PIRATE_FACTION_ATTACK"/>
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+		<mod-append:event load="PIP_DISTRESS_PIRATE_OVERWORK"/>
+	</mod:findName>
+
+	<mod:findName type="eventList" name="NEUTRAL_COREWORLDS">
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+		<mod-append:event load="PIP_PIRATE_GUARD_CACHE"/>
+		<mod-append:event load="PIP_PIRATE_FACTION_ATTACK"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_FEDERATION_ARREST"/>
+	</mod:findName>
+	-->
+	
+  <mod:findName type="event" name="QUEST_GATLING_AUGMENT">
+    <mod:findLike type="choice">
+      <mod:findLike type="event">
+        <mod:findWithChildLike type="choice" child-type="text">
+          <mod:selector>Buy the Pre-Igniter.</mod:selector>
+          <mod:findLike type="event">
+            <mod-append:text>"Many, many thanks for taking this garbage off my hands! I'll be sure to put in a good word for you to my friends."</mod-append:text>
+            <mod-append:choice>
+              <text>Continue...</text>
+              <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+            </mod-append:choice>
+          </mod:findLike>
+        </mod:findWithChildLike>
+        <mod:findWithChildLike type="choice" child-type="text">
+          <mod:selector>Buy the "Jumbo Deal" along with the Pre-Igniter.</mod:selector>
+          <mod:findLike type="event">
+            <mod-append:text>"Many, many thanks for taking this garbage off my hands! I'll be sure to put in a good word for you to my friends."</mod-append:text>
+            <mod-append:choice>
+              <text>Continue...</text>
+              <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+            </mod-append:choice>
+          </mod:findLike>
+        </mod:findWithChildLike>
+        <mod:findWithChildLike type="choice" child-type="text">
+          <mod:selector>Take it through force!</mod:selector>
+          <mod:findLike type="event">
+            <mod:findLike type="choice">
+              <mod:findLike type="event">
+                <mod:setAttributes load="REPUTATION_DECREASE_SMUGGLING_COMBAT"/>
+              </mod:findLike>
+            </mod:findLike>
+          </mod:findLike>
+        </mod:findWithChildLike>
+      </mod:findLike>
+    </mod:findLike>
+  </mod:findName>
+	
+  
+</FTL>

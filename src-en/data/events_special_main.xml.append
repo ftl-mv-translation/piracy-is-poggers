@@ -1,0 +1,24 @@
+<FTL>
+
+	<!--So that I can disable the triggered events when the smuggler workshop removes the augments-->
+	<mod:findName type="event" name="GIVE_EXTRALIFE"> <!--Type B-->
+		<mod:findLike type="triggeredEvent">
+			<mod:setAttributes name="PIP_EXTRALIFE"/>
+		</mod:findLike>
+	</mod:findName>
+
+	<mod:findName type="event" name="GIVE_MVDRIVE"> <!--Type A-->
+		<mod:findLike type="triggeredEvent">
+			<mod:setAttributes name="PIP_MVDRIVE"/>
+		</mod:findLike>
+	</mod:findName>
+
+	<mod:findName type="event" name="GIVE_UNSTABLE"> <!--Type C-->
+		<mod:findLike type="triggeredEvent">
+			<mod:setAttributes name="PIP_UNSTABLE"/>
+		</mod:findLike>
+	</mod:findName>
+	
+	
+
+</FTL>

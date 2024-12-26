@@ -1,0 +1,33 @@
+<FTL>
+<!--Redundant for the time being as newEvents is pretty much unused in the new updates
+	<mod:findName type="eventList" name="NEUTRAL_CLONE"> <!--For exit events in a lot of sectors-->
+		<mod-append:event load="PIP_PIRATE_GUARD_CACHE"/>
+		<mod-append:event load="PIP_PIRATE_FACTION_ATTACK"/>
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_FEDERATION_ARREST"/>
+		<!--Intentionally doesn't have the neutral pirate encounter event for now-->
+	</mod:findName>
+
+	<mod:findName type="eventList" name="ITEMS_CLONE"> <!--For exit events in a lot of sectors-->
+		<mod-append:event load="PIP_DISTRESS_PIRATE_OVERWORK"/>
+	</mod:findName>
+
+	<mod:findName type="eventList" name="NEUTRAL_EVENTS">
+		<mod-append:event load="PIP_PIRATE_GUARD_CACHE"/>
+		<mod-append:event load="PIP_PIRATE_FACTION_ATTACK"/>
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_FEDERATION_ARREST"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_ENCOUNTER"/>
+	</mod:findName>
+
+	<mod:findName type="eventList" name="DISTRESS">
+		<mod-append:event load="PIP_DISTRESS_PIRATE_OVERWORK"/>
+	</mod:findName>
+	
+
+	
+  <mod:findName type="eventList" name="QUESTS_EVENTS">
+	  <mod-append:event load="PIP_QUEST_PIRATE_HUB"/>
+  </mod:findName>
+	-->
+</FTL>

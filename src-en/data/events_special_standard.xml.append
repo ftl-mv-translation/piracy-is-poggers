@@ -1,0 +1,299 @@
+<FTL>
+  
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					PIRATE
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
+
+	<mod:findName type="eventList" name="STOREEVENT_CRYSTAL_PIRATES_DOCK">
+		<mod:findWithChildLike type="event" child-type="text">
+			<mod:selector>You step aboard, only to find a band of pirates huddled around a garbage fire while a cage of Crystals look on in despair. As soon as you approach, the pirates draw their guns. "Who the hell are you, identify yourself!"</mod:selector>
+			<mod:findWithChildLike type="choice" child-type="text">
+				<mod:selector>Calm down, we're here to trade.</mod:selector>
+				<mod:findLike type="event">
+					<mod:findWithChildLike type="choice" child-type="text">
+						<mod:selector>Buy a Crystal slave.</mod:selector>
+						<mod:findLike type="event">
+							<mod:findLike type="choice">
+								<mod:findLike type="event">
+									<mod:setAttributes load="REPUTATION_UPDATE_PIRATES_CRYSTAL_STORE"/>
+								</mod:findLike>
+							</mod:findLike>
+						</mod:findLike>
+					</mod:findWithChildLike>
+				</mod:findLike>
+			</mod:findWithChildLike>
+			<mod:findWithChildLike type="choice" child-type="text">
+				<mod:selector>Filthy pirates! Liberate the Crystals.</mod:selector>
+				<mod:findLike type="event">
+					<mod:findLike type="choice">
+						<mod:findLike type="event">
+							<mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+						</mod:findLike>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findWithChildLike>
+		</mod:findWithChildLike>
+	</mod:findName>
+	
+	<mod:findName type="event" name="STOREEVENT_PIRATE_ODDSHOP">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Check out the market.</mod:selector>
+			<mod:findLike type="event">
+				<mod:findWithChildLike type="choice" child-type="text">
+					<mod:selector>Check out the slave booth.</mod:selector>
+					<mod:findLike type="event">
+						<mod:findLike type="text">
+							<mod:setValue>You step carefully around all the alien waste and you look at the various aliens in cages. Seeing such an odd slavery operation in a strange market, you assume these pirates aren't affiliated with the slavery giant Tiiikaka.</mod:setValue>
+						</mod:findLike>
+					</mod:findLike>
+				</mod:findWithChildLike>
+			</mod:findLike>
+		</mod:findWithChildLike>
+	</mod:findName>
+
+	<mod:findName type="event" name="STOREEVENT_PIRATE_AWKWARD">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Attack the pirates!</mod:selector>
+			<mod:findLike type="event">
+				<mod:findLike type="choice">
+					<mod:findLike type="event">
+						<mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findWithChildLike>
+	</mod:findName>
+	
+  <mod:findName type="eventList" name="STOREEVENT_PIRATE_REFUELING_LIST">
+    <mod:findWithChildLike type="event" child-type="text">
+      <mod:selector>Looks like after the attack, the platform was damaged. You can likely steal as much fuel as remains, though the pirates won't be happy.</mod:selector>
+      <mod:findWithChildLike type="choice" child-type="text">
+        <mod:selector>Steal it.</mod:selector>
+        <mod:findLike type="event">
+          <mod:findLike type="choice">
+            <mod:findLike type="event">
+              <mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+            </mod:findLike>
+          </mod:findLike>
+        </mod:findLike>
+      </mod:findWithChildLike>
+    </mod:findWithChildLike>
+  </mod:findName>
+
+  <mod:findName type="event" name="STOREEVENT_PIRATE_SECURITY">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Go shop at the market.</mod:selector>
+      <mod:findLike type="event">
+        <mod:findLike type="choice">
+          <mod:removeTag/>
+        </mod:findLike>
+        <mod:findLike type="choice">
+          <mod:removeTag/>
+        </mod:findLike>
+        <mod-append:choice req="REPUTATION_SMUGGLER_COMB" lvl="2">
+          <text>Ask to see their special goods.</text>
+          <event>
+            <text>The smugglers recognise you and offer a selection of special contraband.</text>
+            <choice>
+              <text>Purchase a weapon.</text>
+              <event>
+                <text>You still have time to shop around their normal goods after the transaction.</text>
+                <item_modify>
+                  <item type="scrap" min="-45" max="-60"/>
+                </item_modify>
+                <weapon name="LIST_CONTRABAND_WEP_SMUGGLER"/>
+                <choice hidden="true">
+                  <text>Continue...</text>
+                  <event load="REPUTATION_UPDATE_SMUGGLING"/>
+                </choice>
+              </event>
+            </choice>
+			<choice>
+              <text>Purchase a weapon.</text>
+              <event>
+                <text>You still have time to shop around their normal goods after the transaction.</text>
+                <item_modify>
+                  <item type="scrap" min="-45" max="-60"/>
+                </item_modify>
+                <weapon name="LIST_CONTRABAND_WEP_SMUGGLER"/>
+                <choice hidden="true">
+                  <text>Continue...</text>
+                  <event load="REPUTATION_UPDATE_SMUGGLING"/>
+                </choice>
+              </event>
+            </choice>
+            <choice>
+              <text>Purchase a drone.</text>
+              <event>
+                <text>You still have time to shop around their normal goods after the transaction.</text>
+                <item_modify>
+                  <item type="scrap" min="-50" max="-70"/>
+                </item_modify>
+                <drone name="LIST_CONTRABAND_DRONE_SMUGGLER"/>
+                <choice hidden="true">
+                  <text>Continue...</text>
+                  <event load="REPUTATION_UPDATE_SMUGGLING"/>
+                </choice>
+              </event>
+            </choice>
+            <choice>
+              <text>Purchase an augment.</text>
+              <event>
+                <text>You still have time to shop around their normal goods after the transaction.</text>
+                <item_modify>
+                  <item type="scrap" min="-50" max="-65"/>
+                </item_modify>
+                <augment name="PIP_LIST_SMUGGLER_AUGMENT_EVENT_SELL"/>
+                <choice hidden="true">
+                  <text>Continue...</text>
+                  <event load="REPUTATION_UPDATE_SMUGGLING"/>
+                </choice>
+              </event>
+            </choice>
+            <choice>
+              <text>Nevermind, we'll check out the normal goods.</text>
+              <event/>
+            </choice>
+          </event>
+        </mod-append:choice>
+        <mod-append:choice>
+          <text>Do something onboard the ship.</text>
+          <event load="STORAGE_CHECK"/>
+        </mod-append:choice>
+        <mod-append:choice>
+          <text>Do nothing.</text>
+          <event/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findWithChildLike>
+    <mod:findLike type="choice">
+      <mod:selector hidden="true" req="hacking" lvl="3"/>
+      <mod:findLike type="event">
+		<mod:findLike type="autoReward">
+			<mod:setValue>scrap_only</mod:setValue>
+		</mod:findLike>
+        <mod-append:augment name="LIST_CONTRABAND_AUGMENT_SMUGGLER_SUPERIOR"/>
+		<mod-append:weapon name="RANDOM"/>
+        <mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_DECREASE_SMUGGLING_DOUBLE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findLike>
+	  <mod:findWithChildLike type="choice" child-type="text">
+		<mod:selector>Try and rob the market.</mod:selector>
+		  <mod:findLike type="event">
+			  <mod:findLike type="choice">
+				  <mod:findLike type="event">
+					  <mod:setAttributes load="REPUTATION_DECREASE_SMUGGLING_COMBAT"/>
+				  </mod:findLike>		  
+			  </mod:findLike>
+		  </mod:findLike>
+	  </mod:findWithChildLike>
+  </mod:findName>
+
+	<mod:findName type="event" name="TONY_HQ_ANGEL">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Nah.</mod:selector>
+			<mod:findLike type="event">
+				<mod:findLike type="choice">
+					<mod:findLike type="event">
+						<mod:setAttributes load="REPUTATION_DECREASE_MERCENARY_COMBAT"/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findWithChildLike>
+	</mod:findName>
+  
+  
+  <event name="STOREEVENT_PIRATE_SERVICES" unique="true">
+    <preventQuest/>
+    <beaconType id="map_icon_store_pirate" global="false">
+      <color r="255" g="245" b="175" a="1"/>
+    </beaconType>
+    <text>A joint marketplace has been set up between various pirate factions. You doubt this is exactly legal, but they might have useful supplies for sale.</text>
+    <choice>
+      <text>Explore the market.</text>
+      <event>
+        <store>STORE_PIRATE</store>
+        <text>The top half of the market is dedicated to normal trade, but the bottom half of the market appears to host various pirates offering their services or special wares to anyone willing to pay.</text>
+        <choice>
+          <text>Approach the slavers.</text>
+			<event load="SLAVER_OFFERS"/>
+        </choice>
+        <choice>
+          <text>Approach the mercenaries.</text>
+			<event load="MERCENARY_OFFERS"/>
+        </choice>
+        <choice>
+          <text>Approach the smugglers.</text>
+			<event load="SMUGGLER_OFFERS"/>
+        </choice>
+        <choice>
+          <text>We'll stick to normal goods.</text>
+          <event load="STORAGE_CHECK"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Ignore the market.</text>
+      <event>
+        <text>You don't feel like exploring the pirate market today, especially not as a Fed.</text>
+        <choice>
+          <text>Do something onboard the ship.</text>
+          <event load="STORAGE_CHECK"/>
+        </choice>
+        <choice>
+          <text>Do nothing.</text>
+          <event/>
+        </choice>
+      </event>
+    </choice>
+  </event>
+
+  <mod:findName type="eventList" name="STORELIST_ALL">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+
+  <mod:findName type="eventList" name="STORELIST_ASTEROID">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_UNION">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_VAMPWEED">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_SEPARATIST">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_OUTCAST">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_PIRATE">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_MANTIS">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_AUTO">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_ABANDONED">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_LANIUS">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_UNEXPLORED">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+  <mod:findName type="eventList" name="STORELIST_LEECH">
+    <mod-append:event load="STOREEVENT_PIRATE_SERVICES"/>
+  </mod:findName>
+
+</FTL>

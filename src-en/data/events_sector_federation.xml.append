@@ -1,0 +1,15 @@
+<FTL>
+	<!-- Made this the fed sector event-->
+	<mod:findName type="eventList" name="NEUTRAL_FED">
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_FEDERATION_ARREST"/>
+	</mod:findName>
+	
+		
+	<mod:findName type="event" name="FEDERATION_BOARDINGPODS_WIN">
+		<mod:findLike type="choice">
+			<mod:findLike type="event">
+				<mod:setAttributes load="MORALITY_REMOVE_GENERAL_DECREASE_PIRATES"/>
+			</mod:findLike>
+		</mod:findLike>
+	</mod:findName>
+</FTL>

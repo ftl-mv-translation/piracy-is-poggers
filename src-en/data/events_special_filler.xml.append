@@ -1,0 +1,1292 @@
+<FTL>
+
+
+	<mod:findName type="eventList" name="NEUTRAL_FILLER">
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+	</mod:findName>
+
+	<mod:findName type="eventList" name="DISTRESS_FILLER">
+		<mod-append:event load="PIP_DISTRESS_PIRATE_OVERWORK"/>
+	</mod:findName>
+	
+	
+  <mod:findName type="event" name="FILLER_HIVECHOICE">
+	  <mod:findWithChildLike type="choice" child-type="text">
+		  <mod:selector>Attack the pirate.</mod:selector>
+		  <mod:findLike type="event">
+			  <mod:findLike type="choice">
+				  <mod:findLike type="event">
+					  <mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+				  </mod:findLike>
+			  </mod:findLike>
+		  </mod:findLike>
+	  </mod:findWithChildLike>
+  </mod:findName>
+	
+  <mod:findName type="event" name="MERCENARY_DELIVERY_INTEREST">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Sell them a bit of your fuel.</mod:selector>
+      <mod:findLike type="event">
+        <mod-append:choice hidden="true">
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findWithChildLike>
+  </mod:findName>
+
+  <mod:findName type="event" name="QUEST_MERCENARY_DELIVERY_END">
+    <mod-append:choice req="REPUTATION_SMUGGLER_COMB" lvl="1" hidden="true">
+      <text>(Smuggler Rep 1+) We sure do.</text>
+      <event>
+        <text>You pass over the drugs, and wait while the other ship looks them over. "Everything seems to be in check... job well done."</text>
+        <autoReward level="HIGH">scrap_only</autoReward>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+        </choice>
+      </event>
+    </mod-append:choice>
+  </mod:findName>
+
+  <mod:findName type="eventList" name="QUEST_MERCENARY_DELIVERY_TRANSFER">
+    <mod:findWithChildLike type="event" child-type="text">
+      <mod:selector>You pass over the drugs, and wait while the other ship looks them over. "Everything seems to be in check... job well done."</mod:selector>
+      <mod-append:choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+      </mod-append:choice>
+    </mod:findWithChildLike>
+  </mod:findName>
+  
+  <mod:findName type="event" name="FILLER_SELL_MISSILES">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Sell 5 missiles for 15 scrap.</mod:selector>
+      <mod:findLike type="event">
+        <mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findWithChildLike>
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Sell 10 missiles for 30 scrap.</mod:selector>
+      <mod:findLike type="event">
+        <mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findWithChildLike>
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Sell 15 missiles for 45 scrap.</mod:selector>
+      <mod:findLike type="event">
+        <mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_SMUGGLING_DOUBLE_FREE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findWithChildLike>
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Attack the station!</mod:selector>
+      <mod:findLike type="event">
+        <mod:findLike type="choice">
+          <mod:findLike type="event">
+            <mod:setAttributes load="REPUTATION_DECREASE_SMUGGLING_COMBAT"/>
+          </mod:findLike>
+        </mod:findLike>
+      </mod:findLike>
+    </mod:findWithChildLike>
+  </mod:findName>
+
+  <mod:findName type="event" name="FILLER_CROPS">
+    <mod:findWithChildLike type="choice" child-type="text">
+		<mod:selector>Attack the pirate.</mod:selector>
+		<mod:findLike type="event">
+			<mod:findLike type="choice">
+				<mod:findLike type="event">
+					<mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findLike>
+	</mod:findWithChildLike>
+	<mod:findLike type="choice">
+      <mod:selector hidden="true" req="BLUELIST_FIRE_NONBALLISTIC"/>
+      <mod:findLike type="event">
+        <mod:findLike type="choice">
+          <mod:findLike type="event">
+            <mod:setAttributes load="REPUTATION_UPDATE_PIRATES"/> <!--Intentional, base MV increases notoriety twice which seems excessive-->
+          </mod:findLike>
+        </mod:findLike>
+      </mod:findLike>
+    </mod:findLike>
+    <mod:findLike type="choice">
+      <mod:selector hidden="true" req="BLUELIST_FIRE_BALLISTIC"/>
+      <mod:findLike type="event">
+        <mod:findLike type="choice">
+          <mod:findLike type="event">
+            <mod:setAttributes load="REPUTATION_UPDATE_PIRATES"/>
+          </mod:findLike>
+        </mod:findLike>
+      </mod:findLike>
+    </mod:findLike>
+    <mod:findLike type="choice">
+      <mod:selector hidden="true" req="BLUELIST_PARTICLE"/>
+      <mod:findLike type="event">
+        <mod:findLike type="choice">
+          <mod:findLike type="event">
+            <mod:setAttributes load="REPUTATION_UPDATE_PIRATES"/>
+          </mod:findLike>
+        </mod:findLike>
+      </mod:findLike>
+    </mod:findLike>
+  </mod:findName>
+
+  <mod:findName type="event" name="FILLER_DISTRESS_MINER">
+    <mod:findLike type="choice">
+      <mod:selector hidden="true" req="BLUELIST_BEAMS_DAMAGE"/>
+      <mod:findLike type="event">
+        <mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_PIRATES_FREE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findLike>
+    <mod:findLike type="choice">
+      <mod:selector hidden="true" req="DRONE_CONTROL_BEAM_DRONE"/>
+      <mod:findLike type="event">
+        <mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_PIRATES_FREE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findLike>
+  </mod:findName>
+
+  <mod:findName type="eventList" name="DISTRESS_MINER_SHOOT">
+    <mod:findWithChildLike type="event" child-type="text">
+      <mod:selector>You fire a few volleys into the rock and it starts to shudder and break apart. Without shields the pirate ship takes a beating but eventually pulls free. They thank you for your assistance.</mod:selector>
+      <mod-append:choice>
+        <text>Continue...</text>
+        <event load="REPUTATION_UPDATE_PIRATES_FREE"/>
+      </mod-append:choice>
+    </mod:findWithChildLike>
+  </mod:findName>
+
+	<!--Blank out for now
+  <mod:findName type="eventList" name="DISTRESS_MINER_LOOT">
+	  <mod:findWithChildLike type="event" child-type="text">
+		  <mod:selector>You decide the pirate is not worth saving and fire a few volleys into their hull causing the ship to depressurize and break apart. You move in to loot the remains.</mod:selector>
+		  <mod-append:choice hidden="true">
+			  <text>Continue...</text>
+			  <event load="REPUTATION_DECREASE_PIRATES"/>
+		  </mod-append:choice>
+	  </mod:findWithChildLike>
+	  <mod:findWithChildLike type="event" child-type="text">
+		  <mod:selector>You decide the pirate is not worth saving and fire a few volleys into their hull. Before you can scrap the remains another pirate ship flashes on your radar. Perhaps they saw your deed, or perhaps they want to claim the spoils for themselves, but for whatever reason, they're charging weapons!</mod:selector>
+		  <mod:findLike type="choice">
+			  <mod:findLike type="event">
+				  <mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+			  </mod:findLike>
+		  </mod:findLike>
+	  </mod:findWithChildLike>
+  </mod:findName>
+  -->
+
+	<mod:findName type="event" name="FILLER_ARGEONN_SALESMAN">
+		<!--Reputation decreases were added in base MV
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Attack him before he can attack!</mod:selector>
+			<mod:findLike type="event">
+				<mod:findLike type="choice">
+					<mod:findLike type="event">
+						<mod:setAttributes load="REPUTATION_DECREASE_SMUGGLING_COMBAT"/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findLike type="choice">
+			<mod:selector req="FEDERATION_DATABASE"/>
+			<mod:findLike type="event">
+				<mod:findWithChildLike type="choice" child-type="text">
+					<mod:selector>Attack him before he can attack!</mod:selector>
+					<mod:findLike type="event">
+						<mod:findLike type="choice">
+							<mod:findLike type="event">
+								<mod:setAttributes load="REPUTATION_DECREASE_SMUGGLING_COMBAT"/>
+							</mod:findLike>
+						</mod:findLike>
+					</mod:findLike>
+				</mod:findWithChildLike>
+			</mod:findLike>
+		</mod:findLike>-->
+	</mod:findName>
+	<mod:findName type="event" name="CONTACT_PIRATE_SALESMAN">
+		<!--Reputation decreases were added in base MV
+		<mod:findLike type="choice">
+			<mod:selector req="hacking" hidden="true"/>
+			<mod:findLike type="event">
+				<mod-append:choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_DECREASE_SMUGGLING"/>
+				</mod-append:choice>
+			</mod:findLike>
+		</mod:findLike>
+		<mod:findLike type="choice">
+			<mod:selector req="COMBAT_WEAPON_JAMMER" hidden="true"/>
+			<mod:findLike type="event">
+				<mod-append:choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_DECREASE_SMUGGLING"/>
+				</mod-append:choice>
+			</mod:findLike>
+		</mod:findLike>-->
+		<mod-append:choice req="REPUTATION_SMUGGLER_COMB" lvl="2" hidden="true">
+			<text>[Reputation 2+] Request to dock safely.</text>
+			<event load="DOCK_PIRATE_SALESMAN_SAFE"/>
+		</mod-append:choice>
+	</mod:findName>
+	<mod:findName type="event" name="DOCK_DRONE_SALESMAN">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Buy some Drone parts.</mod:selector>
+			<mod:findLike type="event">
+				<mod-append:text>"Pleasure doing business with you! Gotta put all those fine schematics to use, eh?"</mod-append:text>
+				<mod-append:choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</mod-append:choice>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Buy a Drone schematic.</mod:selector>
+			<mod:findLike type="event">
+				<mod:findLike type="text">
+					<mod:setValue>"Pleasure doing business with you! May this drone aid you greatly."</mod:setValue>
+				</mod:findLike>
+				<mod:findLike type="choice">
+					<mod:findLike type="event">
+						<mod:setAttributes load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findLike type="choice">
+			<mod:selector req="drones" max_lvl="3" max_group="0" blue="false"/>
+			<mod:findLike type="event">
+				<mod-append:text>"Pleasure doing business with you! Now you can run even more drones than before!"</mod-append:text>
+				<mod-append:choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</mod-append:choice>
+			</mod:findLike>
+		</mod:findLike>
+		<mod:findLike type="choice">
+			<mod:selector req="drones" min_level="4" max_lvl="5" max_group="0" blue="false"/>
+			<mod:findLike type="event">
+				<mod-append:text>"Pleasure doing business with you! Now you can run even more drones than before!"</mod-append:text>
+				<mod-append:choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</mod-append:choice>
+			</mod:findLike>
+		</mod:findLike>
+		<mod:findLike type="choice">
+			<mod:selector req="drones" min_level="6" max_lvl="7" max_group="0" blue="false"/>
+			<mod:findLike type="event">
+				<mod-append:text>"Pleasure doing business with you! Now you can run even more drones than before!"</mod-append:text>
+				<mod-append:choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</mod-append:choice>
+			</mod:findLike>
+		</mod:findLike>
+	</mod:findName>
+
+	<mod:findName type="eventList" name="DOCK_PIRATE_SALESMAN">
+		<mod-append:event load="DOCK_WEAPON_SALESMAN"/>
+	</mod:findName>
+
+	<event name="DOCK_WEAPON_SALESMAN">
+		<text>A human in an exquisite suit meets you on board. "Welcome to my ship! We specialize in weapons of all kinds, can I interest you in any?"</text>
+		<choice>
+			<text>Buy some missiles.</text>
+			<event>
+				<text>"Pleasure doing business with you! May your ballistics continue to rain destruction on your foes."</text>
+				<item_modify>
+					<item type="scrap" min="-25" max="-20"/>
+					<item type="missiles" min="5" max="5"/>
+				</item_modify>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a Weapon.</text>
+			<event>
+				<text>"Pleasure doing business with you! This will look excellent beside your current arsenal."</text>
+				<item_modify>
+					<item type="scrap" min="-55" max="-45"/>
+				</item_modify>
+				<weapon name="RANDOM"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice req="weapons" max_lvl="3" max_group="0" blue="false">
+			<text>Buy a Weapon system upgrade.</text>
+			<event>
+				<text>"Pleasure doing business with you! Now you can run even more weapons than before!"</text>
+				<item_modify>
+					<item type="scrap" min="-30" max="-20"/>
+				</item_modify>
+				<upgrade system="weapons" amount="1"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice req="weapons" lvl="4" max_lvl="5" max_group="0" blue="false">
+			<text>Buy a Weapon system upgrade.</text>
+			<event>
+				<text>"Pleasure doing business with you! Now you can run even more weapons than before!"</text>
+				<item_modify>
+					<item type="scrap" min="-55" max="-45"/>
+				</item_modify>
+				<upgrade system="weapons" amount="1"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice req="weapons" lvl="6" max_lvl="7" max_group="0" blue="false">
+			<text>Buy a Weapon system upgrade.</text>
+			<event>
+				<text>"Pleasure doing business with you! Now you can run even more weapons than before!"</text>
+				<item_modify>
+					<item type="scrap" min="-80" max="-65"/>
+				</item_modify>
+				<upgrade system="weapons" amount="1"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy nothing.</text>
+			<event>
+				<text>"Ah, I'm sorry to hear that! Pleasant journeys." Once back to the helm, a series of explosions rocks your ship. The pirate ship has powered its weapons! You receive a message, "You shouldn't waste people's time Captain!"</text>
+				<ship hostile="true"/>
+				<choice hidden="true">
+					<text>Continue...</text>
+					<event load="COMBAT_CHECK"/>
+				</choice>
+				<damage amount="1" system="engines" effect="random"/>
+				<damage amount="1" system="room" effect="random"/>
+				<damage amount="1" system="room" effect="random"/>
+			</event>
+		</choice>
+	</event>
+
+	<eventList name="DOCK_PIRATE_SALESMAN_SAFE">
+		<event load="DOCK_DRONE_SALESMAN_SAFE"/>
+		<event load="DOCK_WEAPON_SALESMAN_SAFE"/>
+	</eventList>
+
+	<event name="DOCK_DRONE_SALESMAN_SAFE">
+		<text>"A valued Argeonn customer? My word, do come in! I have many, many special drone offers that I would like to show you!"</text>
+		<choice>
+			<text>Buy some Drone parts.</text>
+			<event>
+				<text>"Pleasure doing business with you! Gotta put all those fine schematics to use, eh?"</text>
+				<item_modify>
+					<item type="scrap" min="-20" max="-20"/>
+					<item type="drones" min="5" max="5"/>
+				</item_modify>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a large stack of Drone parts</text>
+			<event>
+				<text>"Pleasure doing business with you! Gotta put all those fine schematics to use, eh?"</text>
+				<item_modify>
+					<item type="scrap" min="-35" max="-45"/>
+					<item type="drones" min="10" max="12"/>
+				</item_modify>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a Drone schematic.</text>
+			<event>
+				<text>"Pleasure doing business with you! May this drone aid you greatly."</text>
+				<item_modify>
+					<item type="scrap" min="-35" max="-25"/>
+				</item_modify>
+				<drone name="RANDOM"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a Drone schematic.</text>
+			<event>
+				<text>"Pleasure doing business with you! May this drone aid you greatly."</text>
+				<item_modify>
+					<item type="scrap" min="-40" max="-30"/>
+				</item_modify>
+				<drone name="RANDOM"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy an advanced Drone schematic.</text>
+			<event>
+				<text>"Pleasure doing business with you! May this advanced drone aid you greatly."</text>
+				<item_modify>
+					<item type="scrap" min="-65" max="-50"/>
+				</item_modify>
+				<drone name="LIST_PIRATE_SALESMAN_DRONES_SUPERIOR"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a Drone Booster augment.</text>
+			<event>
+				<text>"Pleasure doing business with you! May your internal drones be operating at their very best."</text>
+				<item_modify>
+					<item type="scrap" min="-45" max="-35"/>
+				</item_modify>
+				<augment name="EX_DRONE_SPEED"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice req="drones" max_lvl="4" max_group="0" blue="false">
+			<text>Buy a Drone system upgrade.</text>
+			<event>
+				<text>"Pleasure doing business with you! Now you can run even more drones than before!"</text>
+				<item_modify>
+					<item type="scrap" min="-35" max="-20"/>
+				</item_modify>
+				<upgrade system="drones" amount="1"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice req="drones" lvl="5" max_lvl="7" max_group="0" blue="false">
+			<text>Buy a Drone system upgrade.</text>
+			<event>
+				<text>"Pleasure doing business with you! Now you can run even more drones than before!"</text>
+				<item_modify>
+					<item type="scrap" min="-50" max="-40"/>
+				</item_modify>
+				<upgrade system="drones" amount="1"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy nothing.</text>
+			<event>
+				<text>"Ah, I'm sorry to hear that! Pleasant journeys." You're suspicious of a trap, but the pirate doesn't pull any tricks. Guess it pays to be a loyal customer of Argeonn even if you aren't taking their entire stock.</text>
+				<choice>
+					<text>Do something onboard the ship.</text>
+					<event load="STORAGE_CHECK"/>
+				</choice>
+				<choice>
+					<text>Do nothing.</text>
+					<event/>
+				</choice>
+			</event>
+		</choice>
+	</event>
+
+	<event name="DOCK_WEAPON_SALESMAN_SAFE">
+		<text>"A valued Argeonn customer? My word, do come in! I have many, many special weapon offers that I would like to show you!"</text>
+		<choice>
+			<text>Buy some missiles</text>
+			<event>
+				<text>"Pleasure doing business with you! May your ballistics continue to rain destruction on your foes."</text>
+				<item_modify>
+					<item type="scrap" min="-15" max="-12"/>
+					<item type="missiles" min="5" max="5"/>
+				</item_modify>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a large pile of missiles</text>
+			<event>
+				<text>"Pleasure doing business with you! May your ballistics continue to rain destruction on your foes."</text>
+				<item_modify>
+					<item type="scrap" min="-45" max="-35"/>
+					<item type="missiles" min="15" max="15"/>
+				</item_modify>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a Weapon.</text>
+			<event>
+				<text>"Pleasure doing business with you! This will look excellent beside your current arsenal."</text>
+				<item_modify>
+					<item type="scrap" min="-55" max="-45"/>
+				</item_modify>
+				<weapon name="RANDOM"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a Weapon.</text>
+			<event>
+				<text>"Pleasure doing business with you! This will look excellent beside your current arsenal."</text>
+				<item_modify>
+					<item type="scrap" min="-60" max="-50"/>
+				</item_modify>
+				<weapon name="RANDOM"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy an advanced Weapon.</text>
+			<event>
+				<text>"Pleasure doing business with you! Send some help to the next fool who dares cross you..."</text>
+				<item_modify>
+					<item type="scrap" min="-75" max="-60"/>
+				</item_modify>
+				<weapon name="LIST_PIRATE_SALESMAN_WEAPONS_SUPERIOR"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy a Re-loader augment.</text>
+			<event>
+				<text>"Pleasure doing business with you! May your guns operate at maximum speed capacity!"</text>
+				<item_modify>
+					<item type="scrap" min="-45" max="-35"/>
+				</item_modify>
+				<augment name="EX_AUTO_COOLDOWN"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice req="weapons" max_lvl="4" blue="false">
+			<text>Buy a Weapon system upgrade.</text>
+			<event>
+				<text>"Pleasure doing business with you! Now you can run even more weapons than before!"</text>
+				<item_modify>
+					<item type="scrap" min="-35" max="-20"/>
+				</item_modify>
+				<upgrade system="weapons" amount="1"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice req="weapons" lvl="5" max_lvl="7" blue="false">
+			<text>Buy a Weapon system upgrade.</text>
+			<event>
+				<text>"Pleasure doing business with you! Now you can run even more weapons than before!"</text>
+				<item_modify>
+					<item type="scrap" min="-75" max="-55"/>
+				</item_modify>
+				<upgrade system="weapons" amount="1"/>
+				<choice>
+					<text>Continue...</text>
+					<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+				</choice>
+			</event>
+		</choice>
+		<choice>
+			<text>Buy nothing.</text>
+			<event>
+				<text>"Ah, I'm sorry to hear that! Pleasant journeys." You're suspicious of a trap, but the pirate doesn't pull any tricks. Guess it pays to be a loyal customer of Argeonn even if you aren't taking their entire stock.</text>
+				<choice>
+					<text>Do something onboard the ship.</text>
+					<event load="STORAGE_CHECK"/>
+				</choice>
+				<choice>
+					<text>Do nothing.</text>
+					<event/>
+				</choice>
+			</event>
+		</choice>
+	</event>    
+  
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\Overhaul of PIRATE_CIVILIAN events\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+
+  <mod:findName type="event" name="FILLER_DISTRESS_RESCUE">
+    <mod:removeTag/>
+  </mod:findName>
+  
+  
+  <eventList name="FILLER_DISTRESS_RESCUE">
+    <event load="PIRATE_CIVILIAN_SLAVER"/>
+    <event load="PIRATE_CIVILIAN_MERCENARY"/>
+    <event load="PIRATE_CIVILIAN_SMUGGLER"/>
+  </eventList>
+
+<!--Initial event-->  
+  
+  <event name="PIRATE_CIVILIAN_SLAVER">
+    <text>The distress beacon is coming from a civilian ship. It appears it is being chased by a Tiiikaka slaver.</text>
+    <choice>
+      <text>Aid the civilian ship.</text>
+      <event>
+        <text>You power up your weapons and engage the slaver ship.</text>
+        <ship load="SHIP_SLAVER_CIVILIAN_RESCUE" hostile="true"/>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="COMBAT_CHECK"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Aid the slaver ship.</text>
+      <event>
+        <text>You message the slavers your intentions and rush off to engage the helpless civilians.</text>
+        <ship load="SHIP_SLAVER_CIVILIAN_ATTACK" hostile="true"/>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="MORALITY_UPDATE_GENERAL_FIGHT"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Stay out of it.</text>
+      <event>
+        <text>The fight brings them out of your immediate scanning range; however, after a time the distress calls stop.</text>
+        <choice>
+          <text>Do something onboard the ship.</text>
+          <event load="STORAGE_CHECK"/>
+        </choice>
+        <choice>
+          <text>Do nothing.</text>
+          <event/>
+        </choice>
+      </event>
+    </choice>
+    <choice req="weapons" lvl="6" hidden="true">
+      <text>(Improved Weapons) Fire a warning shot from your strongest weapon.</text>
+      <event load="SLAVER_CIVILIAN_BEACON_BEAM"/>
+    </choice>
+  </event>
+
+  <event name="PIRATE_CIVILIAN_MERCENARY">
+    <text>The distress beacon is coming from a civilian ship. It appears it is being chased by a Syndicate mercenary.</text>
+    <choice>
+      <text>Aid the civilian ship.</text>
+      <event>
+        <text>You power up your weapons and engage the mercenary ship.</text>
+        <ship load="SHIP_MERCENARY_CIVILIAN_RESCUE" hostile="true"/>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="COMBAT_CHECK"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Aid the mercenary ship.</text>
+      <event>
+        <text>You message the mercenaries your intentions and rush off to engage the helpless civilians.</text>
+        <ship load="SHIP_MERCENARY_CIVILIAN_ATTACK" hostile="true"/>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="MORALITY_UPDATE_GENERAL_FIGHT"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Stay out of it.</text>
+      <event>
+        <text>The fight brings them out of your immediate scanning range; however, after a time the distress calls stop.</text>
+        <choice>
+          <text>Do something onboard the ship.</text>
+          <event load="STORAGE_CHECK"/>
+        </choice>
+        <choice>
+          <text>Do nothing.</text>
+          <event/>
+        </choice>
+      </event>
+    </choice>
+    <choice req="weapons" lvl="6" hidden="true">
+      <text>(Improved Weapons) Fire a warning shot from your strongest weapon.</text>
+      <event load="MERCENARY_CIVILIAN_BEACON_BEAM"/>
+    </choice>
+  </event>
+
+  <event name="PIRATE_CIVILIAN_SMUGGLER">
+    <text>The distress beacon is coming from a civilian ship. It appears it is being chased by an Argeonn smuggler.</text>
+    <choice>
+      <text>Aid the civilian ship.</text>
+      <event>
+        <text>You power up your weapons and engage the slaver ship.</text>
+        <ship load="SHIP_SMUGGLER_CIVILIAN_RESCUE" hostile="true"/>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="COMBAT_CHECK"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Aid the smuggler ship.</text>
+      <event>
+        <text>You message the smugglers your intentions and rush off to engage the helpless civilians.</text>
+        <ship load="SHIP_SMUGGLER_CIVILIAN_ATTACK" hostile="true"/>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="MORALITY_UPDATE_GENERAL_FIGHT"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Stay out of it.</text>
+      <event>
+        <text>The fight brings them out of your immediate scanning range; however, after a time the distress calls stop.</text>
+        <choice>
+          <text>Do something onboard the ship.</text>
+          <event load="STORAGE_CHECK"/>
+        </choice>
+        <choice>
+          <text>Do nothing.</text>
+          <event/>
+        </choice>
+      </event>
+    </choice>
+    <choice req="weapons" lvl="6" hidden="true">
+      <text>(Improved Weapons) Fire a warning shot from your strongest weapon.</text>
+      <event load="SLAVER_SMUGGLER_BEACON_BEAM"/>
+    </choice>
+  </event>
+  
+<!--Threatening with high level weapons event-->
+  <eventList name="SLAVER_CIVILIAN_BEACON_BEAM">
+    <event>
+      <text>Detecting the greater threat (and potential reward), they turn and engage your ship.</text>
+      <ship load="SHIP_SLAVER_CIVILIAN_RESCUE" hostile="true"/>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="COMBAT_CHECK"/>
+      </choice>
+    </event>
+    <event>
+      <text>It seems the slaver wasn't looking for a fight with someone who could fight back. They leave and you move to contact the civilian ship.</text>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="SAVE_CIVILIAN_LIST_SLAVER"/>
+      </choice>
+    </event>
+  </eventList>
+
+  <eventList name="MERCENARY_CIVILIAN_BEACON_BEAM">
+    <event>
+      <text>Detecting the greater threat, they turn and engage your ship before they can resume their attack on the civilians.</text>
+      <ship load="SHIP_MERCENARY_CIVILIAN_RESCUE" hostile="true"/>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="COMBAT_CHECK"/>
+      </choice>
+    </event>
+  </eventList>
+
+  <eventList name="SMUGGLER_CIVILIAN_BEACON_BEAM">
+    <event>
+      <text>Detecting the greater threat (and potential reward), they turn and engage your ship.</text>
+      <ship load="SHIP_SMUGGLER_CIVILIAN_RESCUE" hostile="true"/>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="COMBAT_CHECK"/>
+      </choice>
+    </event>
+    <event>
+      <text>It seems the smuggler wasn't looking for a fight with someone who could fight back. They leave and you move to contact the civilian ship.</text>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="SAVE_CIVILIAN_LIST_SMUGGLER"/>
+      </choice>
+    </event>
+  </eventList>
+  
+<!--Saving the Civilians, it's mostly the same except that it uses the vanilla save list and decreases the corresponding pirate rep-->  
+  <eventList name="SAVE_CIVILIAN_LIST_SLAVER">
+    <event>
+      <text>The ship you saved was badly damaged in the battle. Most of the crew accepts your offer to be dropped off at a nearby station. One offers to join your crew.</text>
+      <choice>
+        <text>Welcome aboard!</text>
+        <event>
+          <text>The survivor gets on board the ship.</text>
+          <crewMember amount="1"/>
+          <choice hidden="true">
+            <text>Continue...</text>
+            <event load="REPUTATION_DECREASE_SLAVER"/>
+          </choice>
+        </event>
+      </choice>
+      <choice>
+        <text>Decline their request.</text>
+        <event load="REPUTATION_DECREASE_SLAVER"/>
+      </choice>
+    </event>
+    <event>
+      <text>Apparently the ship that was being assaulted was a science vessel. They thank you for saving them and offer a small reward.</text>
+      <autoReward level="MED">standard</autoReward>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SLAVER"/>
+      </choice>
+    </event>
+    <event>
+      <text>It seems the crew did not survive the assault. You take what you can from the remains of the ship.</text>
+      <autoReward level="LOW">standard</autoReward>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SLAVER"/>
+      </choice>
+    </event>
+    <event>
+      <text>They respond, "It's a good thing you came when you did; we'd be dead now otherwise. I'm a shipwright and I'd like to help you like you helped me."</text>
+      <choice>
+        <text>The captain offers to install a piece of equipment on your ship.</text>
+        <event>
+          <text>You thank them for their generousity and move the weapon into your cargo.</text>
+          <autoReward level="LOW">weapon</autoReward>
+          <choice hidden="true">
+            <text>Continue...</text>
+            <event load="REPUTATION_DECREASE_SLAVER"/>
+          </choice>
+        </event>
+      </choice>
+    </event>
+    <event>
+      <text>"This sector has become increasingly dangerous for friends of the Federation. I think my crew can patch up some of your hull damage as thanks."</text>
+      <damage amount="-5"/>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SLAVER"/>
+      </choice>
+    </event>
+    <event>
+      <text>The civilian ship wisely made a fast retreat while you distracted the hostile ship.</text>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SLAVER"/>
+      </choice>
+    </event>
+  </eventList>
+
+  <eventList name="SAVE_CIVILIAN_LIST_MERCENARY">
+    <event>
+      <text>The ship you saved was badly damaged in the battle. Most of the crew accepts your offer to be dropped off at a nearby station. One offers to join your crew.</text>
+      <choice>
+        <text>Welcome aboard!</text>
+        <event>
+          <text>The survivor gets on board the ship.</text>
+          <crewMember amount="1"/>
+          <choice hidden="true">
+            <text>Continue...</text>
+            <event load="REPUTATION_DECREASE_MERCENARY"/>
+          </choice>
+        </event>
+      </choice>
+      <choice>
+        <text>Decline their request.</text>
+        <event load="REPUTATION_DECREASE_MERCENARY"/>
+      </choice>
+    </event>
+    <event>
+      <text>Apparently the ship that was being assaulted was a science vessel. They thank you for saving them and offer a small reward.</text>
+      <autoReward level="MED">standard</autoReward>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_MERCENARY"/>
+      </choice>
+    </event>
+    <event>
+      <text>It seems the crew did not survive the assault. You take what you can from the remains of the ship.</text>
+      <autoReward level="LOW">standard</autoReward>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_MERCENARY"/>
+      </choice>
+    </event>
+    <event>
+      <text>They respond, "It's a good thing you came when you did; we'd be dead now otherwise. I'm a shipwright and I'd like to help you like you helped me."</text>
+      <choice>
+        <text>The captain offers to install a piece of equipment on your ship.</text>
+        <event>
+          <text>You thank them for their generousity and move the weapon into your cargo.</text>
+          <autoReward level="LOW">weapon</autoReward>
+          <choice hidden="true">
+            <text>Continue...</text>
+            <event load="REPUTATION_DECREASE_MERCENARY"/>
+          </choice>
+        </event>
+      </choice>
+    </event>
+    <event>
+      <text>"This sector has become increasingly dangerous for friends of the Federation. I think my crew can patch up some of your hull damage as thanks."</text>
+      <damage amount="-5"/>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_MERCENARY"/>
+      </choice>
+    </event>
+    <event>
+      <text>The civilian ship wisely made a fast retreat while you distracted the hostile ship.</text>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_MERCENARY"/>
+      </choice>
+    </event>
+  </eventList>
+
+  <eventList name="SAVE_CIVILIAN_LIST_SMUGGLER">
+    <event>
+      <text>The ship you saved was badly damaged in the battle. Most of the crew accepts your offer to be dropped off at a nearby station. One offers to join your crew.</text>
+      <choice>
+        <text>Welcome aboard!</text>
+        <event>
+          <text>The survivor gets on board the ship.</text>
+          <crewMember amount="1"/>
+          <choice hidden="true">
+            <text>Continue...</text>
+            <event load="REPUTATION_DECREASE_SMUGGLER"/>
+          </choice>
+        </event>
+      </choice>
+      <choice>
+        <text>Decline their request.</text>
+        <event load="REPUTATION_DECREASE_SMUGGLER"/>
+      </choice>
+    </event>
+    <event>
+      <text>Apparently the ship that was being assaulted was a science vessel. They thank you for saving them and offer a small reward.</text>
+      <autoReward level="MED">standard</autoReward>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SMUGGLER"/>
+      </choice>
+    </event>
+    <event>
+      <text>It seems the crew did not survive the assault. You take what you can from the remains of the ship.</text>
+      <autoReward level="LOW">standard</autoReward>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SMUGGLER"/>
+      </choice>
+    </event>
+    <event>
+      <text>They respond, "It's a good thing you came when you did; we'd be dead now otherwise. I'm a shipwright and I'd like to help you like you helped me."</text>
+      <choice>
+        <text>The captain offers to install a piece of equipment on your ship.</text>
+        <event>
+          <text>You thank them for their generousity and move the weapon into your cargo.</text>
+          <autoReward level="LOW">weapon</autoReward>
+          <choice hidden="true">
+            <text>Continue...</text>
+            <event load="REPUTATION_DECREASE_SMUGGLER"/>
+          </choice>
+        </event>
+      </choice>
+    </event>
+    <event>
+      <text>"This sector has become increasingly dangerous for friends of the Federation. I think my crew can patch up some of your hull damage as thanks."</text>
+      <damage amount="-5"/>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SMUGGLER"/>
+      </choice>
+    </event>
+    <event>
+      <text>The civilian ship wisely made a fast retreat while you distracted the hostile ship.</text>
+      <choice hidden="true">
+        <text>Continue...</text>
+        <event load="REPUTATION_DECREASE_SMUGGLER"/>
+      </choice>
+    </event>
+  </eventList>
+  
+<!--Escape event when you attack the civilians-->
+
+  <event name="ESCAPE_SLAVER_CIVILIAN">
+    <text>You notice the civilians' engines already lighting up, meaning that they won't be sticking around much longer. Chances are the slaver ship wanted to capture the civilians for slavery, so if you're expecting a reward from the pirates you have to keep the civilians alive.</text>
+  </event>
+
+  <event name="ESCAPE_MERCENARY_CIVILIAN">
+    <text>You notice the civilians' engines already lighting up, meaning that they won't be sticking around much longer. Chances are the mercenary ship was hired to eliminate the civilians, so if you're expecting a reward from the pirates you need to take them down in any way before they escape.</text>
+  </event>
+
+  <event name="ESCAPE_SMUGGLER_CIVILIAN">
+    <text>You notice the civilians' engines already lighting up, meaning that they won't be sticking around much longer. Chances are the smuggler ship wanted the civilians' cargo, so if you're expecting a reward from the pirates you have to avoid destroying the ship.</text>
+  </event>
+  
+<!--Got away event when you attack the civilians-->
+  <!--Currently all the same, idk if I wanna change that-->
+  <event name="GOTAWAY_SLAVER_CIVILIAN">
+    <text>The civilians got away before you could stop them. The pirates won't be happy about this...</text>
+    <choice>
+      <text>Hail the pirates</text>
+      <event>
+        <text>"What the hell was that! We could've secured them without your interference... but seeing a Fed attacking civilians does crack me up. Fine, we'll agree to not fight, but expect no future favours."</text>
+      </event>
+    </choice>
+  </event>
+
+  <event name="GOTAWAY_MERCENARY_CIVILIAN">
+    <text>The civilians got away before you could stop them. The pirates won't be happy about this...</text>
+    <choice>
+      <text>Hail the pirates</text>
+      <event>
+        <text>"What the hell was that! We could've secured them without your interference... but seeing a Fed attacking civilians does crack me up. Fine, we'll agree to not fight, but expect no future favours."</text>
+      </event>
+    </choice>
+  </event>
+  
+  <event name="GOTAWAY_SMUGGLER_CIVILIAN">
+    <text>The civilians got away before you could stop them. The pirates won't be happy about this...</text>
+    <choice>
+      <text>Hail the pirates</text>
+      <event>
+        <text>"What the hell was that! We could've secured them without your interference... but seeing a Fed attacking civilians does crack me up. Fine, we'll agree to not fight, but expect no future favours."</text>
+      </event>
+    </choice>
+  </event>
+  
+<!--Surrender event when you attack the civilians-->
+  <event name="SURRENDER_SLAVER_CIVILIAN">
+    <text>The civilians are on the brink of destruction. Terrified, the civilians surrender and agree to meet any of your demands.</text>
+    <choice hidden="true">
+      <text>Accept their surrender</text>
+      <event>
+        <text>You disable the civilians' engines before hailing the slavers. Once they've docked with the civilians and shackled them into their cargo, the slaver captain thanks you for your help and sends you some scrap.</text>
+        <ship hostile="false"/>
+        <autoReward level="MED">scrap_only</autoReward>
+        <choice hidden="true">
+          <text>Continue...</text>
+          <event load="SLAVER_CIVILIAN_SCRAP"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Just finish them off.</text>
+      <event/>
+    </choice>
+  </event>
+
+  <eventList name="SLAVER_CIVILIAN_SCRAP">
+    <event>
+      <text>You move on to scrapping the civilian ship, now void of crew. You find some resources to take back with you.</text>
+      <autoReward level="MED">stuff</autoReward>
+      <choice>
+        <text>Continue...</text>
+        <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+      </choice>
+    </event>
+    <event>
+      <text>You move on to scrapping the civilian ship, now void of crew. You find some resources to take back with you.</text>
+      <autoReward level="MED">stuff</autoReward>
+      <choice>
+        <text>Continue...</text>
+        <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+      </choice>
+    </event>
+    <event>
+      <text>You move on to scrapping the civilian ship, now void of crew. Nothing much remains, but it's still some scrap.</text>
+      <autoReward level="LOW">standard</autoReward>
+      <choice>
+        <text>Continue...</text>
+        <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+      </choice>
+    </event>
+    <event>
+      <text>You move on to scrapping the civilian ship, now void of crew. Nothing much remains, but it's still some scrap.</text>
+      <autoReward level="LOW">standard</autoReward>
+      <choice>
+        <text>Continue...</text>
+        <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+      </choice>
+    </event>
+    <event>
+      <text>You move on to scrapping the civilian ship, now void of crew. You even find one of their basic weapons still intact, which you bring back to the ship.</text>
+      <autoReward level="LOW">scrap_only</autoReward>
+      <weapon name="GIFTLIST_UNION"/>
+      <choice>
+        <text>Continue...</text>
+        <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+      </choice>
+    </event>
+  </eventList>
+
+  <event name="SURRENDER_MERCENARY_CIVILIAN">
+    <text>The civilians are on the brink of destruction. Terrified, the civilians surrender and agree to meet any of your demands.</text>
+    <choice hidden="true">
+      <text>Accept their surrender</text>
+      <event>
+        <text>You disable the civilians' engines before hailing the mercenaries. However, a missile from the mercenaries barely misses your ship and collides with the already fragile civilian ship, instantly destroying it. "Whoops, sorry for almost hitting you friend! We weren't after anything on their ship in particular, we only needed to hunt them down. Anyhow, thanks for your service. I'm sure you could use some help with the Rebel fleet..."</text>
+        <ship hostile="false"/>
+        <autoReward level="MED">standard</autoReward>
+        <modifyPursuit amount="-1"/>
+        <enemyDamage amount="5"/>
+        <choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_MERCENARY_FREE"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Just finish them off.</text>
+      <event/>
+    </choice>
+  </event>
+
+  <event name="SURRENDER_SMUGGLER_CIVILIAN">
+    <text>The civilians are on the brink of destruction. Terrified, the civilians surrender and agree to meet any of your demands.</text>
+    <choice hidden="true">
+      <text>Accept their surrender</text>
+      <event>
+        <ship hostile="false"/>
+        <text>You disable the civilians' engines before hailing the slavers. Once they've docked with the civilians, they come to thank you. "We saw this fella showing off their stuff to their friends at the nearby planet, so we followed them out here before attacking them. Now that we've got their cargo, we don't really know what to do with the remaining crew. I mean, since you've already attacked civilians, a little slavery ain't gonna hurt, right?"</text>
+        <autoReward level="MED">scrap_only</autoReward>
+        <crewMember amount="1" class="human"/>
+        <choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+        </choice>
+      </event>
+    </choice>
+    <choice>
+      <text>Just finish them off.</text>
+      <event/>
+    </choice>
+  </event>
+
+  <event name="DESTROYED_SLAVER_CIVILIAN">
+    <text>You have destroyed the civilian ship. You doubt the slavers will be happy about it, but you briefly scrap the ship before they hail you.</text>
+    <autoReward level="LOW">standard</autoReward>
+    <choice>
+      <text>Continue...</text>
+      <event>
+        <text>"What the hell was that! The slaves were the goods we were after and you blew them up... but seeing a Fed attacking civilians does crack me up. Fine, we'll agree to not fight, but expect no future favours."</text>
+      </event>
+    </choice>
+  </event>
+  <event name="DEAD_CREW_SLAVER_CIVILIAN">
+    <text>You have defeated all of the civilians. You doubt the slavers will be happy about it, but you briefly scrap the ship before they hail you.</text>
+    <autoReward level="LOW">standard</autoReward>
+    <choice>
+      <text>Continue...</text>
+      <event>
+        <text>"What the hell was that! The slaves were the goods we were after and you killed them all... but seeing a Fed attacking civilians does crack me up. Fine, we'll agree to not fight, but expect no future favours."</text>
+      </event>
+    </choice>
+  </event>
+
+  <event name="DESTROYED_MERCENARY_CIVILIAN">
+    <text>You have destroyed the civilian ship. You hope the mercenaries don't mind if you scrap the ship.</text>
+    <autoReward level="MED">standard</autoReward>
+    <choice>
+      <text>Continue...</text>
+      <event>
+        <text>"Lovely, you've done our job for us! You have our thanks. I'm sure you could use some help with the rebel fleet..."</text>
+        <modifyPursuit amount="-1"/>
+        <choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_MERCENARY_FREE"/>
+        </choice>
+      </event>
+    </choice>
+  </event>
+  <event name="DEAD_CREW_MERCENARY_CIVILIAN">
+    <text>You have defeated all of the civilians. You hope the mercenaries don't mind if you scrap the ship.</text>
+    <autoReward level="MED">standard</autoReward>
+    <choice>
+      <text>Continue...</text>
+      <event>
+        <text>"Lovely, you've done our job for us! You have our thanks. I'm sure you could use some help with the rebel fleet..."</text>
+        <modifyPursuit amount="-1"/>
+        <choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_MERCENARY_FREE"/>
+        </choice>
+      </event>
+    </choice>
+  </event>
+
+  <event name="DESTROYED_SMUGGLER_CIVILIAN">
+    <text>You have destroyed the civilian ship. You doubt the smugglers will be happy about it, but you briefly scrap the ship before they hail you.</text>
+    <autoReward level="LOW">standard</autoReward>
+    <choice>
+      <text>Continue...</text>
+      <event>
+        <text>"What the hell was that! You just blew up all the cargo we were after... Though seeing a Fed attacking civilians does crack me up. Fine, we'll agree to not fight, but expect no future favours."</text>
+      </event>
+    </choice>
+  </event>
+  <event name="DEAD_CREW_SMUGGLER_CIVILIAN">
+    <text>You have defeated all of the civilians. You hope the smugglers don't mind if you scrap the ship.</text>
+    <autoReward level="LOW">standard</autoReward>
+    <choice>
+      <text>Continue...</text>
+      <event>
+        <text>"Thanks for keeping the cargo intact! We saw this fella showing off their stuff to their friends at the nearby planet, so we followed them out here before attacking them. Here, have one of the weapons from their cargo."</text>
+        <weapon name="GIFTLIST_UNION"/>
+        <choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+        </choice>
+      </event>
+    </choice>
+  </event>
+</FTL>

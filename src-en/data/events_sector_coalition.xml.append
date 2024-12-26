@@ -1,0 +1,35 @@
+<FTL>
+<!--Remove filler events from sector-specific pool
+	<mod:findName type="eventList" name="NEUTRAL_COALITION">
+		<mod-append:event load="PIP_PIRATE_GUARD_CACHE"/>
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_ENCOUNTER"/>
+	</mod:findName>
+	-->
+	
+  <mod:findName type="event" name="DISTRESS_COALITION_PIRATE_FEAR">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Attack the pirates.</mod:selector>
+      <mod:findLike type="event">
+        <mod:findLike type="choice">
+          <mod:findLike type="event">
+            <mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+          </mod:findLike>
+        </mod:findLike>
+      </mod:findLike>
+    </mod:findWithChildLike>  
+	<mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Give them some supplies.</mod:selector>
+      <mod:findLike type="event">
+        <mod:findLike type="choice">
+          <mod:findLike type="event">
+            <mod-append:choice>
+              <text>Continue...</text>
+              <event load="REPUTATION_UPDATE_PIRATES_FREE"/>
+            </mod-append:choice>
+          </mod:findLike>
+        </mod:findLike>
+      </mod:findLike>
+    </mod:findWithChildLike>  
+  </mod:findName>
+</FTL>

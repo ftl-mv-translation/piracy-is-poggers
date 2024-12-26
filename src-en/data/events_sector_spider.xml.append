@@ -1,0 +1,63 @@
+<FTL>
+	
+<!--Remove filler events from sector-specific pool
+	<mod:findName type="eventList" name="NEUTRAL_INFESTATION">
+		<mod-append:event load="PIP_PIRATE_FACTION_ATTACK"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_ENCOUNTER"/>
+	</mod:findName>
+-->
+
+  <mod:findName type="event" name="INFESTATION_SLAVERS">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Buy a slave.</mod:selector>
+      <mod:findLike type="event">
+		  <mod:findLike type="choice">
+			  <mod:findLike type="event">
+				  <mod:setAttributes load="REPUTATION_UPDATE_SLAVER_FREE"/>
+			  </mod:findLike>
+		  </mod:findLike>
+      </mod:findLike>
+    </mod:findWithChildLike>
+	 <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>[Reputation: 1+] Buy an exotic slave.</mod:selector>
+      <mod:findLike type="event">
+		  <mod:findLike type="choice">
+			  <mod:findLike type="event">
+				  <mod:setAttributes load="REPUTATION_UPDATE_SLAVER_FREE"/>
+			  </mod:findLike>
+		  </mod:findLike>
+      </mod:findLike>
+    </mod:findWithChildLike>
+    <mod:findWithChildLike type="choice" child-type="text">
+        <mod:selector>Fight the ship.</mod:selector>
+        <mod:findLike type="event">
+            <mod:findLike type="choice">
+                <mod:findLike type="event">
+                    <mod:setAttributes load="REPUTATION_DECREASE_SLAVER_COMBAT"/>
+                </mod:findLike>
+            </mod:findLike>
+        </mod:findLike>
+    </mod:findWithChildLike>
+  </mod:findName>
+	
+<mod:findName type="event" name="INFESTATION_IRWIN">
+	<mod:findLike type="choice">
+		<mod:findLike type="event">
+			<mod:findLike type="choice">
+				<mod:findLike type="event">
+					<mod:findWithChildLike type="choice" child-type="text">
+						<mod:selector>Intervene.</mod:selector>
+						<mod:findLike type="event">
+							<mod:findLike type="choice">
+								<mod:findLike type="event">
+									<mod:setAttributes load="REPUTATION_DECREASE_MERCENARY_COMBAT"/>
+								</mod:findLike>
+							</mod:findLike>
+						</mod:findLike>
+					</mod:findWithChildLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findLike>
+	</mod:findLike>
+</mod:findName>
+</FTL>

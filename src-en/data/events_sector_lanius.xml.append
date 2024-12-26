@@ -1,0 +1,8 @@
+<FTL>
+	<!--Remove filler events from sector-specific pool
+	<mod:findName type="eventList" name="NEUTRAL_LANIUS_GENERIC">
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_ENCOUNTER"/>
+	</mod:findName>-->
+	
+</FTL>

@@ -1,0 +1,2481 @@
+<FTL>
+  
+<!--Pretty sure these were replaced by the lowercase version
+  <mod:findLike type="events">
+    <mod:findName type="req" name="REPUTATION_SLAVER_COMB">
+      <mod:setAttributes type="sum"/>
+    </mod:findName>
+
+    <mod:findName type="req" name="REPUTATION_MERC_COMB">
+      <mod:setAttributes type="sum"/>
+    </mod:findName>
+
+    <mod:findName type="req" name="REPUTATION_SMUGGLER_COMB">
+      <mod:setAttributes type="sum"/>
+    </mod:findName>
+  </mod:findLike>-->
+  
+  <events>
+    
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                              VARIABLES
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    <variable name="loc_merc_premium" op="set" val="0"/>
+    <variable name="loc_merc_transmitter" op="set" val="0"/>
+    <variable name="loc_merc_transmitter_use" op="set" val="0"/>
+    <variable name="mercenary_targets" op="set" val="1"/>
+    <variable name="loc_merc_target_1" op="set" val="0"/>
+    <variable name="loc_merc_target_2" op="set" val="0"/>
+    <variable name="loc_merc_target_3" op="set" val="0"/>
+    <variable name="loc_merc_target_4" op="set" val="0"/>
+    <variable name="loc_merc_target_5" op="set" val="0"/>
+    <variable name="loc_merc_target_6" op="set" val="0"/>
+    <variable name="loc_merc_target_7" op="set" val="0"/>
+    <variable name="loc_merc_target_8" op="set" val="0"/>
+    <variable name="loc_merc_target_9" op="set" val="0"/>
+    <variable name="loc_merc_target_10" op="set" val="0"/>
+    <variable name="loc_merc_target_11" op="set" val="0"/>
+    <variable name="loc_merc_target_12" op="set" val="0"/>
+    <variable name="loc_merc_target_unique_1" op="set" val="0"/>
+    <variable name="loc_merc_target_unique_2" op="set" val="0"/>
+    <variable name="loc_mercenary_targets_hunted" op="set" val="0"/>
+
+    <variable name="loc_blackmarket" op="set" val="0"/>
+	<variable name="loc_nexus" op="set" val="0"/>
+	  
+	<variable name="coords_blackmarket" op="set" val="0"/>
+	<variable name="loc_gladiator_champion" op="set" val="0"/>
+	  
+	<variable name="mini_payload_used" op="set" val="0"/>
+
+	  
+	<mod:findName type="req" name="COORDS">
+		<mod-append:name>coords_blackmarket</mod-append:name>
+	</mod:findName>
+	  
+	<mod:findName type="req" name="COORDS_BOSS">
+		<mod:findLike type="req" limit="1">
+			<mod-append:name>coords_blackmarket</mod-append:name>
+		</mod:findLike>
+	</mod:findName>
+	  
+	<mod:findName type="req" name="COORDS_BOSS_TOOLATE">
+		<mod:findLike type="req" limit="1">
+			<mod-append:name>coords_blackmarket</mod-append:name>
+		</mod:findLike>
+	</mod:findName>
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                           REQUIREMENTS
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+    
+    <req name="TRANSMITTER_CHECK_REAL" type="all">
+      <req lvl="1" max_lvl="1">
+        <name>loc_merc_transmitter</name>
+      </req>
+      <req lvl="0" max_lvl="1">
+        <name>loc_merc_transmitter_use</name>
+      </req>
+      <req lvl="0" max_lvl="0">
+        <name>loc_nexus</name>
+      </req>
+    </req>
+
+    <req name="TRANSMITTER_CHECK_USED" type="all">
+      <req lvl="1" max_lvl="1">
+        <name>loc_merc_transmitter</name>
+      </req>
+      <req lvl="2" max_lvl="999">
+        <name>loc_merc_transmitter_use</name>
+      </req>
+      <req lvl="0" max_lvl="0">
+        <name>loc_nexus</name>
+      </req>
+    </req>
+
+    <req name="TRANSMITTER_CHECK_NEXUS" type="all">
+      <req lvl="1" max_lvl="1">
+        <name>loc_merc_transmitter</name>
+      </req>
+      <req lvl="1" max_lvl="1">
+        <name>loc_nexus</name>
+      </req>
+    </req>
+
+    <req name="MERCENARY_UNIQUE_TARGETS_CHECK" type="all">
+      <req lvl="4">
+        <name>rep_comb_merc</name>
+      </req>
+      <req lvl="1">
+        <name>loc_mercenary_targets_hunted</name>
+      </req>
+    </req>
+    
+    <req name="SLAVER_REP_2_OFFER" type="sum"> <!--if NEG_SLAVER rep is positive then -1 gets "added" to this, so then this cannot be fulfilled-->
+      <req lvl="2"> <!--if this is true then the main req is fulfilled, but not if the other one is-->
+        <name>rep_comb_slaver</name> 
+      </req>
+      <req lvl="2" mult="-1"> <!--if NEG_SLAVER_REP is positive this is negative--> <!--the main req is never fulfilled regardless of this-->
+        <name>NEG_SLAVER_REP</name>
+      </req>
+    </req>
+    
+    <req name="NEG_SLAVER_REP" type="sum" mult="-1"> <!--if rep_slaver is negative this is positive-->
+      <name>rep_slaver</name>
+    </req>
+    
+    <req name="SLAVER_REP_3_OFFER" type="sum"> 
+      <req lvl="3">
+        <name>rep_comb_slaver</name> 
+      </req>
+      <req lvl="2" mult="-1">
+        <name>NEG_SLAVER_REP</name>
+      </req>
+    </req>
+    
+    <req name="MERCENARY_REP_2_OFFER" type="sum"> 
+      <req lvl="2">
+        <name>rep_comb_merc</name> 
+      </req>
+      <req lvl="2" mult="-1">
+        <name>NEG_MERCENARY_REP</name>
+      </req>
+    </req>
+    
+    <req name="NEG_MERCENARY_REP" type="sum" mult="-1">
+      <name>rep_mercenary</name>
+    </req>
+    
+    <req name="MERCENARY_REP_3_OFFER" type="sum"> 
+      <req lvl="3">
+        <name>rep_comb_merc</name> 
+      </req>
+      <req lvl="2" mult="-1">
+        <name>NEG_MERCENARY_REP</name>
+      </req>
+    </req>
+    
+    <req name="SMUGGLER_REP_2_OFFER" type="sum"> 
+      <req lvl="2">
+        <name>rep_comb_smuggler</name> 
+      </req>
+      <req lvl="2" mult="-1">
+        <name>NEG_SMUGGLER_REP</name>
+      </req>
+    </req>
+    
+    <req name="NEG_SMUGGLER_REP" type="sum" mult="-1">
+      <name>rep_smuggler</name>
+    </req>
+    
+    <req name="SMUGGLER_REP_3_OFFER" type="sum"> 
+      <req lvl="3">
+        <name>rep_comb_smuggler</name> 
+      </req>
+      <req lvl="2" mult="-1">
+        <name>NEG_SMUGGLER_REP</name>
+      </req>
+    </req>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\EVENT REQS\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+	  
+	<req name="PIP_CHAMPION_AVAILABLE" type="all">
+	  <req lvl="4">
+		<name>rep_comb_slaver</name>
+	  </req>
+	  <req max_lvl="0">
+		<name>loc_gladiator_champion</name>
+	  </req>
+	</req>
+	  
+	<req name="PIP_CHAMPION_NOTAVAILABLE" type="all">
+	  <req lvl="4">
+		<name>rep_comb_slaver</name>
+	  </req>
+	  <req lvl="1">
+		<name>loc_gladiator_champion</name>
+	  </req>
+	</req>
+	 
+	<req name="PIP_ENGI_COMBAT" type="all">
+	  <name>LAB_ENGI_COMBAT</name>
+	  <req type="any">
+		<name>PIP_LIST_CREW_ENGI_NOPONY</name>
+	  </req>
+	</req>
+  
+    
+  </events>
+
+
+  
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                              AUGMENTS
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  
+<!--Unlocked Augments-->
+  <augments>
+    <aug name="RADIANT_GAS_UNLOCKED">
+      <statBoosts>
+        <statBoost name="trueHealAmount">
+          <boostType>FLAT</boostType>
+          <amount>-18</amount>
+          <shipTarget>ORIGINAL_SHIP</shipTarget>
+          <crewTarget>ENEMIES</crewTarget>
+          <droneTarget>CREW</droneTarget>
+          <priority>999</priority>
+          <blackList load="LIST_CREW_GAS"/>
+        </statBoost>
+      </statBoosts>
+    </aug>
+
+    <aug name="PALADIN_ARMOR_PLAYER_UNLOCKED">
+      <function name="ROCK_ARMOR" value="1" useForReqs="true" warning="false"/>
+    </aug>
+
+    <aug name="COAL_AUG">
+      <function name="CREW_STIMS" value="0.25" useForReqs="true" warning="false"/>
+      <statBoosts>
+        <statBoost name="moveSpeedMultiplier">
+          <boostType>MULT</boostType>
+          <shipTarget>ALL</shipTarget>
+          <crewTarget>ALLIES</crewTarget>
+          <droneTarget>CREW</droneTarget>
+          <amount>1.25</amount>
+          <priority>0</priority>
+          <systemPowerDependency>
+            <oxygen/>
+          </systemPowerDependency>
+          <systemPowerScaling>
+            <noSys>0</noSys>
+            <noPwr>0</noPwr>
+            <onePwr>1</onePwr>
+            <twoPwr>2</twoPwr>
+            <threePwr>3</threePwr>
+            <fourPwr>4</fourPwr>
+          </systemPowerScaling>
+        </statBoost>
+        <statBoost name="maxHealth">
+          <boostType>MULT</boostType>
+          <shipTarget>ALL</shipTarget>
+          <crewTarget>ALLIES</crewTarget>
+          <droneTarget>CREW</droneTarget>
+          <amount>1.065</amount>
+          <priority>0</priority>
+          <systemPowerDependency>
+            <oxygen/>
+          </systemPowerDependency>
+          <systemPowerScaling>
+            <noSys>0</noSys>
+            <noPwr>0</noPwr>
+            <onePwr>1</onePwr>
+            <twoPwr>2</twoPwr>
+            <threePwr>3</threePwr>
+            <fourPwr>4</fourPwr>
+          </systemPowerScaling>
+        </statBoost>
+      </statBoosts>
+      <function name="SLUG_GEL" value="1" useForReqs="true" warning="false"/>
+      <statBoosts>
+        <statBoost name="damageTakenMultiplier">
+          <boostType>MULT</boostType>
+          <amount>0.65</amount>
+          <shipTarget>ORIGINAL_SHIP</shipTarget>
+          <crewTarget>ALLIES</crewTarget>
+          <droneTarget>CREW</droneTarget>
+          <priority>999</priority>
+          <systemRoomTarget>NONE</systemRoomTarget>
+          <systemList>
+            <pilot/>
+            <engines/>
+            <shields/>
+            <weapons/>
+            <oxygen/>
+            <medbay/>
+            <clonebay/>
+            <drones/>
+            <sensors/>
+            <doors/>
+            <cloaking/>
+            <mind/>
+            <hacking/>
+            <teleporter/>
+            <artillery/>
+            <battery/>
+          </systemList>
+        </statBoost>
+        <statBoost name="fireDamageMultiplier">
+          <boostType>MULT</boostType>
+          <amount>0.5</amount>
+          <shipTarget>ORIGINAL_SHIP</shipTarget>
+          <crewTarget>ALLIES</crewTarget>
+          <droneTarget>CREW</droneTarget>
+          <priority>999</priority>
+          <systemRoomTarget>NONE</systemRoomTarget>
+          <systemList>
+            <pilot/>
+            <engines/>
+            <shields/>
+            <weapons/>
+            <oxygen/>
+            <medbay/>
+            <clonebay/>
+            <drones/>
+            <sensors/>
+            <doors/>
+            <cloaking/>
+            <mind/>
+            <hacking/>
+            <teleporter/>
+            <artillery/>
+            <battery/>
+          </systemList>
+        </statBoost>
+        <statBoost name="suffocationModifier">
+          <boostType>MULT</boostType>
+          <amount>0.5</amount>
+          <shipTarget>ORIGINAL_SHIP</shipTarget>
+          <crewTarget>ALLIES</crewTarget>
+          <droneTarget>CREW</droneTarget>
+          <priority>999</priority>
+          <systemRoomTarget>NONE</systemRoomTarget>
+          <systemList>
+            <pilot/>
+            <engines/>
+            <shields/>
+            <weapons/>
+            <oxygen/>
+            <medbay/>
+            <clonebay/>
+            <drones/>
+            <sensors/>
+            <doors/>
+            <cloaking/>
+            <mind/>
+            <hacking/>
+            <teleporter/>
+            <artillery/>
+            <battery/>
+          </systemList>
+        </statBoost>
+        <statBoost name="stunMultiplier">
+          <boostType>MULT</boostType>
+          <amount>0.5</amount>
+          <shipTarget>ORIGINAL_SHIP</shipTarget>
+          <crewTarget>ALLIES</crewTarget>
+          <droneTarget>CREW</droneTarget>
+          <priority>999</priority>
+          <systemRoomTarget>NONE</systemRoomTarget>
+          <systemList>
+            <pilot/>
+            <engines/>
+            <shields/>
+            <weapons/>
+            <oxygen/>
+            <medbay/>
+            <clonebay/>
+            <drones/>
+            <sensors/>
+            <doors/>
+            <cloaking/>
+            <mind/>
+            <hacking/>
+            <teleporter/>
+            <artillery/>
+            <battery/>
+          </systemList>
+        </statBoost>
+      </statBoosts>
+      <function name="ROCK_ARMOR" value="0.20"/>
+    </aug>
+
+<!--Prototype Augments-->
+	<aug name="PIP_ENERGY_SHIELD_WEAK">
+		<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false"/>
+		<superShield>
+			<value>1</value>
+			<color r="0" g="255" b="6" a="0.8"/>
+			<shieldImage>ship/enemy_shields_white.png</shieldImage>
+		</superShield>
+	</aug>
+
+	<aug name="PIP_DEFENSIVE_SUITS"> <!--Reworked because it was kinda similar to exovests-->
+		<statBoosts>
+			<statBoost name="moveSpeedMultiplier">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>0.9</amount>
+				<priority>0</priority>
+			</statBoost>
+			<statBoost name="damageMultiplier">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>0.9</amount>
+				<priority>0</priority>
+			</statBoost>
+			<statBoost name="repairSpeed">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>0.9</amount>
+				<priority>0</priority>
+			</statBoost>
+			<statBoost name="allDamageTakenMultiplier">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>0.7</amount>
+				<priority>0</priority>
+			</statBoost>
+			<statBoost name="stunMultiplier">
+				<boostType>MULT</boostType>
+				<amount>0.7</amount>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<priority>0</priority>
+			</statBoost>
+		</statBoosts>
+	</aug>
+	  
+	<aug name="PIP_COMBAT_RELOADER_INTERNAL_BOOST">
+		<function name="AUTO_COOLDOWN" value="0.5" useForReqs="false"/>
+	</aug>
+	  
+	<aug name="PIP_COMBAT_RELOADER_INTERNAL_PENALTY">
+		<function name="AUTO_COOLDOWN" value="-0.3" useForReqs="false"/>
+	</aug>
+  </augments>
+
+
+
+	
+  
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                              STORES
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <store>
+    
+    
+    <customStore id="STORE_SLAVER_BASIC">
+      <itemPurchaseLimit>3</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GENERIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>20</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GOOD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>EXOTIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+
+	<customStore id="STORE_SLAVER_AUGMENTS"> <!--New as of 3.0.0-->
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GENERIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>20</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GOOD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>EXOTIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+	  <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+
+	  
+    <customStore id="STORE_SLAVER_SHIPBOARD">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>ELITE SHIPBOARD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_SHIPBOARD_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_SHIPBOARD_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_SHIPBOARD_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>SHIPBOARD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_SHIPBOARD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_SHIPBOARD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_SHIPBOARD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GENERIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>20</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GOOD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>EXOTIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SLAVER_FIGHTER">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>ELITE FIGHTER SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_FIGHTER_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_FIGHTER_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_FIGHTER_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>FIGHTER SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_FIGHTER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_FIGHTER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_FIGHTER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GENERIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>20</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GOOD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>EXOTIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SLAVER_DISRUPTOR">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>ELITE DISRUPTOR SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_DISRUPTOR_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_DISRUPTOR_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_DISRUPTOR_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>DISRUPTOR SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_DISRUPTOR</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_DISRUPTOR</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_DISRUPTOR</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GENERIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>20</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GOOD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>EXOTIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+	  <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SLAVER_ANAEROBIC">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>ELITE ANAEROBIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ANAEROBIC_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ANAEROBIC_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ANAEROBIC_ELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>ANAEROBIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ANAEROBIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ANAEROBIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ANAEROBIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GENERIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>20</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GOOD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>EXOTIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+	  <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SLAVER_ELITE">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>80</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>80</price>
+        </item>
+      </category>
+	  <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SLAVER_SELITE">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="CREW">
+        <customTitle>SUPER ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>rock_paladin</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>85</price>
+        </item>
+        <item>
+          <blueprint>slug_knight</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>95</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_STORE_SUPERELITE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>100</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>ELITE SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_ELITE_ONLY</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>80</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GENERIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>20</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>25</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>30</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>GOOD SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>35</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>EXOTIC SLAVES</customTitle>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_SLAVES_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+	  <category type="AUGMENTS">
+		<customTitle>LAB AND CREW AUGMENTS</customTitle>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_LAB</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SLAVER_STORE_CREW_LAB_AND_AUGMENTS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+    </customStore>
+    
+    <customStore id="STORE_SMUGGLER_BASIC">
+      <itemPurchaseLimit>3</itemPurchaseLimit>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SMUGGLER_PLAYERWEAPONS_ONLY"> <!--Used for a blue option in SMUGGLER_PLAYER_WEPS-->
+      <itemPurchaseLimit>2</itemPurchaseLimit>
+      <category type="WEAPONS">
+        <customTitle>POWER EFFICIENT WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>POWER EFFICIENT WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <customTitle>POWER EFFICIENT DRONES</customTitle>
+        <item>
+          <blueprint>DRONE_SHIELD_POWERLESS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>HELLRAISER_FIRE_PLAYER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>55</price>
+        </item>
+        <item>
+          <blueprint>DEFENSE_3_PLAYER_PLAYER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>175</price>
+        </item>
+      </category>
+    </customStore>  
+      
+
+    <customStore id="STORE_SMUGGLER_PLAYERWEAPONS">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="WEAPONS">
+        <customTitle>POWER EFFICIENT WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>POWER EFFICIENT WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SMUGGLER_THICKWEAPONS">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="WEAPONS">
+        <customTitle>HEAVY DUTY WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_THICK</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_THICK</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_THICK</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>HEAVY DUTY WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_THICK</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_THICK</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_THICK</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SMUGGLER_OFFENSEDRONES">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="DRONES">
+        <customTitle>COMBAT DRONES</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_OFFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_OFFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_OFFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <customTitle>COMBAT DRONES</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_OFFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_OFFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_OFFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SMUGGLER_DEFENSEDRONES">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="DRONES">
+        <customTitle>DEFENSE DRONES</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_DEFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_DEFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_DEFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <customTitle>DEFENSE/CREW DRONES</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_DEFENSE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_CREW</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>40</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_CREW</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SMUGGLER_MOREAUGMENTS">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_EXPERIMENTAL_STORE</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+    </customStore>
+
+    <customStore id="STORE_SMUGGLER_TRANSPORT">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <category type="WEAPONS">
+        <customTitle>TRANSPORT WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>TRANSPORT WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>75</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <customTitle>TRANSPORT DRONES</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER_TRANSPORT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>65</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+    </customStore>
+
+
+    <!--For the reward where you get renegade loot from Hunter Briggs-->
+    <customStore id="STORE_MERCENARY_TARGETS_REWARD_RENEGADE">
+      <itemPurchaseLimit>2</itemPurchaseLimit>
+      <category type="WEAPONS">
+        <customTitle>RENEGADE WEAPONS</customTitle>
+        <item>
+          <blueprint>RENEGADE_WEAPONS_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+        <item>
+          <blueprint>RENEGADE_WEAPONS_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+        <item>
+          <blueprint>RENEGADE_WEAPONS_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <customTitle>RENEGADE WEAPONS</customTitle>
+        <item>
+          <blueprint>RENEGADE_WEAPONS_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+        <item>
+          <blueprint>RENEGADE_WEAPONS_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+        <item>
+          <blueprint>RENEGADE_WEAPONS_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <customTitle>RENEGADE DRONES</customTitle>
+        <item>
+          <blueprint>RENEGADE_DRONES_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+        <item>
+          <blueprint>RENEGADE_DRONES_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+        <item>
+          <blueprint>RENEGADE_DRONES_NOCHAOS</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+      </category>
+      <category type="CREW">
+        <customTitle>RENEGADE CREW</customTitle>
+        <item>
+          <blueprint>pony_engi</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+        <item>
+          <blueprint>spider_venom</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>0</price>
+        </item>
+      </category>
+    </customStore>
+
+    <!--special store you get by using the smuggler rep blue option at the black market guard-->
+    <customStore id="STORE_SMUGGLER_GUARD">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <hullRepair>
+        <price min="2" max="4"/>
+        <sectorScaled/>
+      </hullRepair>
+      <resource>
+        <type>fuel</type>
+        <count min="7" max="12"/>
+        <modifier flat="true">-1</modifier>
+      </resource>
+      <resource>
+        <type>missiles</type>
+        <count min="3" max="7"/>
+        <modifier flat="true">-2</modifier>
+      </resource>
+      <resource>
+        <type>drones</type>
+        <count min="6" max="11"/>
+        <modifier flat="true">-2</modifier>
+      </resource>
+      <category type="WEAPONS">
+        <customTitle>SPECIAL WEAPONS</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_POWER</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_EVENT</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.75</modifier>
+          <price>-1</price>
+        </item>
+      </category>
+      <category type="WEAPONS">
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>53</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>50</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GENERIC</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>45</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GOOD</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>60</price>
+        </item>
+        <item>
+          <blueprint>PIP_LIST_SMUGGLER_AUGMENT_GREAT</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>90</price>
+        </item>
+      </category>
+      <category type="SYSTEMS">
+        <customTitle>ESSENTIAL SYSTEMS</customTitle>
+        <guaranteedSystems>
+          <weapons/>
+          <shields/>
+          <oxygen/>
+        </guaranteedSystems>
+        <item>
+          <blueprint>SHOP_ITEM_SYSTEMS_ESSENTIAL</blueprint>
+        </item>
+        <item>
+          <blueprint>SHOP_ITEM_SYSTEMS_ESSENTIAL</blueprint>
+        </item>
+        <item>
+          <blueprint>SHOP_ITEM_SYSTEMS_ESSENTIAL</blueprint>
+        </item>
+        <chance>100</chance>
+      </category>
+      <category type="SYSTEMS">
+        <customTitle>AUXILIARY SYSTEMS</customTitle>
+        <item>
+          <blueprint>SHOP_ITEM_SYSTEMS_BONUS</blueprint>
+        </item>
+        <item>
+          <blueprint>SHOP_ITEM_SYSTEMS_BONUS</blueprint>
+        </item>
+        <item>
+          <blueprint>SHOP_ITEM_SYSTEMS_BONUS</blueprint>
+        </item>
+        <chance>100</chance>
+      </category>
+      <category type="WEAPONS" group="1">
+        <customTitle>WEAPONS OF THE DAY [40% OFF]</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL</blueprint>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <chance>80</chance>
+        <groupChance>50</groupChance>
+      </category>
+      <category type="DRONES" group="1">
+        <customTitle>DRONES OF THE DAY [40% OFF]</customTitle>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <item>
+          <blueprint>LIST_PIRATE_SALESMAN_DRONES_SUPERIOR</blueprint>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <chance>60</chance>
+        <groupChance>15</groupChance>
+      </category>
+      <category type="AUGMENTS" group="1">
+        <customTitle>AUGMENTS OF THE DAY [40% OFF]</customTitle>
+        <item>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <item>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <item>
+          <blueprint>LIST_CONTRABAND_AUGMENT_SMUGGLER_SUPERIOR</blueprint>
+          <modifier flat="false">0.6</modifier>
+          <price>-1</price>
+          <mysteryItem>true</mysteryItem>
+        </item>
+        <chance>70</chance>
+        <groupChance>35</groupChance>
+      </category>
+    </customStore>
+
+    
+    <!--NEBULA_SHELL_FOSSILS blue option, CAPITAL_SMUGGLER_TRADE and DISTRESS_CAPITAL_ARREST_WIN smuggler outcome, basically has only 1 cool item of each item type but also has resources and repairs-->
+    <customStore id="STORE_SMUGGLER_VERYBASIC">
+      <itemPurchaseLimit>4</itemPurchaseLimit>
+      <hullRepair>
+        <price min="2" max="4"/>
+        <sectorScaled/>
+      </hullRepair>
+      <resource>
+        <type>fuel</type>
+        <count min="7" max="12"/>
+      </resource>
+      <resource>
+        <type>missiles</type>
+        <count min="3" max="7"/>
+      </resource>
+      <resource>
+        <type>drones</type>
+        <count min="6" max="11"/>
+      </resource>
+      <category type="WEAPONS">
+        <item/>
+        <item/>
+        <item>
+          <blueprint>LIST_CONTRABAND_WEP_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="DRONES">
+        <item/>
+        <item/>
+        <item>
+          <blueprint>LIST_CONTRABAND_DRONE_SMUGGLER</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+      <category type="AUGMENTS">
+        <item/>
+        <item/>
+        <item>
+          <blueprint>LIST_CONTRABAND_AUGMENT_SMUGGLER_SUPERIOR</blueprint>
+          <modifier flat="false">1</modifier>
+          <price>70</price>
+        </item>
+      </category>
+    </customStore>
+  </store>
+	
+	
+<!--Adding lua scripts-->
+
+	<mod:findLike type="scripts">
+		<mod-append:script>data/pip_scripts/remove_combat_reloader.lua</mod-append:script> <!--From Choosechee-->
+	</mod:findLike>
+  
+</FTL>

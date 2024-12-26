@@ -1,0 +1,2713 @@
+<FTL>
+
+
+  <mod:findName type="event" name="STORAGE_CHECK_BUTTON">
+	  <!--Retired format
+    <mod-append:choice req="pilot" lvl="1" max_group="3" blue="false">
+      <text>Check your current reputation with pirates.</text>
+      <event>
+        <text>Your current reputation with pirates and each individual pirate faction is shown below. 
+Your combined pirate reputation is the sum of an individual pirate faction's reputation and generic pirate reputation. This is what matters when you meet friendly or certain aggressive pirates.
+If you want to access special offers, ensure that your reputation for the faction you want to access an offer from does not fall below -1.</text>
+        
+        <choice req="rep_pirate" lvl="-999" max_lvl="-5" hidden="true" blue="false">
+          <text>Pirate Reputation: -5 or less</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="-4" max_lvl="-4" hidden="true" blue="false">
+          <text>Pirate Reputation: -4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="-3" max_lvl="-3" hidden="true" blue="false">
+          <text>Pirate Reputation: -3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="-2" max_lvl="-2" hidden="true" blue="false">
+          <text>Pirate Reputation: -2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="-1" max_lvl="-1" hidden="true" blue="false">
+          <text>Pirate Reputation: -1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="0" max_lvl="0" hidden="true" blue="false">
+          <text>Pirate Reputation: 0</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="1" max_lvl="1" hidden="true" blue="false">
+          <text>Pirate Reputation: 1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="2" max_lvl="2" hidden="true" blue="false">
+          <text>Pirate Reputation: 2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="3" max_lvl="3" hidden="true" blue="false">
+          <text>Pirate Reputation: 3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="4" max_lvl="4" hidden="true" blue="false">
+          <text>Pirate Reputation: 4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_pirate" lvl="5" max_lvl="5" hidden="true" blue="false">
+          <text>Pirate Reputation: 5</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_pirate" lvl="6" max_lvl="6" hidden="true" blue="false">
+          <text>Pirate Reputation: 6</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_pirate" lvl="7" hidden="true" blue="false">
+          <text>Pirate Reputation: 7 or more</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        
+        <choice req="rep_slaver" lvl="-999" max_lvl="-5" hidden="true" blue="false">
+          <text>Slaver Reputation: -5 or less</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="-4" max_lvl="-4" hidden="true" blue="false">
+          <text>Slaver Reputation: -4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="-3" max_lvl="-3" hidden="true" blue="false">
+          <text>Slaver Reputation: -3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="-2" max_lvl="-2" hidden="true" blue="false">
+          <text>Slaver Reputation: -2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="-1" max_lvl="-1" hidden="true" blue="false">
+          <text>Slaver Reputation: -1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="0" max_lvl="0" hidden="true" blue="false">
+          <text>Slaver Reputation: 0</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="1" max_lvl="1" hidden="true" blue="false">
+          <text>Slaver Reputation: 1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="2" max_lvl="2" hidden="true" blue="false">
+          <text>Slaver Reputation: 2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="3" max_lvl="3" hidden="true" blue="false">
+          <text>Slaver Reputation: 3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="4" max_lvl="4" hidden="true" blue="false">
+          <text>Slaver Reputation: 4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_slaver" lvl="5" max_lvl="5" hidden="true" blue="false">
+          <text>Slaver Reputation: 5</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_slaver" lvl="6" max_lvl="6" hidden="true" blue="false">
+          <text>Slaver Reputation: 6</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_slaver" lvl="7" hidden="true" blue="false">
+          <text>Slaver Reputation: 7 or more</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        
+        <choice req="rep_mercenary" lvl="-999" max_lvl="-5" hidden="true" blue="false">
+          <text>Mercenary Reputation: -5 or less</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="-4" max_lvl="-4" hidden="true" blue="false">
+          <text>Mercenary Reputation: -4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="-3" max_lvl="-3" hidden="true" blue="false">
+          <text>Mercenary Reputation: -3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="-2" max_lvl="-2" hidden="true" blue="false">
+          <text>Mercenary Reputation: -2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="-1" max_lvl="-1" hidden="true" blue="false">
+          <text>Mercenary Reputation: -1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="0" max_lvl="0" hidden="true" blue="false">
+          <text>Mercenary Reputation: 0</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="1" max_lvl="1" hidden="true" blue="false">
+          <text>Mercenary Reputation: 1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="2" max_lvl="2" hidden="true" blue="false">
+          <text>Mercenary Reputation: 2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="3" max_lvl="3" hidden="true" blue="false">
+          <text>Mercenary Reputation: 3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="4" max_lvl="4" hidden="true" blue="false">
+          <text>Mercenary Reputation: 4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_mercenary" lvl="5" max_lvl="5" hidden="true" blue="false">
+          <text>Mercenary Reputation: 5</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_mercenary" lvl="6" max_lvl="6" hidden="true" blue="false">
+          <text>Mercenary Reputation: 6</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_mercenary" lvl="7" hidden="true" blue="false">
+          <text>Mercenary Reputation: 7 or more</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        
+        <choice req="rep_smuggler" lvl="-999" max_lvl="-5" hidden="true" blue="false">
+          <text>Smuggler Reputation: -5 or less</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="-4" max_lvl="-4" hidden="true" blue="false">
+          <text>Smuggler Reputation: -4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="-3" max_lvl="-3" hidden="true" blue="false">
+          <text>Smuggler Reputation: -3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="-2" max_lvl="-2" hidden="true" blue="false">
+          <text>Smuggler Reputation: -2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="-1" max_lvl="-1" hidden="true" blue="false">
+          <text>Smuggler Reputation: -1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="0" max_lvl="0" hidden="true" blue="false">
+          <text>Smuggler Reputation: 0</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="1" max_lvl="1" hidden="true" blue="false">
+          <text>Smuggler Reputation: 1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="2" max_lvl="2" hidden="true" blue="false">
+          <text>Smuggler Reputation: 2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="3" max_lvl="3" hidden="true" blue="false">
+          <text>Smuggler Reputation: 3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="4" max_lvl="4" hidden="true" blue="false">
+          <text>Smuggler Reputation: 4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="rep_smuggler" lvl="5" max_lvl="5" hidden="true" blue="false">
+          <text>Smuggler Reputation: 5</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_smuggler" lvl="6" max_lvl="6" hidden="true" blue="false">
+          <text>Smuggler Reputation: 6</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="rep_smuggler" lvl="7" hidden="true" blue="false">
+          <text>Smuggler Reputation: 7 or more</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        
+        <choice req="REPUTATION_SLAVER_COMB" lvl="-999" max_lvl="-5" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: -5 or less</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="-4" max_lvl="-4" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: -4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="-3" max_lvl="-3" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: -3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="-2" max_lvl="-2" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: -2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="-1" max_lvl="-1" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: -1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="0" max_lvl="0" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 0</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="1" max_lvl="1" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="2" max_lvl="2" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="3" max_lvl="3" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="4" max_lvl="4" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SLAVER_COMB" lvl="5" max_lvl="5" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 5</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="REPUTATION_SLAVER_COMB" lvl="6" max_lvl="6" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 6</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="REPUTATION_SLAVER_COMB" lvl="7" hidden="true" blue="false">
+          <text>Combined Slaver Reputation: 7 or more</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        
+        <choice req="REPUTATION_MERC_COMB" lvl="-999" max_lvl="-5" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: -5 or less</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="-4" max_lvl="-4" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: -4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="-3" max_lvl="-3" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: -3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="-2" max_lvl="-2" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: -2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="-1" max_lvl="-1" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: -1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="0" max_lvl="0" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 0</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="1" max_lvl="1" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="2" max_lvl="2" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="3" max_lvl="3" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="4" max_lvl="4" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_MERC_COMB" lvl="5" max_lvl="5" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 5</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="REPUTATION_MERC_COMB" lvl="6" max_lvl="6" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 6</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="REPUTATION_MERC_COMB" lvl="7" hidden="true" blue="false">
+          <text>Combined Mercenary Reputation: 7 or more</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="-999" max_lvl="-5" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: -5 or less</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="-4" max_lvl="-4" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: -4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="-3" max_lvl="-3" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: -3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="-2" max_lvl="-2" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: -2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="-1" max_lvl="-1" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: -1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="0" max_lvl="0" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 0</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="1" max_lvl="1" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 1</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="2" max_lvl="2" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 2</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="3" max_lvl="3" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 3</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="4" max_lvl="4" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 4</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice req="REPUTATION_SMUGGLER_COMB" lvl="5" max_lvl="5" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 5</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="REPUTATION_SMUGGLER_COMB" lvl="6" max_lvl="6" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 6</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+		<choice req="REPUTATION_SMUGGLER_COMB" lvl="7" hidden="true" blue="false">
+          <text>Combined Smuggler Reputation: 7 or more</text>
+          <event load="OPTION_INVALID"/>
+        </choice>
+        <choice>
+          <text>Return.</text>
+          <event>
+            <loadEvent>STORAGE_CHECK_BUTTON</loadEvent>
+          </event>
+        </choice>
+      </event>
+    </mod-append:choice>-->
+    <mod-append:choice req="TRANSMITTER_CHECK_REAL" max_group="25" blue="false">
+      <text>Use the Mercenary Transmitter.</text>
+      <event>
+        <text>You ponder which service you want to order today. (You will only get a reputation increase if you use the transmitter two times within the same sector)</text>
+        <choice>
+          <text>Hire a mercenary to delay the Rebels.</text>
+          <event>
+            <text>You activate the Transmitter, and soon after a mercenary picks up. "Yeah, whaddya want? Oh, you're a customer needing a service? Aight, I'll log down your scrap debt and carry out the service in a moment, just pay the fee to the next mercenary you see and it's settled."</text>
+            <item_modify>
+              <item type="scrap" min="-15" max="-15"/>
+            </item_modify>
+            <modifyPursuit amount="-2"/>
+            <variable name="loc_merc_transmitter_use" op="add" val="1"/>
+            <choice hidden="true" req="loc_merc_transmitter_use" lvl="0" max_lvl="0" blue="false">
+              <text>Continue...</text>
+              <event/>
+            </choice>
+            <choice hidden="true" req="loc_merc_transmitter_use" lvl="1" max_lvl="1" blue="false">
+              <text>Continue...</text>
+              <event load="REPUTATION_UPDATE_MERCENARY_FREE"/>
+            </choice>
+          </event>
+        </choice>
+        <choice>
+          <text>Hire a mercenary to scout the sector.</text>
+          <event>
+            <text>You activate the Transmitter, and soon after a mercenary picks up. "Yeah, whaddya want? Oh, you're a customer needing a service? Aight, I'll log down your scrap debt and send you the map in a moment, just pay the fee to the next mercenary you see and it's settled."</text>
+            <item_modify>
+              <item type="scrap" min="-12" max="-12"/>
+            </item_modify>
+            <reveal_map/>
+            <variable name="loc_merc_transmitter_use" op="add" val="1"/>
+            <choice hidden="true" req="loc_merc_transmitter_use" lvl="0" max_lvl="0" blue="false">
+              <text>Continue...</text>
+              <event/>
+            </choice>
+            <choice hidden="true" req="loc_merc_transmitter_use" lvl="1" max_lvl="1" blue="false">
+              <text>Continue...</text>
+              <event load="REPUTATION_UPDATE_MERCENARY_FREE"/>
+            </choice>
+          </event>
+        </choice>
+        <choice>
+          <text>Nevermind.</text>
+          <event>
+            <loadEvent>STORAGE_CHECK_BUTTON</loadEvent>
+          </event>
+        </choice>
+      </event>
+    </mod-append:choice>
+    <mod-append:choice req="TRANSMITTER_CHECK_USED" hidden="true" max_group="26" blue="false">
+      <text>You have already called for the mercenaries' basic services twice this sector.</text>
+      <event load="OPTION_INVALID"/>
+    </mod-append:choice>
+    <mod-append:choice req="TRANSMITTER_CHECK_NEXUS" hidden="true" max_group="27" blue="false">
+      <text>Any mercenaries that somehow got into the Nexus would have been snuffed out a long time ago.</text>
+      <event load="OPTION_INVALID"/>
+    </mod-append:choice>
+  </mod:findName>
+
+	<mod:findName type="event" name="STORAGE_CHECK_STATUS_NOTORIETY">
+		<mod:findLike type="choice">
+			<mod:selector req="rep_comb_smuggler"/>
+			<mod:removeTag/>
+		</mod:findLike>
+		<mod:findLike type="choice">
+			<mod:selector req="rep_comb_merc"/>
+			<mod:removeTag/>
+		</mod:findLike>
+		<mod:findLike type="choice">
+			<mod:selector req="rep_comb_slaver"/>
+			<mod:removeTag/>
+		</mod:findLike>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="-999" max_lvl="-5">
+			<text>Pirate Reputation [-5 or less]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="-4" max_lvl="-4">
+			<text>Pirate Reputation [-4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="-3" max_lvl="-3">
+			<text>Pirate Reputation [-3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="-2" max_lvl="-2">
+			<text>Pirate Reputation [-2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="-1" max_lvl="-1">
+			<text>Pirate Reputation [-1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="1" max_lvl="1">
+			<text>Pirate Reputation [1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="2" max_lvl="2">
+			<text>Pirate Reputation [2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="3" max_lvl="3">
+			<text>Pirate Reputation [3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="4" max_lvl="4">
+			<text>Pirate Reputation [4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="5" max_lvl="5">
+			<text>Pirate Reputation [5]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="6" max_lvl="6">
+			<text>Pirate Reputation [6]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="7" max_lvl="999">
+			<text>Pirate Reputation [7+]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="-999" max_lvl="-5">
+			<text>Smuggler Reputation [-5 or less]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="-4" max_lvl="-4">
+			<text>Smuggler Reputation [-4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="-3" max_lvl="-3">
+			<text>Smuggler Reputation [-3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="-2" max_lvl="-2">
+			<text>Smuggler Reputation [-2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="-1" max_lvl="-1">
+			<text>Smuggler Reputation [-1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="1" max_lvl="1">
+			<text>Smuggler Reputation [1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="2" max_lvl="2">
+			<text>Smuggler Reputation [2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="3" max_lvl="3">
+			<text>Smuggler Reputation [3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="4" max_lvl="4">
+			<text>Smuggler Reputation [4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="5" max_lvl="5">
+			<text>Smuggler Reputation [5]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="6" max_lvl="6">
+			<text>Smuggler Reputation [6]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_smuggler" lvl="7" max_lvl="999">
+			<text>Smuggler Reputation [7+]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="-999" max_lvl="-5">
+			<text>Combined Smuggler Reputation [-5 or less]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="-4" max_lvl="-4">
+			<text>Combined Smuggler Reputation [-4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="-3" max_lvl="-3">
+			<text>Combined Smuggler Reputation [-3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="-2" max_lvl="-2">
+			<text>Combined Smuggler Reputation [-2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="-1" max_lvl="-1">
+			<text>Combined Smuggler Reputation [-1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="1" max_lvl="1">
+			<text>Combined Smuggler Reputation [1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="2" max_lvl="2">
+			<text>Combined Smuggler Reputation [2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="3" max_lvl="3">
+			<text>Combined Smuggler Reputation [3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="4" max_lvl="4">
+			<text>Combined Smuggler Reputation [4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="5" max_lvl="5">
+			<text>Combined Smuggler Reputation [5]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="6" max_lvl="6">
+			<text>Combined Smuggler Reputation [6]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_smuggler" lvl="7" max_lvl="999">
+			<text>Combined Smuggler Reputation [7+]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="-999" max_lvl="-5">
+			<text>Mercenary Reputation [-5 or less]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="-4" max_lvl="-4">
+			<text>Mercenary Reputation [-4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="-3" max_lvl="-3">
+			<text>Mercenary Reputation [-3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="-2" max_lvl="-2">
+			<text>Mercenary Reputation [-2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="-1" max_lvl="-1">
+			<text>Mercenary Reputation [-1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="1" max_lvl="1">
+			<text>Mercenary Reputation [1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="2" max_lvl="2">
+			<text>Mercenary Reputation [2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="3" max_lvl="3">
+			<text>Mercenary Reputation [3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="4" max_lvl="4">
+			<text>Mercenary Reputation [4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="5" max_lvl="5">
+			<text>Mercenary Reputation [5]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="6" max_lvl="6">
+			<text>Mercenary Reputation [6]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_mercenary" lvl="7" max_lvl="999">
+			<text>Mercenary Reputation [7+]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="-999" max_lvl="-5">
+			<text>Combined Mercenary Reputation [-5 or less]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="-4" max_lvl="-4">
+			<text>Combined Mercenary Reputation [-4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="-3" max_lvl="-3">
+			<text>Combined Mercenary Reputation [-3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="-2" max_lvl="-2">
+			<text>Combined Mercenary Reputation [-2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="-1" max_lvl="-1">
+			<text>Combined Mercenary Reputation [-1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="1" max_lvl="1">
+			<text>Combined Mercenary Reputation [1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="2" max_lvl="2">
+			<text>Combined Mercenary Reputation [2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="3" max_lvl="3">
+			<text>Combined Mercenary Reputation [3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="4" max_lvl="">
+			<text>Combined Mercenary Reputation [4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="5" max_lvl="5">
+			<text>Combined Mercenary Reputation [5]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="6" max_lvl="6">
+			<text>Combined Mercenary Reputation [6]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_merc" lvl="7" max_lvl="999">
+			<text>Combined Mercenary Reputation [7+]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="-999" max_lvl="-5">
+			<text>Slaver Reputation [-5 or less]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="-4" max_lvl="-4">
+			<text>Slaver Reputation [-4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="-3" max_lvl="-3">
+			<text>Slaver Reputation [-3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="-2" max_lvl="-2">
+			<text>Slaver Reputation [-2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="-1" max_lvl="-1">
+			<text>Slaver Reputation [-1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="1" max_lvl="1">
+			<text>Slaver Reputation [1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="2" max_lvl="2">
+			<text>Slaver Reputation [2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="3" max_lvl="3">
+			<text>Slaver Reputation [3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="4" max_lvl="4">
+			<text>Slaver Reputation [4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="5" max_lvl="5">
+			<text>Slaver Reputation [5]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="6" max_lvl="6">
+			<text>Slaver Reputation [6]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_slaver" lvl="7" max_lvl="999">
+			<text>Slaver Reputation [7+]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="-999" max_lvl="-5">
+			<text>Combined Slaver Reputation [-5 or less]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="-4" max_lvl="-4">
+			<text>Combined Slaver Reputation [-4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="-3" max_lvl="-3">
+			<text>Combined Slaver Reputation [-3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="-2" max_lvl="-2">
+			<text>Combined Slaver Reputation [-2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="-1" max_lvl="-1">
+			<text>Combined Slaver Reputation [-1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="1" max_lvl="1">
+			<text>Combined Slaver Reputation [1]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="2" max_lvl="2">
+			<text>Combined Slaver Reputation [2]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="3" max_lvl="3">
+			<text>Combined Slaver Reputation [3]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="4" max_lvl="4">
+			<text>Combined Slaver Reputation [4]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="5" max_lvl="5">
+			<text>Combined Slaver Reputation [5]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="6" max_lvl="6">
+			<text>Combined Slaver Reputation [6]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+		<mod-append:choice hidden="true" req="rep_comb_slaver" lvl="7" max_lvl="999">
+			<text>Combined Slaver Reputation [7+]</text>
+			<event load="OPTION_INVALID"/>
+		</mod-append:choice>
+	</mod:findName>
+	
+<!--/////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////
+////////////////COMBAT CHECKS////////////////////////////
+/////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////-->
+	
+
+	<mod:findName type="event" name="COMBAT_CHECK_REAL">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Do nothing.</mod:selector>
+			<mod:removeTag/>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Change your toggle or amp equipment.</mod:selector>
+			<mod:removeTag/>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Do some last minute check-ups.</mod:selector>
+			<mod:removeTag/>
+		</mod:findWithChildLike>
+		<!--Prototype Combat Augments-->
+		<mod-append:choice req="PIP_COMBAT_RELOADER" hidden="true" blue="false">
+			<text>(Accelerated Reloader) Activate the reloader!</text>
+			<event load="PIP_COMBAT_CHECK_RELOADER"/>
+		</mod-append:choice>
+		<!--Mini Payloads-->
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [5 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [4 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [3 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [2 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [1 remaining, will deplete augment after use]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1"/>
+		</mod-append:choice>
+		<mod-append:choice req="LIST_CHECK_TOGGLES_AND_AMPS" lvl="1" blue="false">
+			<text>Change your toggle or amp equipment.</text>
+			<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+		</mod-append:choice>
+		<mod-append:choice>
+			<text>Do some last minute check-ups.</text>
+			<event load="COMBAT_CHECK_GENERIC"/>
+		</mod-append:choice>
+		<mod-append:choice>
+			<text>Do nothing.</text>
+			<event/>
+		</mod-append:choice>
+		<mod-append:triggeredEvent event="PIP_REMOVE_EXPLOSIVE_MULTIPLE_TRACKER" loops="1" thisFight="true" minTime="0.5" maxTime="0.5"/>
+	</mod:findName>
+
+	<!--
+	<mod:findName type="event" name="COMBAT_CHECK_FLAGSHIP_REAL">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Do nothing.</mod:selector>
+			<mod:removeTag/>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Change your toggle or amp equipment.</mod:selector>
+			<mod:removeTag/>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Do some last minute check-ups.</mod:selector>
+			<mod:removeTag/>
+		</mod:findWithChildLike>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [5 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [4 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [3 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [2 remaining]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2"/>
+		</mod-append:choice>
+		<mod-append:choice req="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1" hidden="true" blue="false">
+			<text>(Mini Payloads) Deploy a mini payload. [1 remaining, will deplete augment after use]</text>
+			<event load="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1"/>
+		</mod-append:choice>
+		<mod-append:choice req="LIST_CHECK_TOGGLES_AND_AMPS" lvl="1" blue="false">
+			<text>Change your toggle or amp equipment.</text>
+			<event load="COMBAT_CHECK_TOGGLE_LOAD"/>
+		</mod-append:choice>
+		<mod-append:choice>
+			<text>Do some last minute check-ups.</text>
+			<event load="COMBAT_CHECK_GENERIC"/>
+		</mod-append:choice>
+		<mod-append:choice>
+			<text>Do nothing.</text>
+			<event/>
+		</mod-append:choice>
+		<mod-append:triggeredEvent event="PIP_REMOVE_EXPLOSIVE_MULTIPLE_TRACKER" loops="1" thisFight="true" minTime="0.5" maxTime="0.5"/>
+	</mod:findName>
+	-->
+	
+<!--Clears the variable used to track whether you have already used a mini payload this fight-->
+	<event name="PIP_REMOVE_EXPLOSIVE_MULTIPLE_TRACKER">
+		<variable name="mini_payload_used" op="set" val="0"/>
+	</event>
+	
+<!--Accelerated Reloader-->
+	
+<!--NOTE TO SELF: THIS IS NOT COMPLETE. Still need to make sure the boost is removed if the fight ends within 45 seconds, have questions about jumpEvents clashing with each other.
+
+Delayed for 3.1.0. Not done yet, still having jank issues.
+
+2/3/24 Pretty sure it works now-->	
+	
+<event name="PIP_COMBAT_CHECK_RELOADER">
+	<text>Are you sure you want to do this?
+	[+50% weapon fire rate, Self reactor power -1, lasts 45 seconds, -30% weapon fire rate afterwards.]</text>
+	<choice req="reactor" lvl="1" hidden="true" blue="false">
+		<text>Yes</text>
+		<event>
+			<text>You activate the combat augment...</text>
+			<status type="loss" target="player" system="reactor" amount="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event>
+					<text>You activate the combat augment.</text>
+					<hiddenAug>PIP_COMBAT_RELOADER_INTERNAL_BOOST</hiddenAug>
+					<triggeredEvent event="PIP_COMBAT_CHECK_RELOADER_POWERDOWN" time="45" thisFight="true">
+						<triggeredEventBox load="DEFAULT_SMALL">
+							<tooltip>Your accelerated reloader will expire in this amount of time.</tooltip>
+						</triggeredEventBox>
+						<timerSounds load="DEFAULT_TIMER_SOUNDS"/>
+					</triggeredEvent>
+					<!--<triggeredEvent name="PIP_COMBAT_REMOVE_RELOADER_BOOST" event="PIP_REMOVE_RELOADER_BOOST" jumps="1"/>-->
+					<choice>
+						<text>Continue to the fight!</text>
+						<event>
+							<status type="clear" target="enemy" system="teleporter" amount="100"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice req="DEBUG_GENERATOR">
+		<text>Power the augment with the Emergency Generator.</text>
+		<event>
+			<text>You activate the combat augment.</text>
+			<hiddenAug>PIP_COMBAT_RELOADER_INTERNAL_BOOST</hiddenAug>
+			<triggeredEvent event="PIP_COMBAT_CHECK_RELOADER_POWERDOWN" time="45" thisFight="true">
+				<triggeredEventBox load="DEFAULT_SMALL">
+					<tooltip>Your accelerated reloader will expire in this amount of time.</tooltip>
+				</triggeredEventBox>
+				<timerSounds load="DEFAULT_TIMER_SOUNDS"/>
+			</triggeredEvent>
+			<!--<triggeredEvent name="PIP_COMBAT_REMOVE_RELOADER_BOOST" event="PIP_REMOVE_RELOADER_BOOST" jumps="1"/>-->
+			<choice>
+				<text>Continue to the fight!</text>
+				<event>
+					<status type="clear" target="enemy" system="teleporter" amount="100"/>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice blue="false" max_group="1">
+		<text>Do something else instead.</text>
+		<event load="COMBAT_CHECK"/>
+	</choice>
+	<choice>
+		<text>Nevermind, let's fight!</text>
+		<event>
+			<text>You decide not to do anything and prepare to fight.</text>
+			<status type="clear" target="enemy" system="teleporter" amount="100"/>
+		</event>
+	</choice>
+</event>
+
+<event name="PIP_COMBAT_CHECK_RELOADER_POWERDOWN">
+	<text>Your accelerated reloader has expired. Unfortunately, this means that your weapons will have a 30% reduced fire rate for the rest of the fight. Hopefully the starting boost was worth it.</text>
+	<remove name="HIDDEN PIP_COMBAT_RELOADER_INTERNAL_BOOST"/>
+	<hiddenAug>PIP_COMBAT_RELOADER_INTERNAL_PENALTY</hiddenAug>
+	<!--<clearTriggeredEvent name="PIP_COMBAT_REMOVE_RELOADER_BOOST"/>
+	<triggeredEvent name="PIP_COMBAT_REMOVE_RELOADER_PENALTY" event="PIP_REMOVE_RELOADER_PENALTY" jumps="1"/>-->
+	<choice hidden="true">
+		<text>Continue with the fight...</text>
+		<event>
+			<status type="clear" target="player" system="reactor" amount="100"/>
+		</event>
+	</choice>
+</event>
+
+<!--Deprecated jank-->
+	
+	<event name="PIP_REMOVE_RELOADER_BOOST">
+		<removeItem>HIDDEN PIP_COMBAT_RELOADER_INTERNAL_BOOST</removeItem>
+	</event>
+
+	<event name="PIP_REMOVE_RELOADER_PENALTY">
+		<removeItem>HIDDEN PIP_COMBAT_RELOADER_INTERNAL_PENALTY</removeItem>
+	</event>
+	
+	
+<!--Mini Payloads-->	
+
+<event name="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5">
+	<text>What enemy system do you want to target? This will deal 1 hull damage and 2 system damage to it.
+[Warning: This will consume one of your Mini Payloads, leaving you with 4 after this.]</text>
+	<choice hidden="true" blue="false" req="weapons_enemy">
+		<text>Weapons.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="weapons" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+					<!--Just in case this becomes used again
+					<choice blue="false" req="loc_flagship" lvl="1" max_group="1">
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK_FLAGSHIP"/>
+					</choice>-->
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="shields_enemy">
+		<text>Shields.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="shields" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="engines_enemy">
+		<text>Engines.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="engines" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="piloting_enemy">
+		<text>Piloting.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="pilot" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="medbay_enemy">
+		<text>Medbay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="medbay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="clonebay_enemy">
+		<text>Clone Bay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="clonebay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="oxygen_enemy">
+		<text>Oxygen.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="oxygen" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="drones_enemy">
+		<text>Drones.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="drones" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="cloaking_enemy">
+		<text>Cloaking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="cloaking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="teleporter_enemy">
+		<text>Teleporter.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="teleporter" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="mind_enemy">
+		<text>Mind Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="mind" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="hacking_enemy">
+		<text>Hacking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="hacking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="temporal_enemy">
+		<text>Temporal Manipulator.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="temporal" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="doors_enemy">
+		<text>Door Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="doors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="sensors_enemy">
+		<text>Sensors</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="sensors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="battery_enemy">
+		<text>Backup Battery</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="battery" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_5"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 4 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice>
+		<text>Do something else instead.</text>
+		<event load="COMBAT_CHECK"/>
+	</choice>
+	<choice>
+		<text>Nevermind, let's fight!</text>
+		<event>
+			<text>You decide not to do anything and prepare to fight.</text>
+			<status type="clear" target="enemy" system="teleporter" amount="100"/>
+		</event>
+	</choice>
+</event>
+	
+<event name="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4">
+	<text>What enemy system do you want to target? This will deal 1 hull damage and 2 system damage to it.
+[Warning: This will consume one of your Mini Payloads, leaving you with 3 after this.]</text>
+	<choice hidden="true" blue="false" req="weapons_enemy">
+		<text>Weapons.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="weapons" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="shields_enemy">
+		<text>Shields.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="shields" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="engines_enemy">
+		<text>Engines.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="engines" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="piloting_enemy">
+		<text>Piloting.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="pilot" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="medbay_enemy">
+		<text>Medbay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="medbay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="clonebay_enemy">
+		<text>Clone Bay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="clonebay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="oxygen_enemy">
+		<text>Oxygen.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="oxygen" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="drones_enemy">
+		<text>Drones.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="drones" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="cloaking_enemy">
+		<text>Cloaking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="cloaking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="teleporter_enemy">
+		<text>Teleporter.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="teleporter" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="mind_enemy">
+		<text>Mind Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="mind" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="hacking_enemy">
+		<text>Hacking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="hacking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="temporal_enemy">
+		<text>Temporal Manipulator.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="temporal" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="doors_enemy">
+		<text>Door Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="doors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="sensors_enemy">
+		<text>Sensors</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="sensors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="battery_enemy">
+		<text>Backup Battery</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="battery" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_4"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 3 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice>
+		<text>Do something else instead.</text>
+		<event load="COMBAT_CHECK"/>
+	</choice>
+	<choice>
+		<text>Nevermind, let's fight!</text>
+		<event>
+			<text>You decide not to do anything and prepare to fight.</text>
+			<status type="clear" target="enemy" system="teleporter" amount="100"/>
+		</event>
+	</choice>
+</event>
+	
+<event name="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3">
+	<text>What enemy system do you want to target? This will deal 1 hull damage and 2 system damage to it.
+[Warning: This will consume one of your Mini Payloads, leaving you with 2 after this.]</text>
+	<choice hidden="true" blue="false" req="weapons_enemy">
+		<text>Weapons.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="weapons" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="shields_enemy">
+		<text>Shields.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="shields" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="engines_enemy">
+		<text>Engines.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="engines" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="piloting_enemy">
+		<text>Piloting.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="pilot" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="medbay_enemy">
+		<text>Medbay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="medbay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="clonebay_enemy">
+		<text>Clone Bay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="clonebay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="oxygen_enemy">
+		<text>Oxygen.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="oxygen" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="drones_enemy">
+		<text>Drones.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="drones" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="cloaking_enemy">
+		<text>Cloaking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="cloaking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="teleporter_enemy">
+		<text>Teleporter.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="teleporter" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="mind_enemy">
+		<text>Mind Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="mind" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="hacking_enemy">
+		<text>Hacking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="hacking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="temporal_enemy">
+		<text>Temporal Manipulator.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="temporal" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="doors_enemy">
+		<text>Door Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="doors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="sensors_enemy">
+		<text>Sensors</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="sensors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="battery_enemy">
+		<text>Backup Battery</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="battery" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_3"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 2 Mini Payloads remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice>
+		<text>Do something else instead.</text>
+		<event load="COMBAT_CHECK"/>
+	</choice>
+	<choice>
+		<text>Nevermind, let's fight!</text>
+		<event>
+			<text>You decide not to do anything and prepare to fight.</text>
+			<status type="clear" target="enemy" system="teleporter" amount="100"/>
+		</event>
+	</choice>
+</event>
+	
+<event name="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2">
+	<text>What enemy system do you want to target? This will deal 1 hull damage and 2 system damage to it.
+[Warning: This will consume one of your Mini Payloads, leaving you with 1 after this.]</text>
+	<choice hidden="true" blue="false" req="weapons_enemy">
+		<text>Weapons.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="weapons" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="shields_enemy">
+		<text>Shields.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="shields" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="engines_enemy">
+		<text>Engines.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="engines" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="piloting_enemy">
+		<text>Piloting.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="pilot" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="medbay_enemy">
+		<text>Medbay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="medbay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="clonebay_enemy">
+		<text>Clone Bay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="clonebay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="oxygen_enemy">
+		<text>Oxygen.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="oxygen" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="drones_enemy">
+		<text>Drones.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="drones" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="cloaking_enemy">
+		<text>Cloaking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="cloaking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="teleporter_enemy">
+		<text>Teleporter.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="teleporter" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="mind_enemy">
+		<text>Mind Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="mind" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="hacking_enemy">
+		<text>Hacking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="hacking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="temporal_enemy">
+		<text>Temporal Manipulator.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="temporal" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="doors_enemy">
+		<text>Door Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="doors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="sensors_enemy">
+		<text>Sensors</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="sensors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="battery_enemy">
+		<text>Backup Battery</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="battery" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_2"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You now have 1 Mini Payload remaining in this stack.</text>
+					<augment name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+					<choice>
+						<text>Continue...</text>
+						<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice>
+		<text>Do something else instead.</text>
+		<event load="COMBAT_CHECK"/>
+	</choice>
+	<choice>
+		<text>Nevermind, let's fight!</text>
+		<event>
+			<text>You decide not to do anything and prepare to fight.</text>
+			<status type="clear" target="enemy" system="teleporter" amount="100"/>
+		</event>
+	</choice>
+</event>
+	
+<event name="PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1">
+	<text>What enemy system do you want to target? This will deal 1 hull damage and 2 system damage to it.
+	[Warning: This will consume your last Mini Payload, depleting the augment.]</text>
+	<choice hidden="true" blue="false" req="weapons_enemy">
+		<text>Weapons.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="weapons" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="shields_enemy">
+		<text>Shields.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="shields" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="engines_enemy">
+		<text>Engines.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="engines" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="piloting_enemy">
+		<text>Piloting.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="pilot" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="medbay_enemy">
+		<text>Medbay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="medbay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="clonebay_enemy">
+		<text>Clone Bay.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="clonebay" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="oxygen_enemy">
+		<text>Oxygen.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="oxygen" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="drones_enemy">
+		<text>Drones.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="drones" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="cloaking_enemy">
+		<text>Cloaking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="cloaking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="teleporter_enemy">
+		<text>Teleporter.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="teleporter" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="mind_enemy">
+		<text>Mind Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="mind" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="hacking_enemy">
+		<text>Hacking.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="hacking" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="temporal_enemy">
+		<text>Temporal Manipulator.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="temporal" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="doors_enemy">
+		<text>Door Control.</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel. Your current stack of Mini Payloads has been depleted.</text>
+			<enemyDamage amount="2" system="doors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="sensors_enemy">
+		<text>Sensors</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="sensors" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" blue="false" req="battery_enemy">
+		<text>Backup Battery</text>
+		<event>
+			<text>You activate the payload and launch it from the vessel.</text>
+			<enemyDamage amount="2" system="battery" effect="fire"/>
+			<enemyDamage amount="-1"/>
+			<remove name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_1"/>
+			<variable name="mini_payload_used" op="add" val="1"/>
+			<choice>
+				<text>Continue...</text>
+				<event load="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice>
+		<text>Do something else instead.</text>
+		<event load="COMBAT_CHECK"/>
+	</choice>
+	<choice>
+		<text>Nevermind, let's fight!</text>
+		<event>
+			<text>You decide not to do anything and prepare to fight.</text>
+			<status type="clear" target="enemy" system="teleporter" amount="100"/>
+		</event>
+	</choice>
+</event>
+	
+
+	
+<event name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK">
+	<loadEventList seeded="false" default="PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIGHT">
+		<event name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIRST" req="mini_payload_used" lvl="1" max_lvl="1"/>
+	</loadEventList>
+</event>
+	
+<!--
+<event name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_CHECK_FLAGSHIP">
+	<loadEventList seeded="false" default="PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIGHT">
+		<event name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIRST_FLAGSHIP" req="mini_payload_used" lvl="1" max_lvl="1"/>
+	</loadEventList>
+</event>
+-->
+	
+<event name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIRST">
+	<text>Due to how quickly you managed to deploy the mini payload, you still have time for one more combat check.</text>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="COMBAT_CHECK"/>
+	</choice>
+</event>
+	
+<!--
+<event name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIRST_FLAGSHIP">
+	<text>Due to how quickly you managed to deploy the mini payload, you still have time for one more combat check.</text>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="COMBAT_CHECK_FLAGSHIP"/>
+	</choice>
+</event>
+-->
+	
+<event name="PIP_COMBAT_EXPLOSIVE_MULTIPLE_FIGHT">
+	<text>After deploying the second payload, you prepare to face the enemy.</text>
+	<choice hidden="true">
+		<text>Continue to the fight!</text>
+		<event/>
+	</choice>
+</event>
+</FTL>

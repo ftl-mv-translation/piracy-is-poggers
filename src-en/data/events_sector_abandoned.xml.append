@@ -1,0 +1,138 @@
+<FTL>
+    <!--Remove filler events from sector-specific pool
+	<mod:findName type="eventList" name="NEUTRAL_ABANDONED">
+		<mod-append:event load="PIP_PIRATE_GUARD_CACHE"/>
+		<mod-append:event load="PIP_PIRATE_UNKNOWN_SHIP"/>
+		<mod-append:event load="PIP_NEUTRAL_PIRATE_ENCOUNTER"/>
+	</mod:findName>-->
+	
+	
+  <mod:findName type="event" name="ABANDONED_SLAVER_MOON">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Pull closer.</mod:selector>
+      <mod:findLike type="event">
+        <mod:findWithChildLike type="choice" child-type="text">
+          <mod:selector>Check out the slaves being offered.</mod:selector>
+          <mod:findLike type="event">
+            <mod:removeTag/>
+          </mod:findLike>
+          <mod-append:event>
+            <text>The slavers notice your interest and show you several offers.</text>
+            <choice>
+              <text>Buy a slave.</text>
+              <event>
+                <text>"A great purchase. May they serve you well, captain..."</text>
+                <item_modify>
+                  <item type="scrap" min="-35" max="-25"/>
+                </item_modify>
+                <crewMember amount="1" class="LIST_SLAVES_GENERIC"/>
+                <choice hidden="true">
+                  <text>Continue...</text>
+                  <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+                </choice>
+              </event>
+            </choice>
+            <choice>
+              <text>Buy a slave.</text>
+              <event>
+                <text>"A great purchase. May they serve you well, captain..."</text>
+                <item_modify>
+                  <item type="scrap" min="-35" max="-25"/>
+                </item_modify>
+                <crewMember amount="1" class="LIST_SLAVES_GENERIC"/>
+                <choice hidden="true">
+                  <text>Continue...</text>
+                  <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+                </choice>
+              </event>
+            </choice>
+            <choice>
+              <text>Buy an elite slave.</text>
+              <event>
+                <text>"Ah, I see you have an eye for only the highest quality of slaves, captain. This one here is one of the finest slaves we have ever kept. May they serve you well, captain..."</text>
+                <item_modify>
+                  <item type="scrap" min="-70" max="-60"/>
+                </item_modify>
+                <crewMember amount="1" class="LIST_SLAVES_ELITE_ONLY"/>
+                <choice hidden="true">
+                  <text>Continue...</text>
+                  <event load="REPUTATION_UPDATE_SLAVER_FREE"/>
+                </choice>
+              </event>
+            </choice>
+            <choice hidden="true">
+              <text>Nevermind.</text>
+              <event/>
+            </choice>
+          </mod-append:event>
+        </mod:findWithChildLike>
+        <mod:findWithChildLike type="choice" child-type="text">
+          <mod:selector>Attack the slavers!</mod:selector>
+          <mod:findLike type="event">
+            <mod:findLike type="choice">
+              <mod:findLike type="event">
+                <mod:setAttributes load="REPUTATION_DECREASE_SLAVER_COMBAT"/>
+              </mod:findLike>
+            </mod:findLike>
+          </mod:findLike>
+        </mod:findWithChildLike>
+      </mod:findLike>
+    </mod:findWithChildLike>
+  </mod:findName>
+	
+  <mod:findName type="eventList" name="ABANDONED_COLONY_EXPLORE_SCANS">
+	  <mod:findWithChildLike type="event" child-type="text">
+		  <mod:selector>Seems a known pirate fugitive is hiding in the colony, but they haven't seen you yet.</mod:selector>
+		  <mod:findWithChildLike type="choice" child-type="text">
+			  <mod:selector>Engage the pirate.</mod:selector>
+			  <mod:findLike type="event">
+				  <mod:findLike type="choice">
+					  <mod:findLike type="event">
+						  <mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+					  </mod:findLike>
+				  </mod:findLike>
+			  </mod:findLike>
+		  </mod:findWithChildLike>
+	  </mod:findWithChildLike>
+  </mod:findName>
+	
+  <mod:findName type="event" name="ABANDONED_PIRATE_CIVILIAN">
+	  <mod:findWithChildLike type="choice" child-type="text">
+		  <mod:selector>Attack the pirate.</mod:selector>
+		  <mod:findLike type="event">
+			  <mod:findLike type="choice">
+				  <mod:findLike type="event">
+					  <mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+				  </mod:findLike>
+			  </mod:findLike>
+		  </mod:findLike>
+	  </mod:findWithChildLike>
+  </mod:findName>
+  
+  <mod:findName type="event" name="QUEST_ABANDONED_RAID_WIN">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Contact the pirates and tell them the colony is free from the Lanius threat.</mod:selector>
+      <mod:findLike type="event">
+        <mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_UPDATE_PIRATES_FREE"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findWithChildLike>
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Forget the pirates, scrap the colony yourself.</mod:selector>
+      <mod:findLike type="event">
+        <mod-append:item_modify>
+			<item type="fuel" min="2" max="3"/>
+			<item type="missiles" min="1" max="2"/>
+			<item type="drones" min="1" max="2"/>
+		</mod-append:item_modify>
+		<mod-append:choice>
+          <text>Continue...</text>
+          <event load="REPUTATION_DECREASE_PIRATES"/>
+        </mod-append:choice>
+      </mod:findLike>
+    </mod:findWithChildLike>
+  </mod:findName>
+  
+</FTL>

@@ -1,0 +1,14 @@
+<FTL>
+	<mod:findName type="event" name="CRYSTAL_PIRATE_CRYSTAL_MV">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Attack the pirate.</mod:selector>
+			<mod:findLike type="event">
+				<mod:findLike type="choice">
+					<mod:findLike type="event">
+						<mod:setAttributes load="REPUTATION_DECREASE_PIRATES_COMBAT"/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findWithChildLike>
+	</mod:findName>
+</FTL>
