@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_special_standardxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_standard.xml.append:13
 msgid ""
@@ -43,6 +51,10 @@ msgstr "Посетить стенд с рабами."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_ODDSHOP\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod:findLike/mod:setValue"
 msgstr ""
+"Вы осторожно переступаете через весь чужеродный мусор и рассматриваете "
+"различных пришельцев в клетках. Увидев такую странную рабовладельческую "
+"операцию на странном рынке, вы предполагаете, что эти пираты не связаны с "
+"рабовладельческим гигантом Тииикака."
 
 #: src-en/data/events_special_standard.xml.append:60
 msgid ""
@@ -70,13 +82,13 @@ msgstr "Сходить за покупками на рынок."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Попросить показать вам их особые товары."
 
 #: src-en/data/events_special_standard.xml.append:100
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "Контрабандисты узнают вас и предлагают особый выбор контрабанды."
 
 #: src-en/data/events_special_standard.xml.append:102
 msgid ""
@@ -89,6 +101,8 @@ msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/text"
 msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:110
 msgid ""
@@ -107,6 +121,8 @@ msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[2]/event/text"
 msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:124
 msgid ""
@@ -125,6 +141,8 @@ msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[3]/event/text"
 msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:138
 msgid ""
@@ -136,13 +154,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Купить модуль."
 
 #: src-en/data/events_special_standard.xml.append:146
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[4]/event/text"
 msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:152
 msgid ""
@@ -154,7 +174,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "Неважно, мы посмотрим на обычные товары."
 
 #: src-en/data/events_special_standard.xml.append:164
 msgid ""
@@ -188,36 +208,42 @@ msgstr "Не-а."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/text"
 msgstr ""
+"Различные пиратские группировки организовали совместный рынок. Вы "
+"сомневаетесь, что это законно, но у них могут быть полезные товары на "
+"продажу."
 
 #: src-en/data/events_special_standard.xml.append:220
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/text"
-msgstr ""
+msgstr "Осмотреть рынок."
 
 #: src-en/data/events_special_standard.xml.append:223
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/text"
 msgstr ""
+"Верхняя половина рынка отведена под обычную торговлю, но в нижней половине, "
+"похоже, собрались различные пираты, предлагающие свои услуги или особые "
+"товары всем, кто готов заплатить."
 
 #: src-en/data/events_special_standard.xml.append:225
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Подойти к работорговцам."
 
 #: src-en/data/events_special_standard.xml.append:229
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Подойти к наемникам."
 
 #: src-en/data/events_special_standard.xml.append:233
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Подойти к контрабандистам."
 
 #: src-en/data/events_special_standard.xml.append:237
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Мы ограничимся обычными товарами."
 
 #: src-en/data/events_special_standard.xml.append:243
 msgid ""
@@ -228,6 +254,8 @@ msgstr "Не обращать внимания на рынок."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[2]/event/text"
 msgstr ""
+"Сегодня вам не хочется осматривать пиратский рынок, особенно в качестве "
+"федерала."
 
 #: src-en/data/events_special_standard.xml.append:247
 msgid ""
