@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-12-26 18:29+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
 "Language: ru\n"
@@ -369,7 +369,7 @@ msgstr ""
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_WEPS_LIST\"]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "Контрабандисты передают вам оружие и благодарят за сделку."
 
 #: src-en/data/events_sector_pirate.xml.append:238
 msgid ""
