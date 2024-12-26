@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 14:47+0000\n"
+"PO-Revision-Date: 2024-12-26 18:23+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "datahyperspace-xml-append/ru/>\n"
@@ -294,9 +294,10 @@ msgid ""
 msgstr "ТЯЖЕЛОЕ ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:1620
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ТЯЖЕЛОЕ ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:1638
 msgid ""
@@ -306,12 +307,12 @@ msgstr "ОСОБОЕ ОРУЖИЕ"
 #: src-en/data/hyperspace.xml.append:1711
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[1]/customTitle"
-msgstr ""
+msgstr "БОЕВЫЕ ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:1729
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[2]/customTitle"
-msgstr ""
+msgstr "БОЕВЫЕ ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:1747
 msgid ""
@@ -321,12 +322,12 @@ msgstr "ОСОБОЕ ОРУЖИЕ"
 #: src-en/data/hyperspace.xml.append:1820
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ЗАЩИТНЫЕ ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:1838
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ЗАЩИТНЫЕ/ПЕХОТНЫЕ ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:1856
 msgid ""
@@ -341,17 +342,17 @@ msgstr "ОСОБОЕ ОРУЖИЕ"
 #: src-en/data/hyperspace.xml.append:2036
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ТРАНСПОРТНОЕ ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:2054
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ТРАНСПОРТНОЕ ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:2072
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ТРАНСПОРТНОЕ ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:2090
 msgid ""
@@ -361,22 +362,22 @@ msgstr "ОСОБОЕ ОРУЖИЕ"
 #: src-en/data/hyperspace.xml.append:2165
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ОРУЖИЕ РЕНЕГАТОВ"
 
 #: src-en/data/hyperspace.xml.append:2183
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ОРУЖИЕ РЕНЕГАТОВ"
 
 #: src-en/data/hyperspace.xml.append:2201
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ДРОНЫ РЕНЕГАТОВ"
 
 #: src-en/data/hyperspace.xml.append:2219
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[4]/customTitle"
-msgstr ""
+msgstr "ЭКИПАЖ РЕНЕГАТОВ"
 
 #: src-en/data/hyperspace.xml.append:2256
 msgid ""
@@ -396,14 +397,14 @@ msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 #: src-en/data/hyperspace.xml.append:2356
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[7]/customTitle"
-msgstr ""
+msgstr "ОРУЖИЕ ДНЯ [СКИДКА 40%]"
 
 #: src-en/data/hyperspace.xml.append:2379
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[8]/customTitle"
-msgstr ""
+msgstr "ДРОНЫ ДНЯ [СКИДКА 40%]"
 
 #: src-en/data/hyperspace.xml.append:2402
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[9]/customTitle"
-msgstr ""
+msgstr "МОДУЛИ ДНЯ [СКИДКА 40%]"
