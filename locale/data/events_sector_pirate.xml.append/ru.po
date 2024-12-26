@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-12-26 18:29+0000\n"
-"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
 "Language: ru\n"
@@ -393,7 +393,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_DRONES_LIST\"]/mod:findLike/mod-"
 "append:text"
-msgstr "Контрабандисты передают вам дрона и благодарят вас за сделку."
+msgstr "Контрабандисты передают вам дрон и благодарят вас за сделку."
 
 #: src-en/data/events_sector_pirate.xml.append:258
 msgid ""
