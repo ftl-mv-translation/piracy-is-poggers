@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-12-26 14:53+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_ministryxmlappend/ru/>\n"
 "Language: ru\n"
@@ -27,7 +27,7 @@ msgstr "Приобрести золтана."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr "(Репутация Работорговцев 2+) Попросить показать золтана-воина"
+msgstr "(Репутация работорговцев 2+) Попросить показать золтана-воина."
 
 #: src-en/data/events_sector_ministry.xml.append:41
 msgid ""
