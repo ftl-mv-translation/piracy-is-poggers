@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_sector_unexploredxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_unexplored.xml.append:17
 msgid ""
@@ -14,6 +22,11 @@ msgstr "Попросить поторговать."
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findLike/mod:setValue"
 msgstr ""
+"Пираты показывают вам несколько ящиков с припасами, которые они предлагают. "
+"Когда вы видите цены, становится понятно, почему их бизнес не был успешным: "
+"Они назначают довольно высокую цену, скорее всего, из-за проблем с "
+"поставками. В качестве альтернативы пираты предлагают купить некоторые из "
+"ваших ресурсов по низкой цене."
 
 #: src-en/data/events_sector_unexplored.xml.append:23
 msgid ""
@@ -25,6 +38,9 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
 msgstr ""
+"Пираты охотно отправляют припасы, обрадованные перспективой получить "
+"платежеспособного клиента после долгой деловой засухи. Однако вряд ли их "
+"бизнес продержится здесь долго."
 
 #: src-en/data/events_sector_unexplored.xml.append:27
 msgid ""
@@ -42,6 +58,9 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:text"
 msgstr ""
+"Пираты охотно отправляют припасы, обрадованные перспективой получить "
+"платежеспособного клиента после долгой деловой засухи. Однако вряд ли их "
+"бизнес продержится здесь долго."
 
 #: src-en/data/events_sector_unexplored.xml.append:47
 msgid ""
@@ -59,6 +78,9 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[3]/mod:findLike/mod-"
 "append:text"
 msgstr ""
+"Пираты охотно отправляют припасы, обрадованные перспективой получить "
+"платежеспособного клиента после долгой деловой засухи. Однако вряд ли их "
+"бизнес продержится здесь долго."
 
 #: src-en/data/events_sector_unexplored.xml.append:67
 msgid ""
@@ -82,6 +104,8 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"Пираты охотно отправляют лом, радуясь перспективе дешевых поставок. Впрочем, "
+"вряд ли им удастся найти другого дешевого поставщика."
 
 #: src-en/data/events_sector_unexplored.xml.append:95
 msgid ""
@@ -93,13 +117,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Продать немного боеголовок."
 
 #: src-en/data/events_sector_unexplored.xml.append:103
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"Пираты охотно отправляют лом, радуясь перспективе дешевых поставок. Впрочем, "
+"вряд ли им удастся найти другого дешевого поставщика."
 
 #: src-en/data/events_sector_unexplored.xml.append:109
 msgid ""
@@ -118,6 +144,8 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"Пираты охотно отправляют лом, радуясь перспективе дешевых поставок. Впрочем, "
+"вряд ли им удастся найти другого дешевого поставщика."
 
 #: src-en/data/events_sector_unexplored.xml.append:123
 msgid ""
@@ -129,7 +157,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Это чудовищные цены, просто уйти."
 
 #: src-en/data/events_sector_unexplored.xml.append:135
 msgid ""
@@ -139,7 +167,7 @@ msgstr "Атаковать их."
 #: src-en/data/events_sector_unexplored.xml.append:148
 msgid ""
 "data/events_sector_unexplored.xml.append$//eventList[@name=\"PIP_NEBULA_LIGHT_PIRATE_STATION_LEAVE\"]/event[1]/text"
-msgstr ""
+msgstr "Вы отказываетесь от предложения станции и готовитесь к прыжку."
 
 #: src-en/data/events_sector_unexplored.xml.append:150
 msgid ""
@@ -154,7 +182,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_unexplored.xml.append:159
 msgid ""
 "data/events_sector_unexplored.xml.append$//eventList[@name=\"PIP_NEBULA_LIGHT_PIRATE_STATION_LEAVE\"]/event[2]/text"
-msgstr ""
+msgstr "Вы отказываетесь от предложения станции и готовитесь к прыжку."
 
 #: src-en/data/events_sector_unexplored.xml.append:161
 msgid ""
@@ -170,6 +198,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_unexplored.xml.append$//eventList[@name=\"PIP_NEBULA_LIGHT_PIRATE_STATION_LEAVE\"]/event[3]/text"
 msgstr ""
+"Возмущенные вашим отказом торговать, пираты активируют свое оружие! Они то "
+"ли неспокойны, то ли в отчаянии, то ли и то и другое вместе, но сражение "
+"неизбежно."
 
 #: src-en/data/events_sector_unexplored.xml.append:173
 msgid ""
@@ -184,7 +215,7 @@ msgstr "Атаковать пиратов."
 #: src-en/data/events_sector_unexplored.xml.append:205
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_PIRATE_SMUGGLE\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
+msgstr "(Продв. Оружие) Активировать свое угрожающее передовое оружие."
 
 #: src-en/data/events_sector_unexplored.xml.append:208
 msgid ""
@@ -196,21 +227,28 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_PIRATE_SMUGGLE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"(Репутация контрабандистов 2+) Связаться с ними и заверить их, что не "
+"желаете им зла."
 
 #: src-en/data/events_sector_unexplored.xml.append:232
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/text"
 msgstr ""
+"\"О, это вы. Хорошо, мы сейчас перевозим контрабандой важную партию "
+"продвинутого оружия для особых клиентов, но есть пара запасных единиц, "
+"которые могут оказаться в ваших руках, если у вас найдется лом...\""
 
 #: src-en/data/events_sector_unexplored.xml.append:234
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[1]/text"
-msgstr ""
+msgstr "Купить базовое оружие."
 
 #: src-en/data/events_sector_unexplored.xml.append:240
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[1]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку и прощается с вами, чтобы как можно "
+"быстрее выполнить свое дело."
 
 #: src-en/data/events_sector_unexplored.xml.append:242
 msgid ""
@@ -220,12 +258,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_unexplored.xml.append:248
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[2]/text"
-msgstr ""
+msgstr "Купить продвинутое оружие."
 
 #: src-en/data/events_sector_unexplored.xml.append:254
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[2]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку и прощается с вами, чтобы как можно "
+"быстрее выполнить свое дело."
 
 #: src-en/data/events_sector_unexplored.xml.append:256
 msgid ""
@@ -241,6 +281,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[3]/event/text"
 msgstr ""
+"Контрабандистов это, похоже, не слишком волнует, но они все равно прощаются "
+"с вами, перед тем как уйти."
 
 #: src-en/data/events_sector_unexplored.xml.append:266
 msgid ""
@@ -256,16 +298,21 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/text"
 msgstr ""
+"\"О, это вы. Хорошо, мы сейчас перевозим контрабандой важную партию "
+"продвинутых дронов для особых клиентов, но есть пара запасных единиц, "
+"которые могут попасть к вам в руки, если у вас найдется немного лома...\""
 
 #: src-en/data/events_sector_unexplored.xml.append:280
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[1]/text"
-msgstr ""
+msgstr "Купить базовую схему дрона."
 
 #: src-en/data/events_sector_unexplored.xml.append:286
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[1]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку и прощается с вами, чтобы как можно "
+"быстрее выполнить свое дело."
 
 #: src-en/data/events_sector_unexplored.xml.append:288
 msgid ""
@@ -275,12 +322,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_unexplored.xml.append:294
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[2]/text"
-msgstr ""
+msgstr "Купить продвинутую схему дрона."
 
 #: src-en/data/events_sector_unexplored.xml.append:300
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[2]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку и прощается с вами, чтобы как можно "
+"быстрее выполнить свое дело."
 
 #: src-en/data/events_sector_unexplored.xml.append:302
 msgid ""
@@ -296,6 +345,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[3]/event/text"
 msgstr ""
+"Контрабандистов это, похоже, не слишком волнует, но они все равно прощаются "
+"с вами, перед тем как уйти."
 
 #: src-en/data/events_sector_unexplored.xml.append:312
 msgid ""
@@ -311,16 +362,21 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/text"
 msgstr ""
+"\"О, это вы. Хорошо, мы сейчас перевозим контрабандой важную партию "
+"продвинутых модулей для особых клиентов, но есть пара запасных единиц, "
+"которые могут попасть к вам в руки, если у вас найдется немного лома...\""
 
 #: src-en/data/events_sector_unexplored.xml.append:326
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[1]/text"
-msgstr ""
+msgstr "Купить базовый модуль."
 
 #: src-en/data/events_sector_unexplored.xml.append:332
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[1]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку и прощается с вами, чтобы как можно "
+"быстрее выполнить свое дело."
 
 #: src-en/data/events_sector_unexplored.xml.append:334
 msgid ""
@@ -330,12 +386,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_unexplored.xml.append:340
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[2]/text"
-msgstr ""
+msgstr "Купить продвинутый модуль."
 
 #: src-en/data/events_sector_unexplored.xml.append:346
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[2]/event/text"
 msgstr ""
+"Контрабандист благодарит вас за сделку и прощается с вами, чтобы как можно "
+"быстрее выполнить свое дело."
 
 #: src-en/data/events_sector_unexplored.xml.append:348
 msgid ""
@@ -351,6 +409,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[3]/event/text"
 msgstr ""
+"Контрабандистов это, похоже, не слишком волнует, но они все равно прощаются "
+"с вами, перед тем как уйти."
 
 #: src-en/data/events_sector_unexplored.xml.append:358
 msgid ""
