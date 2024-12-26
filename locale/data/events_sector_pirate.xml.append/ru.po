@@ -352,7 +352,7 @@ msgstr "Атаковать корабль, чтобы добраться до к
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_WEPS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Репутация Контрабандиста 3+) Запросить расширенный ассортимент покупок"
 
 #: src-en/data/events_sector_pirate.xml.append:227
 msgid ""
