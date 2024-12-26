@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 14:42+0000\n"
+"PO-Revision-Date: 2024-12-26 14:47+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "datahyperspace-xml-append/ru/>\n"
@@ -288,9 +288,10 @@ msgid ""
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:1602
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ТЯЖЕЛОЕ ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:1620
 msgid ""
