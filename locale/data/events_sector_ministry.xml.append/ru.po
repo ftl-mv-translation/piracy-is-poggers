@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 14:55+0000\n"
+"PO-Revision-Date: 2024-12-26 14:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_ministryxmlappend/ru/>\n"
@@ -98,7 +98,7 @@ msgstr "Просто сразиться с ними за книгу."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
 "append:choice/text"
-msgstr "(Репутация Контрабандистов 2+) Любезно попросить книгу."
+msgstr "(Репутация контрабандистов 2+) Любезно попросить книгу."
 
 #: src-en/data/events_sector_ministry.xml.append:115
 msgid ""
