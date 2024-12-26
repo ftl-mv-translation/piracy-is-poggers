@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -54,11 +54,7 @@ msgstr "Конд. перегр. двиг. мод. 5"
 #: src-en/data/blueprints.xml.append:39
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/desc"
-msgstr ""
-"Улучшенная версия оригинального \"Конденсатор перегрузки двигателя мод. "
-"III+\". Наносит меньше урона, чем старая модель, и позволяет выбирать "
-"желаемую скорость движения. Чем выше скорость, тем больше урона вы получите."
-" Может быть использован только один раз."
+msgstr "Улучшенная версия оригинального \"Конденсатор перегрузки двигателя мод. III+\". Наносит меньше урона, чем старая модель, и позволяет выбирать желаемую скорость движения. Чем выше скорость, тем больше урона вы получите. Может быть использован только один раз."
 
 #: src-en/data/blueprints.xml.append:47
 msgid ""
