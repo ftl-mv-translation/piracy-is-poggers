@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 14:43+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-12-26 14:44+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_duskbringerxmlappend/ru/>\n"
 "Language: ru\n"
@@ -107,7 +107,7 @@ msgstr ""
 #: src-en/data/events_sector_duskbringer.xml.append:80
 msgid ""
 "data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/text"
-msgstr ""
+msgstr "Элитный корабль Вестников Заката пал. Вы разбираете останки."
 
 #: src-en/data/events_sector_duskbringer.xml.append:83
 msgid ""
@@ -118,6 +118,8 @@ msgstr "Связаться с пиратами."
 msgid ""
 "data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/event/text"
 msgstr ""
+"«Хорошо помахались, если не ошибаюсь. Спасибо за помощь. Как и обещал, твоя "
+"награда»."
 
 #: src-en/data/events_sector_duskbringer.xml.append:88
 msgid ""
