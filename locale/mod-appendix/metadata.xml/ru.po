@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-12-26 14:18+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr ""
+msgstr "Piracy is Poggers"
 
 #: src-en/mod-appendix/metadata.xml:6
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
