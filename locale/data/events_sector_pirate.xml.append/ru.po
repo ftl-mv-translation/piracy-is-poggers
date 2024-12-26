@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 18:26+0000\n"
+"PO-Revision-Date: 2024-12-26 18:27+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
@@ -263,7 +263,7 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_BETRAYAL\"]/mod-"
 "append:choice/text"
-msgstr "(Репутация Работорговцев 2+) Запросить информацию о рабах."
+msgstr "(Репутация работорговцев 2+) Запросить информацию о рабах."
 
 #: src-en/data/events_sector_pirate.xml.append:162
 msgid ""
