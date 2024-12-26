@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-12-26 18:34+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
 "Language: ru\n"
@@ -603,6 +603,9 @@ msgstr "Не обращать внимания на станцию."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[3]/event/text"
 msgstr ""
+"Даже если бы вы могли сюда войти, офицеры Федерации не славятся среди "
+"пиратских банд. Вдруг на вас враждебно настроятся пираты? Лучше вам не лезть "
+"не в своё дело, что никак не связаны с Федерацией."
 
 #: src-en/data/events_sector_pirate.xml.append:691
 msgid ""
