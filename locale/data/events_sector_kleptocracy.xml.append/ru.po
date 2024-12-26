@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_kleptocracyxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -36,9 +36,7 @@ msgstr "Атаковать слизней."
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
-"Пираты, возможно, не те люди, с которым стоит связываться, но они могут "
-"вознаградить вас за сотрудничество с ними. Нацелить оружие на слизней."
+msgstr "Пираты, возможно, не те люди, с которым стоит связываться, но они могут вознаградить вас за сотрудничество с ними. Нацелить оружие на слизней."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:45
 msgid ""
@@ -56,9 +54,7 @@ msgstr "Оставить их наедине с пиратами."
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
-"Вы прерываете связь и удаляетесь от боя. Убедившись, что ни один из кораблей"
-" не может вас потревожить, вы занимаетесь своими делами на корабле."
+msgstr "Вы прерываете связь и удаляетесь от боя. Убедившись, что ни один из кораблей не может вас потревожить, вы занимаетесь своими делами на корабле."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:55
 msgid ""
@@ -75,18 +71,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_kleptocracy.xml.append:69
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"ESCAPE_SLUG_PIRATE\"]/text"
-msgstr ""
-"\"Вот дерьмо, они идут по нашшши душшши!\" Слизни начинают включать свои "
-"двигатели. Перед тем как вступить с ними в бой, вы получаете сообщение от "
-"пиратов: \"Эти гнилые слизняки донимают меня уже чертовски долго! "
-"Расправьтесь с ними, и вас ждет награда\"."
+msgstr "\"Вот дерьмо, они идут по нашшши душшши!\" Слизни начинают включать свои двигатели. Перед тем как вступить с ними в бой, вы получаете сообщение от пиратов: \"Эти гнилые слизняки донимают меня уже чертовски долго! Расправьтесь с ними, и вас ждет награда\"."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:73
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/text"
-msgstr ""
-"Несмотря на все ваши усилия, слизняки благополучно сбежали. К сожалению, это"
-" означает, что и награда от пиратов вам тоже не достанется."
+msgstr "Несмотря на все ваши усилия, слизняки благополучно сбежали. К сожалению, это означает, что и награда от пиратов вам тоже не достанется."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:75
 msgid ""
@@ -96,17 +86,12 @@ msgstr "Связаться с пиратом."
 #: src-en/data/events_sector_kleptocracy.xml.append:77
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/choice/event/text"
-msgstr ""
-"\"Хотя вы и потерпели неудачу в уничтожении этих слизней, я все равно "
-"признаю, что вы решили встать на нашу сторону, а не объединиться против нас."
-" Поэтому возьмите немного хлама и проваливайте\"."
+msgstr "\"Хотя вы и потерпели неудачу в уничтожении этих слизней, я все равно признаю, что вы решили встать на нашу сторону, а не объединиться против нас. Поэтому возьмите немного хлама и проваливайте\"."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:84
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/text"
-msgstr ""
-"Корабль слизней уничтожен. Прежде чем связываться с пиратами, вы собираете "
-"обломки."
+msgstr "Корабль слизней уничтожен. Прежде чем связываться с пиратами, вы собираете обломки."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:87
 msgid ""
@@ -116,9 +101,7 @@ msgstr "Связаться с пиратом."
 #: src-en/data/events_sector_kleptocracy.xml.append:89
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/event/text"
-msgstr ""
-"\"Очень хорошо. Вы уничтожили последнего из надоедливых слизней. Как и было "
-"обещано, ваша награда\"."
+msgstr "\"Очень хорошо. Вы уничтожили последнего из надоедливых слизней. Как и было обещано, ваша награда\"."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:92
 msgid ""
@@ -128,9 +111,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_kleptocracy.xml.append:100
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/text"
-msgstr ""
-"Экипаж слизней уничтожен. Прежде чем связаться с пиратами, вы собираете все "
-"ценное."
+msgstr "Экипаж слизней уничтожен. Прежде чем связаться с пиратами, вы собираете все ценное."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:103
 msgid ""
@@ -140,9 +121,7 @@ msgstr "Связаться с пиратом."
 #: src-en/data/events_sector_kleptocracy.xml.append:105
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/event/text"
-msgstr ""
-"\"Очень хорошо. Вы уничтожили последнего из надоедливых слизней. Как и было "
-"обещано, ваша награда\"."
+msgstr "\"Очень хорошо. Вы уничтожили последнего из надоедливых слизней. Как и было обещано, ваша награда\"."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:108
 msgid ""
