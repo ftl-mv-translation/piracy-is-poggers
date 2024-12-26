@@ -41,7 +41,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_asteroid.xml.append:30
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/text"
-msgstr ""
+msgstr "(Репутация пиратов +1) Связаться и предложить выкупить у них груз."
 
 #: src-en/data/events_sector_asteroid.xml.append:32
 msgid ""
