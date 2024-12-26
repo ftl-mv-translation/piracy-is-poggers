@@ -263,7 +263,7 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_BETRAYAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Репутация Работорговцев 2+) Запросить информацию о рабах."
 
 #: src-en/data/events_sector_pirate.xml.append:162
 msgid ""
