@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:12+0000\n"
+"PO-Revision-Date: 2025-06-05 07:15+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
