@@ -98,7 +98,7 @@ msgstr "Просто сразиться с ними за книгу."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Репутация Контрабандистов 2+) Любезно попросить книгу."
 
 #: src-en/data/events_sector_ministry.xml.append:115
 msgid ""
