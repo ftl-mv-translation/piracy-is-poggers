@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_outcastxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -21,9 +21,7 @@ msgstr "(Репутация работорговцев 2+) Связаться с
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/text"
-msgstr ""
-"Работорговцы узнают, кто вы, и приветствуют вас. Они показывают вам "
-"нескольких рабов, имеющихся в наличии."
+msgstr "Работорговцы узнают, кто вы, и приветствуют вас. Они показывают вам нескольких рабов, имеющихся в наличии."
 
 #: src-en/data/events_sector_outcast.xml.append:49
 msgid ""
