@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:12+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_unionxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -20,9 +20,7 @@ msgstr "Купить Предзажигатель."
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"QUEST_GATLING_AUGMENT\"]/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
-msgstr ""
-"\"Большое, большое спасибо за то, что избавили меня от этого хлама! Я "
-"обязательно замолвлю за вас словечко перед своими друзьями\"."
+msgstr "\"Большое, большое спасибо за то, что избавили меня от этого хлама! Я обязательно замолвлю за вас словечко перед своими друзьями\"."
 
 #: src-en/data/events_sector_union.xml.append:27
 msgid ""
@@ -39,9 +37,7 @@ msgstr "Заключить \"сделку всей жизни\" вместе с 
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"QUEST_GATLING_AUGMENT\"]/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:text"
-msgstr ""
-"\"Большое, большое спасибо за то, что избавили меня от этого хлама! Я "
-"обязательно замолвлю за вас словечко перед своими друзьями\"."
+msgstr "\"Большое, большое спасибо за то, что избавили меня от этого хлама! Я обязательно замолвлю за вас словечко перед своими друзьями\"."
 
 #: src-en/data/events_sector_union.xml.append:37
 msgid ""
