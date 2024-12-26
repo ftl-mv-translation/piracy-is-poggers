@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 14:18+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -72,99 +72,145 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:47
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/title"
-msgstr ""
+msgstr "Защитные костюмы"
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/desc"
 msgstr ""
+"Набор костюмов, предназначенных для защиты экипажа от повреждений. Ваш "
+"экипаж получает на 30% меньше урона от всех источников и оглушается на 30% "
+"меньше времени, но теряет 10% боевого урона, скорости передвижения и "
+"скорости ремонта."
 
 #: src-en/data/blueprints.xml.append:56
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/title"
-msgstr ""
+msgstr "Поврежд. золтанский реактор"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/desc"
 msgstr ""
+"Реактор, украденный с золтанского корабля. Из-за повреждений реактора и "
+"других технических сложностей он дает только 1 очко суперщита. В основном "
+"полезен для блокировки вражеского Взломщика, Контроля разума и телепорта, а "
+"также может быть использован для синих опций."
 
 #: src-en/data/blueprints.xml.append:65
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/title"
-msgstr ""
+msgstr "Ускоренный перезарядник"
 
 #: src-en/data/blueprints.xml.append:66
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/desc"
 msgstr ""
+"Прототип перезарядного устройства, разработанный контрабандистами, который "
+"можно активировать в начале каждого боя за 1 энергию, повышая "
+"скорострельность оружия на 50% на 45 секунд. Однако его механизмы "
+"недолговечны, поэтому после истечения первоначального срока действия "
+"скорострельность оружия снижается на 30%"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/title"
-msgstr ""
+msgstr "Усиленный ускор. перезаряд."
 
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/desc"
 msgstr ""
+"Повышение скорострельности оружия на 50% на 45 секунд. Вы не должны видеть "
+"этого в игре."
 
 #: src-en/data/blueprints.xml.append:83
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/title"
-msgstr ""
+msgstr "Штраф за ускор. перезар."
 
 #: src-en/data/blueprints.xml.append:84
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/desc"
 msgstr ""
+"Снижение скорострельности оружия на 30%. Вы не должны видеть этого в игре."
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/title"
-msgstr ""
+msgstr "Мини-боезаряды"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/desc"
 msgstr ""
+"В отличие от стандартных Магнитных боезарядов, эти Мини-боезаряды наносят "
+"только 1 урон корпусу и 2 урона системе, сохраняя при этом гарантированное "
+"возгорание. Однако они поставляются в наборах и могут быть использованы один "
+"раз за бой.\n"
+"\t\n"
+"У вас осталось 5 Мини-боезарядов в этом стеке."
 
 #: src-en/data/blueprints.xml.append:103
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/title"
-msgstr ""
+msgstr "Мини-боезаряды"
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/desc"
 msgstr ""
+"В отличие от стандартных Магнитных боезарядов, эти Мини-боезаряды наносят "
+"только 1 урон корпусу и 2 урона системе, сохраняя при этом гарантированное "
+"возгорание. Однако они поставляются в наборах и могут быть использованы один "
+"раз за бой.\n"
+"\t\n"
+"У вас осталось 4 Мини-боезарядов в этом стеке."
 
 #: src-en/data/blueprints.xml.append:114
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/title"
-msgstr ""
+msgstr "Мини-боезаряды"
 
 #: src-en/data/blueprints.xml.append:115
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/desc"
 msgstr ""
+"В отличие от стандартных Магнитных боезарядов, эти Мини-боезаряды наносят "
+"только 1 урон корпусу и 2 урона системе, сохраняя при этом гарантированное "
+"возгорание. Однако они поставляются в наборах и могут быть использованы один "
+"раз за бой.\n"
+"\t\n"
+"У вас осталось 3 Мини-боезарядов в этом стеке."
 
 #: src-en/data/blueprints.xml.append:125
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/title"
-msgstr ""
+msgstr "Мини-боезаряды"
 
 #: src-en/data/blueprints.xml.append:126
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/desc"
 msgstr ""
+"В отличие от стандартных Магнитных боезарядов, эти Мини-боезаряды наносят "
+"только 1 урон корпусу и 2 урона системе, сохраняя при этом гарантированное "
+"возгорание. Однако они поставляются в наборах и могут быть использованы один "
+"раз за бой.\n"
+"\t\n"
+"У вас осталось 2 Мини-боезарядов в этом стеке."
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/title"
-msgstr ""
+msgstr "Мини-боезаряды"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/desc"
 msgstr ""
+"В отличие от стандартных Магнитных боезарядов, эти Мини-боезаряды наносят "
+"только 1 урон корпусу и 2 урона системе, сохраняя при этом гарантированное "
+"возгорание. Однако они поставляются в наборах и могут быть использованы один "
+"раз за бой.\n"
+"\t\n"
+"У вас остался 1 Мини-боезаряд в этом стеке."
