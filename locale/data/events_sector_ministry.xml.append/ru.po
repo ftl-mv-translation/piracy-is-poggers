@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 14:50+0000\n"
+"PO-Revision-Date: 2024-12-26 14:53+0000\n"
 "Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_ministryxmlappend/ru/>\n"
@@ -34,6 +34,10 @@ msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"«О, это ты. Неловко как-то, я собирался кинуть тебя, чтоб купил этого раба. "
+"Он - бывший опытный золтан-воин, но он стал монахом-пацифистом. Ладно, "
+"теперь, когда кот вырвался из мешка, мы все еще можем предложить монаха по "
+"более низкой цене, и он, возможно, пригодится тебе в других целях...»"
 
 #: src-en/data/events_sector_ministry.xml.append:43
 msgid ""
@@ -100,7 +104,7 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
 "append:choice/event/choice/text"
-msgstr ""
+msgstr "Поблагодарить контрабандистов."
 
 #: src-en/data/events_sector_ministry.xml.append:152
 msgid ""
