@@ -1,9 +1,15 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 07:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
@@ -64,11 +70,7 @@ msgstr "Защитные костюмы"
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/desc"
-msgstr ""
-"Набор костюмов, предназначенных для защиты экипажа от повреждений. Ваш "
-"экипаж получает на 30% меньше урона от всех источников и оглушается на 30% "
-"меньше времени, но теряет 10% боевого урона, скорости передвижения и "
-"скорости ремонта."
+msgstr "Набор костюмов, предназначенных для защиты экипажа от повреждений. Ваш экипаж получает на 30% меньше урона от всех источников и оглушается на 30% меньше времени, но теряет 10% боевого урона, скорости передвижения и скорости ремонта."
 
 #: src-en/data/blueprints.xml.append:56
 msgid ""
@@ -78,11 +80,7 @@ msgstr "Поврежд. золтанский реактор"
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/desc"
-msgstr ""
-"Реактор, украденный с золтанского корабля. Из-за повреждений реактора и "
-"других технических сложностей он дает только 1 очко суперщита. В основном "
-"полезен для блокировки вражеского Взломщика, Контроля разума и телепорта, а "
-"также может быть использован для синих опций."
+msgstr "Реактор, украденный с золтанского корабля. Из-за повреждений реактора и других технических сложностей он дает только 1 очко суперщита. В основном полезен для блокировки вражеского Взломщика, Контроля разума и телепорта, а также может быть использован для синих опций."
 
 #: src-en/data/blueprints.xml.append:65
 msgid ""
@@ -92,12 +90,7 @@ msgstr "Ускоренный перезарядник"
 #: src-en/data/blueprints.xml.append:66
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/desc"
-msgstr ""
-"Прототип перезарядного устройства, разработанный контрабандистами, который "
-"можно активировать в начале каждого боя за 1 энергию, повышая "
-"скорострельность оружия на 50% на 45 секунд. Однако его механизмы "
-"недолговечны, поэтому после истечения первоначального срока действия "
-"скорострельность оружия снижается на 30%"
+msgstr "Прототип перезарядного устройства, разработанный контрабандистами, который можно активировать в начале каждого боя за 1 энергию, повышая скорострельность оружия на 50% на 45 секунд. Однако его механизмы недолговечны, поэтому после истечения первоначального срока действия скорострельность оружия снижается на 30%"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
@@ -107,9 +100,7 @@ msgstr "Усиленный ускор. перезаряд."
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/desc"
-msgstr ""
-"Повышение скорострельности оружия на 50% на 45 секунд. Вы не должны видеть "
-"этого в игре."
+msgstr "Повышение скорострельности оружия на 50% на 45 секунд. Вы не должны видеть этого в игре."
 
 #: src-en/data/blueprints.xml.append:83
 msgid ""
@@ -119,8 +110,7 @@ msgstr "Штраф за ускор. перезар."
 #: src-en/data/blueprints.xml.append:84
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/desc"
-msgstr ""
-"Снижение скорострельности оружия на 30%. Вы не должны видеть этого в игре."
+msgstr "Снижение скорострельности оружия на 30%. Вы не должны видеть этого в игре."
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
