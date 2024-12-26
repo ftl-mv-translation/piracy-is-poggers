@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_droppointxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -68,10 +68,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_droppoint.xml.append:91
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_TRAPPED_MINER_SHOOT\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Вы делаете несколько залпов по скале, и она начинает содрогаться и "
-"распадаться на части. Без щитов пиратский корабль получает повреждения, но в "
-"конце концов высвобождается. Они благодарят вас за помощь."
+msgstr "Вы делаете несколько залпов по скале, и она начинает содрогаться и распадаться на части. Без щитов пиратский корабль получает повреждения, но в конце концов высвобождается. Они благодарят вас за помощь."
 
 #: src-en/data/events_sector_droppoint.xml.append:93
 msgid ""
