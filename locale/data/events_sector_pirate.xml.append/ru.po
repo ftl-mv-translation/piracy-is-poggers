@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"PO-Revision-Date: 2024-12-26 18:24+0000\n"
 "Last-Translator: Scorbogusenechka <a.9455208.z@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
@@ -29,6 +29,8 @@ msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"PIRATE_BRIBER_MV\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"Пираты в замешательстве от вашего желания им помочь, поблагодарив вас, они "
+"быстро собирают припасы и продолжают свою атаку."
 
 #: src-en/data/events_sector_pirate.xml.append:32
 msgid ""
