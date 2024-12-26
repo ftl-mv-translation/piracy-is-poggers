@@ -411,6 +411,8 @@ msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_WONDERDRONE\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
 msgstr ""
+"\"Превосходная покупка! Надеемся этот дрон того стоил, потому что мы не "
+"принимаем возвраты!\""
 
 #: src-en/data/events_sector_pirate.xml.append:270
 msgid ""
