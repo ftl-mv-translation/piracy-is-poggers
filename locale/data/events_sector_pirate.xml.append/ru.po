@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 18:33+0000\n"
+"PO-Revision-Date: 2024-12-26 18:34+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
@@ -587,7 +587,7 @@ msgstr ""
 #: src-en/data/events_sector_pirate.xml.append:679
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[1]/text"
-msgstr "Войти в хаб."
+msgstr "Войти на станцию."
 
 #: src-en/data/events_sector_pirate.xml.append:683
 msgid ""
@@ -597,7 +597,7 @@ msgstr "Атаковать пиратов, чтобы застать их вра
 #: src-en/data/events_sector_pirate.xml.append:687
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[3]/text"
-msgstr "Игнорировать хаб."
+msgstr "Не обращать внимания на станцию."
 
 #: src-en/data/events_sector_pirate.xml.append:689
 msgid ""
