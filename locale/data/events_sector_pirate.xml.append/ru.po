@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-27 19:13+0000\n"
+"PO-Revision-Date: 2024-12-28 11:38+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
@@ -4949,16 +4949,23 @@ msgstr "(Миномет) Показать им свой миномет."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/text"
 msgstr ""
+"\"Эй, что это? Устройство, которое может ставить ловушки? Позволь мне "
+"взглянуть\". Пираты тщательно осматривают ваше оружие. Через некоторое время "
+"они приходят к выводу. \"Мы хотели бы купить у тебя эту чудесную вещь. Не "
+"беспокойся о том, что мы будем с ней делать, мы тебе хорошо заплатим\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3631
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_1\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Геб\" за 35~."
 
 #: src-en/data/events_sector_pirate.xml.append:3633
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_1\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они будут делать с минометом всякие незаконные "
+"вещи, но это не ваша проблема. Вы передаете им миномет, и пираты хорошо "
+"платят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3639
 msgid ""
@@ -4968,12 +4975,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3645
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_2\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Осирис\" за 50~."
 
 #: src-en/data/events_sector_pirate.xml.append:3647
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_2\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они будут делать с минометом всякие незаконные "
+"вещи, но это не ваша проблема. Вы передаете им миномет, и пираты хорошо "
+"платят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3653
 msgid ""
@@ -4983,12 +4993,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3659
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_3\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Ра\" за 60~."
 
 #: src-en/data/events_sector_pirate.xml.append:3661
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_3\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они будут делать с минометом всякие незаконные "
+"вещи, но это не ваша проблема. Вы передаете им миномет, и пираты хорошо "
+"платят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3667
 msgid ""
@@ -4998,12 +5011,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3673
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FREE\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Небетхет\" за 40~."
 
 #: src-en/data/events_sector_pirate.xml.append:3675
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FREE\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они будут делать с минометом всякие незаконные "
+"вещи, но это не ваша проблема. Вы передаете им миномет, и пираты хорошо "
+"платят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3681
 msgid ""
@@ -5013,12 +5029,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3687
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FIRE\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Сахмет\" за 40~."
 
 #: src-en/data/events_sector_pirate.xml.append:3689
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FIRE\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они будут делать с минометом всякие незаконные "
+"вещи, но это не ваша проблема. Вы передаете им миномет, и пираты хорошо "
+"платят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3695
 msgid ""
@@ -5028,12 +5047,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3701
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_BREACH\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Себек\" за 40~."
 
 #: src-en/data/events_sector_pirate.xml.append:3703
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_BREACH\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они будут делать с минометом всякие незаконные "
+"вещи, но это не ваша проблема. Вы передаете им миномет, и пираты хорошо "
+"платят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3709
 msgid ""
@@ -5043,12 +5065,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3715
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_STUN\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Анубис\" за 45~."
 
 #: src-en/data/events_sector_pirate.xml.append:3717
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_STUN\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они будут делать с минометом всякие незаконные "
+"вещи, но это не ваша проблема. Вы передаете им миномет, и пираты хорошо "
+"платят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3723
 msgid ""
@@ -5058,12 +5083,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3729
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
-msgstr ""
+msgstr "Продать им свой Осколкомет за 40~."
 
 #: src-en/data/events_sector_pirate.xml.append:3731
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/event/text"
 msgstr ""
+"Хотя это, конечно, не обычный миномет, Осколкомет не вызывает нареканий у "
+"них нареканий, и пираты, похоже, охотно его покупают. Вы передаете им "
+"Осколкомет, и пираты хорошо платят вам за него."
 
 #: src-en/data/events_sector_pirate.xml.append:3737
 msgid ""
@@ -5073,12 +5101,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3743
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_KERNEL\"]/text"
-msgstr ""
+msgstr "Продать им свой Лозовый миномет за 55~."
 
 #: src-en/data/events_sector_pirate.xml.append:3745
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_KERNEL\"]/event/text"
 msgstr ""
+"У вас есть ощущение, что они собираются делать с Лозовым минометом "
+"всевозможные незаконные вещи, но это не ваша проблема. Вы передаете им "
+"Лозовый миномет, и пираты хорошо заплатят вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3751
 msgid ""
@@ -5088,12 +5119,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3757
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Натиск\" за 110~."
 
 #: src-en/data/events_sector_pirate.xml.append:3759
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"ANCIENT_MINELAUNCHER\"]/event/text"
 msgstr ""
+"У вас есть подозрение, что они собираются делать с минометом всякие "
+"незаконные вещи, но это не ваша проблема. Пираты очарованы древней "
+"технологией, заключенной в вашем миномете \"Натиск\", и очень хорошо платят "
+"вам за это."
 
 #: src-en/data/events_sector_pirate.xml.append:3765
 msgid ""
@@ -5103,12 +5138,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3771
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_LOSTSUN_1\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Сахмет\" за 70~."
 
 #: src-en/data/events_sector_pirate.xml.append:3773
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_LOSTSUN_1\"]/event/text"
 msgstr ""
+"У вас есть ощущение, что они собираются делать с минометом всевозможные "
+"незаконные вещи, но это не ваша проблема. Улучшения, внесенные в этот "
+"вариант миномета \"Сехмет\", повышают его ценность, и пираты платят вам за "
+"него дополнительный лом."
 
 #: src-en/data/events_sector_pirate.xml.append:3779
 msgid ""
@@ -5118,12 +5157,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3785
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_MATH_6\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Процент\" за 55~."
 
 #: src-en/data/events_sector_pirate.xml.append:3787
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_MATH_6\"]/event/text"
 msgstr ""
+"У вас есть предчувствие, что они собираются делать с минометом всякие "
+"незаконные вещи, но это не ваша проблема. Пираты заинтересованы необычно "
+"красочным минометом, и хорошо платят вам за него."
 
 #: src-en/data/events_sector_pirate.xml.append:3793
 msgid ""
@@ -5133,12 +5175,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3799
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT\"]/text"
-msgstr ""
+msgstr "Продать им свой миномет \"Фараон\" за 120~."
 
 #: src-en/data/events_sector_pirate.xml.append:3801
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT\"]/event/text"
 msgstr ""
+"У вас есть подозрение, что они собираются делать с минометом всякие "
+"незаконные вещи, но это не ваша проблема. Впечатленные мощью и размерами "
+"вашего миномета \"Фараон\", пираты собирают весь лом, что у них есть, и "
+"предлагают купить его у вас."
 
 #: src-en/data/events_sector_pirate.xml.append:3807
 msgid ""
@@ -5148,12 +5194,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3813
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT_CHAOS\"]/text"
-msgstr ""
+msgstr "Продать им свой хаотический миномет \"Фараон\" за 140~."
 
 #: src-en/data/events_sector_pirate.xml.append:3815
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT_CHAOS\"]/event/text"
 msgstr ""
+"У вас есть подозрение, что они собираются делать с минометом всякие "
+"незаконные вещи, но это не ваша проблема. Впечатленные мощью и размерами "
+"вашего миномета \"Фараон\", пираты собирают столько, сколько могут "
+"предложить, чтобы купить его у вас. Вы скрещиваете пальцы и надеетесь, что "
+"это не станет для них проблемой."
 
 #: src-en/data/events_sector_pirate.xml.append:3821
 msgid ""
@@ -5163,12 +5214,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3827
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[15]/text"
-msgstr ""
+msgstr "Мы не продаем наш миномет."
 
 #: src-en/data/events_sector_pirate.xml.append:3829
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[15]/event/text"
 msgstr ""
+"\"Жаль. Тем не менее, теперь мы знаем, что искать. За информацию, которую ты "
+"предоставил, у нас есть для тебя кое-что\"."
 
 #: src-en/data/events_sector_pirate.xml.append:3836
 msgid ""
@@ -5179,16 +5232,24 @@ msgstr "Удачи вам."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Пират грубо благодарит вас и заканчивает разговор. Вы чувствуете, что вам "
+"неловко оставаться так близко к пиратам, учитывая, что они пытались заманить "
+"вас в ловушку, поэтому вы отводите свой корабль подальше от них и заряжаете "
+"ССД."
 
 #: src-en/data/events_sector_pirate.xml.append:3844
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[2]/text"
-msgstr ""
+msgstr "Атаковать пиратских выродков."
 
 #: src-en/data/events_sector_pirate.xml.append:3846
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[2]/event/text"
 msgstr ""
+"Может, вас ловушка и не поймала, но кто знает, не попадется ли следующие "
+"проходящие мимо гражданские, которых будут преследовать эти пираты? Вы не "
+"собираетесь позволять гражданским становиться жертвами таких мерзавцев, "
+"особенно если они настолько бездарные. Вы заряжаете оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3849
 msgid ""
@@ -5199,11 +5260,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD\"]/text"
 msgstr ""
+"Пираты нервно вызывают вас, чтобы сообщить плохие новости. \"С сожалением "
+"вынуждены сообщить тебе, что наша наша техника снова дала сбой, и ничего "
+"хорошего из этого не вышло\". Похоже, сегодня вы не получите задержку флота."
 
 #: src-en/data/events_sector_pirate.xml.append:3874
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "Потребовать, чтобы они вернули вам деньги за товар."
 
 #: src-en/data/events_sector_pirate.xml.append:3878
 msgid ""
@@ -5214,41 +5278,58 @@ msgstr "Оставить их в покое."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/text"
 msgstr ""
+"Пираты вызывают вас, чтобы сообщить новости. \"Техника проработала недолго, "
+"но смогла что-то сделать. Возможно, это немного поможет\". Похоже, пиратам "
+"удалось заполучить нечто, способное хоть немного задержать флот."
 
 #: src-en/data/events_sector_pirate.xml.append:3886
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/choice[1]/text"
-msgstr ""
+msgstr "Потребовать, чтобы они вернули вам деньги за товар."
 
 #: src-en/data/events_sector_pirate.xml.append:3890
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/choice[2]/text"
-msgstr ""
+msgstr "Пусть они установят ловушку. [Задерживает флот на 1 прыжок]"
 
 #: src-en/data/events_sector_pirate.xml.append:3892
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы благодарите пиратов и готовитесь отправиться дальше."
 
 #: src-en/data/events_sector_pirate.xml.append:3899
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_GOOD\"]/text"
 msgstr ""
+"Пираты с нетерпением ждут вас, чтобы сообщить радостную новость. \"Техника "
+"действительно сработала так, как надо! У нас получилось создать надежную "
+"ловушку для надоедливых повстанцев\". Похоже, пиратам удалось соорудить "
+"приличную ловушку, которая поможет вам выиграть немного времени. Вы "
+"благодарите их и готовитесь отправиться дальше."
 
 #: src-en/data/events_sector_pirate.xml.append:3904
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_GREAT\"]/text"
 msgstr ""
+"Пираты с нетерпением ждут вас, чтобы сообщить радостную новость. \"Будь я "
+"проклят, эта машина сработала безупречно с первого же раза! Я никогда не "
+"видел, чтобы что-то создавало ловушки, подобные этой\". Похоже, пиратам "
+"удалось сконструировать высокоэффективную ловушку, которая должна выиграть "
+"вам много времени. Вы благодарите их и готовитесь отправиться дальше."
 
 #: src-en/data/events_sector_pirate.xml.append:3911
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD_DEMAND\"]/loadEventList/event[1]/text"
 msgstr ""
+"Пираты отправляют обратно немного лома, отчасти из чувства вины, а отчасти "
+"из страха перед сражением с вами."
 
 #: src-en/data/events_sector_pirate.xml.append:3915
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD_DEMAND\"]/loadEventList/event[2]/text"
 msgstr ""
+"\"Эй, мы усердно работали! Это был твой выбор - дать нам попробовать. Если "
+"ты хочешь вернуть свои вещи, тебе придется забрать их силой!\""
 
 #: src-en/data/events_sector_pirate.xml.append:3918
 msgid ""
@@ -5259,11 +5340,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[1]/text"
 msgstr ""
+"Пираты отправляют обратно немного лома, отчасти из чувства вины, а отчасти "
+"из страха перед сражением с вами. Однако они, вероятно, не будут так охотно "
+"использовать ловушки."
 
 #: src-en/data/events_sector_pirate.xml.append:3932
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[2]/text"
 msgstr ""
+"\"Эй, мы усердно работали! Это был твой выбор - дать нам попробовать. Если "
+"ты хочешь вернуть свои вещи, тебе придется забрать их силой!\""
 
 #: src-en/data/events_sector_pirate.xml.append:3935
 msgid ""
@@ -5274,6 +5360,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[3]/text"
 msgstr ""
+"\"Эй, мы усердно работали,! Это был твой выбор - дать нам попробовать. Если "
+"ты хочешь вернуть свои вещи, тебе придется забрать их силой!\""
 
 #: src-en/data/events_sector_pirate.xml.append:3943
 msgid ""
@@ -5284,6 +5372,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[4]/text"
 msgstr ""
+"\"Эй, мы усердно работали,! Это был твой выбор - дать нам попробовать. Если "
+"ты хочешь вернуть свои вещи, тебе придется забрать их силой!\""
 
 #: src-en/data/events_sector_pirate.xml.append:3951
 msgid ""
@@ -5294,6 +5384,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/text"
 msgstr ""
+"Пираты не хотят сражаться. По крайней мере, пока. Похоже, банда решила "
+"передохнуть от своей незаконной деятельности."
 
 #: src-en/data/events_sector_pirate.xml.append:3962
 msgid ""
@@ -5304,6 +5396,8 @@ msgstr "Атаковать их."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[1]/event/text"
 msgstr ""
+"При вашем приближении пираты разбегаются по своим боевым постам, заряжая "
+"оружие."
 
 #: src-en/data/events_sector_pirate.xml.append:3967
 msgid ""
@@ -5313,12 +5407,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:3973
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[@req=\"rep_pirate\"]/text"
-msgstr ""
+msgstr "(Репутация пиратов 2+) Связаться с ними и попросить о торговле."
 
 #: src-en/data/events_sector_pirate.xml.append:3975
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[@req=\"rep_pirate\"]/event/text"
 msgstr ""
+"Пираты удивлены тем, что к ним приблизилось судно Федерации, которое не "
+"открыло по ним огонь, но они соглашаются торговать частью своего "
+"оборудования."
 
 #: src-en/data/events_sector_pirate.xml.append:3980
 msgid ""
@@ -5329,6 +5426,9 @@ msgstr "Оставить их в покое."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[3]/event/text"
 msgstr ""
+"Честно говоря, вам бы тоже не помешало отдохнуть от всех этих враждебных "
+"пиратов, бродящих вокруг. Вы отдаляетесь от них на случай, если они решат "
+"прервать свой отдых."
 
 #: src-en/data/events_sector_pirate.xml.append:3984
 msgid ""
@@ -5344,16 +5444,24 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/text"
 msgstr ""
+"Увидев здесь пиратское судно, вы ничуть не удивились, а вот увидев в "
+"непосредственной близости от него другой корабль Федерации - удивились. Судя "
+"по перехваченным данным, корабль Федерации преследует пиратов, пытаясь "
+"арестовать их за кражу военных товаров с близлежащего форпоста. Вы можете "
+"помочь им с арестом... или защищать пиратов."
 
 #: src-en/data/events_sector_pirate.xml.append:3998
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[1]/text"
-msgstr ""
+msgstr "Помочь поймать пиратов."
 
 #: src-en/data/events_sector_pirate.xml.append:4000
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[1]/event/text"
 msgstr ""
+"Федерация - ваши настоящие союзники, и вы сделаете все возможное, чтобы "
+"помочь им, когда сможете. Вы нацеливаете свой арсенал на пиратов и "
+"пускаетесь в погоню."
 
 #: src-en/data/events_sector_pirate.xml.append:4003
 msgid ""
@@ -5363,12 +5471,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4009
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[2]/text"
-msgstr ""
+msgstr "Защитить пиратов."
 
 #: src-en/data/events_sector_pirate.xml.append:4011
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[2]/event/text"
 msgstr ""
+"Хотя формально вы являетесь частью флота Федерации, ваша единственная цель - "
+"победить Флагман. Если для этого нужно нанести удар по Федерации и помочь "
+"пиратам, то так тому и быть."
 
 #: src-en/data/events_sector_pirate.xml.append:4014
 msgid ""
@@ -5378,12 +5489,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4020
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[3]/text"
-msgstr ""
+msgstr "Избегать сражения."
 
 #: src-en/data/events_sector_pirate.xml.append:4022
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[3]/event/text"
 msgstr ""
+"Сегодня вам не нужны никакие конфликты, даже если это помощь союзнику. "
+"Надеюсь, корабль Федерации сам успешно поймает пиратов."
 
 #: src-en/data/events_sector_pirate.xml.append:4024
 msgid ""
@@ -5399,71 +5512,111 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/text"
 msgstr ""
+"Источник сигнала бедствия - пиратский корабль поблизости. Их оружие "
+"отключено, но вы обнаруживаете, что их основные системы все еще работают. "
+"Пираты не предпринимают никаких действий, чтобы связаться с вами."
 
 #: src-en/data/events_sector_pirate.xml.append:4041
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/text"
-msgstr ""
+msgstr "Связаться с пиратами."
 
 #: src-en/data/events_sector_pirate.xml.append:4043
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/text"
 msgstr ""
+"Никто не отвечает на ваши вызовы, но вы обнаруживаете, что пираты "
+"разговаривают по открытому каналу. Вы настраиваетесь и слушаете, что говорит "
+"предполагаемый капитан корабля. \"Да, Майки, этот пиратский бизнес хуже, чем "
+"мы ожидали! Нам рассказывали о том, как легко и удобно воровать, и не "
+"работать как все, но это еще более УЖАСНО! Не надо было мне уходить с "
+"работы, мужик. Помнишь то время, когда у нас была опека профсоюзов? Я точно "
+"помню...\""
 
 #: src-en/data/events_sector_pirate.xml.append:4045
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Продолжать слушать, хотя это может занять некоторое время."
 
 #: src-en/data/events_sector_pirate.xml.append:4048
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Пират рассказывает о своей прежней работе и жизни в качестве рабочего на "
+"фабрике Союза, о плохих условиях труда, стрессе от плохой зарплаты и страхе "
+"оказаться в ловушке вечной работы с девяти до пяти. Затем он рассказывает о "
+"том, как бросил эту жизнь, чтобы стать пиратом, надеясь, что это избавит его "
+"от жизни от зарплаты до зарплаты, но в результате оказался на грани "
+"изнеможения, выполняя работу для всех трех крупных пиратских фракций и "
+"дополнительным стрессом от того, что в него стреляют и преследуют "
+"правоохранительные органы. Вы уже собираетесь уходить, но он наконец "
+"заканчивает свой рассказ. \"И да, похоже, мы здесь уже не одни. Но что мне "
+"теперь делать? Мне нужен совет, черт возьми. Кто-нибудь уже откликнулся на "
+"наш сигнал бедствия?\""
 
 #: src-en/data/events_sector_pirate.xml.append:4050
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Принять участие и предложить свою помощь."
 
 #: src-en/data/events_sector_pirate.xml.append:4052
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Что? Разве вы не один из офицеров Федерации? Не знаю, почему вы еще не "
+"стреляете, но я согласен. Я не знаю, как долго вы слушали, но предполагаю, "
+"что вы знаете, в каком затруднительном положении я нахожусь. Не могли бы вы "
+"дать совет?\""
 
 #: src-en/data/events_sector_pirate.xml.append:4054
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Похоже, вам нужно взять отпуск."
 
 #: src-en/data/events_sector_pirate.xml.append:4056
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Ха, я никогда об этом не задумывался. Я совсем забыл, что мои отношения с "
+"пиратскими фракциями никак не регулируются. Знаете что? Пожалуй, я возьму "
+"отпуск, начиная прямо сейчас. Но прежде чем я отправлюсь развлекаться в "
+"казино \"небесный бродяга\", заберите эти ненужные мне ящики, которые "
+"загромождают мой корабль, в качестве благодарности за ваш отличный совет. "
+"Уверен, там найдется что-нибудь полезное для вас\"."
 
 #: src-en/data/events_sector_pirate.xml.append:4058
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Открыть первый ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4064
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Возможно, вы могли бы бросить одну из своих пиратских работ?"
 
 #: src-en/data/events_sector_pirate.xml.append:4066
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Хм, это действительно хорошая идея. Тогда я, наконец, смогу лучше работать "
+"на других! Какую из этих работ я должен бросить?\""
 
 #: src-en/data/events_sector_pirate.xml.append:4068
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
 msgstr ""
+"Если вы откажетесь от работы на работорговцев, ваши рабы тоже смогут обрести "
+"свободу."
 
 #: src-en/data/events_sector_pirate.xml.append:4070
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"\"Полагаю, это правильно. Несмотря на то, что я все еще наемник и "
+"контрабандист, я чувствую, что мое моральное состояние немного улучшилось. "
+"Спасибо, странный корабль Федерации. Я высажу этих ребят на следующей "
+"станции, но я знаю одного, который, кажется, хотел бы работать на борту "
+"такого судна, как ваше\"."
 
 #: src-en/data/events_sector_pirate.xml.append:4074
 msgid ""
@@ -5474,11 +5627,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
 msgstr ""
+"Вам не придется бегать на побегушках, если вы перестанете быть наемником."
 
 #: src-en/data/events_sector_pirate.xml.append:4082
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"Это очень хорошее замечание. Я уже получал несколько странных запросов на "
+"работу и думаю, что готов оставить эти дни позади. Спасибо, странный корабль "
+"Федерации. Поскольку я больше не нуждаюсь в снаряжении наемника, угощайтесь "
+"моим оборудованием и картой сектора\"."
 
 #: src-en/data/events_sector_pirate.xml.append:4086
 msgid ""
@@ -5489,11 +5647,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[3]/text"
 msgstr ""
+"Покончив с контрабандой, вы освободите много места на корабле, чтобы "
+"заняться другими делами."
 
 #: src-en/data/events_sector_pirate.xml.append:4094
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"\"Раз уж вы об этом заговорили, я и не подозревал, насколько здесь тесно... "
+"Может быть, я куплю себе несколько игровых автоматов из казино \"Небесный "
+"бродяга\", чтобы играть в свободное время вместо этих контрабандных ящиков. "
+"Спасибо, странный корабль Федерации. Прежде чем я продам эти предметы для "
+"покупки игрового автомата, возьмите один из них в качестве благодарности\"."
 
 #: src-en/data/events_sector_pirate.xml.append:4097
 msgid ""
@@ -5503,12 +5668,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4105
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Возвращайтесь работать на фабрику, там безопаснее."
 
 #: src-en/data/events_sector_pirate.xml.append:4107
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Пират несколько секунд смотрит на вас широко раскрытыми глазами, а затем "
+"разражается маниакальным хохотом. \"ХА-ХА-ХА-ХА. Ты что, все это время не "
+"слушал мою историю? Я стал пиратом, чтобы сбежать из этой дыры, и я лучше "
+"умру, совершив что-то эпическое, чем вернусь в рабство Союза! Твой совет для "
+"меня был бесполезным, но, по крайней мере, ты дал мне мотивацию работать "
+"дальше на моей нынешней работе. Я хочу поблагодарить тебя за все твои вещи, "
+"которые я только что украл!\""
 
 #: src-en/data/events_sector_pirate.xml.append:4110
 msgid ""
@@ -5518,12 +5690,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4116
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "Вам уже не помочь."
 
 #: src-en/data/events_sector_pirate.xml.append:4118
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[4]/event/text"
 msgstr ""
+"Пират переходит от состояния жалости к себе к гневу, как только вы "
+"заканчиваете предложение. \"Отвали, Федерация! Я НЕ это имел в виду, говоря "
+"о совете. Если от тебя нет никакой пользы, я просто убью тебя и буду ждать, "
+"пока прибудет следующий корабль и даст мне дельный совет...\""
 
 #: src-en/data/events_sector_pirate.xml.append:4121
 msgid ""
@@ -5533,7 +5709,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4131
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Это ни к чему хорошему не приведет, уходим."
 
 #: src-en/data/events_sector_pirate.xml.append:4137
 msgid ""
@@ -5544,6 +5720,9 @@ msgstr "Атаковать их!"
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[2]/event/text"
 msgstr ""
+"Кто знает, не был ли сигнал бедствия ловушкой, чтобы заманить в нее ничего "
+"не подозревающих гражданских? Вы косвенно спасете жизни тех, кто мог бы "
+"стать жертвой этой ловушки. Если, конечно, это была ловушка."
 
 #: src-en/data/events_sector_pirate.xml.append:4142
 msgid ""
@@ -5559,6 +5738,9 @@ msgstr "Оставить их в покое."
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[3]/event/text"
 msgstr ""
+"Вы не знаете, почему пираты еще не напали, но не хотите стать жертвой "
+"ловушки. Вы сохраняете значительное расстояние между кораблями, пока не "
+"убедитесь, что они не смогут застать вас врасплох."
 
 #: src-en/data/events_sector_pirate.xml.append:4152
 msgid ""
@@ -5573,167 +5755,180 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_pirate.xml.append:4177
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_FUEL_ONLY\"]/text"
-msgstr ""
+msgstr "В первом ящике находится несколько топливных элементов."
 
 #: src-en/data/events_sector_pirate.xml.append:4180
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_FUEL_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4185
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_FUEL_SCRAP\"]/text"
 msgstr ""
+"В первом ящике находится несколько топливных элементов и небольшое "
+"количество лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4188
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_FUEL_SCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4193
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_MISSILES_ONLY\"]/text"
-msgstr ""
+msgstr "В первом ящике находятся боеприпасы."
 
 #: src-en/data/events_sector_pirate.xml.append:4196
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_MISSILES_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4201
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_MISSILES_SCRAP\"]/text"
 msgstr ""
+"В первом ящике находится немного боеприпасов и небольшое количество лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4204
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_MISSILES_SCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4209
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_DRONEPARTS_ONLY\"]/text"
-msgstr ""
+msgstr "Первый ящик содержит немного дрон-комплектов."
 
 #: src-en/data/events_sector_pirate.xml.append:4212
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_DRONEPARTS_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4217
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_DRONEPARTS_SCRAP\"]/text"
 msgstr ""
+"В первом ящике находится несколько дрон-комплектов и небольшое количество "
+"лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4220
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_DRONEPARTS_SCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4225
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_WEAK_WEAPON\"]/text"
 msgstr ""
+"В первом ящике вы находите оружие, но, к сожалению, оно кажется очень "
+"простым. Тем не менее, оружие есть оружие, и его можно продать."
 
 #: src-en/data/events_sector_pirate.xml.append:4228
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_WEAK_WEAPON\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4233
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_SCRAP_ONLY\"]/text"
-msgstr ""
+msgstr "В первом ящике находится немного лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4236
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_SCRAP_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4255
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_FUEL_ONLY\"]/text"
-msgstr ""
+msgstr "Во втором ящике находится несколько топливных элементов."
 
 #: src-en/data/events_sector_pirate.xml.append:4258
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_FUEL_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4263
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_FUEL_SCRAP\"]/text"
 msgstr ""
+"Второй ящик содержит несколько топливных элементов и небольшое количество "
+"лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4266
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_FUEL_SCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4271
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_MISSILES_ONLY\"]/text"
-msgstr ""
+msgstr "Во втором ящике находятся боеприпасы."
 
 #: src-en/data/events_sector_pirate.xml.append:4274
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_MISSILES_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4279
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_MISSILES_SCRAP\"]/text"
-msgstr ""
+msgstr "Во втором ящике находится немного боеприпасов и лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4282
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_MISSILES_SCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4287
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_DRONEPARTS_ONLY\"]/text"
-msgstr ""
+msgstr "Второй ящик содержит немного дрон-комплектов."
 
 #: src-en/data/events_sector_pirate.xml.append:4290
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_DRONEPARTS_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4295
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_DRONEPARTS_SCRAP\"]/text"
 msgstr ""
+"Во втором ящике находится немного дрон-комплектов и небольшое количество "
+"лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4298
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_DRONEPARTS_SCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4303
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_WEAK_WEAPON\"]/text"
 msgstr ""
+"Во втором ящике вы находите оружие, но, к сожалению, оно кажется очень "
+"простым. Тем не менее, оружие есть оружие, и его можно продать."
 
 #: src-en/data/events_sector_pirate.xml.append:4306
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_WEAK_WEAPON\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4311
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_SCRAP_ONLY\"]/text"
-msgstr ""
+msgstr "Во втором ящике находится лом."
 
 #: src-en/data/events_sector_pirate.xml.append:4314
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_SCRAP_ONLY\"]/choice/text"
-msgstr ""
+msgstr "Открыть последний ящик."
 
 #: src-en/data/events_sector_pirate.xml.append:4333
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_FUEL_ONLY\"]/text"
-msgstr ""
+msgstr "В последнем ящике находится несколько топливных элементов."
 
 #: src-en/data/events_sector_pirate.xml.append:4336
 msgid ""
@@ -5744,6 +5939,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_FUEL_SCRAP\"]/text"
 msgstr ""
+"Последний ящик содержит несколько топливных элементов и небольшое количество "
+"лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4344
 msgid ""
@@ -5753,7 +5950,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4349
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_MISSILES_ONLY\"]/text"
-msgstr ""
+msgstr "В последнем ящике находятся боеприпасы."
 
 #: src-en/data/events_sector_pirate.xml.append:4352
 msgid ""
@@ -5763,7 +5960,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4357
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_MISSILES_SCRAP\"]/text"
-msgstr ""
+msgstr "В последнем ящике находится немного боеприпасов и лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4360
 msgid ""
@@ -5773,7 +5970,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4365
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_DRONEPARTS_ONLY\"]/text"
-msgstr ""
+msgstr "В последнем ящике находятся дрон-комплекты."
 
 #: src-en/data/events_sector_pirate.xml.append:4368
 msgid ""
@@ -5783,7 +5980,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4373
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_DRONEPARTS_SCRAP\"]/text"
-msgstr ""
+msgstr "В последнем ящике находятся дрон-комплекты и небольшое количество лома."
 
 #: src-en/data/events_sector_pirate.xml.append:4376
 msgid ""
@@ -5794,6 +5991,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_WEAK_WEAPON\"]/text"
 msgstr ""
+"В последнем ящике вы находите оружие, но, к сожалению, оно кажется очень "
+"простым. Тем не менее, оружие есть оружие, и его можно продать."
 
 #: src-en/data/events_sector_pirate.xml.append:4384
 msgid ""
@@ -5803,7 +6002,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_pirate.xml.append:4389
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_SCRAP_ONLY\"]/text"
-msgstr ""
+msgstr "В последнем ящике находиться лом."
 
 #: src-en/data/events_sector_pirate.xml.append:4392
 msgid ""
