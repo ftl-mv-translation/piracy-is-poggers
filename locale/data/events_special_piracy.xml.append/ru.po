@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-27 19:13+0000\n"
+"PO-Revision-Date: 2024-12-28 11:38+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_special_piracyxmlappend/ru/>\n"
@@ -16,6 +16,48 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:4
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_INTRO\"]/text"
 msgstr ""
+"Знаете ли вы, что в базовом Multiverse вы могли купить Лучезерных ракушек у "
+"работорговцев?\n"
+"    \n"
+"И что наемники могут дать вам 2 задержки флота + карту сектора менее чем за "
+"30 единиц лома?\n"
+"\n"
+"А контрабандисты могут продать вам внешнее стелс-оружие и восстанавливающий "
+"телепортатор?\n"
+"\n"
+"Однако для того, чтобы получить эти предложения, нужно было иметь 3 очка "
+"репутации с фракцией, чего практически никто никогда не делает. Этот алддон -"
+" попытка побудить игроков чаще использовать пиратов.\n"
+"\n"
+"Некоторые компоненты пиратских событий были изменены, в том числе:\n"
+"1. Предложения, которые раньше требовали 3 репутации, теперь требуют только "
+"2.\n"
+"2. Покупка обычных услуг у пиратов больше не повышает общую репутацию.\n"
+"3. Общие дружественные пиратские события теперь имеют 50% шанс появиться при "
+"вызове общих пиратских событий, при этом шанс появления событий с угрозой "
+"пиратов снижен до 25%, а шанс появления враждебных пиратов снижен до 25%. ("
+"Раньше шанс появления каждого события в базовом Multiverse составлял 33%)\n"
+"4. Репутация пиратской фракции теперь складывается из репутации пиратов и "
+"репутации фракции (раньше это было одно или другое), поэтому, имея 1 "
+"репутацию пиратов и 1 репутацию контрабандистов, вы получите доступ к "
+"событиям контрабандистов 2 репутации.\n"
+"5. Большинство стандартных секторов теперь имеют повышенные шансы встретить "
+"обычные пиратские события.\n"
+"\n"
+"У каждой пиратской фракции есть особое предложение, которое ждет вас, если "
+"вы сможете накопить 3-5 репутации :)\n"
+"\n"
+"Начиная с версии 2.0.0, большинство пиратских событий в каждом секторе были "
+"обновлены, чтобы добавлять/уменьшать репутацию в зависимости от вашего "
+"выбора.\n"
+"\n"
+"Вы также можете проверить накопленную пиратскую репутацию в меню флажка "
+"хранилища.\n"
+"\n"
+"Если вы хотите видеть выгодные предложения от каждого дружественного пирата, "
+"у вас не может быть меньше -1 репутации с этой фракцией, иначе вы не увидите "
+"выгодных предложений, независимо от того, насколько высока ваша общая "
+"пиратская репутация."
 
 #: src-en/data/events_special_piracy.xml.append:27
 msgid ""
@@ -25,6 +67,8 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:33
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_RESET\"]/text"
 msgstr ""
+"Ваша пиратская репутация была сброшена до 0 (репутация, присущая отдельным "
+"пиратским фракциям, не затрагивается)"
 
 #: src-en/data/events_special_piracy.xml.append:112
 msgid ""
@@ -85,102 +129,111 @@ msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
+"В настоящее время вы находитесь в плохих отношениях с Тииикака. Если вы "
+"хотите получить доступ к их специальным предложениям, вам следует улучшить "
+"свои отношения с ними..."
 
 #: src-en/data/events_special_piracy.xml.append:153
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-1\"]/text"
 msgstr ""
+"Если ваша общая репутация работорговцем достаточно высока, вы сможете "
+"получить доступ к некоторым специальным предложениям."
 
 #: src-en/data/events_special_piracy.xml.append:157
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Если ваша общая репутация работорговцем достаточно высока, вы сможете "
+"получить доступ к некоторым специальным предложениям."
 
 #: src-en/data/events_special_piracy.xml.append:161
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Если ваша общая репутация работорговцем достаточно высока, вы сможете "
+"получить доступ к некоторым специальным предложениям."
 
 #: src-en/data/events_special_piracy.xml.append:165
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -5 или меньше"
 
 #: src-en/data/events_special_piracy.xml.append:169
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-4\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -4"
 
 #: src-en/data/events_special_piracy.xml.append:173
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-3\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -3"
 
 #: src-en/data/events_special_piracy.xml.append:177
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-2\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -2"
 
 #: src-en/data/events_special_piracy.xml.append:181
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -1"
 
 #: src-en/data/events_special_piracy.xml.append:185
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 0"
 
 #: src-en/data/events_special_piracy.xml.append:189
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 1"
 
 #: src-en/data/events_special_piracy.xml.append:193
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 2"
 
 #: src-en/data/events_special_piracy.xml.append:197
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 3"
 
 #: src-en/data/events_special_piracy.xml.append:201
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 4"
 
 #: src-en/data/events_special_piracy.xml.append:205
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 5"
 
 #: src-en/data/events_special_piracy.xml.append:209
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 6"
 
 #: src-en/data/events_special_piracy.xml.append:213
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 7 или больше"
 
 #: src-en/data/events_special_piracy.xml.append:224
 msgid ""
@@ -241,102 +294,111 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-999\"]/text"
 msgstr ""
+"В настоящее время вы находитесь в плохих отношениях с Тииикака. Если вы "
+"хотите получить доступ к их специальным предложениям, вам следует улучшить "
+"свои отношения с ними..."
 
 #: src-en/data/events_special_piracy.xml.append:265
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-1\"]/text"
 msgstr ""
+"Если ваша общая репутация работорговцем достаточно высока, вы сможете "
+"получить доступ к некоторым специальным предложениям."
 
 #: src-en/data/events_special_piracy.xml.append:269
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Если ваша общая репутация работорговцем достаточно высока, вы сможете "
+"получить доступ к некоторым специальным предложениям."
 
 #: src-en/data/events_special_piracy.xml.append:273
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Если ваша общая репутация работорговцем достаточно высока, вы сможете "
+"получить доступ к некоторым специальным предложениям."
 
 #: src-en/data/events_special_piracy.xml.append:277
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -5 или меньше"
 
 #: src-en/data/events_special_piracy.xml.append:281
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-4\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -4"
 
 #: src-en/data/events_special_piracy.xml.append:285
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-3\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -3"
 
 #: src-en/data/events_special_piracy.xml.append:289
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-2\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -2"
 
 #: src-en/data/events_special_piracy.xml.append:293
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: -1"
 
 #: src-en/data/events_special_piracy.xml.append:297
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 0"
 
 #: src-en/data/events_special_piracy.xml.append:301
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 1"
 
 #: src-en/data/events_special_piracy.xml.append:305
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 2"
 
 #: src-en/data/events_special_piracy.xml.append:309
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 3"
 
 #: src-en/data/events_special_piracy.xml.append:313
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 4"
 
 #: src-en/data/events_special_piracy.xml.append:317
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 5"
 
 #: src-en/data/events_special_piracy.xml.append:321
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 6"
 
 #: src-en/data/events_special_piracy.xml.append:325
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"rep_comb_slaver\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Комбинированная репутация работорговцев: 7 или больше"
 
 #: src-en/data/events_special_piracy.xml.append:334
 msgid ""
@@ -381,7 +443,7 @@ msgstr "[Репутация: 1+] Купить \"дорогостоящего\" �
 #: src-en/data/events_special_piracy.xml.append:366
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"rep_comb_slaver\"]/event/text"
-msgstr ""
+msgstr "\"Отличное приобретение. Пусть оно послужат вам долго, капитан...\""
 
 #: src-en/data/events_special_piracy.xml.append:372
 msgid ""
@@ -391,7 +453,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:378
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_2_OFFER\"]/text"
-msgstr ""
+msgstr "[Репутация: 2+] Купить экзотического раба."
 
 #: src-en/data/events_special_piracy.xml.append:380
 msgid ""
@@ -409,12 +471,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:392
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_3_OFFER\"]/text"
-msgstr ""
+msgstr "[Репутация: 3+] Попросите показать весь ассортимент их \"товаров\"."
 
 #: src-en/data/events_special_piracy.xml.append:394
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_3_OFFER\"]/event/text"
 msgstr ""
+"\"А, я слышал о вашей... доброте по отношению к моим товарищам по Тииикака. "
+"Да, я могу предложить вам особые условия. Следуйте за мной\"."
 
 #: src-en/data/events_special_piracy.xml.append:396
 msgid ""
@@ -425,23 +489,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_3_OFFER\"]/event/choice/event/text"
 msgstr ""
+"Капитан работорговцев проводит вас на грузовой корабль, где десятки рабов "
+"всех видов заключены в клетки и аккуратно расставлены по длинным коридорам. "
+"Вы знали, что работорговля процветает, но никогда не подозревали, какое "
+"огромное количество рабов перевозит каждый член Тииикака. Капитан "
+"работорговцев останавливает вас на мгновение, чтобы сделать предложение. "
+"\"Прежде чем я покажу вам своих рабов, у меня есть предложение, которое "
+"может вас заинтересовать. Хотя я могу перевозить много рабов для продажи, "
+"Тииикака запретила нам, работорговцам, использовать своих рабов для "
+"обслуживания корабля ради того, чтобы \"поддерживать их в первозданном "
+"состоянии\". О, какая ирония. Как бы то ни было, мне не хватает хорошей "
+"команды для управления этим прекрасным кораблем. Может быть, вы готовы "
+"продать мне одного из своих людей за справедливую компенсацию?\""
 
 #: src-en/data/events_special_piracy.xml.append:400
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_3_OFFER\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Узнать, каких рабов он предлагает."
 
 #: src-en/data/events_special_piracy.xml.append:404
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_3_OFFER\"]/event/choice/event/choice[@req=\"slaver_crew_sold\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Продать одного члена своего экипажа."
 
 #: src-en/data/events_special_piracy.xml.append:408
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_3_OFFER\"]/event/choice/event/choice[@req=\"slaver_crew_sold\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Работорговец уже нанял достаточное количество экипажа."
 
 #: src-en/data/events_special_piracy.xml.append:451
 msgid ""
@@ -451,7 +527,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_piracy.xml.append:453
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вам не интересно его предложение."
 
 #: src-en/data/events_special_piracy.xml.append:455
 msgid ""
@@ -466,22 +542,26 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_piracy.xml.append:473
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/text"
-msgstr ""
+msgstr "\"Отлично. Какой экипаж у вас есть для меня на сегодня?\""
 
 #: src-en/data/events_special_piracy.xml.append:475
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human\"]/text"
-msgstr ""
+msgstr "Продать ему своего человека."
 
 #: src-en/data/events_special_piracy.xml.append:477
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:483
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:486
 msgid ""
@@ -491,17 +571,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:492
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_MEDIC\"]/text"
-msgstr ""
+msgstr "Продать ему своего Медика."
 
 #: src-en/data/events_special_piracy.xml.append:494
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_MEDIC\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:500
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_MEDIC\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:503
 msgid ""
@@ -511,17 +595,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:509
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ENGINEER_EASTER\"]/text"
-msgstr ""
+msgstr "Продать ему своего Инженера."
 
 #: src-en/data/events_special_piracy.xml.append:511
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ENGINEER_EASTER\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:517
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ENGINEER_EASTER\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:520
 msgid ""
@@ -531,17 +619,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:526
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi\"]/text"
-msgstr ""
+msgstr "Продать ему своего энджи."
 
 #: src-en/data/events_special_piracy.xml.append:528
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:534
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:537
 msgid ""
@@ -551,17 +643,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:543
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/text"
-msgstr ""
+msgstr "Продать ему своего энджи Сепаратиста."
 
 #: src-en/data/events_special_piracy.xml.append:545
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:551
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:554
 msgid ""
@@ -571,17 +667,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:560
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan\"]/text"
-msgstr ""
+msgstr "Продать ему своего золтана."
 
 #: src-en/data/events_special_piracy.xml.append:562
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:568
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:571
 msgid ""
@@ -591,17 +691,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:577
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_monk\"]/text"
-msgstr ""
+msgstr "Продать ему своего золтана Монаха."
 
 #: src-en/data/events_special_piracy.xml.append:579
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_monk\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:585
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_monk\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:588
 msgid ""
@@ -611,17 +715,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:594
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_devotee\"]/text"
-msgstr ""
+msgstr "Продать ему своего Приверженца Вестника Заката."
 
 #: src-en/data/events_special_piracy.xml.append:596
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_devotee\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:602
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_devotee\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:605
 msgid ""
@@ -631,17 +739,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:611
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_osmian\"]/text"
-msgstr ""
+msgstr "Продать ему своего осмианца."
 
 #: src-en/data/events_special_piracy.xml.append:613
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_osmian\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:619
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_osmian\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:622
 msgid ""
@@ -651,17 +763,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:628
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid\"]/text"
-msgstr ""
+msgstr "Продать ему свою орхидею."
 
 #: src-en/data/events_special_piracy.xml.append:630
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:636
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:639
 msgid ""
@@ -671,17 +787,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:645
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_caretaker\"]/text"
-msgstr ""
+msgstr "Продать ему своею орхидею-Смотрителя."
 
 #: src-en/data/events_special_piracy.xml.append:647
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_caretaker\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:653
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_caretaker\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:656
 msgid ""
@@ -691,17 +811,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:662
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_vampweed\"]/text"
-msgstr ""
+msgstr "Продать ему своего вампсорняка."
 
 #: src-en/data/events_special_piracy.xml.append:664
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_vampweed\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:670
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_vampweed\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:673
 msgid ""
@@ -711,17 +835,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:679
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell\"]/text"
-msgstr ""
+msgstr "Продать ему свою ракушку."
 
 #: src-en/data/events_special_piracy.xml.append:681
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:687
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:690
 msgid ""
@@ -731,17 +859,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:696
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_scientist\"]/text"
-msgstr ""
+msgstr "Продать ему свою ракушку-Ученого."
 
 #: src-en/data/events_special_piracy.xml.append:698
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_scientist\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:704
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_scientist\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:707
 msgid ""
@@ -751,17 +883,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:713
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_mechanic\"]/text"
-msgstr ""
+msgstr "Продать ему свою ракушку-Механика."
 
 #: src-en/data/events_special_piracy.xml.append:715
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_mechanic\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:721
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_mechanic\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:724
 msgid ""
@@ -771,17 +907,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:730
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_guardian\"]/text"
-msgstr ""
+msgstr "Продать ему свою ракушку-Стража."
 
 #: src-en/data/events_special_piracy.xml.append:732
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_guardian\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:738
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_guardian\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:741
 msgid ""
@@ -791,17 +931,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:747
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis\"]/text"
-msgstr ""
+msgstr "Продать ему своего богомола."
 
 #: src-en/data/events_special_piracy.xml.append:749
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:755
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:758
 msgid ""
@@ -811,17 +955,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:764
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_free\"]/text"
-msgstr ""
+msgstr "Продать ему своего свободного богомола."
 
 #: src-en/data/events_special_piracy.xml.append:766
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_free\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:772
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_free\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:775
 msgid ""
@@ -831,17 +979,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:781
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ROCK_EASTER\"]/text"
-msgstr ""
+msgstr "Продать ему своего валуна."
 
 #: src-en/data/events_special_piracy.xml.append:783
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ROCK_EASTER\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:789
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ROCK_EASTER\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:792
 msgid ""
@@ -851,17 +1003,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:798
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_outcast\"]/text"
-msgstr ""
+msgstr "Продать ему своего валуна-Изгоя."
 
 #: src-en/data/events_special_piracy.xml.append:800
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_outcast\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:806
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_outcast\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:809
 msgid ""
@@ -871,17 +1027,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:815
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_commando\"]/text"
-msgstr ""
+msgstr "Продать ему своего Коммандоса Затерянных Солнц."
 
 #: src-en/data/events_special_piracy.xml.append:817
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_commando\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:823
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_commando\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:826
 msgid ""
@@ -891,17 +1051,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:832
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_cultist\"]/text"
-msgstr ""
+msgstr "Продать ему своего Культиста."
 
 #: src-en/data/events_special_piracy.xml.append:834
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_cultist\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:840
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_cultist\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:843
 msgid ""
@@ -911,17 +1075,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:849
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal\"]/text"
-msgstr ""
+msgstr "Продать ему своего кристаллина."
 
 #: src-en/data/events_special_piracy.xml.append:851
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:857
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:860
 msgid ""
@@ -931,17 +1099,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:866
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_liberator\"]/text"
-msgstr ""
+msgstr "Продать ему своего кристаллина-Освободителя."
 
 #: src-en/data/events_special_piracy.xml.append:868
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_liberator\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:874
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_liberator\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:877
 msgid ""
@@ -951,17 +1123,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:883
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug\"]/text"
-msgstr ""
+msgstr "Продать ему своего слизня."
 
 #: src-en/data/events_special_piracy.xml.append:885
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:891
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:894
 msgid ""
@@ -971,17 +1147,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:900
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_HEKTAR\"]/text"
-msgstr ""
+msgstr "Продать ему своего сотрудника Гектар."
 
 #: src-en/data/events_special_piracy.xml.append:902
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_HEKTAR\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:908
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_HEKTAR\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:911
 msgid ""
@@ -991,17 +1171,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:917
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_clansman\"]/text"
-msgstr ""
+msgstr "Продать ему своего слизня-Клановца."
 
 #: src-en/data/events_special_piracy.xml.append:919
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_clansman\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:925
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_clansman\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:928
 msgid ""
@@ -1011,17 +1195,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:934
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech\"]/text"
-msgstr ""
+msgstr "Продать ему свою пиявку."
 
 #: src-en/data/events_special_piracy.xml.append:936
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:942
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:945
 msgid ""
@@ -1031,17 +1219,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:951
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom\"]/text"
-msgstr ""
+msgstr "Продать ему своего Фантома."
 
 #: src-en/data/events_special_piracy.xml.append:953
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:959
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:962
 msgid ""
@@ -1051,17 +1243,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:968
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul\"]/text"
-msgstr ""
+msgstr "Продать ему своего Гуля."
 
 #: src-en/data/events_special_piracy.xml.append:970
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:976
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:979
 msgid ""
@@ -1071,17 +1267,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:985
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare\"]/text"
-msgstr ""
+msgstr "Продать ему своего Мара."
 
 #: src-en/data/events_special_piracy.xml.append:987
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:993
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:996
 msgid ""
@@ -1091,17 +1291,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1002
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith\"]/text"
-msgstr ""
+msgstr "Продать ему свое Виденье."
 
 #: src-en/data/events_special_piracy.xml.append:1004
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:1010
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1013
 msgid ""
@@ -1111,17 +1315,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1019
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius\"]/text"
-msgstr ""
+msgstr "Продать ему своего ланиуса."
 
 #: src-en/data/events_special_piracy.xml.append:1021
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:1027
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1030
 msgid ""
@@ -1131,17 +1339,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1036
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_augmented\"]/text"
-msgstr ""
+msgstr "Продать ему своего Возвышенного ланиуса."
 
 #: src-en/data/events_special_piracy.xml.append:1038
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_augmented\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:1044
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_augmented\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1047
 msgid ""
@@ -1151,17 +1363,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1053
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_soldier\"]/text"
-msgstr ""
+msgstr "Продать ему своего человека-Солдата."
 
 #: src-en/data/events_special_piracy.xml.append:1055
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_soldier\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1061
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_soldier\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1064
 msgid ""
@@ -1171,17 +1388,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1070
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_mfk\"]/text"
-msgstr ""
+msgstr "Продать ему своего аса МФК."
 
 #: src-en/data/events_special_piracy.xml.append:1072
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_mfk\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"суперэлитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1078
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_mfk\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1081
 msgid ""
@@ -1191,17 +1413,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1087
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion\"]/text"
-msgstr ""
+msgstr "Продать ему своего Легионера-оперативника."
 
 #: src-en/data/events_special_piracy.xml.append:1089
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"ультраэлитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1095
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1098
 msgid ""
@@ -1211,17 +1438,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1104
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion_pyro\"]/text"
-msgstr ""
+msgstr "Продать ему своего Легионера-пиротехника."
 
 #: src-en/data/events_special_piracy.xml.append:1106
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion_pyro\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"ультраэлитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1112
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion_pyro\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1115
 msgid ""
@@ -1231,17 +1463,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1121
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_technician\"]/text"
-msgstr ""
+msgstr "Продать ему своего Техника Вентворта."
 
 #: src-en/data/events_special_piracy.xml.append:1123
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_technician\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1129
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_technician\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1132
 msgid ""
@@ -1251,17 +1488,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1138
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_angel\"]/text"
-msgstr ""
+msgstr "Продать ему своего Ангела."
 
 #: src-en/data/events_special_piracy.xml.append:1140
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_angel\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"суперэлитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1146
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_angel\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1149
 msgid ""
@@ -1271,17 +1513,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1155
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi_defender\"]/text"
-msgstr ""
+msgstr "Продать ему своего энджи Защитника."
 
 #: src-en/data/events_special_piracy.xml.append:1157
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi_defender\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1163
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi_defender\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1166
 msgid ""
@@ -1291,17 +1538,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1172
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_peacekeeper\"]/text"
-msgstr ""
+msgstr "Продать ему своего золтана-Миротворца."
 
 #: src-en/data/events_special_piracy.xml.append:1174
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_peacekeeper\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1180
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_peacekeeper\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1183
 msgid ""
@@ -1311,17 +1563,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1189
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_martyr\"]/text"
-msgstr ""
+msgstr "Продать ему своего Мученика Вестников Заката."
 
 #: src-en/data/events_special_piracy.xml.append:1191
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_martyr\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1197
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_martyr\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1200
 msgid ""
@@ -1331,17 +1588,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1206
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_praetor\"]/text"
-msgstr ""
+msgstr "Продать ему свою орхидею-Претора."
 
 #: src-en/data/events_special_piracy.xml.append:1208
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_praetor\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1214
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_praetor\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1217
 msgid ""
@@ -1351,17 +1613,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1223
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_cultivator\"]/text"
-msgstr ""
+msgstr "Продать ему своего Культиватора."
 
 #: src-en/data/events_special_piracy.xml.append:1225
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_cultivator\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1231
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_cultivator\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1234
 msgid ""
@@ -1371,17 +1638,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1240
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_suzerain\"]/text"
-msgstr ""
+msgstr "Продать ему своего богомола-Сюзерена."
 
 #: src-en/data/events_special_piracy.xml.append:1242
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_suzerain\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1248
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_suzerain\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1251
 msgid ""
@@ -1391,17 +1663,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1257
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_warlord\"]/text"
-msgstr ""
+msgstr "Продать ему своего свободного богомола-Полководца."
 
 #: src-en/data/events_special_piracy.xml.append:1259
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_warlord\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1265
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_warlord\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1268
 msgid ""
@@ -1411,17 +1688,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1274
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_bishop\"]/text"
-msgstr ""
+msgstr "Продать ему своего богомола-Епископа."
 
 #: src-en/data/events_special_piracy.xml.append:1276
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_bishop\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"суперэлитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1282
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_bishop\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1285
 msgid ""
@@ -1431,17 +1713,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1291
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_crusader\"]/text"
-msgstr ""
+msgstr "Продать ему своего валуна-Крестоносца."
 
 #: src-en/data/events_special_piracy.xml.append:1293
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_crusader\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1299
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_crusader\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1302
 msgid ""
@@ -1451,17 +1738,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1308
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_paladin\"]/text"
-msgstr ""
+msgstr "Продать ему своего валуна-Паладина."
 
 #: src-en/data/events_special_piracy.xml.append:1310
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_paladin\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"суперэлитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1316
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_paladin\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1319
 msgid ""
@@ -1471,17 +1763,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1325
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_sentinel\"]/text"
-msgstr ""
+msgstr "Продать ему свою ракушку-Часового."
 
 #: src-en/data/events_special_piracy.xml.append:1327
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_sentinel\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1333
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_sentinel\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1336
 msgid ""
@@ -1491,17 +1788,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1342
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_radiant\"]/text"
-msgstr ""
+msgstr "Продать ему свою Лучезарную ракушку."
 
 #: src-en/data/events_special_piracy.xml.append:1344
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_radiant\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1350
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_radiant\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1353
 msgid ""
@@ -1511,17 +1813,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1359
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech_ampere\"]/text"
-msgstr ""
+msgstr "Продать ему свою пиявку-Ампера."
 
 #: src-en/data/events_special_piracy.xml.append:1361
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech_ampere\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1367
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech_ampere\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1370
 msgid ""
@@ -1531,17 +1838,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1376
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_saboteur\"]/text"
-msgstr ""
+msgstr "Продать ему своего слизня-Диверсанта."
 
 #: src-en/data/events_special_piracy.xml.append:1378
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_saboteur\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1384
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_saboteur\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1387
 msgid ""
@@ -1551,17 +1863,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1393
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_ranger\"]/text"
-msgstr ""
+msgstr "Продать ему своего слизня-Рейнджера."
 
 #: src-en/data/events_special_piracy.xml.append:1395
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_ranger\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1401
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_ranger\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1404
 msgid ""
@@ -1571,17 +1888,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1410
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_knight\"]/text"
-msgstr ""
+msgstr "Продать ему своего Атамана Тумана."
 
 #: src-en/data/events_special_piracy.xml.append:1412
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_knight\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"суперэлитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1418
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_knight\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1421
 msgid ""
@@ -1591,17 +1913,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1427
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_alpha\"]/text"
-msgstr ""
+msgstr "Продать ему своего Альфа-Фантома."
 
 #: src-en/data/events_special_piracy.xml.append:1429
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_alpha\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1435
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_alpha\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1438
 msgid ""
@@ -1611,17 +1938,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1444
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul_alpha\"]/text"
-msgstr ""
+msgstr "Продать ему своего Альфа-Гуля."
 
 #: src-en/data/events_special_piracy.xml.append:1446
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul_alpha\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1452
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul_alpha\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1455
 msgid ""
@@ -1631,17 +1963,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1461
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare_alpha\"]/text"
-msgstr ""
+msgstr "Продать ему своего Альфа-Мара."
 
 #: src-en/data/events_special_piracy.xml.append:1463
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare_alpha\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1469
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare_alpha\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1472
 msgid ""
@@ -1651,17 +1988,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1478
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith_alpha\"]/text"
-msgstr ""
+msgstr "Продать ему свое Альфа-Виденье."
 
 #: src-en/data/events_special_piracy.xml.append:1480
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith_alpha\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1486
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith_alpha\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1489
 msgid ""
@@ -1671,17 +2013,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1495
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_welder\"]/text"
-msgstr ""
+msgstr "Продать ему своего ланиуса-Сварщика."
 
 #: src-en/data/events_special_piracy.xml.append:1497
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_welder\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец дает вам дополнительную компенсацию за "
+"элитный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1503
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_welder\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1506
 msgid ""
@@ -1691,17 +2038,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1512
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider_hatch\"]/text"
-msgstr ""
+msgstr "Продать ему своего паука-детеныша."
 
 #: src-en/data/events_special_piracy.xml.append:1514
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider_hatch\"]/event/text"
 msgstr ""
+"Вы и работорговец потратили целый час, пытаясь донести до паука-детеныша, "
+"что работорговец - это друг, а не тот, на кого стоит нападать. В конце "
+"концов паучок понимает это и перебирается на корабль работорговца, никого не "
+"съев по пути. Работорговец хорошо платит вам за экзотический экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1520
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider_hatch\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1523
 msgid ""
@@ -1711,17 +2062,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1529
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider\"]/text"
-msgstr ""
+msgstr "Продать ему своего взрослого паука."
 
 #: src-en/data/events_special_piracy.xml.append:1531
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider\"]/event/text"
 msgstr ""
+"Вы и работорговец потратили целый час, пытаясь донести до взрослого паука, "
+"что работорговец - это друг, а не тот, на кого стоит нападать. В конце "
+"концов паук понимает это и перебирается на корабль работорговца, никого не "
+"съев по пути. Работорговец хорошо платит вам за экзотический экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1537
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1540
 msgid ""
@@ -1731,17 +2086,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1546
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider_weaver\"]/text"
-msgstr ""
+msgstr "Продать ему своего паука-Ткача."
 
 #: src-en/data/events_special_piracy.xml.append:1548
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider_weaver\"]/event/text"
 msgstr ""
+"Вы и работорговец потратили целый час, пытаясь донести до паука-Ткача, что "
+"работорговец - это друг, а не тот, на кого стоит нападать. В конце концов "
+"паук понимает это и перебирается на корабль работорговца, никого не съев по "
+"пути. Работорговец хорошо платит вам за экзотический экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1554
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"spider_weaver\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1557
 msgid ""
@@ -1751,17 +2110,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1563
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"pony\"]/text"
-msgstr ""
+msgstr "Продать ему своего эквиноида."
 
 #: src-en/data/events_special_piracy.xml.append:1565
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"pony\"]/event/text"
 msgstr ""
+"Работорговец недоумевает, для чего ему может понадобится эквиноид. Вам "
+"удается убедить его, что эквиноид лучше человека в бою и выглядит красиво, "
+"так что в итоге он платит вам немного лома. Однако вы сомневаетесь, что это "
+"то, чего он действительно хотел."
 
 #: src-en/data/events_special_piracy.xml.append:1571
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"pony\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1574
 msgid ""
@@ -1771,17 +2134,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1580
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"pony_tamed\"]/text"
-msgstr ""
+msgstr "Продать ему своего прирученного эквиноида."
 
 #: src-en/data/events_special_piracy.xml.append:1582
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"pony_tamed\"]/event/text"
 msgstr ""
+"Работорговец недоумевает, для чего ему понадобится прирученный эквиноид. Вам "
+"удается убедить его, что эквиноид лучше человека в бою и может помогать "
+"тушить пожары, так что в итоге он платят вам немного лома."
 
 #: src-en/data/events_special_piracy.xml.append:1588
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"pony_tamed\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1591
 msgid ""
@@ -1791,17 +2157,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1597
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lizard\"]/text"
-msgstr ""
+msgstr "Продать ему своего ящера."
 
 #: src-en/data/events_special_piracy.xml.append:1599
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lizard\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев."
 
 #: src-en/data/events_special_piracy.xml.append:1605
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lizard\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1608
 msgid ""
@@ -1811,17 +2181,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1614
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_COGNITIVE\"]/text"
-msgstr ""
+msgstr "Продать ему своего когнитива."
 
 #: src-en/data/events_special_piracy.xml.append:1616
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_COGNITIVE\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец платит вам дополнительный лом за "
+"экзотического когнитива."
 
 #: src-en/data/events_special_piracy.xml.append:1622
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_COGNITIVE\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1625
 msgid ""
@@ -1831,17 +2206,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1631
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_RCOGNITIVE\"]/text"
-msgstr ""
+msgstr "Продать ему своего когнитива."
 
 #: src-en/data/events_special_piracy.xml.append:1633
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_RCOGNITIVE\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец платит вам дополнительный лом за "
+"экзотического мощного когнитива."
 
 #: src-en/data/events_special_piracy.xml.append:1639
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_RCOGNITIVE\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1642
 msgid ""
@@ -1851,17 +2231,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1648
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk\"]/text"
-msgstr ""
+msgstr "Продать ему своего обелиска."
 
 #: src-en/data/events_special_piracy.xml.append:1650
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец платит вам дополнительный лом за "
+"экзотического обелиска."
 
 #: src-en/data/events_special_piracy.xml.append:1656
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1659
 msgid ""
@@ -1871,17 +2256,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1665
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk_royal\"]/text"
-msgstr ""
+msgstr "Продать ему своего обелиска-Дворянина."
 
 #: src-en/data/events_special_piracy.xml.append:1667
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk_royal\"]/event/text"
 msgstr ""
+"Ваш член экипаж поначалу отказывается идти, пока вы не объясните, что он "
+"присоединяется к экипажу работорговца, а не становятся рабом. Поняв "
+"ситуацию, он соглашается, отчасти потому, что ему всегда был интересен образ "
+"жизни работорговцев. Работорговец платит вам дополнительный лом за "
+"экзотического мощного обелиска."
 
 #: src-en/data/events_special_piracy.xml.append:1673
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk_royal\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1676
 msgid ""
@@ -1891,17 +2281,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1682
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CHECKCREW_MORPH\"]/text"
-msgstr ""
+msgstr "Продать ему своего морфа."
 
 #: src-en/data/events_special_piracy.xml.append:1684
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CHECKCREW_MORPH\"]/event/text"
 msgstr ""
+"Вы не уверены, что Морф вообще вас понимает, но он весело перепрыгивает на "
+"корабль работорговца. Работорговец дает вам дополнительную компенсацию за "
+"загадочный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1690
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CHECKCREW_MORPH\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1693
 msgid ""
@@ -1911,17 +2304,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1699
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CHECKCREW_TECHO\"]/text"
-msgstr ""
+msgstr "Продать ему своего Технопата."
 
 #: src-en/data/events_special_piracy.xml.append:1701
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CHECKCREW_TECHO\"]/event/text"
 msgstr ""
+"Вы не уверены, что ваш Технопат вообще вас понимает, но они весело "
+"перепрыгивает на корабль работорговца. Работорговец дает вам дополнительную "
+"компенсацию за загадочный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1707
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CHECKCREW_TECHO\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1710
 msgid ""
@@ -1931,17 +2327,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1716
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CHECKCREW_GOLD\"]/text"
-msgstr ""
+msgstr "Продать ему свою Деформу."
 
 #: src-en/data/events_special_piracy.xml.append:1718
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CHECKCREW_GOLD\"]/event/text"
 msgstr ""
+"Вы не уверены, что Деформ вообще вас понимает, но они весело перепрыгивает "
+"на корабль работорговцев. Работорговец дает вам большое количество лома за "
+"экзотический экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1724
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CHECKCREW_GOLD\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1727
 msgid ""
@@ -1951,17 +2350,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1733
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"siren\"]/text"
-msgstr ""
+msgstr "Продать ему свою сирену."
 
 #: src-en/data/events_special_piracy.xml.append:1735
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"siren\"]/event/text"
 msgstr ""
+"Вы не знаете, понимает ли вас ваша сирена, но она весело шагает к кораблю "
+"работорговца. Работорговец дает вам большое количество лома за загадочный "
+"экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1741
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"siren\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1744
 msgid ""
@@ -1971,17 +2373,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1750
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"siren_harpy\"]/text"
-msgstr ""
+msgstr "Продать ему свою сирену-Гарпию."
 
 #: src-en/data/events_special_piracy.xml.append:1752
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"siren_harpy\"]/event/text"
 msgstr ""
+"Вы не знаете, понимает ли вас ваша сирена, но она весело шагает к кораблю "
+"работорговца. Работорговец дает вам большое количество лома за загадочный и "
+"могущественный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1758
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"siren_harpy\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы не можете клонировать своего члена экипажа, поскольку он не умер."
 
 #: src-en/data/events_special_piracy.xml.append:1761
 msgid ""
@@ -1991,12 +2396,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1767
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_UNIQUE\"]/text"
-msgstr ""
+msgstr "Продать уникальный экипаж."
 
 #: src-en/data/events_special_piracy.xml.append:1769
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_UNIQUE\"]/event/text"
 msgstr ""
+"Работорговец смеется, пока не понимает, что вы говорите серьезно. \"Подождите"
+", вы действительно хотели продать одного из этих людей? Послушайте, я ценю "
+"этот... жест, но вы понимаете, что за это мне придется заплатить огромную "
+"цену, если, конечно, они не надерут мне задницу первыми? Я вынужден с "
+"уважением отклонить ваше самое... щедрое предложение. Но я все еще готов "
+"нанять кого-нибудь менее важного!\""
 
 #: src-en/data/events_special_piracy.xml.append:1771
 msgid ""
@@ -2006,12 +2417,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:1779
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[78]/text"
-msgstr ""
+msgstr "Неважно, мы посмотрим на ваших рабов."
 
 #: src-en/data/events_special_piracy.xml.append:1792
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_MARKET_COORDINATES_SLAVER\"]/text"
 msgstr ""
+"\"Прежде всего, глава Тииикака попросил меня передать вам личную "
+"благодарность за то, что вы помогаете работорговцам в их нелегкой работе. "
+"Нечасто случается, чтобы кто-то защищал рабство, но еще реже капитан "
+"Федерации неоднократно вставал на нашу сторону. В благодарность за это мы "
+"решили передать вам координаты Черного рынка. Приходите и найдите там других "
+"работорговцев, чтобы заключить еще больше сделок - просто сообщите "
+"охраннику, что вы с нами\". Похоже, они отправили координаты Черного рынок "
+"на ваш Атлас. Вы можете отправиться туда во время любого прыжка между "
+"секторами до столицы Федерации."
 
 #: src-en/data/events_special_piracy.xml.append:1795
 msgid ""
@@ -2022,6 +2442,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORES_BASIC\"]/text"
 msgstr ""
+"Капитан работорговцев садится в кресло и протягивает вам каталог. \"Я вел "
+"учет всех рабов, которых мы перевозим, для учета в Тииикака и для таких "
+"уважаемых клиентов, как вы. Идите и посмотрите, и осматривайте их столько, "
+"сколько захотите. Я никуда не тороплюсь\"."
 
 #: src-en/data/events_special_piracy.xml.append:1804
 msgid ""
@@ -2037,46 +2461,53 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/text"
 msgstr ""
+"\"У нас есть особые рабы, припасенные исключительно для вас, уважаемым "
+"клиентам. Выбирайте, каких рабов вы хотели бы увидеть\"."
 
 #: src-en/data/events_special_piracy.xml.append:1830
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "Посмотреть на суперэлитных рабов."
 
 #: src-en/data/events_special_piracy.xml.append:1834
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Посмотреть на корабельных рабов."
 
 #: src-en/data/events_special_piracy.xml.append:1838
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Посмотреть на боевых рабов."
 
 #: src-en/data/events_special_piracy.xml.append:1842
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/choice[4]/text"
-msgstr ""
+msgstr "Посмотреть на рабов-разрушителей систем."
 
 #: src-en/data/events_special_piracy.xml.append:1846
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/choice[5]/text"
-msgstr ""
+msgstr "Посмотреть на множество элитных рабов."
 
 #: src-en/data/events_special_piracy.xml.append:1850
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/choice[6]/text"
-msgstr ""
+msgstr "Посмотреть на анаэробных рабов."
 
 #: src-en/data/events_special_piracy.xml.append:1854
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_SPECIAL_STORES_CHOICE\"]/choice[7]/text"
-msgstr ""
+msgstr "Посмотреть на улучшения лаборатории и улучшения экипажа."
 
 #: src-en/data/events_special_piracy.xml.append:1860
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORE_SELITE\"]/text"
 msgstr ""
+"\"Ах, дорогой капитан, считайте, что вам сегодня несказанно повезло, потому "
+"что я везу с собой одних из лучших солдат, которых когда-либо видела эта "
+"галактика, превосходящих даже элитные войска большинства армий. Не "
+"спрашивайте меня, как они попали ко мне в руки, это останется моей "
+"коммерческой тайной, хе-хе...\""
 
 #: src-en/data/events_special_piracy.xml.append:1863
 msgid ""
@@ -2092,6 +2523,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORE_AUGMENTS\"]/text"
 msgstr ""
+"\"Возможно, у вас уже достаточно экипажа. К счастью для вас, у меня есть "
+"широкий спектр улучшений, которые могут сделать ваш нынешний экипаж еще "
+"лучше. Не желаете ли модификаций?\""
 
 #: src-en/data/events_special_piracy.xml.append:1876
 msgid ""
@@ -2107,6 +2541,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORE_SHIPBOARD\"]/text"
 msgstr ""
+"\"Нужны умелые ремонтники или батарейки? Я позабочусь о вас по обоим "
+"направлениям! Посмотрите наш ассортимент специализированного корабельного "
+"экипажа\"."
 
 #: src-en/data/events_special_piracy.xml.append:1889
 msgid ""
@@ -2122,6 +2559,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORE_FIGHTER\"]/text"
 msgstr ""
+"\"Этих жестоких рабов было довольно сложно заковать в цепи. Независимо от "
+"того, являются ли они обученными бойцами или от природы более приспособлены "
+"к бою, в боевой ситуации они легко одолеют обычный экипаж. Возможно, они "
+"пригодятся вам для стратегии абордажа\"."
 
 #: src-en/data/events_special_piracy.xml.append:1902
 msgid ""
@@ -2137,6 +2578,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORE_DISRUPTOR\"]/text"
 msgstr ""
+"\"Если в традиционной тактике абордажа предпочтение отдается боевым "
+"качествам, то сегодня у меня есть экипаж, который будет сеять хаос в "
+"системах. Неважно, на чем они специализируются - на пожарах, запирании или "
+"прямых взрывах, - вражеским системам не позавидуешь\"."
 
 #: src-en/data/events_special_piracy.xml.append:1915
 msgid ""
@@ -2152,6 +2597,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORE_ELITE\"]/text"
 msgstr ""
+"\"Надоели обычные рабы? К счастью для вас, как у одного из самых опытных "
+"работорговцев Тииикака, у меня есть элитные рабы. Заходи и найди себе "
+"\"обновку\"\"."
 
 #: src-en/data/events_special_piracy.xml.append:1928
 msgid ""
@@ -2167,6 +2615,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_SPECIAL_STORE_ANAEROBIC\"]/text"
 msgstr ""
+"\"Эти уродцы хорошо приспособлены к выживанию в среде с низким содержанием "
+"кислорода. Меня это тоже пугает, но, возможно, они пригодятся вам, если "
+"оружейный отсек будет пробит три раза. Со мной такого еще не случалось...\""
 
 #: src-en/data/events_special_piracy.xml.append:1941
 msgid ""
@@ -2183,12 +2634,18 @@ msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"[Репутация: 2+] На вашем месте я бы не стал угрожать одному из лучших "
+"клиентов Тииикака."
 
 #: src-en/data/events_special_piracy.xml.append:2106
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"\"Подождите, кем вы себя возомнили... О. О-о-о. Вы тот самый Фед, который "
+"сотрудничает с работорговцами. Ха! Неважно. Приношу свои искренние извинения "
+"за то, что был так агрессивен. Пока вы не пытаетесь нас уничтожить, я "
+"спокоен\". Работорговец предлагает вам на выбор свои \"товары\"."
 
 #: src-en/data/events_special_piracy.xml.append:2108
 msgid ""
@@ -2230,13 +2687,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[3]/text"
-msgstr ""
+msgstr "Купить \"дорогостоящего\" раба."
 
 #: src-en/data/events_special_piracy.xml.append:2138
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "\"Отличное приобретение. Пусть оно послужат вам долго, капитан...\""
 
 #: src-en/data/events_special_piracy.xml.append:2144
 msgid ""
@@ -2248,7 +2705,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[4]/text"
-msgstr ""
+msgstr "Купить экзотического раба."
 
 #: src-en/data/events_special_piracy.xml.append:2152
 msgid ""
@@ -2269,13 +2726,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[5]/text"
-msgstr ""
+msgstr "Сегодня нам ничего не нужно."
 
 #: src-en/data/events_special_piracy.xml.append:2166
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[5]/event/text"
 msgstr ""
+"\"Ах, как жаль. Надеюсь, наши другие сделки принесли вам пользу, хе-хе...\""
 
 #: src-en/data/events_special_piracy.xml.append:2168
 msgid ""
@@ -2303,6 +2761,8 @@ msgstr "Атаковать наемников."
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_FRIENDLY\"]/choice[2]/event/text"
 msgstr ""
+"Наемники ничем не хуже повстанцев - просто смутьяны с переменчивой "
+"преданностью. Пора сократить ряды Синдиката еще на одного члена."
 
 #: src-en/data/events_special_piracy.xml.append:2214
 msgid ""
@@ -2450,6 +2910,8 @@ msgstr "Атаковать наемников."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_MERCENARY_FRIENDLY_START\"]/choice[2]/event/text"
 msgstr ""
+"Наемники ничем не хуже повстанцев - просто смутьяны с переменчивой "
+"преданностью. Пора сократить ряды Синдиката еще на одного члена."
 
 #: src-en/data/events_special_piracy.xml.append:2323
 msgid ""
@@ -7372,7 +7834,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:7134
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[256]/text"
-msgstr ""
+msgstr "Неважно, мы посмотрим ваши товары."
 
 #: src-en/data/events_special_piracy.xml.append:7140
 msgid ""
@@ -10923,12 +11385,12 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:10521
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_special_piracy.xml.append:10523
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/choice/event/text"
-msgstr ""
+msgstr "Вы вскрываете второй ящик..."
 
 #: src-en/data/events_special_piracy.xml.append:10526
 msgid ""
@@ -10939,6 +11401,8 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы вскрываете последний ящик. Вы благодарите наемника и начинаете "
+"сортировать лом. У вас еще есть время сделать что-нибудь на борту корабля."
 
 #: src-en/data/events_special_piracy.xml.append:10531
 msgid ""
@@ -10988,12 +11452,12 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:10574
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_special_piracy.xml.append:10576
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/event/text"
-msgstr ""
+msgstr "Вы вскрываете второй ящик..."
 
 #: src-en/data/events_special_piracy.xml.append:10579
 msgid ""
@@ -11014,6 +11478,8 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы вскрываете последний ящик. Вы благодарите наемника и начинаете "
+"сортировать лом. У вас еще есть время сделать что-нибудь на борту корабля."
 
 #: src-en/data/events_special_piracy.xml.append:10589
 msgid ""
@@ -11033,12 +11499,12 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:10608
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_special_piracy.xml.append:10610
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/text"
-msgstr ""
+msgstr "Вы вскрываете второй ящик..."
 
 #: src-en/data/events_special_piracy.xml.append:10613
 msgid ""
@@ -11069,6 +11535,8 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы вскрываете последний ящик. Вы благодарите наемника и начинаете "
+"сортировать лом. У вас еще есть время сделать что-нибудь на борту корабля."
 
 #: src-en/data/events_special_piracy.xml.append:10628
 msgid ""
@@ -11128,12 +11596,12 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:10689
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_special_piracy.xml.append:10691
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/choice/event/text"
-msgstr ""
+msgstr "Вы вскрываете второй ящик..."
 
 #: src-en/data/events_special_piracy.xml.append:10694
 msgid ""
@@ -11144,6 +11612,9 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы вскрываете последний ящик. Вы благодарите наемника и начинаете заниматься "
+"своим новым оборудованием. У вас еще есть время сделать что-нибудь на борту "
+"корабля."
 
 #: src-en/data/events_special_piracy.xml.append:10699
 msgid ""
@@ -11208,12 +11679,12 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:10760
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_special_piracy.xml.append:10762
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/event/text"
-msgstr ""
+msgstr "Вы вскрываете второй ящик..."
 
 #: src-en/data/events_special_piracy.xml.append:10765
 msgid ""
@@ -11234,6 +11705,9 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы вскрываете последний ящик. Вы благодарите наемника и начинаете "
+"сортировать припасы. У вас еще есть время сделать что-нибудь на борту "
+"корабля."
 
 #: src-en/data/events_special_piracy.xml.append:10775
 msgid ""
@@ -11293,12 +11767,12 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:10832
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/text"
-msgstr ""
+msgstr "Открыть второй ящик."
 
 #: src-en/data/events_special_piracy.xml.append:10834
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/text"
-msgstr ""
+msgstr "Вы вскрываете второй ящик..."
 
 #: src-en/data/events_special_piracy.xml.append:10837
 msgid ""
@@ -11339,6 +11813,9 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы вскрываете последний ящик. Вы благодарите наемника и начинаете "
+"сортировать припасы. У вас еще есть время сделать что-нибудь на борту "
+"корабля."
 
 #: src-en/data/events_special_piracy.xml.append:10857
 msgid ""
