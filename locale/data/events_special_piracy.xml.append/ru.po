@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"PO-Revision-Date: 2024-12-27 19:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_special_piracyxmlappend/ru/>\n"
@@ -29,7 +29,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:112
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:116
 msgid ""
@@ -185,7 +185,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:224
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:228
 msgid ""
@@ -2292,7 +2292,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_piracy.xml.append:2205
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_FRIENDLY\"]/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:2209
 msgid ""
@@ -2439,7 +2439,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2314
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_MERCENARY_FRIENDLY_START\"]/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:2318
 msgid ""
@@ -3097,7 +3097,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_piracy.xml.append:3165
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SMUGGLER_FRIENDLY\"]/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:3169
 msgid ""
@@ -3248,7 +3248,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3273
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_FRIENDLY_START\"]/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:3277
 msgid ""
@@ -3484,7 +3484,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3450
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[@req=\"SMUGGLER_REP_3_OFFER\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:3454
 msgid ""
@@ -3504,7 +3504,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3463
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[@req=\"SMUGGLER_REP_3_OFFER\"]/event/choice/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "Узнать, что они предлагают."
 
 #: src-en/data/events_special_piracy.xml.append:3467
 msgid ""
