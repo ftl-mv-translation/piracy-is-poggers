@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"PO-Revision-Date: 2024-12-27 19:12+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_gatheringxmlappend/ru/>\n"
@@ -197,7 +197,7 @@ msgstr ""
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[10]/text"
-msgstr "Мы не можем помочь."
+msgstr "Мы ничем не можем помочь."
 
 #: src-en/data/events_sector_gathering.xml.append:108
 msgid ""
