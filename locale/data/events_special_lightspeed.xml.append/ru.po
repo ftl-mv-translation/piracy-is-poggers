@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_lightspeedxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -38,9 +38,7 @@ msgstr "Минимальная скорость. [Задерживает фло�
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr ""
-"Вы настраиваете конденсатор на минимально возможную скорость. Хотя корпус "
-"корабля не получил повреждений, в Двигателях начался пожар."
+msgstr "Вы настраиваете конденсатор на минимально возможную скорость. Хотя корпус корабля не получил повреждений, в Двигателях начался пожар."
 
 #: src-en/data/events_special_lightspeed.xml.append:24
 msgid ""
