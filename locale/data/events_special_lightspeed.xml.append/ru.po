@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-28 11:40+0000\n"
+"PO-Revision-Date: 2024-12-28 11:41+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
@@ -83,13 +83,15 @@ msgid ""
 "append:choice[1]/event/choice[3]/text"
 msgstr ""
 "Умеренная скорость. [Задерживает флот на 4 прыжка, наносит 4 единиц урона "
-"Двигателям и Корпусу, устраивает пожар в двигателях]."
+"Двигателям и корпусу, вызывает возгорание в Двигателях]"
 
 #: src-en/data/events_special_lightspeed.xml.append:49
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Вы устанавливаете конденсатор на умеренную скорость. Двигатели и корпус "
+"получили некоторые повреждения, но, надеюсь, оного того стоило."
 
 #: src-en/data/events_special_lightspeed.xml.append:55
 msgid ""
