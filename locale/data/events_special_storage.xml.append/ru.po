@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-26 18:23+0000\n"
+"PO-Revision-Date: 2024-12-29 12:12+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -255,73 +255,73 @@ msgstr "Репутация контрабандистов [7+]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[25]/text"
-msgstr "Комбинированная репутация контрабандистов [-5 или меньше]"
+msgstr "Общая репутация контрабандистов [-5 или меньше]"
 
 #: src-en/data/events_special_storage.xml.append:566
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[26]/text"
-msgstr "Комбинированная репутация контрабандистов [-4]"
+msgstr "Общая репутация контрабандистов [-4]"
 
 #: src-en/data/events_special_storage.xml.append:570
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[27]/text"
-msgstr "Комбинированная репутация контрабандистов [-3]"
+msgstr "Общая репутация контрабандистов [-3]"
 
 #: src-en/data/events_special_storage.xml.append:574
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[28]/text"
-msgstr "Комбинированная репутация контрабандистов [-2]"
+msgstr "Общая репутация контрабандистов [-2]"
 
 #: src-en/data/events_special_storage.xml.append:578
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[29]/text"
-msgstr "Комбинированная репутация контрабандистов [-1]"
+msgstr "Общая репутация контрабандистов [-1]"
 
 #: src-en/data/events_special_storage.xml.append:582
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[30]/text"
-msgstr "Комбинированная репутация контрабандистов [1]"
+msgstr "Общая репутация контрабандистов [1]"
 
 #: src-en/data/events_special_storage.xml.append:586
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[31]/text"
-msgstr "Комбинированная репутация контрабандистов [2]"
+msgstr "Общая репутация контрабандистов [2]"
 
 #: src-en/data/events_special_storage.xml.append:590
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[32]/text"
-msgstr "Комбинированная репутация контрабандистов [3]"
+msgstr "Общая репутация контрабандистов [3]"
 
 #: src-en/data/events_special_storage.xml.append:594
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[33]/text"
-msgstr "Комбинированная репутация контрабандистов [4]"
+msgstr "Общая репутация контрабандистов [4]"
 
 #: src-en/data/events_special_storage.xml.append:598
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[34]/text"
-msgstr "Комбинированная репутация контрабандистов [5]"
+msgstr "Общая репутация контрабандистов [5]"
 
 #: src-en/data/events_special_storage.xml.append:602
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[35]/text"
-msgstr "Комбинированная репутация контрабандистов [6]"
+msgstr "Общая репутация контрабандистов [6]"
 
 #: src-en/data/events_special_storage.xml.append:606
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[36]/text"
-msgstr "Комбинированная репутация контрабандистов [7+]"
+msgstr "Общая репутация контрабандистов [7+]"
 
 #: src-en/data/events_special_storage.xml.append:611
 msgid ""
@@ -399,73 +399,73 @@ msgstr "Репутация наемников [7+]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[49]/text"
-msgstr "Комбинированная репутация наемников [-5 или меньше]"
+msgstr "Общая репутация наемников [-5 или меньше]"
 
 #: src-en/data/events_special_storage.xml.append:663
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[50]/text"
-msgstr "Комбинированная репутация наемников [-4]"
+msgstr "Общая репутация наемников [-4]"
 
 #: src-en/data/events_special_storage.xml.append:667
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[51]/text"
-msgstr "Комбинированная репутация наемников [-3]"
+msgstr "Общая репутация наемников [-3]"
 
 #: src-en/data/events_special_storage.xml.append:671
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[52]/text"
-msgstr "Комбинированная репутация наемников [-2]"
+msgstr "Общая репутация наемников [-2]"
 
 #: src-en/data/events_special_storage.xml.append:675
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[53]/text"
-msgstr "Комбинированная репутация наемников [-1]"
+msgstr "Общая репутация наемников [-1]"
 
 #: src-en/data/events_special_storage.xml.append:679
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[54]/text"
-msgstr "Комбинированная репутация наемников [1]"
+msgstr "Общая репутация наемников [1]"
 
 #: src-en/data/events_special_storage.xml.append:683
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[55]/text"
-msgstr "Комбинированная репутация наемников [2]"
+msgstr "Общая репутация наемников [2]"
 
 #: src-en/data/events_special_storage.xml.append:687
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[56]/text"
-msgstr "Комбинированная репутация наемников [3]"
+msgstr "Общая репутация наемников [3]"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[57]/text"
-msgstr "Комбинированная репутация наемников [4]"
+msgstr "Общая репутация наемников [4]"
 
 #: src-en/data/events_special_storage.xml.append:695
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[58]/text"
-msgstr "Комбинированная репутация наемников [5]"
+msgstr "Общая репутация наемников [5]"
 
 #: src-en/data/events_special_storage.xml.append:699
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[59]/text"
-msgstr "Комбинированная репутация наемников [6]"
+msgstr "Общая репутация наемников [6]"
 
 #: src-en/data/events_special_storage.xml.append:703
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[60]/text"
-msgstr "Комбинированная репутация наемников [7+]"
+msgstr "Общая репутация наемников [7+]"
 
 #: src-en/data/events_special_storage.xml.append:708
 msgid ""
@@ -543,73 +543,73 @@ msgstr "Репутация работорговцев [7+]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[73]/text"
-msgstr "Комбинированная репутация работорговцев [-5 или меньше]"
+msgstr "Общая репутация работорговцев [-5 или меньше]"
 
 #: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[74]/text"
-msgstr "Комбинированная репутация работорговцев [-4]"
+msgstr "Общая репутация работорговцев [-4]"
 
 #: src-en/data/events_special_storage.xml.append:764
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[75]/text"
-msgstr "Комбинированная репутация работорговцев [-3]"
+msgstr "Общая репутация работорговцев [-3]"
 
 #: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[76]/text"
-msgstr "Комбинированная репутация работорговцев [-2]"
+msgstr "Общая репутация работорговцев [-2]"
 
 #: src-en/data/events_special_storage.xml.append:772
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[77]/text"
-msgstr "Комбинированная репутация работорговцев [-1]"
+msgstr "Общая репутация работорговцев [-1]"
 
 #: src-en/data/events_special_storage.xml.append:776
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[78]/text"
-msgstr "Комбинированная репутация работорговцев [1]"
+msgstr "Общая репутация работорговцев [1]"
 
 #: src-en/data/events_special_storage.xml.append:780
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[79]/text"
-msgstr "Комбинированная репутация работорговцев [2]"
+msgstr "Общая репутация работорговцев [2]"
 
 #: src-en/data/events_special_storage.xml.append:784
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[80]/text"
-msgstr "Комбинированная репутация работорговцев [3]"
+msgstr "Общая репутация работорговцев [3]"
 
 #: src-en/data/events_special_storage.xml.append:788
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[81]/text"
-msgstr "Комбинированная репутация работорговцев [4]"
+msgstr "Общая репутация работорговцев [4]"
 
 #: src-en/data/events_special_storage.xml.append:792
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[82]/text"
-msgstr "Комбинированная репутация работорговцев [5]"
+msgstr "Общая репутация работорговцев [5]"
 
 #: src-en/data/events_special_storage.xml.append:796
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[83]/text"
-msgstr "Комбинированная репутация работорговцев [6]"
+msgstr "Общая репутация работорговцев [6]"
 
 #: src-en/data/events_special_storage.xml.append:800
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[84]/text"
-msgstr "Комбинированная репутация работорговцев [7+]"
+msgstr "Общая репутация работорговцев [7+]"
 
 #: src-en/data/events_special_storage.xml.append:814
 msgid ""
