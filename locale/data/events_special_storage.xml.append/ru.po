@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 06:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -24,8 +24,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"Вы размышляете, какую услугу хотите заказать сегодня. (Вы получите повышение"
-" репутации, только если используете передатчик два раза в одном секторе)"
+"Вы размышляете, какую услугу хотите заказать сегодня. (Вы получите повышение "
+"репутации, только если используете передатчик два раза в одном секторе)"
 
 #: src-en/data/events_special_storage.xml.append:396
 msgid ""
@@ -39,8 +39,8 @@ msgid ""
 "append:choice[1]/event/choice[1]/event/text"
 msgstr ""
 "Вы активируете передатчик, и вскоре наемники отвечают. \"Да, что вам нужно? "
-"О, вы клиент, нуждающийся в услуге? Хорошо, я запишу ваш долг и окажу услугу"
-" в ближайшее время, просто заплатите следующему встречному наемнику, и все "
+"О, вы клиент, нуждающийся в услуге? Хорошо, я запишу ваш долг и окажу услугу "
+"в ближайшее время, просто заплатите следующему встречному наемнику, и все "
 "будет улажено\"."
 
 #: src-en/data/events_special_storage.xml.append:405
@@ -69,8 +69,8 @@ msgid ""
 "append:choice[1]/event/choice[2]/event/text"
 msgstr ""
 "Вы активируете передатчик, и вскоре наемники отвечают. \"Да, что вам нужно? "
-"О, вы клиент, нуждающийся в услуге? Хорошо, я запишу ваш долг и отправлю вам"
-" карту через минуту, просто заплатите следующему встречному наемнику, и все "
+"О, вы клиент, нуждающийся в услуге? Хорошо, я запишу ваш долг и отправлю вам "
+"карту через минуту, просто заплатите следующему встречному наемнику, и все "
 "будет улажено\"."
 
 #: src-en/data/events_special_storage.xml.append:424
@@ -105,8 +105,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
-"Любые наемники, каким-то образом попавшие в Нексус, были бы давно "
-"уничтожены."
+"Любые наемники, каким-то образом попавшие в Нексус, были бы давно уничтожены."
 
 #: src-en/data/events_special_storage.xml.append:465
 msgid ""
@@ -662,8 +661,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
-"(Мини-боезаряды) Развернуть Мини-боезаряды. [остался 1, истощит модуль после"
-" использования]"
+"(Мини-боезаряды) Развернуть Мини-боезаряды. "
+"[остался 1, истощит модуль после использования]"
 
 #: src-en/data/events_special_storage.xml.append:852
 msgid ""
@@ -688,7 +687,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/text"
 msgstr ""
 "Вы уверены, что хотите сделать это?\n"
-"\t[+50% к скорости стрельбы оружия, мощность реактора -1, длится 45 секунд, -30% к скорости стрельбы оружия после этого]"
+"\t[+50% к скорости стрельбы оружия, мощность реактора -1, длится 45 секунд, -"
+"30% к скорости стрельбы оружия после этого]"
 
 #: src-en/data/events_special_storage.xml.append:933
 msgid ""
@@ -713,8 +713,7 @@ msgstr "Вы активировали боевой модуль."
 #: src-en/data/events_special_storage.xml.append:944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"reactor\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
-"Срок действия вашего Ускоренного перезарядника истечет через это время."
+msgstr "Срок действия вашего Ускоренного перезарядника истечет через это время."
 
 #: src-en/data/events_special_storage.xml.append:950
 msgid ""
@@ -734,8 +733,7 @@ msgstr "Вы активировали боевой модуль."
 #: src-en/data/events_special_storage.xml.append:966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_RELOADER\"]/choice[@req=\"DEBUG_GENERATOR\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
-"Срок действия вашего Ускоренного перезарядника истечет через это время."
+msgstr "Срок действия вашего Ускоренного перезарядника истечет через это время."
 
 #: src-en/data/events_special_storage.xml.append:972
 msgid ""
@@ -774,8 +772,10 @@ msgstr "Продолжить бой..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_5\"]/text"
 msgstr ""
-"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по корпусу и 2 урона по системе.\n"
-"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после чего у вас останется 4]"
+"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по "
+"корпусу и 2 урона по системе.\n"
+"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после "
+"чего у вас останется 4]"
 
 #: src-en/data/events_special_storage.xml.append:1023
 msgid ""
@@ -1196,8 +1196,10 @@ msgstr "Вы решаете ничего не делать и готовитес
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_4\"]/text"
 msgstr ""
-"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по корпусу и 2 урона по системе.\n"
-"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после чего у вас останется 3]"
+"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по "
+"корпусу и 2 урона по системе.\n"
+"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после "
+"чего у вас останется 3]"
 
 #: src-en/data/events_special_storage.xml.append:1380
 msgid ""
@@ -1618,8 +1620,10 @@ msgstr "Вы решаете ничего не делать и готовитес
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_3\"]/text"
 msgstr ""
-"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по корпусу и 2 урона по системе.\n"
-"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после чего у вас останется 2]"
+"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по "
+"корпусу и 2 урона по системе.\n"
+"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после "
+"чего у вас останется 2]"
 
 #: src-en/data/events_special_storage.xml.append:1732
 msgid ""
@@ -2040,8 +2044,10 @@ msgstr "Вы решаете ничего не делать и готовитес
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_2\"]/text"
 msgstr ""
-"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по корпусу и 2 урона по системе.\n"
-"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после чего у вас останется 1]"
+"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по "
+"корпусу и 2 урона по системе.\n"
+"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, после "
+"чего у вас останется 1]"
 
 #: src-en/data/events_special_storage.xml.append:2084
 msgid ""
@@ -2462,8 +2468,10 @@ msgstr "Вы решаете ничего не делать и готовитес
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PIP_COMBAT_CHECK_EXPLOSIVE_MULTIPLE_1\"]/text"
 msgstr ""
-"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по корпусу и 2 урона по системе.\n"
-"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, что приведет к истощению модуля]"
+"На какую вражескую систему вы хотите нацелиться? Это нанесет ей 1 урон по "
+"корпусу и 2 урона по системе.\n"
+"[Внимание: При этом будет израсходован один из ваших Мини-боезарядов, что "
+"приведет к истощению модуля]"
 
 #: src-en/data/events_special_storage.xml.append:2436
 msgid ""
