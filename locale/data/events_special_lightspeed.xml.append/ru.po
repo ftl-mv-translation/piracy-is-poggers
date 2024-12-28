@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-12-28 11:40+0000\n"
-"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
 "Language: ru\n"
@@ -61,7 +61,7 @@ msgid ""
 "append:choice[1]/event/choice[2]/text"
 msgstr ""
 "Небольшая скорость. [Задерживает флот на 3 прыжка, наносит 2 единиц урона "
-"Двигателям и Корпусу, устраивает пожар в Двигателях]."
+"Двигателям и Корпусу, вызывает возгорание в Двигателях]"
 
 #: src-en/data/events_special_lightspeed.xml.append:35
 msgid ""
