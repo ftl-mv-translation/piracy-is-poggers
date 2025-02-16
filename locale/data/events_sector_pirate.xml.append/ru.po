@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-02 17:41+0000\n"
+"PO-Revision-Date: 2025-02-17 20:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_sector_piratexmlappend/ru/>\n"
@@ -678,7 +678,7 @@ msgstr "Подойти к контрабандисту."
 #: src-en/data/events_sector_pirate.xml.append:740
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[7]/text"
-msgstr "Здесь нам нечего делать, пройти уйти."
+msgstr "Здесь нам нечего делать, уйти."
 
 #: src-en/data/events_sector_pirate.xml.append:747
 msgid ""
