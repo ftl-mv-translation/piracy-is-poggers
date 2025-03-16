@@ -1,14 +1,25 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-17 15:31+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_shipsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_ships.xml.append:7
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/destroyed/text"
 msgstr ""
+"Вам удалось победить пиратский корабль, но вы успели собрать лишь небольшую "
+"часть обломков, прежде чем вам пришлось уйти в прыжок, чтобы избежать "
+"дальнейших неприятностей со стороны оставшихся пиратов."
 
 #: src-en/data/events_ships.xml.append:10
 msgid ""
@@ -18,12 +29,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:14
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:21
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/deadCrew/text"
 msgstr ""
+"Вам удалось победить пиратский корабль, но вы успели собрать лишь небольшую "
+"часть обломков, прежде чем вам пришлось уйти в прыжок, чтобы избежать "
+"дальнейших неприятностей со стороны оставшихся пиратов."
 
 #: src-en/data/events_ships.xml.append:24
 msgid ""
@@ -33,7 +47,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:28
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:80
 msgid ""
@@ -56,12 +70,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:130
 msgid ""
 "data/events_ships.xml.append$//mod:findName[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP1\"]/mod:findLike/mod:findWithChildLike/mod:selector"
-msgstr ""
+msgstr "Позволить пиратам сбежать и отправиться за кораблем слизней."
 
 #: src-en/data/events_ships.xml.append:148
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/destroyed/text"
-msgstr ""
+msgstr "Разобравшись с пиратами, вы разбираете их корабль."
 
 #: src-en/data/events_ships.xml.append:151
 msgid ""
@@ -71,7 +85,7 @@ msgstr "Найти тайник."
 #: src-en/data/events_ships.xml.append:156
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/deadCrew/text"
-msgstr ""
+msgstr "Победив пиратов, вы разбираете их корабль."
 
 #: src-en/data/events_ships.xml.append:159
 msgid ""
@@ -82,236 +96,314 @@ msgstr "Найти тайник."
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[1]/text"
 msgstr ""
+"К сожалению, во время боя тайник исчез в облаках. Вы подбираете еще немного "
+"лома с остатков битвы и готовитесь идти дальше."
 
 #: src-en/data/events_ships.xml.append:171
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[2]/text"
 msgstr ""
+"К сожалению, во время боя тайник исчез в облаках. Вы подбираете еще немного "
+"лома с остатков битвы и готовитесь идти дальше."
 
 #: src-en/data/events_ships.xml.append:175
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[3]/text"
 msgstr ""
+"К сожалению, во время боя тайник исчез в облаках. Вы подбираете еще немного "
+"лома с остатков битвы и готовитесь идти дальше."
 
 #: src-en/data/events_ships.xml.append:179
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[4]/text"
 msgstr ""
+"К счастью, тайник находится не так далеко. Открыв его, вы обнаруживаете "
+"оружие военного класса!"
 
 #: src-en/data/events_ships.xml.append:183
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[5]/text"
 msgstr ""
+"К счастью, тайник находится не так далеко. Открыв его, вы обнаруживаете "
+"рабочий модуль!"
 
 #: src-en/data/events_ships.xml.append:187
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[6]/text"
 msgstr ""
+"К счастью, тайник находится не так далеко. Открыв его, вы обнаруживаете "
+"большое количество припасов!"
 
 #: src-en/data/events_ships.xml.append:201
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/destroyed/text"
 msgstr ""
+"Корабль работорговцев разваливается на части. Вы спешите связаться с "
+"гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:204
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "Связаться с гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:209
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/deadCrew/text"
 msgstr ""
+"На корабле работорговцев больше нет признаков жизни. Вы спешите связаться с "
+"гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:212
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Связаться с гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:220
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/destroyed/text"
 msgstr ""
+"Корабль наемников разваливается на части. Вы спешите связаться с гражданским "
+"кораблем."
 
 #: src-en/data/events_ships.xml.append:223
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "Связаться с гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:228
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/deadCrew/text"
 msgstr ""
+"На корабле наемников больше нет признаков жизни. Вы спешите связаться с "
+"гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:231
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Связаться с гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:239
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/destroyed/text"
 msgstr ""
+"Корабль контрабандистов разваливается на части. Вы спешите связаться с "
+"гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:242
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "Связаться с гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:247
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/deadCrew/text"
 msgstr ""
+"На корабле контрабандистов больше нет признаков жизни. Вы спешите связаться "
+"с гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:250
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Связаться с гражданским кораблем."
 
 #: src-en/data/events_ships.xml.append:284
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/text"
 msgstr ""
+"\"Мы сдаемся! Возьмите одного из наших рабов в качестве дани; если вы "
+"уничтожите нас, они все равно умрут!\""
 
 #: src-en/data/events_ships.xml.append:286
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/choice[1]/text"
-msgstr ""
+msgstr "Согласиться с их предложением."
 
 #: src-en/data/events_ships.xml.append:293
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "Сдаться - не выход."
 
 #: src-en/data/events_ships.xml.append:300
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/destroyed/text"
 msgstr ""
+"Корабль работорговцев уничтожен. Они не будут продолжать свою дьявольскую "
+"торговлю, но многие жизни, вероятно, были потеряны на этом корабле."
 
 #: src-en/data/events_ships.xml.append:330
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_MANY\"]/text"
 msgstr ""
+"Вы победили, как вы полагаете, лидера пиратов, так как остальные отказались "
+"от сражения с вами и вернулись в хаб. Вы разбираете обломки, зная, что "
+"больше ничего не сможете сделать в хабе, поскольку пираты находятся в "
+"состоянии повышенной готовности."
 
 #: src-en/data/events_ships.xml.append:336
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_MANY\"]/text"
 msgstr ""
+"Вы победили, как вы полагаете, лидера пиратов, так как остальные отказались "
+"от сражения с вами и вернулись в хаб. Вы разбираете обломки, зная, что "
+"больше ничего не сможете сделать в хабе, поскольку пираты находятся в "
+"состоянии повышенной готовности."
 
 #: src-en/data/events_ships.xml.append:396
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/destroyed/text"
 msgstr ""
+"Вам удалось победить корабль работорговцев, но вы уверены, что пираты скоро "
+"пришлют другой. Вы собираете все, что можно, и готовитесь к прыжку, пока не "
+"прибыло подкрепление."
 
 #: src-en/data/events_ships.xml.append:399
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:406
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/deadCrew/text"
 msgstr ""
+"Вам удалось победить корабль работорговцев, но вы уверены, что пираты скоро "
+"пришлют другой. Вы собираете все, что можно, и готовитесь к прыжку, пока не "
+"прибыло подкрепление."
 
 #: src-en/data/events_ships.xml.append:409
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:419
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/destroyed/text"
 msgstr ""
+"Вам удалось победить корабль работорговцев, но вы едва успели собрать "
+"обломки. Вам нужно бежать, пока вы не получили еще больше повреждений от их "
+"ПКБ!"
 
 #: src-en/data/events_ships.xml.append:422
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:429
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/deadCrew/text"
 msgstr ""
+"Вам удалось победить корабль работорговцев, но вы едва успели собрать "
+"обломки. Вам нужно бежать, пока вы не получили еще больше повреждений от их "
+"ПКБ!"
 
 #: src-en/data/events_ships.xml.append:432
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:442
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/destroyed/text"
 msgstr ""
+"Вам удалось победить корабль работорговцев, но вы едва успели собрать "
+"обломки. Вам нужно бежать, пока вы не получили еще больше повреждений от их "
+"ПКБ!"
 
 #: src-en/data/events_ships.xml.append:445
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:452
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/deadCrew/text"
 msgstr ""
+"Вам удалось победить корабль работорговцев, но вы едва успели собрать "
+"обломки. Вам нужно бежать, пока вы не получили еще больше повреждений от их "
+"ПКБ!"
 
 #: src-en/data/events_ships.xml.append:455
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Продолжить собирать обломки."
 
 #: src-en/data/events_ships.xml.append:476
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_UNKNOWN_SHIP_PIRATE_TAKEOVER\"]/destroyed/text"
-msgstr ""
+msgstr "Вы победили пиратов на гражданском корабле. Вы разбираете обломки."
 
 #: src-en/data/events_ships.xml.append:480
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_UNKNOWN_SHIP_PIRATE_TAKEOVER\"]/deadCrew/text"
-msgstr ""
+msgstr "Вы победили пиратов на гражданском корабле. Вы разбираете обломки."
 
 #: src-en/data/events_ships.xml.append:533
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"ESCAPE_FEDERATION_ARREST_PIRATE\"]/text"
 msgstr ""
+"Видя, что перед ними теперь два корабля, пираты передумали сражаться и "
+"заряжают свой ССД. Корабль Федерации вызывает вас. \"Хорошо, что вы пришли, "
+"у нас почти закончились боеприпасы. Если вы сможете разобраться с их "
+"экипажем, не повредив груз, это будет идеально, но уничтожение корабля тоже "
+"подойдет. Мы просто не можем позволить пиратам уйти с нашими припасами!\""
 
 #: src-en/data/events_ships.xml.append:537
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_GOTAWAY\"]/text"
 msgstr ""
+"Пираты зарядили свой ССД и сумели скрыться. Капитан Федерации расстроен, но "
+"сохраняет спокойное выражение лица. \"Прискорбный результат. Мы надеялись "
+"оснастить этим оборудованием некоторые из наших новых кораблей. Тем не "
+"менее, спасибо, что хотя бы попытались. Возьмите немного топлива для "
+"дальнейшего путешествия\"."
 
 #: src-en/data/events_ships.xml.append:542
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/text"
 msgstr ""
+"Пиратский корабль сгорает в огне. Хотя теперь вы не можете вернуть "
+"оборудование, по крайней мере, пираты не уйдут с технологиями Федерации."
 
 #: src-en/data/events_ships.xml.append:545
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/choice/text"
-msgstr ""
+msgstr "Связаться с кораблем Федерации."
 
 #: src-en/data/events_ships.xml.append:547
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/choice/event/text"
 msgstr ""
+"\"Хорошая работа. Немного жаль, что мы не можем вернуть оборудование, но, по "
+"крайней мере, пиратам это не сойдет с рук. Вот небольшое вознаграждение за "
+"вашу помощь. Удачи в выполнении задания!\""
 
 #: src-en/data/events_ships.xml.append:554
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/text"
 msgstr ""
+"Пиратский корабль безмолвствует, очищенный от экипажа. Прежде чем "
+"связываться с кораблем Федерации, вы разграбляете его."
 
 #: src-en/data/events_ships.xml.append:557
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/choice/text"
-msgstr ""
+msgstr "Связаться с кораблем Федерации."
 
 #: src-en/data/events_ships.xml.append:559
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/choice/event/text"
 msgstr ""
+"\"Превосходно! Вы смогли вернуть оборудование в целости и сохранности! "
+"Теперь, когда пираты мертвы, мы должны перевезти его на нашу базу для "
+"последующей установки, но никто не узнает, если я подарю вам одно из этих "
+"орудий за ваши усилия. Удачи вам в выполнении задания!\""
 
 #: src-en/data/events_ships.xml.append:567
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/text"
 msgstr ""
+"Вы победили корабль Федерации. Это не лучшим образом отразится в глазах "
+"ваших союзников, тем не менее, вы используете эту возможность, чтобы "
+"разобрать корабль на лом, несмотря ни на что."
 
 #: src-en/data/events_ships.xml.append:570
 msgid ""
@@ -322,6 +414,10 @@ msgstr "Связаться с пиратами."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/choice/event/text"
 msgstr ""
+"\"А? Вы предадите своих союзников, чтобы помочь нам? То есть... конечно. "
+"Спасибо за помощь. Мы очень нуждаемся в этом оборудовании, которое мы "
+"украли, но я попрошу своего друга задержать флот для вас в качестве "
+"благодарности\"."
 
 #: src-en/data/events_ships.xml.append:576
 msgid ""
