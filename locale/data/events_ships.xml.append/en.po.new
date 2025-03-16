@@ -1,0 +1,418 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_ships.xml.append:7
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/destroyed/text"
+msgstr ""
+"You've managed to defeat the pirate ship, but you're only able to salvage a "
+"small portion of the wreck before you have to jump away to avoid further "
+"damage from the remaining pirates."
+
+#: src-en/data/events_ships.xml.append:10
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/destroyed/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:14
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:21
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/deadCrew/text"
+msgstr ""
+"You've managed to defeat the pirate ship, but you're only able to salvage a "
+"small portion of the wreck before you have to jump away to avoid further "
+"damage from the remaining pirates."
+
+#: src-en/data/events_ships.xml.append:24
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/deadCrew/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:28
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:80
+msgid ""
+"data/events_ships.xml.append$//mod:findName[@name=\"SHIP_DYNASTY_SMUGGLER_STATION\"]/mod:findLike[1]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:90
+msgid ""
+"data/events_ships.xml.append$//mod:findName[@name=\"SHIP_DYNASTY_SMUGGLER_STATION\"]/mod:findLike[2]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:103
+msgid ""
+"data/events_ships.xml.append$//mod:findName[@name=\"SHIP_SHELL_MERCENARY\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_ships.xml.append:130
+msgid ""
+"data/events_ships.xml.append$//mod:findName[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP1\"]/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "Let the pirate escape and go after the Slugman ship."
+
+#: src-en/data/events_ships.xml.append:148
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/destroyed/text"
+msgstr "With the pirate taken care of, you salvage their ship."
+
+#: src-en/data/events_ships.xml.append:151
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/destroyed/choice/text"
+msgstr "Search for the cache."
+
+#: src-en/data/events_ships.xml.append:156
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/deadCrew/text"
+msgstr "With the pirate defeated, you salvage their ship."
+
+#: src-en/data/events_ships.xml.append:159
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/deadCrew/choice/text"
+msgstr "Search for the cache."
+
+#: src-en/data/events_ships.xml.append:167
+msgid ""
+"data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[1]/text"
+msgstr ""
+"Unfortunately, the cache disappeared into the clouds during the fight. You "
+"pick up a little more scrap from the remains of the battle and prepare to "
+"move on."
+
+#: src-en/data/events_ships.xml.append:171
+msgid ""
+"data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[2]/text"
+msgstr ""
+"Unfortunately, the cache disappeared into the clouds during the fight. You "
+"pick up a little more scrap from the remains of the battle and prepare to "
+"move on."
+
+#: src-en/data/events_ships.xml.append:175
+msgid ""
+"data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[3]/text"
+msgstr ""
+"Unfortunately, the cache disappeared into the clouds during the fight. You "
+"pick up a little more scrap from the remains of the battle and prepare to "
+"move on."
+
+#: src-en/data/events_ships.xml.append:179
+msgid ""
+"data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[4]/text"
+msgstr ""
+"Fortunately, the cache isn't too far away. You pry it open to find a "
+"military-grade weapon!"
+
+#: src-en/data/events_ships.xml.append:183
+msgid ""
+"data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[5]/text"
+msgstr ""
+"Fortunately, the cache isn't too far away. You pry it open to find a "
+"functional augment!"
+
+#: src-en/data/events_ships.xml.append:187
+msgid ""
+"data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[6]/text"
+msgstr ""
+"Fortunately, the cache isn't too far away. You pry it open to find a large "
+"amount of supplies!"
+
+#: src-en/data/events_ships.xml.append:201
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/destroyed/text"
+msgstr ""
+"The slaver ship breaks apart. You hasten to contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:204
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/destroyed/choice/text"
+msgstr "Contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:209
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/deadCrew/text"
+msgstr ""
+"No more life signs detected on the slaver ship. You hasten to contact the "
+"civilian ship."
+
+#: src-en/data/events_ships.xml.append:212
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
+msgstr "Contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:220
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/destroyed/text"
+msgstr ""
+"The mercenary ship breaks apart. You hasten to contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:223
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/destroyed/choice/text"
+msgstr "Contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:228
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/deadCrew/text"
+msgstr ""
+"No more life signs detected on the mercenary ship. You hasten to contact the"
+" civilian ship."
+
+#: src-en/data/events_ships.xml.append:231
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
+msgstr "Contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:239
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/destroyed/text"
+msgstr ""
+"The smuggler ship breaks apart. You hasten to contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:242
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/destroyed/choice/text"
+msgstr "Contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:247
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/deadCrew/text"
+msgstr ""
+"No more life signs detected on the smuggler ship. You hasten to contact the "
+"civilian ship."
+
+#: src-en/data/events_ships.xml.append:250
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
+msgstr "Contact the civilian ship."
+
+#: src-en/data/events_ships.xml.append:284
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/text"
+msgstr ""
+"\"We surrender! Take one of our slaves as tribute; if you destroy us they'll"
+" all die anyway!\""
+
+#: src-en/data/events_ships.xml.append:286
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/choice[1]/text"
+msgstr "Accept their offer."
+
+#: src-en/data/events_ships.xml.append:293
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/choice[2]/text"
+msgstr "Surrender is not an option."
+
+#: src-en/data/events_ships.xml.append:300
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/destroyed/text"
+msgstr ""
+"The slave ship is destroyed. They won't continue their evil trade, but many "
+"lives were probably lost on that ship."
+
+#: src-en/data/events_ships.xml.append:330
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_MANY\"]/text"
+msgstr ""
+"You've defeated what you assume is the leader of the pirates, as the others "
+"have given up fighting you and returned to the hub. You scrap the wreckage, "
+"knowing that you won't be able to do anything else at the hub with the "
+"pirates on high alert."
+
+#: src-en/data/events_ships.xml.append:336
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_MANY\"]/text"
+msgstr ""
+"You've defeated what you assume is the leader of the pirates, as the others "
+"have given up fighting you and returned to the hub. You scrap the wreckage, "
+"knowing that you won't be able to do anything else at the hub with the "
+"pirates on high alert."
+
+#: src-en/data/events_ships.xml.append:396
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/destroyed/text"
+msgstr ""
+"You've managed to defeat the slaver ship, but you're sure the pirates will "
+"send another one soon. You scrap what you can and prepare to jump before "
+"reinforcements arrive."
+
+#: src-en/data/events_ships.xml.append:399
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:406
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/deadCrew/text"
+msgstr ""
+"You've managed to defeat the slaver ship, but you're sure the pirates will "
+"send another one soon. You scrap what you can and prepare to jump before "
+"reinforcements arrive."
+
+#: src-en/data/events_ships.xml.append:409
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:419
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/destroyed/text"
+msgstr ""
+"You've managed to defeat the slaver ship, but you barely have time to "
+"salvage the wreckage. You have to get away before you take more damage from "
+"their ASB!"
+
+#: src-en/data/events_ships.xml.append:422
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:429
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/deadCrew/text"
+msgstr ""
+"You've managed to defeat the slaver ship, but you barely have time to "
+"salvage the wreckage. You have to get away before you take more damage from "
+"their ASB!"
+
+#: src-en/data/events_ships.xml.append:432
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:442
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/destroyed/text"
+msgstr ""
+"You've managed to defeat the slaver ship, but you barely have time to "
+"salvage the wreckage. You have to get away before you take more damage from "
+"their ASB!"
+
+#: src-en/data/events_ships.xml.append:445
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:452
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/deadCrew/text"
+msgstr ""
+"You've managed to defeat the slaver ship, but you barely have time to "
+"salvage the wreckage. You have to get away before you take more damage from "
+"their ASB!"
+
+#: src-en/data/events_ships.xml.append:455
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
+msgstr "(Magnet Arm) Salvage the wreck further."
+
+#: src-en/data/events_ships.xml.append:476
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_UNKNOWN_SHIP_PIRATE_TAKEOVER\"]/destroyed/text"
+msgstr ""
+"You've defeated the pirates in the civilian ship. You salvage the remains."
+
+#: src-en/data/events_ships.xml.append:480
+msgid ""
+"data/events_ships.xml.append$//ship[@name=\"PIP_UNKNOWN_SHIP_PIRATE_TAKEOVER\"]/deadCrew/text"
+msgstr ""
+"You've defeated the pirates in the civilian ship. You salvage the remains."
+
+#: src-en/data/events_ships.xml.append:533
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"ESCAPE_FEDERATION_ARREST_PIRATE\"]/text"
+msgstr ""
+"Seeing that there are now two ships to deal with, the pirate has "
+"reconsidered the fight and is charging their FTL drive. The Federation ship "
+"hails you. \"Good thing you came, we've just about ran out of ammo. If you "
+"can kill their crew without damaging the cargo that would be ideal, but "
+"destroying their ship works too. We just can't let the pirates get away with"
+" our supplies!\""
+
+#: src-en/data/events_ships.xml.append:537
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_GOTAWAY\"]/text"
+msgstr ""
+"The pirate has charged their jump drive and managed to get away. The "
+"Federation captain is upset, but still maintains a straight face. \"An "
+"unfortunate outcome. We were hoping to equip some of our new ships with that"
+" technology. Still, thanks for trying at least. Have some fuel for your "
+"journey ahead.\""
+
+#: src-en/data/events_ships.xml.append:542
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/text"
+msgstr ""
+"The pirate ship goes up in flames. While you won't be able to recover the "
+"technology now, at least the pirates won't get away with Federation tech."
+
+#: src-en/data/events_ships.xml.append:545
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/choice/text"
+msgstr "Contact the Federation ship."
+
+#: src-en/data/events_ships.xml.append:547
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/choice/event/text"
+msgstr ""
+"\"Good work. It's a little unfortunate that we can't recover the tech, but "
+"at least the pirates won't get away with it. Here's some pay for your help. "
+"Good luck on your mission!\""
+
+#: src-en/data/events_ships.xml.append:554
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/text"
+msgstr ""
+"The pirate ship falls silent, having been cleared of crew. You scrap the "
+"exterior of the ship before contacting the Federation ship."
+
+#: src-en/data/events_ships.xml.append:557
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/choice/text"
+msgstr "Contact the Federation ship."
+
+#: src-en/data/events_ships.xml.append:559
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/choice/event/text"
+msgstr ""
+"\"Excellent! You've even recovered the technology in one piece! Now that the"
+" pirate is dead, we're supposed to bring these back to our base for "
+"installation, but no one will know if I slide you one of these weapons for "
+"your efforts. Good luck on your mission!\""
+
+#: src-en/data/events_ships.xml.append:567
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/text"
+msgstr ""
+"You've defeated the Federation ship. This won't reflect well in the eyes of "
+"your allies, but you take this opportunity to scrap the ship regardless."
+
+#: src-en/data/events_ships.xml.append:570
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/choice/text"
+msgstr "Contact the pirates."
+
+#: src-en/data/events_ships.xml.append:572
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/choice/event/text"
+msgstr ""
+"\"Huh? You would betray your own allies to help us? I mean... sure. Thanks "
+"for the help I guess. We still need to hold onto this equipment that we've "
+"stolen, but I'll get my friend to delay the fleet for you as thanks.\""
+
+#: src-en/data/events_ships.xml.append:576
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/choice/event/choice/text"
+msgstr "Continue..."

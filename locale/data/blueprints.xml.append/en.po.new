@@ -1,0 +1,186 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:5
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"RADIANT_GAS_UNLOCKED\"]/title"
+msgstr "Botulinum Gas"
+
+#: src-en/data/blueprints.xml.append:6
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"RADIANT_GAS_UNLOCKED\"]/desc"
+msgstr ""
+"An incredibly deadly and fast-working neurotoxin that will rapidly kill most hostile crew on your ship.\n"
+"\n"
+"Drones and the following species will be immune to the damage of the augment:\n"
+"Shells, Lanius, Ghosts, Vampweeds."
+
+#: src-en/data/blueprints.xml.append:18
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PALADIN_ARMOR_PLAYER_UNLOCKED\"]/title"
+msgstr "Divine Armor+"
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PALADIN_ARMOR_PLAYER_UNLOCKED\"]/desc"
+msgstr ""
+"Extremely strong armor reinforced with Aether harvested from precursor "
+"ruins, fused with the already resistant armor of the Rockmen. Resists all "
+"hull damage from normal weapons, but cannot resist breach weapons. Provides "
+"an opportunity to ram the enemy ship before combat as well."
+
+#: src-en/data/blueprints.xml.append:27
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/title"
+msgstr "R.U.E.S. Plating"
+
+#: src-en/data/blueprints.xml.append:28
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/desc"
+msgstr ""
+"A very powerful set of plating which combines all effects of Rock Plating, "
+"Mantis Pheromones, and Slug Repair Gel."
+
+#: src-en/data/blueprints.xml.append:38
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/title"
+msgstr "Engine O. C. Mk 5"
+
+#: src-en/data/blueprints.xml.append:39
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/desc"
+msgstr ""
+"An improved version of the original \"Engine Overdrive Capacitor Mk 3\". "
+"Deals less damage than the old model, and allows you to choose how fast you "
+"want to travel at. The greater the speed, the more damage you will take. Can"
+" only be used once."
+
+#: src-en/data/blueprints.xml.append:47
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/title"
+msgstr "Defensive Suits"
+
+#: src-en/data/blueprints.xml.append:48
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/desc"
+msgstr ""
+"A set of suits designed to protect your crew from damage. Your crew take 30%"
+" less damage from all sources and are stunned for 30% less time, but lose "
+"10% combat damage, movement speed, and repair speed."
+
+#: src-en/data/blueprints.xml.append:56
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/title"
+msgstr "Crippled Zoltan Reactor"
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/desc"
+msgstr ""
+"A reactor stolen from a Zoltan ship. Due to the damages caused to the "
+"reactor and other technical difficulties, it only provides 1 point of super "
+"shields. Mainly useful for stalling the enemy's Hacking, Mind Control and "
+"Teleporter, and can be used for blue options."
+
+#: src-en/data/blueprints.xml.append:65
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/title"
+msgstr "Accelerated Reloader"
+
+#: src-en/data/blueprints.xml.append:66
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/desc"
+msgstr ""
+"A prototype reloader designed by the smugglers that can be activated at the "
+"start of each fight for 1 power, improving your weapons' fire rate by 50% "
+"for 45 seconds. However, its mechanisms are not sustainable, thus causing "
+"your weapons to have a 30% reduced fire rate after the initial boost has "
+"expired."
+
+#: src-en/data/blueprints.xml.append:74
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/title"
+msgstr "Accelerated Reloader's boost"
+
+#: src-en/data/blueprints.xml.append:75
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/desc"
+msgstr ""
+"50% weapon fire rate boost for 45 seconds. You should not see this in game."
+
+#: src-en/data/blueprints.xml.append:83
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/title"
+msgstr "Accelerated Reloader's penalty"
+
+#: src-en/data/blueprints.xml.append:84
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/desc"
+msgstr "30% weapon fire rate reduction. You should not see this in game."
+
+#: src-en/data/blueprints.xml.append:92
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/title"
+msgstr "Mini Payloads"
+
+#: src-en/data/blueprints.xml.append:93
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/desc"
+msgstr ""
+"Unlike your standard Magnetic Payload, these Mini Payloads only deal 1 hull damage and 2 system damage each while retaining the guaranteed fires. However, they come in sets and can be used once per combat without consuming your combat check option.\n"
+"\t\n"
+"You have 5 Mini Payloads remaining in this stack."
+
+#: src-en/data/blueprints.xml.append:103
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/title"
+msgstr "Mini Payloads"
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/desc"
+msgstr ""
+"Unlike your standard Magnetic Payload, these Mini Payloads only deal 1 hull damage and 2 system damage each while retaining the guaranteed fires. However, they come in sets and can be used once per combat without consuming your combat check option.\n"
+"\n"
+"You have 4 Mini Payloads remaining in this stack."
+
+#: src-en/data/blueprints.xml.append:114
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/title"
+msgstr "Mini Payloads"
+
+#: src-en/data/blueprints.xml.append:115
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/desc"
+msgstr ""
+"Unlike your standard Magnetic Payload, these Mini Payloads only deal 1 hull damage and 2 system damage each while retaining the guaranteed fires. However, they come in sets and can be used once per combat without consuming your combat check option.\n"
+"\n"
+"You have 3 Mini Payloads remaining in this stack."
+
+#: src-en/data/blueprints.xml.append:125
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/title"
+msgstr "Mini Payloads"
+
+#: src-en/data/blueprints.xml.append:126
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/desc"
+msgstr ""
+"Unlike your standard Magnetic Payload, these Mini Payloads only deal 1 hull damage and 2 system damage each while retaining the guaranteed fires. However, they come in sets and can be used once per combat without consuming your combat check option.\n"
+"\n"
+"You have 2 Mini Payloads remaining in this stack."
+
+#: src-en/data/blueprints.xml.append:136
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/title"
+msgstr "Mini Payloads"
+
+#: src-en/data/blueprints.xml.append:137
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/desc"
+msgstr ""
+"Unlike your standard Magnetic Payload, these Mini Payloads only deal 1 hull damage and 2 system damage each while retaining the guaranteed fires. However, they come in sets and can be used once per combat without consuming your combat check option.\n"
+"\n"
+"You have 1 Mini Payload remaining in this stack."

@@ -1,0 +1,94 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_asteroid.xml.append:15
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/text"
+msgstr ""
+"It seems you've found the pirate ship in question just as they enter the "
+"asteroid field to avoid detection. You could chase them down before they "
+"slip away."
+
+#: src-en/data/events_sector_asteroid.xml.append:19
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/text"
+msgstr "After them!"
+
+#: src-en/data/events_sector_asteroid.xml.append:21
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/event/text"
+msgstr ""
+"With no time to waste, you engage them immediately. Be careful not to damage"
+" the cargo!"
+
+#: src-en/data/events_sector_asteroid.xml.append:24
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_asteroid.xml.append:30
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/text"
+msgstr "(Pirate Rep 1+) Hail and offer to buy the cargo off them."
+
+#: src-en/data/events_sector_asteroid.xml.append:32
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/text"
+msgstr ""
+"The pirates have yet to pry open the cargo. Figuring that they may as well "
+"make some guaranteed scrap instead of gambling on the contents of the cargo,"
+" they accept your offer."
+
+#: src-en/data/events_sector_asteroid.xml.append:37
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_asteroid.xml.append:39
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/text"
+msgstr "You now have a choice to make."
+
+#: src-en/data/events_sector_asteroid.xml.append:41
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/text"
+msgstr "Contact the Leeches and inform them the job is complete."
+
+#: src-en/data/events_sector_asteroid.xml.append:43
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"\"Excellent! The Eargen Republic thanks you greatly. Just uh... don't tell "
+"anyone this happened. With the whole Coalition thing, this agreement is "
+"kiiind of illegal but I really can't be arsed to kill you.\""
+
+#: src-en/data/events_sector_asteroid.xml.append:46
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_asteroid.xml.append:52
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/text"
+msgstr "Steal the cargo for yourself."
+
+#: src-en/data/events_sector_asteroid.xml.append:54
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/text"
+msgstr ""
+"You open up the cargo and find it contains a drone. Satisfied and willing to"
+" betray the Leeches, you snag it and prepare to leave."
+
+#: src-en/data/events_sector_asteroid.xml.append:57
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_asteroid.xml.append:67
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[3]/text"
+msgstr "Forget the cargo, let's leave."
