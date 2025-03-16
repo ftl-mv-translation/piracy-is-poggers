@@ -28,6 +28,7 @@
         "data/events_sector_theocracy.xml.append",
         "data/events_sector_unexplored.xml.append",
         "data/events_sector_union.xml.append",
+		"data/events_ships.xml.append",
 
         "data/events.xml.append",
 
