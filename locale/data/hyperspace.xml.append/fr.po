@@ -7,390 +7,475 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:482
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_BASIC\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:500
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_BASIC\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:518
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_BASIC\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:536
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_BASIC\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:554
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_BASIC\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:576
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:594
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:612
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:630
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:648
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:666
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[6]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:684
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[7]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[7]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:707
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:725
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:743
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:761
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:779
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:797
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[6]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:819
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:837
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:855
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:873
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:891
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:909
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[6]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:931
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:949
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:967
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:985
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1003
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1021
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[6]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1043
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1061
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1079
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1097
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1115
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1133
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[6]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1155
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ELITE\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1173
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ELITE\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1191
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ELITE\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1209
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ELITE\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1227
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_ELITE\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1249
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SELITE\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1267
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SELITE\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1285
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SELITE\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1303
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SELITE\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1321
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SELITE\"]/category[5]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1339
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SLAVER_SELITE\"]/category[6]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1361
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_BASIC\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_BASIC\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1434
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[1]/"
+"customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1452
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[2]/"
+"customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1470
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[3]/"
+"customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1493
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1511
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1529
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1602
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1620
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1638
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1711
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1729
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1747
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1820
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1838
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1856
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1929
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_MOREAUGMENTS\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_MOREAUGMENTS\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2036
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2054
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[2]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2072
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[3]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2090
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[4]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2165
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[1]/"
+"customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2183
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[2]/"
+"customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2201
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[3]/"
+"customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2219
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[4]/"
+"customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2256
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[1]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2325
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[5]/customTitle"
 msgstr "SYSTÈMES PRINCIPAUX"
 
 #: src-en/data/hyperspace.xml.append:2343
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[6]/customTitle"
 msgstr "SYSTÈMES AUXILIAIRES"
 
 #: src-en/data/hyperspace.xml.append:2356
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[7]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[7]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2379
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[8]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[8]/customTitle"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:2402
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[9]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL/store/"
+"customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[9]/customTitle"
 msgstr ""
