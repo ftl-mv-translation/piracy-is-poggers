@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-23 21:14+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_special_piracyxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_piracy.xml.append:4
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_INTRO\"]/text"
@@ -4183,7 +4190,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4115
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"LOOT_DUSKBRINGER_1\"]/text"
-msgstr ""
+msgstr "Vendre un butin d'énergie lourde."
 
 #: src-en/data/events_special_piracy.xml.append:4117
 msgid ""
@@ -5683,12 +5690,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5522
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION1\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5524
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION1\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5530
 msgid ""
@@ -5698,12 +5710,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5536
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION2\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5538
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION2\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5544
 msgid ""
@@ -5713,12 +5730,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5550
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION3\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5552
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION3\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5558
 msgid ""
@@ -5728,12 +5750,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5564
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION4\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5566
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION4\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5572
 msgid ""
@@ -5743,12 +5770,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5578
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION5\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5580
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION5\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5586
 msgid ""
@@ -5758,12 +5790,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5592
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION6\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5594
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION6\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5600
 msgid ""
@@ -5773,12 +5810,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5606
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION7\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5608
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION7\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5614
 msgid ""
@@ -5788,12 +5830,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5620
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION8\"]/text"
-msgstr ""
+msgstr "Vendre une Mitrailleuse Gatling."
 
 #: src-en/data/events_special_piracy.xml.append:5622
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION8\"]/event/text"
 msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à "
+"gagner en me vendant cette arme incroyable, mais je peux essayer de faire en "
+"sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5628
 msgid ""
