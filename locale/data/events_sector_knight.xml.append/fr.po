@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_knightxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -19,9 +19,7 @@ msgstr "Les contacter, nous pourrions sûrement leur acheter de la contrebande."
 #: src-en/data/events_sector_knight.xml.append:9
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
-msgstr ""
-"Acheter les narcotiques, cela pourrait servir de monnaie d'échange avec les "
-"hommes de Nights."
+msgstr "Acheter les narcotiques, cela pourrait servir de monnaie d'échange avec les hommes de Nights."
 
 #: src-en/data/events_sector_knight.xml.append:12
 msgid ""
@@ -74,10 +72,7 @@ msgstr ""
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr ""
-"\"Un achat judicieux ! Mais ne demande pas de quoi ils sont faits.\" Vous "
-"entendez le pirate marmonner des choses, tel que des enfants Orchid, ou bien"
-" encore des excréments d'Équinoïdes, avant qu'il raccroche."
+msgstr "\"Un achat judicieux ! Mais ne demande pas de quoi ils sont faits.\" Vous entendez le pirate marmonner des choses, tel que des enfants Orchid, ou bien encore des excréments d'Équinoïdes, avant qu'il raccroche."
 
 #: src-en/data/events_sector_knight.xml.append:61
 msgid ""
@@ -114,10 +109,7 @@ msgstr ""
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/text"
-msgstr ""
-"\"Un achat judicieux ! Mais ne demande pas de quoi ils sont faits.\" Vous "
-"entendez le pirate marmonner des choses, tel que des enfants Orchid, ou bien"
-" encore des excréments d'Équinoïdes, avant qu'il raccroche."
+msgstr "\"Un achat judicieux ! Mais ne demande pas de quoi ils sont faits.\" Vous entendez le pirate marmonner des choses, tel que des enfants Orchid, ou bien encore des excréments d'Équinoïdes, avant qu'il raccroche."
 
 #: src-en/data/events_sector_knight.xml.append:86
 msgid ""
