@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-23 21:14+0000\n"
+"PO-Revision-Date: 2025-04-03 20:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/"
 "dataevents_special_piracyxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_piracy.xml.append:4
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_INTRO\"]/text"
@@ -3740,7 +3740,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:3694
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"FOCUS_BIO_PLAYER\"]/text"
-msgstr ""
+msgstr "Vendre un Aiguillon Rad. 'Anelace' à haut rendement énergétique."
 
 #: src-en/data/events_special_piracy.xml.append:3696
 msgid ""
@@ -3935,7 +3935,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:3875
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"LASER_FIRE_SPECIAL\"]/text"
-msgstr ""
+msgstr "Vendre une \"boîte d'allumettes\"."
 
 #: src-en/data/events_special_piracy.xml.append:3877
 msgid ""
@@ -3950,7 +3950,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:3889
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"BOMB_CHERRI\"]/text"
-msgstr ""
+msgstr "Vendre une Bombe Cherri."
 
 #: src-en/data/events_special_piracy.xml.append:3891
 msgid ""
@@ -3965,7 +3965,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:3903
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"LASER_CHAINGUN_GOLD\"]/text"
-msgstr ""
+msgstr "Vendre un 'Éventre-Espace' MK 0.5."
 
 #: src-en/data/events_special_piracy.xml.append:3905
 msgid ""
@@ -4040,7 +4040,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:3973
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"BEAM_SHELL\"]/text"
-msgstr ""
+msgstr "Vendre un Rayon Cyclopéen."
 
 #: src-en/data/events_special_piracy.xml.append:3975
 msgid ""
@@ -4340,7 +4340,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4255
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"LOOT_SLUG_1\"]/text"
-msgstr ""
+msgstr "Vendre un Rayon Radiant 'Faucon' en butin."
 
 #: src-en/data/events_special_piracy.xml.append:4257
 msgid ""
@@ -4370,7 +4370,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4283
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"LOOT_KNIGHT_1\"]/text"
-msgstr ""
+msgstr "Vendre un Rayon Radiant 'Corbin' en butin."
 
 #: src-en/data/events_special_piracy.xml.append:4285
 msgid ""
@@ -4550,7 +4550,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4452
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"LOOT_MATH_7\"]/text"
-msgstr ""
+msgstr "Vendre un 'Plus grand que'."
 
 #: src-en/data/events_special_piracy.xml.append:4454
 msgid ""
@@ -4790,7 +4790,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4678
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"ION_CHAIN_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Vendre un Chaîngeur ionique."
 
 #: src-en/data/events_special_piracy.xml.append:4680
 msgid ""
@@ -4805,7 +4805,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4692
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"ION_CHAIN_CHARGEGUN_CHAOS\"]/text"
-msgstr ""
+msgstr "Vendre un Chaîngeur ionique Chaotique."
 
 #: src-en/data/events_special_piracy.xml.append:4694
 msgid ""
@@ -4820,7 +4820,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4706
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"MISSILES_OBSIDIAN\"]/text"
-msgstr ""
+msgstr "Vendre un Missile d'Obsidienne."
 
 #: src-en/data/events_special_piracy.xml.append:4708
 msgid ""
@@ -4835,7 +4835,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4720
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"MISSILES_OBSIDIAN_CHAOS\"]/text"
-msgstr ""
+msgstr "Vendre un Missile d'Obsidienne Chaotique."
 
 #: src-en/data/events_special_piracy.xml.append:4722
 msgid ""
@@ -4850,7 +4850,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4734
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"SNIPER\"]/text"
-msgstr ""
+msgstr "Vendre un 'Inratable'."
 
 #: src-en/data/events_special_piracy.xml.append:4736
 msgid ""
@@ -4865,7 +4865,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4748
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"SNIPER_CHAOS\"]/text"
-msgstr ""
+msgstr "Vendre un 'Inratable' Chaotique."
 
 #: src-en/data/events_special_piracy.xml.append:4750
 msgid ""
@@ -4880,7 +4880,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4762
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"SHOTGUN_STEEL\"]/text"
-msgstr ""
+msgstr "Vendre un Lance-Métal."
 
 #: src-en/data/events_special_piracy.xml.append:4764
 msgid ""
@@ -4895,7 +4895,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4776
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"SHOTGUN_STEEL_CHAOS\"]/text"
-msgstr ""
+msgstr "Vendre un Lance-Métal Chaotique."
 
 #: src-en/data/events_special_piracy.xml.append:4778
 msgid ""
@@ -5030,7 +5030,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4902
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"UNSPOOLER\"]/text"
-msgstr ""
+msgstr "Vendre des missiles 'Ombre Nocturne'."
 
 #: src-en/data/events_special_piracy.xml.append:4904
 msgid ""
@@ -5045,7 +5045,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4916
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"UNSPOOLER_CHAOS\"]/text"
-msgstr ""
+msgstr "Vendre des Missiles Chaotiques 'Ombre Nocturne'."
 
 #: src-en/data/events_special_piracy.xml.append:4918
 msgid ""
@@ -5090,7 +5090,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:4958
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"LASER_LIGHT_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Vendre un Chargeur Laser léger."
 
 #: src-en/data/events_special_piracy.xml.append:4960
 msgid ""
@@ -5180,7 +5180,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5042
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"BOMB_ELITE\"]/text"
-msgstr ""
+msgstr "Vendre une Bombe Promotionnelle."
 
 #: src-en/data/events_special_piracy.xml.append:5044
 msgid ""
@@ -5195,7 +5195,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5056
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"BOMB_ELITE_CHAOS\"]/text"
-msgstr ""
+msgstr "Vendre une Bombe Promotionnelle Chaotique."
 
 #: src-en/data/events_special_piracy.xml.append:5058
 msgid ""
@@ -5345,7 +5345,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5197
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "Vendre un lanceur d'assaut."
 
 #: src-en/data/events_special_piracy.xml.append:5199
 msgid ""
@@ -5480,7 +5480,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5323
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"ANCIENT_STUN\"]/text"
-msgstr ""
+msgstr "Vendre un Pacifieur."
 
 #: src-en/data/events_special_piracy.xml.append:5325
 msgid ""
@@ -5851,6 +5851,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"BLUELIST_RIFT\"]/text"
 msgstr ""
+"À moins que vous ne souhaitiez que cette réalité soit conquise par les "
+"contrebandiers, vendre votre \"Éventre-Espace\" au contrebandier est une "
+"très mauvaise idée."
 
 #: src-en/data/events_special_piracy.xml.append:5638
 msgid ""
@@ -7776,6 +7779,10 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_SPECIAL_STORE_PLAYERWEAPONS\"]/text"
 msgstr ""
+"\"Vous n'avez jamais eu peur d'atteindre la limite de puissance de vos armes "
+"? Eh bien, j'ai quelques armes à faible consommation d'énergie pour toi, "
+"peut-être que tu pourras faire fonctionner ton Vouge gratuit avec ces "
+"mauvais garçons.\""
 
 #: src-en/data/events_special_piracy.xml.append:7524
 msgid ""
