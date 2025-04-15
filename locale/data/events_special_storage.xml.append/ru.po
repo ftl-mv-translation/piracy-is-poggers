@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-16 15:02+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:392
 msgid ""
@@ -110,25 +118,25 @@ msgstr "Репутация пиратов [-5 или меньше]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[2]/text"
-msgstr "Репутация пиратов [-4 или меньше]"
+msgstr "Репутация пиратов [-4]"
 
 #: src-en/data/events_special_storage.xml.append:473
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[3]/text"
-msgstr "Репутация пиратов [-3 или меньше]"
+msgstr "Репутация пиратов [-3]"
 
 #: src-en/data/events_special_storage.xml.append:477
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[4]/text"
-msgstr "Репутация пиратов [-2 или меньше]"
+msgstr "Репутация пиратов [-2]"
 
 #: src-en/data/events_special_storage.xml.append:481
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_NOTORIETY\"]/mod-"
 "append:choice[5]/text"
-msgstr "Репутация пиратов [-1 или меньше]"
+msgstr "Репутация пиратов [-1]"
 
 #: src-en/data/events_special_storage.xml.append:485
 msgid ""
