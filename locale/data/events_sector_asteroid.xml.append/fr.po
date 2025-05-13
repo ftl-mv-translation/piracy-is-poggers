@@ -1,14 +1,24 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-14 13:49+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_sector_asteroidxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_asteroid.xml.append:15
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/text"
 msgstr ""
+"Il semble que vous ayez trouvé le vaisseau pirate en question juste au "
+"moment où ils entrent dans le champ d'astéroïdes pour éviter d'être "
+"détectés. Vous pourriez les poursuivre avant qu'ils ne s'échappent."
 
 #: src-en/data/events_sector_asteroid.xml.append:19
 msgid ""
@@ -19,6 +29,8 @@ msgstr "Après eux !"
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/event/text"
 msgstr ""
+"N'ayant pas de temps à perdre, vous les ciblez immédiatement. Attention à ne "
+"pas endommager la cargaison !"
 
 #: src-en/data/events_sector_asteroid.xml.append:24
 msgid ""
@@ -28,12 +40,15 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_asteroid.xml.append:30
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/text"
-msgstr ""
+msgstr "(Pirate Rep 1+) Les accueillir et leur proposer d'acheter la cargaison."
 
 #: src-en/data/events_sector_asteroid.xml.append:32
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/text"
 msgstr ""
+"Les pirates n'ont pas encore réussi à ouvrir la cargaison. Estimant qu'ils "
+"peuvent tout aussi bien s'assurer de la ferraille au lieu de parier sur le "
+"contenu de la cargaison, ils acceptent votre offre."
 
 #: src-en/data/events_sector_asteroid.xml.append:37
 msgid ""
@@ -43,12 +58,12 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_asteroid.xml.append:39
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/text"
-msgstr ""
+msgstr "Vous avez maintenant un choix à faire."
 
 #: src-en/data/events_sector_asteroid.xml.append:41
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/text"
-msgstr "Contactez les Sangsues et informez-les que le travail est terminé."
+msgstr "Contacter les Sangsues et les informer que le travail est terminé."
 
 #: src-en/data/events_sector_asteroid.xml.append:43
 msgid ""
@@ -84,4 +99,4 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_asteroid.xml.append:67
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[3]/text"
-msgstr ""
+msgstr "Oublier la cargaison, et partir."
