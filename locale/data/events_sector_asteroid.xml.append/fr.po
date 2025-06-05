@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:16+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_asteroidxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -59,11 +59,7 @@ msgstr "Contacter les Sangsues et les informer que le travail est terminé."
 #: src-en/data/events_sector_asteroid.xml.append:43
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/text"
-msgstr ""
-"\"Excellent ! La République d'Eargen vous remercie grandement. Seulement "
-"euh... ne dites à personne ce qu'il s'est passé. Avec toute cette histoire "
-"de Coalition, cet accord est en queeeelque sooorte illégal mais je n'ai "
-"vraiment pas envie de me donner la peine de vous tuer.\""
+msgstr "\"Excellent ! La République d'Eargen vous remercie grandement. Seulement euh... ne dites à personne ce qu'il s'est passé. Avec toute cette histoire de Coalition, cet accord est en queeeelque sooorte illégal mais je n'ai vraiment pas envie de me donner la peine de vous tuer.\""
 
 #: src-en/data/events_sector_asteroid.xml.append:46
 msgid ""
@@ -78,9 +74,7 @@ msgstr "Voler le cargo pour vous-même."
 #: src-en/data/events_sector_asteroid.xml.append:54
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/text"
-msgstr ""
-"Vous ouvrez la cargaison et découvrez qu'elle contient un drone. Satisfait "
-"et décidé à trahir les Sangsues, vous l'attrapez et vous préparez à partir."
+msgstr "Vous ouvrez la cargaison et découvrez qu'elle contient un drone. Satisfait et décidé à trahir les Sangsues, vous l'attrapez et vous préparez à partir."
 
 #: src-en/data/events_sector_asteroid.xml.append:57
 msgid ""
