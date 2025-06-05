@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_sector_ministryxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_ministry.xml.append:22
 msgid ""
@@ -110,8 +117,7 @@ msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[1]/mod:selector"
 msgstr ""
 "Il semblerait que les pirates étaient des esclavagistes. Reconnaissants de "
-"votre assistance, ils vous proposent un de leurs 'travailleurs' "
-"gratuitement."
+"votre assistance, ils vous proposent un de leurs 'travailleurs' gratuitement."
 
 #: src-en/data/events_sector_ministry.xml.append:166
 msgid ""
@@ -137,8 +143,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[3]/mod:selector"
 msgstr ""
-"Les pirates semblent être des contrebandiers. Ils expliquent que leur client"
-" les ont cafardés, d'où leur arrestation. Maintenant que vous les avez "
+"Les pirates semblent être des contrebandiers. Ils expliquent que leur client "
+"les ont cafardés, d'où leur arrestation. Maintenant que vous les avez "
 "sauvés, ils vous proposent de commercer avec vous à la place."
 
 #: src-en/data/events_sector_ministry.xml.append:183
