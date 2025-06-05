@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:41+0000\n"
+"PO-Revision-Date: 2025-06-05 07:11+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/"
-"dataevents_special_lightspeedxmlappend/de/>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_lightspeedxmlappend/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -151,9 +150,7 @@ msgstr "Fahre mit dem Sprung fort."
 #: src-en/data/events_special_lightspeed.xml.append:122
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/event/text"
-msgstr ""
-"Du machst dich bereit, zu den neuen Koordinaten zu springen und richtest "
-"deine Flugbahn dem entsprechend neu aus."
+msgstr "Du machst dich bereit, zu den neuen Koordinaten zu springen und richtest deine Flugbahn dem entsprechend neu aus."
 
 #: src-en/data/events_special_lightspeed.xml.append:126
 msgid ""
@@ -173,9 +170,7 @@ msgstr "Fahre mit dem Sprung fort."
 #: src-en/data/events_special_lightspeed.xml.append:144
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/event/text"
-msgstr ""
-"Du machst dich bereit, zu den neuen Koordinaten zu springen und richtest "
-"deine Flugbahn dem entsprechend neu aus."
+msgstr "Du machst dich bereit, zu den neuen Koordinaten zu springen und richtest deine Flugbahn dem entsprechend neu aus."
 
 #: src-en/data/events_special_lightspeed.xml.append:149
 msgid ""
