@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 10:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-05 10:28+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_stargrovexmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -15,40 +15,42 @@ msgstr ""
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Репутация пиратов 2+) Напомнить Бандиту о своей хорошей репутации."
 
 #: src-en/data/events_sector_stargrove.xml.append:7
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"Вы сообщаете пирату, что неоднократно помогали пиратам.\n"
+"\t\n"
+"\t\t\t\t\"Пф. Ты сделал много хорошего для некоторых моих друзей, это правда. Я тебя уважаю. В таком случае я предлагаю тебе скидку только для друзей. Или предпочитаешь пойти по трудному пути?\""
 
 #: src-en/data/events_sector_stargrove.xml.append:11
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr ""
+msgstr "Заплатить."
 
 #: src-en/data/events_sector_stargrove.xml.append:13
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "Пират забирает у вас свою плату, слегка нахмурившись. \"Шевелись, Ренегат. Мне нужно провести модернизацию\"."
 
 #: src-en/data/events_sector_stargrove.xml.append:20
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[@req=\"loc_scrap\"]/text"
-msgstr ""
+msgstr "У нас нет даже 40~. Мы можем заключить какую-нибудь другую сделку?"
 
 #: src-en/data/events_sector_stargrove.xml.append:24
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[3]/text"
-msgstr ""
+msgstr "Это предложение по-прежнему неприемлемо."
 
 #: src-en/data/events_sector_stargrove.xml.append:33
-#, fuzzy
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[1]/mod:selector"
 msgstr "Атаковать наемников."
@@ -56,22 +58,21 @@ msgstr "Атаковать наемников."
 #: src-en/data/events_sector_stargrove.xml.append:43
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
+msgstr "Избегать пиратов."
 
 #: src-en/data/events_sector_stargrove.xml.append:47
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Репутация наемников 2+) Попросить наемников оставить контрабандистов в покое."
 
 #: src-en/data/events_sector_stargrove.xml.append:49
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "Наемник сначала сомневался, стоит ли бросать погоню, но в конце концов сдался. \"Ладно. Я не намерен злить постоянного клиента так же сильно, как хочу убить этих самодовольных ублюдков, и нам все равно нужно заправиться\". Они поворачиваются лицом к контрабандистам. \"Не думайте, что это конец. Как только мы заправимся и Ренегат закончит с вашими услугами, мы тут же вернемся к вам на хвост\". Наемники уходят в прыжок."
 
 #: src-en/data/events_sector_stargrove.xml.append:51
-#, fuzzy
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[1]/event/choice/text"
@@ -81,13 +82,13 @@ msgstr "Связаться с контрабандистами."
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Избегать пиратов."
 
 #: src-en/data/events_sector_stargrove.xml.append:59
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "Два корабля продолжают свой танец среди звезд, пока вы готовитесь уйти."
 
 #: src-en/data/events_sector_stargrove.xml.append:61
 msgid ""
