@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"PO-Revision-Date: 2025-06-05 07:12+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/"
-"datablueprintsxmlappend/ko/>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/datablueprintsxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -38,8 +37,7 @@ msgstr "R.U.E.S. 장갑"
 
 #: src-en/data/blueprints.xml.append:28
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/desc"
-msgstr "암석 장갑, 맨티스 페로몬, 슬러그 수리 젤의 효과가 모두 합쳐진 매우 강력한 "
-"장갑입니다."
+msgstr "암석 장갑, 맨티스 페로몬, 슬러그 수리 젤의 효과가 모두 합쳐진 매우 강력한 장갑입니다."
 
 #: src-en/data/blueprints.xml.append:38
 msgid ""
