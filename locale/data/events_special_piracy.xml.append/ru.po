@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -59,9 +59,7 @@ msgstr "Атаковать работорговцев."
 #: src-en/data/events_special_piracy.xml.append:118
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[2]/event/text"
-msgstr ""
-"Работорговцы - отбросы галактики. Уничтожив их, вы совершите великое "
-"правосудие."
+msgstr "Работорговцы - отбросы галактики. Уничтожив их, вы совершите великое правосудие."
 
 #: src-en/data/events_special_piracy.xml.append:121
 msgid ""
@@ -71,9 +69,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:127
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
-"(Улучш. Телепортатор) Использовать свой Телепортатор, чтобы попытаться "
-"подняться на борт корабля и освободить некоторых рабов."
+msgstr "(Улучш. Телепортатор) Использовать свой Телепортатор, чтобы попытаться подняться на борт корабля и освободить некоторых рабов."
 
 #: src-en/data/events_special_piracy.xml.append:131
 msgid ""
@@ -215,9 +211,7 @@ msgstr "Атаковать работорговцев."
 #: src-en/data/events_special_piracy.xml.append:230
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr ""
-"Работорговцы - отбросы галактики. Уничтожив их, вы совершите великое "
-"правосудие."
+msgstr "Работорговцы - отбросы галактики. Уничтожив их, вы совершите великое правосудие."
 
 #: src-en/data/events_special_piracy.xml.append:233
 msgid ""
@@ -227,9 +221,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_piracy.xml.append:239
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
-"(Улучш. Телепортатор) Использовать свой Телепортатор, чтобы попытаться "
-"подняться на борт корабля и освободить некоторых рабов."
+msgstr "(Улучш. Телепортатор) Использовать свой Телепортатор, чтобы попытаться подняться на борт корабля и освободить некоторых рабов."
 
 #: src-en/data/events_special_piracy.xml.append:243
 msgid ""
@@ -2600,9 +2592,7 @@ msgstr "Общая репутация наемников: 7 или больше"
 #: src-en/data/events_special_piracy.xml.append:2419
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/text"
-msgstr ""
-"Наемник ухмыляется и перечисляет различные услуги, которые он может "
-"предложить."
+msgstr "Наемник ухмыляется и перечисляет различные услуги, которые он может предложить."
 
 #: src-en/data/events_special_piracy.xml.append:2421
 msgid ""
@@ -3136,11 +3126,7 @@ msgstr "Напасть на контрабандистов."
 #: src-en/data/events_special_piracy.xml.append:3171
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SMUGGLER_FRIENDLY\"]/choice[2]/event/text"
-msgstr ""
-"Контрабандисты обычно известны своей военными товарами, но Арджонн перевозит"
-" и многое другое. Кто знает, какие опасные предметы попали через груз этого "
-"корабля в руки всевозможных злоумышленников. Единственный правильный выход -"
-" уничтожить этих парней."
+msgstr "Контрабандисты обычно известны своей военными товарами, но Арджонн перевозит и многое другое. Кто знает, какие опасные предметы попали через груз этого корабля в руки всевозможных злоумышленников. Единственный правильный выход - уничтожить этих парней."
 
 #: src-en/data/events_special_piracy.xml.append:3174
 msgid ""
@@ -3287,11 +3273,7 @@ msgstr "Напасть на контрабандистов."
 #: src-en/data/events_special_piracy.xml.append:3279
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr ""
-"Контрабандисты обычно известны своей военными товарами, но Арджонн перевозит"
-" и многое другое. Кто знает, какие опасные предметы попали через груз этого "
-"корабля в руки всевозможных злоумышленников. Единственный правильный выход -"
-" уничтожить этих парней."
+msgstr "Контрабандисты обычно известны своей военными товарами, но Арджонн перевозит и многое другое. Кто знает, какие опасные предметы попали через груз этого корабля в руки всевозможных злоумышленников. Единственный правильный выход - уничтожить этих парней."
 
 #: src-en/data/events_special_piracy.xml.append:3282
 msgid ""
