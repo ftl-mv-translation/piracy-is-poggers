@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"PO-Revision-Date: 2025-06-05 07:12+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/"
-"dataevents_sector_duskbringerxmlappend/de/>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_duskbringerxmlappend/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -115,9 +114,7 @@ msgstr "Fortfahren..."
 #: src-en/data/events_sector_duskbringer.xml.append:97
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING_CONTACT\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Überraschenderweise wirst du von keinem der Schiffe gerufen. Ein einziges "
-"ruft dich und will deine Intentionen wissen."
+msgstr "Überraschenderweise wirst du von keinem der Schiffe gerufen. Ein einziges ruft dich und will deine Intentionen wissen."
 
 #: src-en/data/events_sector_duskbringer.xml.append:99
 msgid ""
