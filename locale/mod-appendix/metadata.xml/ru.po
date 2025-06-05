@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-06-05 10:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/mod-appendixmetadataxml/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -16,6 +16,7 @@ msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "Piracy is Poggers"
 
 #: src-en/mod-appendix/metadata.xml:6
+#, fuzzy
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
 "Этот аддон посвящен пиратам (кто бы мог подумать).\n"
