@@ -1,9 +1,15 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 07:50+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_piratexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_pirate.xml.append:14
 msgid ""
@@ -404,8 +410,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:318
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET\"]/text"
-msgstr ""
-"一个超能族和平大队正在向一些海盗讲授良好道德的重要性。当其中一个海盗不耐烦并发动攻击时，你停下来观看，感到很有趣。你离得太近，无法脱身，所以你必须决定你要站在哪一边。"
+msgstr "一个超能族和平大队正在向一些海盗讲授良好道德的重要性。当其中一个海盗不耐烦并发动攻击时，你停下来观看，感到很有趣。你离得太近，无法脱身，所以你必须决定你要站在哪一边。"
 
 #: src-en/data/events_sector_pirate.xml.append:320
 msgid ""
@@ -450,8 +455,7 @@ msgstr "联系你的海盗\"弟兄们\"。"
 #: src-en/data/events_sector_pirate.xml.append:349
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_PIRATE\"]/choice/event/text"
-msgstr ""
-"\"芜湖，这打得真牛逼，小子。谢谢你的帮助，我肯定能腾挪出什么来报答你。\"你对海盗的感激之情感到惊讶，并怀疑他们在耍花招，但他们给你送来的货箱出乎意料地无害，里面有一件闪亮的新型军用武器。"
+msgstr "\"芜湖，这打得真牛逼，小子。谢谢你的帮助，我肯定能腾挪出什么来报答你。\"你对海盗的感激之情感到惊讶，并怀疑他们在耍花招，但他们给你送来的货箱出乎意料地无害，里面有一件闪亮的新型军用武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:352
 msgid ""
