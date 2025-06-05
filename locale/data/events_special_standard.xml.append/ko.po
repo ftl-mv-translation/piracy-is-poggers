@@ -1,16 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 07:49+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_standardxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_standard.xml.append:13
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"정거장에 올라탔을 때, 당신은 감옥에 갇힌 절망적인 크리스탈들과 불타는 쓰레기 주위에 옹기종기 모여 있는 해적들을 발견했습니다. 당신이 "
-"접근하자 해적들이 총을 뽑았습니다. \"네놈은 누구냐, 정체를 드러내라!\""
+msgstr "정거장에 올라탔을 때, 당신은 감옥에 갇힌 절망적인 크리스탈들과 불타는 쓰레기 주위에 옹기종기 모여 있는 해적들을 발견했습니다. 당신이 접근하자 해적들이 총을 뽑았습니다. \"네놈은 누구냐, 정체를 드러내라!\""
 
 #: src-en/data/events_special_standard.xml.append:15
 msgid ""
@@ -50,8 +54,7 @@ msgstr "해적을 공격한다!"
 #: src-en/data/events_special_standard.xml.append:73
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_REFUELING_LIST\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"해적들에게 공격받았을 때 플랫폼이 손상됐던 듯합니다. 해적들은 좋아하지 않겠지만, 정거장의 잔해로부터 연료를 훔칠 수 있을 것 같습니다."
+msgstr "해적들에게 공격받았을 때 플랫폼이 손상됐던 듯합니다. 해적들은 좋아하지 않겠지만, 정거장의 잔해로부터 연료를 훔칠 수 있을 것 같습니다."
 
 #: src-en/data/events_special_standard.xml.append:75
 msgid ""
