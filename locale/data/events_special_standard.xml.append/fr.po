@@ -1,18 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 07:49+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_standardxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_standard.xml.append:13
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Vous arrivez à bord et y trouvez une bande de pirates autour d'un feu de "
-"poubelles, pendant que dans une cage, des Cristaliens vous lancent un regard"
-" désespéré. Dès que vous approchez, les pirates saisissent leurs armes. "
-"\"Qui diable êtes-vous, identifiez-vous !\""
+msgstr "Vous arrivez à bord et y trouvez une bande de pirates autour d'un feu de poubelles, pendant que dans une cage, des Cristaliens vous lancent un regard désespéré. Dès que vous approchez, les pirates saisissent leurs armes. \"Qui diable êtes-vous, identifiez-vous !\""
 
 #: src-en/data/events_special_standard.xml.append:15
 msgid ""
@@ -52,10 +54,7 @@ msgstr "Attaquer les pirates !"
 #: src-en/data/events_special_standard.xml.append:73
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_REFUELING_LIST\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Il semblerait qu'après l'attaque, la plate-forme ait été endommagée. Vous "
-"pouvez probablement voler autant de carburant que vous le voulez, mais les "
-"pirates n'apprécieront pas."
+msgstr "Il semblerait qu'après l'attaque, la plate-forme ait été endommagée. Vous pouvez probablement voler autant de carburant que vous le voulez, mais les pirates n'apprécieront pas."
 
 #: src-en/data/events_special_standard.xml.append:75
 msgid ""
