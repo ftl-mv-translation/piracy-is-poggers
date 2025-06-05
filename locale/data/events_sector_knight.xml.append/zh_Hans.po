@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"PO-Revision-Date: 2025-06-05 07:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/piracy-is-poggers/dataevents_sector_knightxmlappend/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_knightxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -73,8 +72,7 @@ msgstr ""
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr "\"买得好！就是别问是什么做的。\""
-"你听到海盗喃喃自语，说什么幼体兰花和六脚马粪便，然后就挂断了。"
+msgstr "\"买得好！就是别问是什么做的。\"你听到海盗喃喃自语，说什么幼体兰花和六脚马粪便，然后就挂断了。"
 
 #: src-en/data/events_sector_knight.xml.append:61
 msgid ""
@@ -111,8 +109,7 @@ msgstr ""
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/text"
-msgstr "\"买得好！就是别问是什么做的。\""
-"你听到海盗喃喃自语，说什么幼体兰花和六脚马粪便，然后就挂断了。"
+msgstr "\"买得好！就是别问是什么做的。\"你听到海盗喃喃自语，说什么幼体兰花和六脚马粪便，然后就挂断了。"
 
 #: src-en/data/events_sector_knight.xml.append:86
 msgid ""
@@ -129,8 +126,7 @@ msgstr ""
 #: src-en/data/events_sector_knight.xml.append:117
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:selector"
-msgstr "你刚准备发起攻击，但走私者又向你示意。"
-"\"好吧，也许价格太高了！让我们不要操之过急，这个价格会不会更诱人一点？\""
+msgstr "你刚准备发起攻击，但走私者又向你示意。\"好吧，也许价格太高了！让我们不要操之过急，这个价格会不会更诱人一点？\""
 
 #: src-en/data/events_sector_knight.xml.append:119
 msgid ""
