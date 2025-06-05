@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-06-06 10:50+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_fillerxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -298,7 +298,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_filler.xml.append:403
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/text"
-msgstr "\"Уважаемый клиент Аргеонн? Честное слово, заходите! У меня есть много, много специальных предложений по дронам, которые я хотел бы вам показать!\""
+msgstr "\"Уважаемый клиент Арджонн? Честное слово, заходите! У меня есть много, много специальных предложений по дронам, которые я хотел бы вам показать!\""
 
 #: src-en/data/events_special_filler.xml.append:405
 msgid ""
@@ -434,7 +434,7 @@ msgstr "Ничего не покупать."
 #: src-en/data/events_special_filler.xml.append:519
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[9]/event/text"
-msgstr "\"Ах, как жаль это слышать! Приятных путешествий\". Вы подозреваете, что это ловушка, но пират не выкидывает никаких фокусов. Видимо, быть хорошим клиентом Аргеонна выгодно, даже если вы не собираетесь покупать все их товары."
+msgstr "\"Ах, как жаль это слышать! Приятных путешествий\". Вы подозреваете, что это ловушка, но пират не выкидывает никаких фокусов. Видимо, быть хорошим клиентом Арджонна выгодно, даже если вы не собираетесь покупать все их товары."
 
 #: src-en/data/events_special_filler.xml.append:521
 msgid ""
@@ -449,7 +449,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_filler.xml.append:533
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/text"
-msgstr "\"Уважаемый клиент Аргеонн? Честное слово, заходите! У меня есть много, много специальных предложений по оружию, которые я хотел бы вам показать!\""
+msgstr "\"Уважаемый клиент Арджонн? Честное слово, заходите! У меня есть много, много специальных предложений по оружию, которые я хотел бы вам показать!\""
 
 #: src-en/data/events_special_filler.xml.append:535
 msgid ""
@@ -585,7 +585,7 @@ msgstr "Ничего не покупать."
 #: src-en/data/events_special_filler.xml.append:649
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[9]/event/text"
-msgstr "\"Ах, как жаль это слышать! Приятных путешествий\". Вы подозреваете, что это ловушка, но пират не выкидывает никаких фокусов. Видимо, быть хорошим клиентом Аргеонна выгодно, даже если вы не собираетесь покупать все их товары."
+msgstr "\"Ах, как жаль это слышать! Приятных путешествий\". Вы подозреваете, что это ловушка, но пират не выкидывает никаких фокусов. Видимо, быть хорошим клиентом Арджонна выгодно, даже если вы не собираетесь покупать все их товары."
 
 #: src-en/data/events_special_filler.xml.append:651
 msgid ""
@@ -720,7 +720,7 @@ msgstr "(Улучш. оружие) Сделать предупредительн
 #: src-en/data/events_special_filler.xml.append:771
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/text"
-msgstr "Сигнал бедствия исходит от гражданского корабля. Похоже, его преследуют контрабандисты Аргеонна."
+msgstr "Сигнал бедствия исходит от гражданского корабля. Похоже, его преследуют контрабандисты Арджонна."
 
 #: src-en/data/events_special_filler.xml.append:773
 msgid ""
