@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_abandonedxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -25,9 +25,7 @@ msgstr "Jeter un œil aux esclaves qu'ils proposent."
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_SLAVER_MOON\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod-"
 "append:event/text"
-msgstr ""
-"Les esclavagistes remarquent votre intérêt et vous proposent plusieurs "
-"offres."
+msgstr "Les esclavagistes remarquent votre intérêt et vous proposent plusieurs offres."
 
 #: src-en/data/events_sector_abandoned.xml.append:22
 msgid ""
@@ -97,8 +95,7 @@ msgstr "Attaquer les esclavagistes !"
 #: src-en/data/events_sector_abandoned.xml.append:85
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_COLONY_EXPLORE_SCANS\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Il semblerait que la colonie abritait un fugitif, mais il ne vous a pas vu."
+msgstr "Il semblerait que la colonie abritait un fugitif, mais il ne vous a pas vu."
 
 #: src-en/data/events_sector_abandoned.xml.append:87
 msgid ""
@@ -113,9 +110,7 @@ msgstr "Attaquer le Pirate."
 #: src-en/data/events_sector_abandoned.xml.append:114
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"QUEST_ABANDONED_RAID_WIN\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr ""
-"Contacter les pirates pour leur dire que la colonie est hors de danger "
-"Lanius."
+msgstr "Contacter les pirates pour leur dire que la colonie est hors de danger Lanius."
 
 #: src-en/data/events_sector_abandoned.xml.append:117
 msgid ""
