@@ -1,14 +1,22 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/piracy-is-poggers/dataevents_special_standardxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_standard.xml.append:13
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:selector"
-msgstr "你登入，却发现一帮海盗蜷缩在一个垃圾火堆周围，而一笼子的水晶人正绝望地看着。你一走近，海盗们就拔出了枪。\"你他妈是谁，表明身份！\""
+msgstr "你登入，却发现一帮海盗蜷缩在一个垃圾火堆周围，而一笼子的水晶人正绝望地看着。"
+"你一走近，海盗们就拔出了枪。\"你他妈是谁，表明身份！\""
 
 #: src-en/data/events_special_standard.xml.append:15
 msgid ""
@@ -48,7 +56,8 @@ msgstr "攻击海盗！"
 #: src-en/data/events_special_standard.xml.append:73
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_REFUELING_LIST\"]/mod:findWithChildLike/mod:selector"
-msgstr "看起来在攻击之后，平台被损坏了。你大概可以把剩下的燃料一扫而空，尽管海盗们不会高兴。"
+msgstr "看起来在攻击之后，平台被损坏了。你大概可以把剩下的燃料一扫而空，尽管海盗们不"
+"会高兴。"
 
 #: src-en/data/events_special_standard.xml.append:75
 msgid ""
