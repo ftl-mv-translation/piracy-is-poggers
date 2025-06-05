@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:43+0000\n"
+"PO-Revision-Date: 2025-06-05 07:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/piracy-is-poggers/dataevents_sector_asteroidxmlappend/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_asteroidxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -60,8 +59,7 @@ msgstr "联系吸虫族，告知他们工作已经完成。"
 #: src-en/data/events_sector_asteroid.xml.append:43
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/text"
-msgstr "\"太好了！共和国非常感谢你。只是...不要告诉任何人这件事。在整个星联的事情上，"
-"这个协议是有点非法的，但我真的没有精力去杀你。\""
+msgstr "\"太好了！共和国非常感谢你。只是...不要告诉任何人这件事。在整个星联的事情上，这个协议是有点非法的，但我真的没有精力去杀你。\""
 
 #: src-en/data/events_sector_asteroid.xml.append:46
 msgid ""
@@ -76,8 +74,7 @@ msgstr "将货物窃为己有。"
 #: src-en/data/events_sector_asteroid.xml.append:54
 msgid ""
 "data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/text"
-msgstr "你打开了货物，发现里面有一架无人机。你很满意并愿意背叛吸虫族，你抢到了它并准"
-"备离开。"
+msgstr "你打开了货物，发现里面有一架无人机。你很满意并愿意背叛吸虫族，你抢到了它并准备离开。"
 
 #: src-en/data/events_sector_asteroid.xml.append:57
 msgid ""
