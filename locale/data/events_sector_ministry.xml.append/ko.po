@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_sector_ministryxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_ministry.xml.append:22
 msgid ""
@@ -108,7 +115,8 @@ msgstr "계속..."
 #: src-en/data/events_sector_ministry.xml.append:164
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr "해적은 노예상이었던 것 같습니다. 그들은 당신의 도움에 감사하며 '일꾼'을 한명 공짜로 제공해줬습니다."
+msgstr "해적은 노예상이었던 것 같습니다. 그들은 당신의 도움에 감사하며 '일꾼'을 한명 "
+"공짜로 제공해줬습니다."
 
 #: src-en/data/events_sector_ministry.xml.append:166
 msgid ""
@@ -120,8 +128,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[2]/mod:selector"
 msgstr ""
-"해적들은 용병이었는데, 아이러니하게도 당신을 잡기 위해 반군에게 고용된 이들이었습니다. 어색한 침묵이 흐른 뒤 당신은 거래를 하였고 반군"
-" 함대에게 거짓말을 하겠다는 약속을 받아냈습니다."
+"해적들은 용병이었는데, 아이러니하게도 당신을 잡기 위해 반군에게 고용된 "
+"이들이었습니다. 어색한 침묵이 흐른 뒤 당신은 거래를 하였고 반군 함대에게 "
+"거짓말을 하겠다는 약속을 받아냈습니다."
 
 #: src-en/data/events_sector_ministry.xml.append:173
 msgid ""
@@ -133,8 +142,9 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[3]/mod:selector"
 msgstr ""
-"그 해적들은 밀수꾼이었습니다. 그들의 의뢰인들이 밀수를 밀고하여 체포되었다고 합니다. 그들은 이제 당신에게 구출되었으니, 원래의 고객 "
-"대신 당신에게 장비를 팔기로 합니다."
+"그 해적들은 밀수꾼이었습니다. 그들의 의뢰인들이 밀수를 밀고하여 체포되었다고 "
+"합니다. 그들은 이제 당신에게 구출되었으니, 원래의 고객 대신 당신에게 장비를 "
+"팔기로 합니다."
 
 #: src-en/data/events_sector_ministry.xml.append:183
 msgid ""
