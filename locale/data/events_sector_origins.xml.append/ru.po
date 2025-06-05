@@ -1,16 +1,20 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 07:50+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_originsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_origins.xml.append:19
 msgid ""
 "data/events_sector_origins.xml.append$//mod:findName[@name=\"CULTIST_PIRATES_BURN_RESCUE\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr ""
-"Ваш экипаж спешит на борт, чтобы попытаться спасти пиратов. К счастью, всем "
-"удается вернуться живыми, включая одного из выживших."
+msgstr "Ваш экипаж спешит на борт, чтобы попытаться спасти пиратов. К счастью, всем удается вернуться живыми, включая одного из выживших."
 
 #: src-en/data/events_sector_origins.xml.append:21
 msgid ""
@@ -21,11 +25,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_origins.xml.append:26
 msgid ""
 "data/events_sector_origins.xml.append$//mod:findName[@name=\"CULTIST_PIRATES_BURN_RESCUE\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
-"Ваш экипаж спешит на борт, чтобы попытаться спасти пиратов. Вскоре группа "
-"возвращается с одним из выживших, но один из членов вашего экипажа пропал "
-"без вести. Команда сообщает, что они попали в пламя и не все смогли "
-"выбраться живыми."
+msgstr "Ваш экипаж спешит на борт, чтобы попытаться спасти пиратов. Вскоре группа возвращается с одним из выживших, но один из членов вашего экипажа пропал без вести. Команда сообщает, что они попали в пламя и не все смогли выбраться живыми."
 
 #: src-en/data/events_sector_origins.xml.append:28
 msgid ""
