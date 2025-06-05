@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:43+0000\n"
+"PO-Revision-Date: 2025-06-05 07:16+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/"
-"dataevents_special_piracyxmlappend/de/>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -38,9 +37,7 @@ msgstr "Greift den Sklavenhändler an."
 #: src-en/data/events_special_piracy.xml.append:118
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[2]/event/text"
-msgstr ""
-"Sklavenhändler sind der Abschaum der Galaxis. Du wirst der Gerechtigkeit "
-"Genüge tun, wenn du ihn auslöscht."
+msgstr "Sklavenhändler sind der Abschaum der Galaxis. Du wirst der Gerechtigkeit Genüge tun, wenn du ihn auslöscht."
 
 #: src-en/data/events_special_piracy.xml.append:121
 msgid ""
@@ -50,9 +47,7 @@ msgstr "Fortfahren..."
 #: src-en/data/events_special_piracy.xml.append:127
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
-"(Upg. Teleporter) Benutze deinen Teleporter, um zu versuchen, das Schiff zu "
-"entern und einige der Sklaven zu befreien."
+msgstr "(Upg. Teleporter) Benutze deinen Teleporter, um zu versuchen, das Schiff zu entern und einige der Sklaven zu befreien."
 
 #: src-en/data/events_special_piracy.xml.append:131
 msgid ""
@@ -194,9 +189,7 @@ msgstr "Greift den Sklavenhändler an."
 #: src-en/data/events_special_piracy.xml.append:230
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr ""
-"Sklavenhändler sind der Abschaum der Galaxis. Du wirst der Gerechtigkeit "
-"Genüge tun, wenn du ihn auslöscht."
+msgstr "Sklavenhändler sind der Abschaum der Galaxis. Du wirst der Gerechtigkeit Genüge tun, wenn du ihn auslöscht."
 
 #: src-en/data/events_special_piracy.xml.append:233
 msgid ""
@@ -206,9 +199,7 @@ msgstr "Fortfahren..."
 #: src-en/data/events_special_piracy.xml.append:239
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
-"(Upg. Teleporter) Benutze deinen Teleporter, um zu versuchen, das Schiff zu "
-"entern und einige der Sklaven zu befreien."
+msgstr "(Upg. Teleporter) Benutze deinen Teleporter, um zu versuchen, das Schiff zu entern und einige der Sklaven zu befreien."
 
 #: src-en/data/events_special_piracy.xml.append:243
 msgid ""
@@ -350,8 +341,7 @@ msgstr "Kaufe einen Sklaven."
 #: src-en/data/events_special_piracy.xml.append:338
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[1]/event/text"
-msgstr ""
-"\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
+msgstr "\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
 
 #: src-en/data/events_special_piracy.xml.append:344
 msgid ""
@@ -366,8 +356,7 @@ msgstr "Kaufe einen Sklaven."
 #: src-en/data/events_special_piracy.xml.append:352
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[2]/event/text"
-msgstr ""
-"\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
+msgstr "\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
 
 #: src-en/data/events_special_piracy.xml.append:358
 msgid ""
@@ -2198,8 +2187,7 @@ msgstr "Kaufe einen Sklaven."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
-"\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
+msgstr "\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
 
 #: src-en/data/events_special_piracy.xml.append:2116
 msgid ""
@@ -2217,8 +2205,7 @@ msgstr "Kaufe einen Sklaven."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr ""
-"\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
+msgstr "\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
 
 #: src-en/data/events_special_piracy.xml.append:2130
 msgid ""
@@ -2583,9 +2570,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2419
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/text"
-msgstr ""
-"Der Söldner grinst und zählt die verschiedenen Dienstleistungen auf, die er "
-"anbieten kann."
+msgstr "Der Söldner grinst und zählt die verschiedenen Dienstleistungen auf, die er anbieten kann."
 
 #: src-en/data/events_special_piracy.xml.append:2421
 msgid ""
@@ -2600,9 +2585,7 @@ msgstr "Heuere die Söldner an, um die Rebellen zu verlangsamen."
 #: src-en/data/events_special_piracy.xml.append:2428
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[2]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2434
 msgid ""
@@ -2617,9 +2600,7 @@ msgstr "Beauftrage den Söldner mit der Erkundung des Sektors."
 #: src-en/data/events_special_piracy.xml.append:2442
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[3]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2448
 msgid ""
@@ -2634,9 +2615,7 @@ msgstr "Heuere die Söldner an, um die Rebellen zu verlangsamen."
 #: src-en/data/events_special_piracy.xml.append:2457
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[4]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2463
 msgid ""
@@ -2651,9 +2630,7 @@ msgstr "Beauftrage den Söldner mit der Erkundung des Sektors."
 #: src-en/data/events_special_piracy.xml.append:2471
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[5]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2477
 msgid ""
@@ -2668,9 +2645,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2486
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[@req=\"MERCENARY_REP_2_OFFER\"]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2493
 msgid ""
@@ -2706,9 +2681,7 @@ msgstr "Heuere die Söldner an, um die Rebellen zu verlangsamen."
 #: src-en/data/events_special_piracy.xml.append:2520
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[1]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2526
 msgid ""
@@ -2723,9 +2696,7 @@ msgstr "Beauftrage den Söldner mit der Erkundung des Sektors."
 #: src-en/data/events_special_piracy.xml.append:2534
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[2]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2540
 msgid ""
@@ -2740,9 +2711,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2548
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[3]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2555
 msgid ""
@@ -2836,9 +2805,7 @@ msgstr "Heuere die Söldner an, um die Rebellen zu verlangsamen."
 #: src-en/data/events_special_piracy.xml.append:2619
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[1]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2625
 msgid ""
@@ -2853,9 +2820,7 @@ msgstr "Beauftrage den Söldner mit der Erkundung des Sektors."
 #: src-en/data/events_special_piracy.xml.append:2633
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[2]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2639
 msgid ""
@@ -2870,9 +2835,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2647
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[3]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:2654
 msgid ""
@@ -3045,9 +3008,7 @@ msgstr "Heuere die Söldner an, um die Rebellen zu verlangsamen."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:3088
 msgid ""
@@ -3065,9 +3026,7 @@ msgstr "Beauftrage den Söldner mit der Erkundung des Sektors."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:3102
 msgid ""
@@ -3085,9 +3044,7 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[3]/event/text"
-msgstr ""
-"Als der Söldner den Schrott gezählt hat, nickt er zustimmend. "
-"\"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
+msgstr "Als der Söldner den Schrott gezählt hat, nickt er zustimmend. \"Du bist der Boss! Ich mache mich dann direkt auf den Weg...\""
 
 #: src-en/data/events_special_piracy.xml.append:3117
 msgid ""
@@ -3132,12 +3089,7 @@ msgstr "Greife den Schmuggler an."
 #: src-en/data/events_special_piracy.xml.append:3171
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SMUGGLER_FRIENDLY\"]/choice[2]/event/text"
-msgstr ""
-"Schmuggler sind in der Regel für ihre Militärgeschäfte bekannt, aber die "
-"Argeonn transportiert noch viel mehr. Wer weiß, welche Arten von schädlichen "
-"Gegenständen durch die Ladung dieses Schiffes in die Hände aller Arten von "
-"Übeltätern gelangt sind. Die einzige verantwortungsvolle Maßnahme ist es, "
-"diese Typen zur Strecke zu bringen."
+msgstr "Schmuggler sind in der Regel für ihre Militärgeschäfte bekannt, aber die Argeonn transportiert noch viel mehr. Wer weiß, welche Arten von schädlichen Gegenständen durch die Ladung dieses Schiffes in die Hände aller Arten von Übeltätern gelangt sind. Die einzige verantwortungsvolle Maßnahme ist es, diese Typen zur Strecke zu bringen."
 
 #: src-en/data/events_special_piracy.xml.append:3174
 msgid ""
@@ -3284,12 +3236,7 @@ msgstr "Greife den Schmuggler an."
 #: src-en/data/events_special_piracy.xml.append:3279
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr ""
-"Schmuggler sind in der Regel für ihre Militärgeschäfte bekannt, aber die "
-"Argeonn transportiert noch viel mehr. Wer weiß, welche Arten von schädlichen "
-"Gegenständen durch die Ladung dieses Schiffes in die Hände aller Arten von "
-"Übeltätern gelangt sind. Die einzige verantwortungsvolle Maßnahme ist es, "
-"diese Typen zur Strecke zu bringen."
+msgstr "Schmuggler sind in der Regel für ihre Militärgeschäfte bekannt, aber die Argeonn transportiert noch viel mehr. Wer weiß, welche Arten von schädlichen Gegenständen durch die Ladung dieses Schiffes in die Hände aller Arten von Übeltätern gelangt sind. Die einzige verantwortungsvolle Maßnahme ist es, diese Typen zur Strecke zu bringen."
 
 #: src-en/data/events_special_piracy.xml.append:3282
 msgid ""
@@ -3436,10 +3383,7 @@ msgstr "Kaufe eine Waffe."
 #: src-en/data/events_special_piracy.xml.append:3382
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[1]/event/text"
-msgstr ""
-"\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... "
-"versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht "
-"sehen.\""
+msgstr "\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht sehen.\""
 
 #: src-en/data/events_special_piracy.xml.append:3388
 msgid ""
@@ -3454,10 +3398,7 @@ msgstr "Kauf eine Drohne."
 #: src-en/data/events_special_piracy.xml.append:3396
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[2]/event/text"
-msgstr ""
-"\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... "
-"versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht "
-"sehen.\""
+msgstr "\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht sehen.\""
 
 #: src-en/data/events_special_piracy.xml.append:3402
 msgid ""
@@ -3472,10 +3413,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3410
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[@req=\"rep_comb_smuggler\"]/event/text"
-msgstr ""
-"\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... "
-"versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht "
-"sehen.\""
+msgstr "\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht sehen.\""
 
 #: src-en/data/events_special_piracy.xml.append:3416
 msgid ""
@@ -3490,10 +3428,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3424
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[@req=\"SMUGGLER_REP_2_OFFER\"]/event/text"
-msgstr ""
-"\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... "
-"versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht "
-"sehen.\""
+msgstr "\"Vielen Dank, dass du mir das abgenommen hast! Nur ein Ratschlag... versuche, dass die Behörden dich mit ihr für ein paar weitere Sprünge nicht sehen.\""
 
 #: src-en/data/events_special_piracy.xml.append:3430
 msgid ""
