@@ -1,9 +1,15 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 07:49+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_piracy.xml.append:4
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_INTRO\"]/text"
@@ -3087,9 +3093,7 @@ msgstr "밀수업자를 공격한다."
 #: src-en/data/events_special_piracy.xml.append:3171
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SMUGGLER_FRIENDLY\"]/choice[2]/event/text"
-msgstr ""
-"밀수꾼들은 주로 군수품을 취급한다고 알려져 있지만, 알게온의 수송선은 다른 물건들도 많이 실어 나릅니다. 어떤 종류의 유해품이 이 배의 "
-"화물칸을 통해 온갖 악인의 수중에 넘어갈지 알 방도가 없죠. 책임감 있는 행동은 이 자들을 쓰러뜨리는 것입니다."
+msgstr "밀수꾼들은 주로 군수품을 취급한다고 알려져 있지만, 알게온의 수송선은 다른 물건들도 많이 실어 나릅니다. 어떤 종류의 유해품이 이 배의 화물칸을 통해 온갖 악인의 수중에 넘어갈지 알 방도가 없죠. 책임감 있는 행동은 이 자들을 쓰러뜨리는 것입니다."
 
 #: src-en/data/events_special_piracy.xml.append:3174
 msgid ""
@@ -3236,9 +3240,7 @@ msgstr "밀수업자를 공격한다."
 #: src-en/data/events_special_piracy.xml.append:3279
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr ""
-"밀수꾼들은 주로 군수품을 취급한다고 알려져 있지만, 알게온의 수송선은 다른 물건들도 많이 실어 나릅니다. 어떤 종류의 유해품이 이 배의 "
-"화물칸을 통해 온갖 악인의 수중에 넘어갈지 알 방도가 없죠. 책임감 있는 행동은 이 자들을 쓰러뜨리는 것입니다."
+msgstr "밀수꾼들은 주로 군수품을 취급한다고 알려져 있지만, 알게온의 수송선은 다른 물건들도 많이 실어 나릅니다. 어떤 종류의 유해품이 이 배의 화물칸을 통해 온갖 악인의 수중에 넘어갈지 알 방도가 없죠. 책임감 있는 행동은 이 자들을 쓰러뜨리는 것입니다."
 
 #: src-en/data/events_special_piracy.xml.append:3282
 msgid ""
@@ -3385,9 +3387,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3382
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[1]/event/text"
-msgstr ""
-"\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 "
-"거야.\""
+msgstr "\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 거야.\""
 
 #: src-en/data/events_special_piracy.xml.append:3388
 msgid ""
@@ -3402,9 +3402,7 @@ msgstr "드론을 산다."
 #: src-en/data/events_special_piracy.xml.append:3396
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[2]/event/text"
-msgstr ""
-"\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 "
-"거야.\""
+msgstr "\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 거야.\""
 
 #: src-en/data/events_special_piracy.xml.append:3402
 msgid ""
@@ -3419,9 +3417,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3410
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[@req=\"rep_comb_smuggler\"]/event/text"
-msgstr ""
-"\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 "
-"거야.\""
+msgstr "\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 거야.\""
 
 #: src-en/data/events_special_piracy.xml.append:3416
 msgid ""
@@ -3436,9 +3432,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:3424
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[@req=\"SMUGGLER_REP_2_OFFER\"]/event/text"
-msgstr ""
-"\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 "
-"거야.\""
+msgstr "\"재고를 털어줘서 정말 고마워! 충고 하나 해주자면... 앞으로 몇 차례의 도약 동안은 당국이 그 물건을 보지 못하게 하는 게 좋을 거야.\""
 
 #: src-en/data/events_special_piracy.xml.append:3430
 msgid ""
