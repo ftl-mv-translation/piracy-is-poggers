@@ -49,7 +49,7 @@ msgstr "That offer is still unacceptable."
 #: src-en/data/events_sector_stargrove.xml.append:33
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr "Attack the mercenaries."
+msgstr "Attack the mercenary."
 
 #: src-en/data/events_sector_stargrove.xml.append:43
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr "Contact the smugglers."
+msgstr "Contact the smuggler."
 
 #: src-en/data/events_sector_stargrove.xml.append:57
 msgid ""
