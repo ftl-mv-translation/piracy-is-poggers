@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_sector_abandonedxmlappend/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_abandoned.xml.append:12
 msgid ""
@@ -20,8 +27,7 @@ msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_SLAVER_MOON\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod-"
 "append:event/text"
 msgstr ""
-"Der Sklaventreiber erkennt dein Interesse und bietet dir mehrere Angebote "
-"an."
+"Der Sklaventreiber erkennt dein Interesse und bietet dir mehrere Angebote an."
 
 #: src-en/data/events_sector_abandoned.xml.append:22
 msgid ""
@@ -33,7 +39,8 @@ msgstr "Kaufe einen Sklaven."
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_SLAVER_MOON\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod-"
 "append:event/choice[1]/event/text"
-msgstr "\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
+msgstr ""
+"\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
 
 #: src-en/data/events_sector_abandoned.xml.append:30
 msgid ""
@@ -51,7 +58,8 @@ msgstr "Kaufe einen Sklaven."
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_SLAVER_MOON\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod-"
 "append:event/choice[2]/event/text"
-msgstr "\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
+msgstr ""
+"\"Ein großartiger Kauf. Mögen sie dir gute Dienste leisten, Kapitän...\""
 
 #: src-en/data/events_sector_abandoned.xml.append:44
 msgid ""
@@ -92,8 +100,8 @@ msgstr "Greife die Sklaventreiber an!"
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_COLONY_EXPLORE_SCANS\"]/mod:findWithChildLike/mod:selector"
 msgstr ""
-"Es scheint so, dass ein Pirat auf der Flucht, sich in der Kolonie versteckt,"
-" wobei er dich noch nicht bemerkt hat."
+"Es scheint so, dass ein Pirat auf der Flucht, sich in der Kolonie versteckt, "
+"wobei er dich noch nicht bemerkt hat."
 
 #: src-en/data/events_sector_abandoned.xml.append:87
 msgid ""
