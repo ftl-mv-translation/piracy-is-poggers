@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"PO-Revision-Date: 2025-06-05 07:12+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/piracy-is-poggers/"
-"datablueprintsxmlappend/it/>\n"
+"Language-Team: Italian <https://weblate.hyperq.be/projects/piracy-is-poggers/datablueprintsxmlappend/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -38,9 +37,7 @@ msgstr "Blindatura S.E.U.R."
 
 #: src-en/data/blueprints.xml.append:28
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/desc"
-msgstr ""
-"Un set di blindature molto potente che combina tutti gli effetti di "
-"Blindatura rockman, ferormoni mantis e gel riparatore slugman."
+msgstr "Un set di blindature molto potente che combina tutti gli effetti di Blindatura rockman, ferormoni mantis e gel riparatore slugman."
 
 #: src-en/data/blueprints.xml.append:38
 msgid ""
