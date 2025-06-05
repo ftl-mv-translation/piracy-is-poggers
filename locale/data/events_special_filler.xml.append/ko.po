@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_special_fillerxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_filler.xml.append:15
 msgid ""
@@ -31,7 +38,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
 "append:choice/event/text"
-msgstr "당신은 약물을 보내고 상대방이 물건을 다 확인할 떄까지 기다렸습니다. \"제대로 온 것 같군... 아주 잘 했어.\""
+msgstr "당신은 약물을 보내고 상대방이 물건을 다 확인할 떄까지 기다렸습니다. "
+"\"제대로 온 것 같군... 아주 잘 했어.\""
 
 #: src-en/data/events_special_filler.xml.append:45
 msgid ""
@@ -42,7 +50,8 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:54
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_TRANSFER\"]/mod:findWithChildLike/mod:selector"
-msgstr "당신은 약물을 보내고 상대방이 물건을 다 확인할 떄까지 기다렸습니다. \"제대로 온 것 같군... 아주 잘 했어.\""
+msgstr "당신은 약물을 보내고 상대방이 물건을 다 확인할 떄까지 기다렸습니다. "
+"\"제대로 온 것 같군... 아주 잘 했어.\""
 
 #: src-en/data/events_special_filler.xml.append:56
 msgid ""
@@ -110,8 +119,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_MINER_SHOOT\"]/mod:findWithChildLike/mod:selector"
 msgstr ""
-"당신은 바위를 향해 몇 발 포격했고 바위는 부서지기 시작했습니다. 해적선은 방어막 제어실이 없었기 때문에 몇 발 맞고 말았지만 다행히도 "
-"탈출에 성공했습니다. 그들은 당신의 도움에 감사했습니다."
+"당신은 바위를 향해 몇 발 포격했고 바위는 부서지기 시작했습니다. 해적선은 "
+"방어막 제어실이 없었기 때문에 몇 발 맞고 말았지만 다행히도 탈출에 "
+"성공했습니다. 그들은 당신의 도움에 감사했습니다."
 
 #: src-en/data/events_special_filler.xml.append:170
 msgid ""
@@ -286,8 +296,10 @@ msgstr "아무것도 사지 않는다."
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[6]/event/text"
 msgstr ""
-"\"아, 유감스럽군요! 즐거운 여행 되세요.\" 그 자가 자기 조타실 돌아가자, 갑자기 폭발이 몇 번 일어나 당신의 함선을 뒤흔듭니다. "
-"해적선이 무기를 가동하고 있습니다! 당신은 웬 메시지를 수신했습니다. \"사람 시간을 낭비하면 못 쓰죠 이 양반아!\""
+"\"아, 유감스럽군요! 즐거운 여행 되세요.\" 그 자가 자기 조타실 돌아가자, "
+"갑자기 폭발이 몇 번 일어나 당신의 함선을 뒤흔듭니다. 해적선이 무기를 "
+"가동하고 있습니다! 당신은 웬 메시지를 수신했습니다. "
+"\"사람 시간을 낭비하면 못 쓰죠 이 양반아!\""
 
 #: src-en/data/events_special_filler.xml.append:387
 msgid ""
@@ -639,7 +651,8 @@ msgstr "끼어들지 않는다."
 #: src-en/data/events_special_filler.xml.append:709
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[3]/event/text"
-msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 조난 신호가 멈췄습니다."
+msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 "
+"조난 신호가 멈췄습니다."
 
 #: src-en/data/events_special_filler.xml.append:711
 msgid ""
@@ -699,7 +712,8 @@ msgstr "끼어들지 않는다."
 #: src-en/data/events_special_filler.xml.append:753
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[3]/event/text"
-msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 조난 신호가 멈췄습니다."
+msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 "
+"조난 신호가 멈췄습니다."
 
 #: src-en/data/events_special_filler.xml.append:755
 msgid ""
@@ -759,7 +773,8 @@ msgstr "끼어들지 않는다."
 #: src-en/data/events_special_filler.xml.append:797
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[3]/event/text"
-msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 조난 신호가 멈췄습니다."
+msgstr "그들은 전투를 하다 근거리 탐색 범위 밖으로 사라졌습니다. 그리고, 조금 뒤 "
+"조난 신호가 멈췄습니다."
 
 #: src-en/data/events_special_filler.xml.append:799
 msgid ""
@@ -779,7 +794,8 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:817
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[1]/text"
-msgstr "더 큰 위협(그리고 잠재적 보상)을 감지한 해적들은 당신과 교전하려 다가왔습니다."
+msgstr "더 큰 위협(그리고 잠재적 보상)을 감지한 해적들은 당신과 교전하려 "
+"다가왔습니다."
 
 #: src-en/data/events_special_filler.xml.append:820
 msgid ""
@@ -809,7 +825,8 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:846
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[1]/text"
-msgstr "더 큰 위협(그리고 잠재적 보상)을 감지한 해적들은 당신과 교전하려 다가왔습니다."
+msgstr "더 큰 위협(그리고 잠재적 보상)을 감지한 해적들은 당신과 교전하려 "
+"다가왔습니다."
 
 #: src-en/data/events_special_filler.xml.append:849
 msgid ""
@@ -830,8 +847,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/text"
 msgstr ""
-"당신이 구한 함선은 전투 중에 심각하게 손상됐습니다. 대부분의 선원은 가까운 정거장에 내려주겠다는 당신의 제안에 동의했습니다. 한 명은 "
-"당신과 합류하겠다고 합니다."
+"당신이 구한 함선은 전투 중에 심각하게 손상됐습니다. 대부분의 선원은 가까운 "
+"정거장에 내려주겠다는 당신의 제안에 동의했습니다. 한 명은 당신과 "
+"합류하겠다고 합니다."
 
 #: src-en/data/events_special_filler.xml.append:867
 msgid ""
@@ -866,7 +884,8 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:891
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[3]/text"
-msgstr "연방 선원들은 연합의 공격으로부터 살아남지 못한 것 같습니다. 당신은 함선의 잔해에서 가져갈 수 있는 것들을 챙겼습니다."
+msgstr "연방 선원들은 연합의 공격으로부터 살아남지 못한 것 같습니다. 당신은 함선의 "
+"잔해에서 가져갈 수 있는 것들을 챙겼습니다."
 
 #: src-en/data/events_special_filler.xml.append:894
 msgid ""
@@ -877,8 +896,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[4]/text"
 msgstr ""
-"그들이 응답합니다. \"제때 와주셔서 다행입니다. 당신이 아니었다면 우린 이미 죽은 목숨이었을 거에요. 저는 조선공인데, 당신이 저를 "
-"도운 것처럼 저도 당신을 돕고 싶습니다."
+"그들이 응답합니다. \"제때 와주셔서 다행입니다. 당신이 아니었다면 우린 이미 "
+"죽은 목숨이었을 거에요. 저는 조선공인데, 당신이 저를 도운 것처럼 저도 당신을 "
+"돕고 싶습니다."
 
 #: src-en/data/events_special_filler.xml.append:901
 msgid ""
@@ -898,7 +918,9 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:913
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[5]/text"
-msgstr "\"이 구역도 점점 연방의 식구들에게 위험한 곳이 되가네요. 감사의 표시로 제 선원들을 시켜 당신의 함선을 수리해드리겠습니다.\""
+msgstr ""
+"\"이 구역도 점점 연방의 식구들에게 위험한 곳이 되가네요. 감사의 표시로 제 선"
+"원들을 시켜 당신의 함선을 수리해드리겠습니다.\""
 
 #: src-en/data/events_special_filler.xml.append:916
 msgid ""
@@ -919,8 +941,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/text"
 msgstr ""
-"당신이 구한 함선은 전투 중에 심각하게 손상됐습니다. 대부분의 선원은 가까운 정거장에 내려주겠다는 당신의 제안에 동의했습니다. 한 명은 "
-"당신과 합류하겠다고 합니다."
+"당신이 구한 함선은 전투 중에 심각하게 손상됐습니다. 대부분의 선원은 가까운 "
+"정거장에 내려주겠다는 당신의 제안에 동의했습니다. 한 명은 당신과 "
+"합류하겠다고 합니다."
 
 #: src-en/data/events_special_filler.xml.append:933
 msgid ""
@@ -955,7 +978,8 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:957
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[3]/text"
-msgstr "연방 선원들은 연합의 공격으로부터 살아남지 못한 것 같습니다. 당신은 함선의 잔해에서 가져갈 수 있는 것들을 챙겼습니다."
+msgstr "연방 선원들은 연합의 공격으로부터 살아남지 못한 것 같습니다. 당신은 함선의 "
+"잔해에서 가져갈 수 있는 것들을 챙겼습니다."
 
 #: src-en/data/events_special_filler.xml.append:960
 msgid ""
@@ -966,8 +990,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[4]/text"
 msgstr ""
-"그들이 응답합니다. \"제때 와주셔서 다행입니다. 당신이 아니었다면 우린 이미 죽은 목숨이었을 거에요. 저는 조선공인데, 당신이 저를 "
-"도운 것처럼 저도 당신을 돕고 싶습니다."
+"그들이 응답합니다. \"제때 와주셔서 다행입니다. 당신이 아니었다면 우린 이미 "
+"죽은 목숨이었을 거에요. 저는 조선공인데, 당신이 저를 도운 것처럼 저도 당신을 "
+"돕고 싶습니다."
 
 #: src-en/data/events_special_filler.xml.append:967
 msgid ""
@@ -987,7 +1012,9 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:979
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[5]/text"
-msgstr "\"이 구역도 점점 연방의 식구들에게 위험한 곳이 되가네요. 감사의 표시로 제 선원들을 시켜 당신의 함선을 수리해드리겠습니다.\""
+msgstr ""
+"\"이 구역도 점점 연방의 식구들에게 위험한 곳이 되가네요. 감사의 표시로 제 선"
+"원들을 시켜 당신의 함선을 수리해드리겠습니다.\""
 
 #: src-en/data/events_special_filler.xml.append:982
 msgid ""
@@ -1008,8 +1035,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/text"
 msgstr ""
-"당신이 구한 함선은 전투 중에 심각하게 손상됐습니다. 대부분의 선원은 가까운 정거장에 내려주겠다는 당신의 제안에 동의했습니다. 한 명은 "
-"당신과 합류하겠다고 합니다."
+"당신이 구한 함선은 전투 중에 심각하게 손상됐습니다. 대부분의 선원은 가까운 "
+"정거장에 내려주겠다는 당신의 제안에 동의했습니다. 한 명은 당신과 "
+"합류하겠다고 합니다."
 
 #: src-en/data/events_special_filler.xml.append:999
 msgid ""
@@ -1044,7 +1072,8 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:1023
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[3]/text"
-msgstr "연방 선원들은 연합의 공격으로부터 살아남지 못한 것 같습니다. 당신은 함선의 잔해에서 가져갈 수 있는 것들을 챙겼습니다."
+msgstr "연방 선원들은 연합의 공격으로부터 살아남지 못한 것 같습니다. 당신은 함선의 "
+"잔해에서 가져갈 수 있는 것들을 챙겼습니다."
 
 #: src-en/data/events_special_filler.xml.append:1026
 msgid ""
@@ -1055,8 +1084,9 @@ msgstr "계속..."
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[4]/text"
 msgstr ""
-"그들이 응답합니다. \"제때 와주셔서 다행입니다. 당신이 아니었다면 우린 이미 죽은 목숨이었을 거에요. 저는 조선공인데, 당신이 저를 "
-"도운 것처럼 저도 당신을 돕고 싶습니다."
+"그들이 응답합니다. \"제때 와주셔서 다행입니다. 당신이 아니었다면 우린 이미 "
+"죽은 목숨이었을 거에요. 저는 조선공인데, 당신이 저를 도운 것처럼 저도 당신을 "
+"돕고 싶습니다."
 
 #: src-en/data/events_special_filler.xml.append:1033
 msgid ""
@@ -1076,7 +1106,9 @@ msgstr "계속..."
 #: src-en/data/events_special_filler.xml.append:1045
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[5]/text"
-msgstr "\"이 구역도 점점 연방의 식구들에게 위험한 곳이 되가네요. 감사의 표시로 제 선원들을 시켜 당신의 함선을 수리해드리겠습니다.\""
+msgstr ""
+"\"이 구역도 점점 연방의 식구들에게 위험한 곳이 되가네요. 감사의 표시로 제 선"
+"원들을 시켜 당신의 함선을 수리해드리겠습니다.\""
 
 #: src-en/data/events_special_filler.xml.append:1048
 msgid ""
