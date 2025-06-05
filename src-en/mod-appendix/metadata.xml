@@ -2,7 +2,7 @@
   <title><![CDATA[ Piracy is Poggers]]></title>
   <threadUrl><![CDATA[https://subsetgames.com/forum/viewtopic.php?f=11&t=38203&p=129173#p129173]]></threadUrl>
   <author><![CDATA[ TerryIsOP ]]></author>
-   <version><![CDATA[ 2.2.2 ]]></version>
+   <version><![CDATA[ 2.7.0 ]]></version>
   <description>
 <![CDATA[
 
@@ -17,13 +17,13 @@ Core Features:
 -You can gain (or lose) reputation from all relevant events from the base Multiverse game
 -Brand new pirate-themed events to weed out some generic filler events
 
-2.2.0 Major Features:
+2.7.0 Major Features:
 
--7 new pirate-themed events. Can be found in pirate sectors and The Black Market
--4 new augments
--You can obtain reroute coordinates to the Black Market if you gain 6 rep with a pirate faction
--Slight modifications to the Smuggler stores
--Some balance changes including buffs and nerfs
+- MV 5.5.1 compatibility
+- Couple of new blue options for new events
+- Minor balancing of reputation gain/decrease
+- Reworked defensive suits
+- Added 1 combat augment, can be found in smuggler stores. Also starts on Prototype B player ship
 
 
 Special Thanks to:
@@ -31,6 +31,8 @@ Special Thanks to:
 Chrono Vortex - Coding assistance
 
 Kommandant Julk - Coding assistance
+
+Choosechee - Coding assistance
 
 ]]>
   </description>

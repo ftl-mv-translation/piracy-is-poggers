@@ -377,7 +377,7 @@
     <mod:findLike type="choice">
       <mod:selector req="SMUGGLER_RAID_CARGO" blue="false"/>
       <mod:findLike type="event">
-        <mod-append:choice>
+		<mod-append:choice>
           <text>Continue...</text>
           <event load="REPUTATION_UPDATE_PIRATES_SMUGGLER"/>
         </mod-append:choice>
@@ -1089,7 +1089,7 @@
 	</event>
 
 	<event name="PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_FEDERATION_ELITE">
-		<text>You've arrived at the Argeonn station, which is currently under attack by an Elite Federation ship. However, as soon as they spot you they think you've come to assist the smugglers and attack! While they might be right in their assumptions, you wonder whether they even realise you're a Federation renegade as you power up the weapons reluctantly.</text>
+		<text>You've arrived at the Argeonn station, which is currently under attack by a Federation Unity vessel. However, as soon as they spot you they think you've come to assist the smugglers and attack! While they might be right in their assumptions, you wonder whether they even realise you're a Federation renegade as you power up the weapons reluctantly.</text>
 		<ship load="PIP_SHIP_PIRATE_HUB_SMUGGLER_FEDERATION_ELITE" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -1098,7 +1098,7 @@
 	</event>
 
 	<event name="PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ORCHID_ELITE">
-		<text>You've arrived at the Argeonn station, which to your surprise is under attack by an Orchid Chieftain ship. However, as soon as they spot you they think you've come to assist the smugglers and attack! While they might be right in their assumptions, you wonder why the Orchids have begun to attack pirate stations. Perhaps they're tightening their stance against piracy even more?</text>
+		<text>You've arrived at the Argeonn station, which to your surprise is under attack by a Gathering Praetor ship. However, as soon as they spot you they think you've come to assist the smugglers and attack! While they might be right in their assumptions, you wonder why the Orchids have begun to attack pirate stations. Perhaps they're tightening their stance against piracy even more?</text>
 		<ship load="PIP_SHIP_PIRATE_HUB_SMUGGLER_ORCHID_ELITE" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>

@@ -1,5 +1,5 @@
 <FTL>
-<!--Redundant for the time being as newEvents is pretty much unused in the new updates
+<!--Redundant for the time being as newEvents is pretty much unused in the new updates-->
 	<mod:findName type="eventList" name="NEUTRAL_CLONE"> <!--For exit events in a lot of sectors-->
 		<mod-append:event load="PIP_PIRATE_GUARD_CACHE"/>
 		<mod-append:event load="PIP_PIRATE_FACTION_ATTACK"/>
@@ -29,5 +29,5 @@
   <mod:findName type="eventList" name="QUESTS_EVENTS">
 	  <mod-append:event load="PIP_QUEST_PIRATE_HUB"/>
   </mod:findName>
-	-->
+
 </FTL>

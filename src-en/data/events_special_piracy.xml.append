@@ -3463,7 +3463,7 @@ You glance inquiringly at the transmitter, and the mercenary continues: "Now thi
 									<text>See what they're offering.</text>
 									<event load="PIP_SMUGGLER_SPECIAL_OFFERS"/>
 								</choice>
-								<choice hidden="true"> I might do something to improve QOL in terms of allowing the player to do either workshop or selling first instead of making workshop the forced first choice
+								<choice hidden="true"> <!--I might do something to improve QOL in terms of allowing the player to do either workshop or selling first instead of making workshop the forced first choice-->
 									<text>Sell them some advanced equipment.</text>
 									<event load="PIP_SMUGGLER_TECH_SELL"/>
 								</choice>
@@ -10321,7 +10321,7 @@ Based on insider information, Hunter has been digging up technology that even ou
         <loadEvent>MERCENARY_TARGETS_REWARDLIST_UNIQUE_2</loadEvent>
       </event>
     </choice>
-  </event>-->
+  </event>
 
   <!--TARGET REWARDS-->
 

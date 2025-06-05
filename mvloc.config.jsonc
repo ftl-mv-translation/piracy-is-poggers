@@ -4,6 +4,7 @@
         "data/autoBlueprints.xml.append",
         "data/blueprints.xml.append",
 
+		"data/events_sector_stargrove.xml.append",
         "data/events_sector_abandoned.xml.append",
         "data/events_sector_asteroid.xml.append",
         "data/events_sector_auto.xml.append",
@@ -90,9 +91,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/piracy-is-poggers/raw/piracy-is-poggers-english/Piracy_is_Poggers_2.7.0.zip",
+            "https://github.com/ftl-mv-translation/piracy-is-poggers/raw/piracy-is-poggers-english/Piracy_is_Poggers_2.7.1.zip",
         ],
         "prefix": "Piracy-is-Poggers",
-        "version": "2.7.0"
+        "version": "2.7.1"
     }
 }

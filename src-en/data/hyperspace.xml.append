@@ -45,7 +45,6 @@
     <variable name="loc_mercenary_targets_hunted" op="set" val="0"/>
 
     <variable name="loc_blackmarket" op="set" val="0"/>
-	<variable name="loc_nexus" op="set" val="0"/>
 	  
 	<variable name="coords_blackmarket" op="set" val="0"/>
 	<variable name="loc_gladiator_champion" op="set" val="0"/>
@@ -84,7 +83,7 @@
         <name>loc_merc_transmitter_use</name>
       </req>
       <req lvl="0" max_lvl="0">
-        <name>loc_nexus</name>
+        <name>loc_nexus_entered</name>
       </req>
     </req>
 
@@ -96,7 +95,7 @@
         <name>loc_merc_transmitter_use</name>
       </req>
       <req lvl="0" max_lvl="0">
-        <name>loc_nexus</name>
+        <name>loc_nexus_entered</name>
       </req>
     </req>
 
@@ -105,7 +104,7 @@
         <name>loc_merc_transmitter</name>
       </req>
       <req lvl="1" max_lvl="1">
-        <name>loc_nexus</name>
+        <name>loc_nexus_entered</name>
       </req>
     </req>
 

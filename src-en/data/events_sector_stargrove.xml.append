@@ -1,0 +1,79 @@
+<FTL>
+
+	<mod:findName type="event" name="STARGROVE_HIGHWAYMAN_INITIAL">
+		<mod-append:choice hidden="true" req="rep_pirate" lvl="2">
+			<text>(Pirate Rep 2+) Remind the Highwayman of your good reputation.</text>
+			<event>
+				<text>You inform the pirate that you've helped out pirates on multiple occasions.
+	
+				"Bah. you've done good things for some of my friends, it's true. You have my respect. In that case, I'll offer you my friends-only discount. Or would you prefer to do this the hard way?"</text>
+				<choice>
+					<text>Pay up.</text>
+					<event>
+						<text>The pirate collects his toll from you, with a slight frown. "Move along, Renegade. We have upgrades to perform."</text>
+						<item_modify>
+							<item type="scrap" min="-40" max="-40"/>
+						</item_modify>
+					</event>
+				</choice>
+				<choice req="loc_scrap" lvl="0" max_lvl="39" blue="false">
+					<text>We don't even have 40~. Could we make some other deal?</text>
+					<event load="STARGROVE_EXIT_RENEGOTIATE"/>
+				</choice>
+				<choice hidden="true">
+					<text>That offer is still unacceptable.</text>
+					<event load="STARGROVE_EXIT_RENEGOTIATION_FAILED"/>
+				</choice>
+			</event>
+		</mod-append:choice>
+	</mod:findName>
+
+	<mod:findName type="event" name="NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE">
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Attack the mercenary.</mod:selector>
+			<mod:findLike type="event">
+				<mod:findLike type="choice">
+					<mod:findLike type="event">
+						<mod:setAttributes load="REPUTATION_DECREASE_MERCENARY_COMBAT"/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findWithChildLike>
+		<mod:findWithChildLike type="choice" child-type="text">
+			<mod:selector>Avoid the pirates.</mod:selector>
+			<mod:removeTag/>
+		</mod:findWithChildLike>
+		<mod-append:choice req="rep_comb_merc" lvl="2">
+			<text>(Mercenary Rep 2+) Ask the mercenary to leave the smuggler alone.</text>
+			<event>
+				<text>The mercenary is initially hesitant to drop the chase, but eventually relents. "Pah, fine. I have no intention of pissing off a loyal customer as much as I want to kill these smug bastards, and we need to refuel anyways." They turn to face the smugglers. "Don't think this is over. As soon as we refuel and the Renegade is done with your services, we'll be right back on your tail." The mercenary jumps away.</text>
+				<choice hidden="true">
+					<text>Contact the smuggler.</text>
+					<event load="STARGROVE_SMUGGLER_STORE"/>
+				</choice>
+			</event>
+		</mod-append:choice>
+		<mod-append:choice>
+			<text>Avoid the pirates.</text>
+			<event>
+				<text>The two ships continue their dance through the stars as you prepare to leave.</text>
+				<choice>
+					<text>Do something onboard the ship.</text>
+					<event load="STORAGE_CHECK"/>
+				</choice>
+				<choice>
+					<text>Do nothing.</text>
+					<event/>
+				</choice>
+			</event>
+		</mod-append:choice>
+	</mod:findName>
+
+	<mod:findName type="event" name="STARGROVE_SMUGGLER_STORE">
+		<mod-append:choice hidden="true">
+			<text>Continue...</text>
+			<event load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+		</mod-append:choice>
+	</mod:findName>
+	
+</FTL>

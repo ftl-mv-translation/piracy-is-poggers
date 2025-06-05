@@ -12,4 +12,22 @@
 			</mod:findLike>
 		</mod:findLike>
 	</mod:findName>
+
+	<mod:findName type="eventList" name="FED_ARGEONN_THREATEN">
+		<mod:findWithChildLike type="event" child-type="text">
+			<mod:selector>The smuggler puts his hands up. "Okay, okay! Let's not get hasty! Surely a discerning Renegade like yourself would be amenable to an understanding. Perhaps you see something you like in my stock?"</mod:selector>
+			<mod:findWithChildLike type="choice" child-type="text">
+				<mod:selector>Purchase contraband at a discount.</mod:selector>
+				<mod:findLike type="event">
+					<mod:findLike type="choice">
+						<mod:findLike type="event">
+							<mod:setAttributes load="REPUTATION_UPDATE_SMUGGLING_FREE"/>
+						</mod:findLike>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findWithChildLike>
+		</mod:findWithChildLike>
+	</mod:findName>
+	
+	
 </FTL>

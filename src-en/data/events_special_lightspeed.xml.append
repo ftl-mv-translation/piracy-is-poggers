@@ -2,9 +2,6 @@
   <mod:findName type="event" name="ATLAS_MENU">
     <mod-append:variable name="loc_merc_transmitter_use" op="set" val="0"/>
   </mod:findName>
-  <mod:findName type="event" name="NEXUS_WARP">
-    <mod-append:variable name="loc_nexus" op="set" val="1"/>
-  </mod:findName>
 	
   <mod:findName type="event" name="ATLAS_EQUIPMENT">
     <mod:findWithChildLike type="choice" child-type="text">

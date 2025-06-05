@@ -83,7 +83,7 @@ By purchasing mercenary services, or defending mercenaries, you have improved yo
 
 <!--Smugglers-->
 	
-<!--_FREE version already exists in base MV-->
+<!--FREE version already exists in base MV-->
 	
 	<event name="REPUTATION_UPDATE_SMUGGLING_DOUBLE_FREE">
 		<text>[REPUTATION INCREASED - SMUGGLERS]
