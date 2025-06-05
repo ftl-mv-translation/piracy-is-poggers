@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/piracy-is-poggers/dataevents_sector_duskbringerxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_duskbringer.xml.append:11
 msgid ""
@@ -108,7 +115,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_duskbringer.xml.append:97
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING_CONTACT\"]/mod:findWithChildLike/mod:selector"
-msgstr "令人惊讶的是，当你靠近时，没有一个海盗移动。其中一人向你打招呼，要求你明确意图。"
+msgstr "令人惊讶的是，当你靠近时，没有一个海盗移动。其中一人向你打招呼，要求你明确意"
+"图。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:99
 msgid ""
