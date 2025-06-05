@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:11+0000\n"
+"PO-Revision-Date: 2025-06-05 07:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_lightspeedxmlappend/pt_BR/>\n"
 "Language: pt_BR\n"
