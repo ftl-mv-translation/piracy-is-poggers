@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"PO-Revision-Date: 2025-06-05 07:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/"
-"dataevents_sector_outcastxmlappend/ko/>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_outcastxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -87,8 +86,7 @@ msgstr "아무것도 사지 않는다."
 #: src-en/data/events_sector_outcast.xml.append:100
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT_TELEPORT\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr "당신의 선원은 수용소에 잠입해 그곳의 노예 여러 명을 풀어 주는 데 "
-"성공했습니다."
+msgstr "당신의 선원은 수용소에 잠입해 그곳의 노예 여러 명을 풀어 주는 데 성공했습니다."
 
 #: src-en/data/events_sector_outcast.xml.append:104
 msgid ""
@@ -99,11 +97,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_outcast.xml.append:111
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT_TELEPORT\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
-"당신의 선원은 수용소에 잠입해 그곳의 노예 여러 명을 풀어 주는 데 "
-"성공했습니다. 그러나, 함선으로 복귀하는 과정에서 노예상들에게 꼬리를 "
-"밟혔습니다! 노예상들은 발포를 시작했고 노예 여러 명이 죽지만, 당신은 당신의 "
-"선원이 함선으로 살아 돌아올 때까지 노예상들을 떨어뜨려 놓는 데 성공했습니다."
+msgstr "당신의 선원은 수용소에 잠입해 그곳의 노예 여러 명을 풀어 주는 데 성공했습니다. 그러나, 함선으로 복귀하는 과정에서 노예상들에게 꼬리를 밟혔습니다! 노예상들은 발포를 시작했고 노예 여러 명이 죽지만, 당신은 당신의 선원이 함선으로 살아 돌아올 때까지 노예상들을 떨어뜨려 놓는 데 성공했습니다."
 
 #: src-en/data/events_sector_outcast.xml.append:113
 msgid ""
