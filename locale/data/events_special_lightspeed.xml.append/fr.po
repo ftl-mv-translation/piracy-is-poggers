@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_lightspeedxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -150,9 +150,7 @@ msgstr "Confirmer le saut."
 #: src-en/data/events_special_lightspeed.xml.append:119
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/event/text"
-msgstr ""
-"Vous vous préparez à sauter vers les nouvelles coordonnées et changez votre "
-"plan de vol par conséquent."
+msgstr "Vous vous préparez à sauter vers les nouvelles coordonnées et changez votre plan de vol par conséquent."
 
 #: src-en/data/events_special_lightspeed.xml.append:123
 msgid ""
@@ -172,9 +170,7 @@ msgstr "Confirmer le saut."
 #: src-en/data/events_special_lightspeed.xml.append:141
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/event/text"
-msgstr ""
-"Vous vous préparez à sauter vers les nouvelles coordonnées et changez votre "
-"plan de vol par conséquent."
+msgstr "Vous vous préparez à sauter vers les nouvelles coordonnées et changez votre plan de vol par conséquent."
 
 #: src-en/data/events_special_lightspeed.xml.append:146
 msgid ""
