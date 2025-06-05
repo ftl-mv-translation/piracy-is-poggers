@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"PO-Revision-Date: 2025-06-05 07:11+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/piracy-is-poggers/"
-"dataevents_sector_droppointxmlappend/es/>\n"
+"Language-Team: Spanish <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_droppointxmlappend/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -69,10 +68,7 @@ msgstr "Continuar..."
 #: src-en/data/events_sector_droppoint.xml.append:91
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_TRAPPED_MINER_SHOOT\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Disparas algunos proyectiles contra la roca y empieza a resquebrajarse y "
-"romperse. Al no disponer de escudos, la nave pirata sufre un castigo "
-"intenso, pero al final termina liberándose. Te dan las gracias por tu ayuda."
+msgstr "Disparas algunos proyectiles contra la roca y empieza a resquebrajarse y romperse. Al no disponer de escudos, la nave pirata sufre un castigo intenso, pero al final termina liberándose. Te dan las gracias por tu ayuda."
 
 #: src-en/data/events_sector_droppoint.xml.append:93
 msgid ""
