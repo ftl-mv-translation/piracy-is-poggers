@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_fillerxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -37,9 +37,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
 "append:choice/event/text"
-msgstr ""
-"Vous lui remettez les narcotiques et attendez que l'autre vaisseau les "
-"examine. \"Tout semble en ordre... travail bien fait.\""
+msgstr "Vous lui remettez les narcotiques et attendez que l'autre vaisseau les examine. \"Tout semble en ordre... travail bien fait.\""
 
 #: src-en/data/events_special_filler.xml.append:45
 msgid ""
@@ -50,9 +48,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:54
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_TRANSFER\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Vous lui remettez les narcotiques et attendez que l'autre vaisseau les "
-"examine. \"Tout semble en ordre... travail bien fait.\""
+msgstr "Vous lui remettez les narcotiques et attendez que l'autre vaisseau les examine. \"Tout semble en ordre... travail bien fait.\""
 
 #: src-en/data/events_special_filler.xml.append:56
 msgid ""
@@ -118,10 +114,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:168
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_MINER_SHOOT\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
-"Vous tirez quelques volées dans l'astéroïde et celui-ci commence à se "
-"briser. Sans boucliers, le vaisseau pirate prends une raclée mais arrive "
-"éventuellement à se libérer. Ils vous remercient pour votre aide."
+msgstr "Vous tirez quelques volées dans l'astéroïde et celui-ci commence à se briser. Sans boucliers, le vaisseau pirate prends une raclée mais arrive éventuellement à se libérer. Ils vous remercient pour votre aide."
 
 #: src-en/data/events_special_filler.xml.append:170
 msgid ""
@@ -295,11 +288,7 @@ msgstr "Ne rien acheter."
 #: src-en/data/events_special_filler.xml.append:384
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[6]/event/text"
-msgstr ""
-"\"Ah, je suis désolé d'entendre ça ! Ayez un agréable voyage.\" De retour "
-"aux commandes, une série d'explosion perturbent votre vaisseaux. Le vaisseau "
-"pirate a activé ses armes ! Vous recevez un message, "
-"\"Évitez de faire perdre du temps aux gens, Capitaine !\""
+msgstr "\"Ah, je suis désolé d'entendre ça ! Ayez un agréable voyage.\" De retour aux commandes, une série d'explosion perturbent votre vaisseaux. Le vaisseau pirate a activé ses armes ! Vous recevez un message, \"Évitez de faire perdre du temps aux gens, Capitaine !\""
 
 #: src-en/data/events_special_filler.xml.append:387
 msgid ""
@@ -651,9 +640,7 @@ msgstr "Rester en-dehors de ça."
 #: src-en/data/events_special_filler.xml.append:709
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[3]/event/text"
-msgstr ""
-"Les deux vaisseaux finissent par sortir du champ de détection de vos "
-"scanners. Au bout d'un moment, les appels de détresse cessent."
+msgstr "Les deux vaisseaux finissent par sortir du champ de détection de vos scanners. Au bout d'un moment, les appels de détresse cessent."
 
 #: src-en/data/events_special_filler.xml.append:711
 msgid ""
@@ -713,9 +700,7 @@ msgstr "Rester en-dehors de ça."
 #: src-en/data/events_special_filler.xml.append:753
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[3]/event/text"
-msgstr ""
-"Les deux vaisseaux finissent par sortir du champ de détection de vos "
-"scanners. Au bout d'un moment, les appels de détresse cessent."
+msgstr "Les deux vaisseaux finissent par sortir du champ de détection de vos scanners. Au bout d'un moment, les appels de détresse cessent."
 
 #: src-en/data/events_special_filler.xml.append:755
 msgid ""
@@ -775,9 +760,7 @@ msgstr "Rester en-dehors de ça."
 #: src-en/data/events_special_filler.xml.append:797
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[3]/event/text"
-msgstr ""
-"Les deux vaisseaux finissent par sortir du champ de détection de vos "
-"scanners. Au bout d'un moment, les appels de détresse cessent."
+msgstr "Les deux vaisseaux finissent par sortir du champ de détection de vos scanners. Au bout d'un moment, les appels de détresse cessent."
 
 #: src-en/data/events_special_filler.xml.append:799
 msgid ""
@@ -847,10 +830,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:865
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/text"
-msgstr ""
-"Le vaisseau que vous avez sauvé a été gravement endommagé au cours du "
-"combat. La plupart de ses membres d'équipage acceptent votre offre de les "
-"déposer à une station proche, mais l'un d'eux souhaiterait vous rejoindre."
+msgstr "Le vaisseau que vous avez sauvé a été gravement endommagé au cours du combat. La plupart de ses membres d'équipage acceptent votre offre de les déposer à une station proche, mais l'un d'eux souhaiterait vous rejoindre."
 
 #: src-en/data/events_special_filler.xml.append:867
 msgid ""
@@ -885,9 +865,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:891
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[3]/text"
-msgstr ""
-"Apparemment, l'équipage du vaisseau n'a pas survécu au combat. Vous "
-"récupérez ce que vous pouvez parmi les débris."
+msgstr "Apparemment, l'équipage du vaisseau n'a pas survécu au combat. Vous récupérez ce que vous pouvez parmi les débris."
 
 #: src-en/data/events_special_filler.xml.append:894
 msgid ""
@@ -897,10 +875,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:899
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[4]/text"
-msgstr ""
-"Ils répondent : \"Heureusement que vous êtes venu quand vous l'avez fait, "
-"sinon nous serions morts. Je suis constructeur de vaisseau et j'aimerais "
-"vous aider comme vous m'avez aidé.\""
+msgstr "Ils répondent : \"Heureusement que vous êtes venu quand vous l'avez fait, sinon nous serions morts. Je suis constructeur de vaisseau et j'aimerais vous aider comme vous m'avez aidé.\""
 
 #: src-en/data/events_special_filler.xml.append:901
 msgid ""
@@ -920,10 +895,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:913
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[5]/text"
-msgstr ""
-"\"Ce secteur est de plus en plus dangereux pour les amis de la Fédération. "
-"Mon équipage devrait pouvoir réparer une partie des dégâts subis par votre "
-"coque en guise de remerciement.\""
+msgstr "\"Ce secteur est de plus en plus dangereux pour les amis de la Fédération. Mon équipage devrait pouvoir réparer une partie des dégâts subis par votre coque en guise de remerciement.\""
 
 #: src-en/data/events_special_filler.xml.append:916
 msgid ""
@@ -943,10 +915,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:931
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/text"
-msgstr ""
-"Le vaisseau que vous avez sauvé a été gravement endommagé au cours du "
-"combat. La plupart de ses membres d'équipage acceptent votre offre de les "
-"déposer à une station proche, mais l'un d'eux souhaiterait vous rejoindre."
+msgstr "Le vaisseau que vous avez sauvé a été gravement endommagé au cours du combat. La plupart de ses membres d'équipage acceptent votre offre de les déposer à une station proche, mais l'un d'eux souhaiterait vous rejoindre."
 
 #: src-en/data/events_special_filler.xml.append:933
 msgid ""
@@ -981,9 +950,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:957
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[3]/text"
-msgstr ""
-"Apparemment, l'équipage du vaisseau n'a pas survécu au combat. Vous "
-"récupérez ce que vous pouvez parmi les débris."
+msgstr "Apparemment, l'équipage du vaisseau n'a pas survécu au combat. Vous récupérez ce que vous pouvez parmi les débris."
 
 #: src-en/data/events_special_filler.xml.append:960
 msgid ""
@@ -993,10 +960,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:965
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[4]/text"
-msgstr ""
-"Ils répondent : \"Heureusement que vous êtes venu quand vous l'avez fait, "
-"sinon nous serions morts. Je suis constructeur de vaisseau et j'aimerais "
-"vous aider comme vous m'avez aidé.\""
+msgstr "Ils répondent : \"Heureusement que vous êtes venu quand vous l'avez fait, sinon nous serions morts. Je suis constructeur de vaisseau et j'aimerais vous aider comme vous m'avez aidé.\""
 
 #: src-en/data/events_special_filler.xml.append:967
 msgid ""
@@ -1016,10 +980,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:979
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[5]/text"
-msgstr ""
-"\"Ce secteur est de plus en plus dangereux pour les amis de la Fédération. "
-"Mon équipage devrait pouvoir réparer une partie des dégâts subis par votre "
-"coque en guise de remerciement.\""
+msgstr "\"Ce secteur est de plus en plus dangereux pour les amis de la Fédération. Mon équipage devrait pouvoir réparer une partie des dégâts subis par votre coque en guise de remerciement.\""
 
 #: src-en/data/events_special_filler.xml.append:982
 msgid ""
@@ -1039,10 +1000,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:997
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/text"
-msgstr ""
-"Le vaisseau que vous avez sauvé a été gravement endommagé au cours du "
-"combat. La plupart de ses membres d'équipage acceptent votre offre de les "
-"déposer à une station proche, mais l'un d'eux souhaiterait vous rejoindre."
+msgstr "Le vaisseau que vous avez sauvé a été gravement endommagé au cours du combat. La plupart de ses membres d'équipage acceptent votre offre de les déposer à une station proche, mais l'un d'eux souhaiterait vous rejoindre."
 
 #: src-en/data/events_special_filler.xml.append:999
 msgid ""
@@ -1077,9 +1035,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:1023
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[3]/text"
-msgstr ""
-"Apparemment, l'équipage du vaisseau n'a pas survécu au combat. Vous "
-"récupérez ce que vous pouvez parmi les débris."
+msgstr "Apparemment, l'équipage du vaisseau n'a pas survécu au combat. Vous récupérez ce que vous pouvez parmi les débris."
 
 #: src-en/data/events_special_filler.xml.append:1026
 msgid ""
@@ -1089,10 +1045,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:1031
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[4]/text"
-msgstr ""
-"Ils répondent : \"Heureusement que vous êtes venu quand vous l'avez fait, "
-"sinon nous serions morts. Je suis constructeur de vaisseau et j'aimerais "
-"vous aider comme vous m'avez aidé.\""
+msgstr "Ils répondent : \"Heureusement que vous êtes venu quand vous l'avez fait, sinon nous serions morts. Je suis constructeur de vaisseau et j'aimerais vous aider comme vous m'avez aidé.\""
 
 #: src-en/data/events_special_filler.xml.append:1033
 msgid ""
@@ -1112,10 +1065,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_filler.xml.append:1045
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[5]/text"
-msgstr ""
-"\"Ce secteur est de plus en plus dangereux pour les amis de la Fédération. "
-"Mon équipage devrait pouvoir réparer une partie des dégâts subis par votre "
-"coque en guise de remerciement.\""
+msgstr "\"Ce secteur est de plus en plus dangereux pour les amis de la Fédération. Mon équipage devrait pouvoir réparer une partie des dégâts subis par votre coque en guise de remerciement.\""
 
 #: src-en/data/events_special_filler.xml.append:1048
 msgid ""
