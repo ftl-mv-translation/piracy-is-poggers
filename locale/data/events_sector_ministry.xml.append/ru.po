@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_ministryxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -114,9 +114,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ministry.xml.append:164
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr ""
-"Оказывается, пираты оказались работорговцами. Благодарные за помощь, они "
-"предлагают вам бесплатно одного из своих \"работников\"."
+msgstr "Оказывается, пираты оказались работорговцами. Благодарные за помощь, они предлагают вам бесплатно одного из своих \"работников\"."
 
 #: src-en/data/events_sector_ministry.xml.append:166
 msgid ""
@@ -127,10 +125,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ministry.xml.append:171
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
-"Пираты оказываются наемниками, по иронии судьбы нанятыми для охоты на вас "
-"повстанцами. После неловкого молчания вы договариваетесь о сделке, и они "
-"обещают солгать флоту."
+msgstr "Пираты оказываются наемниками, по иронии судьбы нанятыми для охоты на вас повстанцами. После неловкого молчания вы договариваетесь о сделке, и они обещают солгать флоту."
 
 #: src-en/data/events_sector_ministry.xml.append:173
 msgid ""
@@ -141,10 +136,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ministry.xml.append:178
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[3]/mod:selector"
-msgstr ""
-"Пираты оказываются контрабандистами. Они объясняют, что их клиент настучал "
-"на них, что привело к их аресту. Теперь, когда вы их спасли, они предлагают "
-"продать его вам."
+msgstr "Пираты оказываются контрабандистами. Они объясняют, что их клиент настучал на них, что привело к их аресту. Теперь, когда вы их спасли, они предлагают продать его вам."
 
 #: src-en/data/events_sector_ministry.xml.append:183
 msgid ""
