@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_special_fillerxmlappend/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_filler.xml.append:15
 msgid ""
@@ -289,8 +296,8 @@ msgid ""
 msgstr ""
 "\"Oh, das ist aber schade! Gute Reise noch.\" Als du wieder auf der Brücke "
 "bist, wird dein Schiff von Explosionen erschüttert. Die Piraten haben ihre "
-"Waffen aktiviert! Dann erhältst du eine Nachricht: \"Sie sollten nicht die "
-"Zeit anderer Leute verschwenden, Kapitän!\""
+"Waffen aktiviert! Dann erhältst du eine Nachricht: "
+"\"Sie sollten nicht die Zeit anderer Leute verschwenden, Kapitän!\""
 
 #: src-en/data/events_special_filler.xml.append:387
 msgid ""
@@ -789,8 +796,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[1]/text"
 msgstr ""
-"Da es eine größere Bedrohung (und möglicherweise Beute) entdeckt, wendet das"
-" Piratenschiff und greift dich an."
+"Da es eine größere Bedrohung (und möglicherweise Beute) entdeckt, wendet das "
+"Piratenschiff und greift dich an."
 
 #: src-en/data/events_special_filler.xml.append:820
 msgid ""
@@ -821,8 +828,8 @@ msgstr "Fortfahren..."
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[1]/text"
 msgstr ""
-"Da es eine größere Bedrohung (und möglicherweise Beute) entdeckt, wendet das"
-" Piratenschiff und greift dich an."
+"Da es eine größere Bedrohung (und möglicherweise Beute) entdeckt, wendet das "
+"Piratenschiff und greift dich an."
 
 #: src-en/data/events_special_filler.xml.append:849
 msgid ""
