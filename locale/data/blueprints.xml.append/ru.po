@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -44,9 +44,7 @@ msgstr "Обшивка ЭЭРЕ"
 
 #: src-en/data/blueprints.xml.append:28
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/desc"
-msgstr ""
-"Очень крепкая обшивка, которая сочетает в себе эффекты Обшивки валунов, "
-"Феромонов богомолов и Ремонтного геля слизней."
+msgstr "Очень крепкая обшивка, которая сочетает в себе эффекты Обшивки валунов, Феромонов богомолов и Ремонтного геля слизней."
 
 #: src-en/data/blueprints.xml.append:38
 msgid ""
