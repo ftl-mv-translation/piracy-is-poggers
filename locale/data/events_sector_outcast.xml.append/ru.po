@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_outcastxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -86,9 +86,7 @@ msgstr "Ничего не покупать."
 #: src-en/data/events_sector_outcast.xml.append:100
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT_TELEPORT\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr ""
-"Ваш член экипажа ворвался в лагерь и сумел освободить нескольких "
-"содержащихся там рабов."
+msgstr "Ваш член экипажа ворвался в лагерь и сумел освободить нескольких содержащихся там рабов."
 
 #: src-en/data/events_sector_outcast.xml.append:104
 msgid ""
@@ -99,12 +97,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_outcast.xml.append:111
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT_TELEPORT\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
-"Ваш член экипажа проникает в лагерь и сумел освободить нескольких "
-"содержащихся там рабов. Однако на обратном пути к кораблю работорговцы "
-"настигают их и открывают огонь! В результате схватки несколько рабов "
-"погибают, но вам удается отогнать работорговцев достаточно далеко, чтобы "
-"член экипажа вернулся на корабль и остался жив."
+msgstr "Ваш член экипажа проникает в лагерь и сумел освободить нескольких содержащихся там рабов. Однако на обратном пути к кораблю работорговцы настигают их и открывают огонь! В результате схватки несколько рабов погибают, но вам удается отогнать работорговцев достаточно далеко, чтобы член экипажа вернулся на корабль и остался жив."
 
 #: src-en/data/events_sector_outcast.xml.append:113
 msgid ""
