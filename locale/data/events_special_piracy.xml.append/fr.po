@@ -1,15 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:16+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_piracy.xml.append:4
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_INTRO\"]/text"
@@ -37,7 +31,9 @@ msgstr "Attaquer l'esclavagiste."
 #: src-en/data/events_special_piracy.xml.append:118
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[2]/event/text"
-msgstr "Les esclavagistes sont la lie de la galaxie. Vous ferez preuve d'une grande justice en éliminant celui-ci."
+msgstr ""
+"Les esclavagistes sont la lie de la galaxie. Vous ferez preuve d'une grande "
+"justice en éliminant celui-ci."
 
 #: src-en/data/events_special_piracy.xml.append:121
 msgid ""
@@ -47,7 +43,9 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:127
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SLAVER_FRIENDLY\"]/choice[@req=\"teleporter\"]/text"
-msgstr "(Téléporteur amélioré.) Utilisez votre téléporteur pour tenter de monter à bord du vaisseau et libérer certains des esclaves."
+msgstr ""
+"(Téléporteur amélioré.) Utilisez votre téléporteur pour tenter de monter à "
+"bord du vaisseau et libérer certains des esclaves."
 
 #: src-en/data/events_special_piracy.xml.append:131
 msgid ""
@@ -189,7 +187,9 @@ msgstr "Attaquer l'esclavagiste."
 #: src-en/data/events_special_piracy.xml.append:230
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr "Les esclavagistes sont la lie de la galaxie. Vous ferez preuve d'une grande justice en éliminant celui-ci."
+msgstr ""
+"Les esclavagistes sont la lie de la galaxie. Vous ferez preuve d'une grande "
+"justice en éliminant celui-ci."
 
 #: src-en/data/events_special_piracy.xml.append:233
 msgid ""
@@ -199,7 +199,9 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:239
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_FRIENDLY_START\"]/choice[@req=\"teleporter\"]/text"
-msgstr "(Téléporteur amélioré.) Utilisez votre téléporteur pour tenter de monter à bord du vaisseau et libérer certains des esclaves."
+msgstr ""
+"(Téléporteur amélioré.) Utilisez votre téléporteur pour tenter de monter à "
+"bord du vaisseau et libérer certains des esclaves."
 
 #: src-en/data/events_special_piracy.xml.append:243
 msgid ""
@@ -386,7 +388,10 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:380
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[@req=\"SLAVER_REP_2_OFFER\"]/event/text"
-msgstr "\"Ah, je vois que vous n'avez d'yeux que pour les esclaves de la plus haute qualité, capitaine. Celui-ci est l'un des meilleurs esclaves que nous ayons jamais gardés. Qu'ils vous servent bien, capitaine...\""
+msgstr ""
+"\"Ah, je vois que vous n'avez d'yeux que pour les esclaves de la plus haute "
+"qualité, capitaine. Celui-ci est l'un des meilleurs esclaves que nous ayons "
+"jamais gardés. Qu'ils vous servent bien, capitaine...\""
 
 #: src-en/data/events_special_piracy.xml.append:386
 msgid ""
@@ -2242,7 +2247,10 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"SLAVER_CHOICE\"]/mod-"
 "append:choice/event/choice[4]/event/text"
-msgstr "\"Ah, je vois que vous n'avez d'yeux que pour les esclaves de la plus haute qualité, capitaine. Celui-ci est l'un des meilleurs esclaves que nous ayons jamais gardés. Qu'ils vous servent bien, capitaine...\""
+msgstr ""
+"\"Ah, je vois que vous n'avez d'yeux que pour les esclaves de la plus haute "
+"qualité, capitaine. Celui-ci est l'un des meilleurs esclaves que nous ayons "
+"jamais gardés. Qu'ils vous servent bien, capitaine...\""
 
 #: src-en/data/events_special_piracy.xml.append:2158
 msgid ""
@@ -2571,7 +2579,8 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2419
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/text"
-msgstr "Le mercenaire sourit et énumère les différents services qu'il peut offrir."
+msgstr ""
+"Le mercenaire sourit et énumère les différents services qu'il peut offrir."
 
 #: src-en/data/events_special_piracy.xml.append:2421
 msgid ""
@@ -2586,7 +2595,10 @@ msgstr "Engagez le mercenaire pour retarder les rebelles."
 #: src-en/data/events_special_piracy.xml.append:2428
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[2]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2434
 msgid ""
@@ -2601,7 +2613,10 @@ msgstr "Engagez le mercenaire pour explorer le secteur."
 #: src-en/data/events_special_piracy.xml.append:2442
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[3]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2448
 msgid ""
@@ -2616,7 +2631,10 @@ msgstr "Engagez le mercenaire pour retarder les rebelles."
 #: src-en/data/events_special_piracy.xml.append:2457
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[4]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2463
 msgid ""
@@ -2631,7 +2649,10 @@ msgstr "Engagez le mercenaire pour explorer le secteur."
 #: src-en/data/events_special_piracy.xml.append:2471
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[5]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2477
 msgid ""
@@ -2646,7 +2667,10 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2486
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[@req=\"MERCENARY_REP_2_OFFER\"]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2493
 msgid ""
@@ -2682,7 +2706,10 @@ msgstr "Engagez le mercenaire pour retarder les rebelles."
 #: src-en/data/events_special_piracy.xml.append:2520
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[1]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2526
 msgid ""
@@ -2697,7 +2724,10 @@ msgstr "Engagez le mercenaire pour explorer le secteur."
 #: src-en/data/events_special_piracy.xml.append:2534
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[2]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2540
 msgid ""
@@ -2712,7 +2742,10 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2548
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[3]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2555
 msgid ""
@@ -2807,7 +2840,10 @@ msgstr "Engagez le mercenaire pour retarder les rebelles."
 #: src-en/data/events_special_piracy.xml.append:2619
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[1]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2625
 msgid ""
@@ -2822,7 +2858,10 @@ msgstr "Engagez le mercenaire pour explorer le secteur."
 #: src-en/data/events_special_piracy.xml.append:2633
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[2]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2639
 msgid ""
@@ -2837,7 +2876,10 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2647
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[3]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:2654
 msgid ""
@@ -3012,7 +3054,10 @@ msgstr "Engagez le mercenaire pour retarder les rebelles."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:3088
 msgid ""
@@ -3030,7 +3075,10 @@ msgstr "Engagez le mercenaire pour explorer le secteur."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:3102
 msgid ""
@@ -3048,7 +3096,10 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[3]/event/text"
-msgstr "Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de suite...\""
+msgstr ""
+"Une fois que le mercenaire a fini de compter la ferraille, il hoche la tête "
+"en signe d'approbation : \"C'est vous le chef ! Je m'y mets tout de "
+"suite...\""
 
 #: src-en/data/events_special_piracy.xml.append:3117
 msgid ""
@@ -3093,7 +3144,12 @@ msgstr "Attaquer le contrebandier."
 #: src-en/data/events_special_piracy.xml.append:3171
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SMUGGLER_FRIENDLY\"]/choice[2]/event/text"
-msgstr "Les contrebandiers sont généralement connus pour leurs ventes de matériel militaire, mais Argeonn transporte bien d'autres choses. Qui sait quels types d'objets nuisibles ont voyagé à travers la cargaison de ce vaisseau et se sont retrouvés entre les mains de toutes sortes de mauvaises personnes. La seule chose à faire est de les arrêter."
+msgstr ""
+"Les contrebandiers sont généralement connus pour leurs ventes de matériel "
+"militaire, mais Argeonn transporte bien d'autres choses. Qui sait quels "
+"types d'objets nuisibles ont voyagé à travers la cargaison de ce vaisseau et"
+" se sont retrouvés entre les mains de toutes sortes de mauvaises personnes. "
+"La seule chose à faire est de les arrêter."
 
 #: src-en/data/events_special_piracy.xml.append:3174
 msgid ""
@@ -3240,7 +3296,12 @@ msgstr "Attaquer le contrebandier."
 #: src-en/data/events_special_piracy.xml.append:3279
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr "Les contrebandiers sont généralement connus pour leurs ventes de matériel militaire, mais Argeonn transporte bien d'autres choses. Qui sait quels types d'objets nuisibles ont voyagé à travers la cargaison de ce vaisseau et se sont retrouvés entre les mains de toutes sortes de mauvaises personnes. La seule chose à faire est de les arrêter."
+msgstr ""
+"Les contrebandiers sont généralement connus pour leurs ventes de matériel "
+"militaire, mais Argeonn transporte bien d'autres choses. Qui sait quels "
+"types d'objets nuisibles ont voyagé à travers la cargaison de ce vaisseau et"
+" se sont retrouvés entre les mains de toutes sortes de mauvaises personnes. "
+"La seule chose à faire est de les arrêter."
 
 #: src-en/data/events_special_piracy.xml.append:3282
 msgid ""
@@ -5633,7 +5694,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5524
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION1\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5530
 msgid ""
@@ -5648,7 +5714,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5538
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION2\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5544
 msgid ""
@@ -5663,7 +5734,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5552
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION3\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5558
 msgid ""
@@ -5678,7 +5754,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5566
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION4\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5572
 msgid ""
@@ -5693,7 +5774,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5580
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION5\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5586
 msgid ""
@@ -5708,7 +5794,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5594
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION6\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5600
 msgid ""
@@ -5723,7 +5814,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5608
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION7\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5614
 msgid ""
@@ -5738,7 +5834,12 @@ msgstr "Vendre une Mitrailleuse Gatling."
 #: src-en/data/events_special_piracy.xml.append:5622
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"GATLING_VERSION8\"]/event/text"
-msgstr "Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à gagner en me vendant cette arme incroyable, mais je peux essayer de faire en sorte que cela en vaille la peine.\""
+msgstr ""
+"Le contrebandier est choqué lorsque vous lui annoncez que vous êtes prêt à "
+"vendre votre Mitrailleuse Gatling : \"Remarquable ! La super arme qui date "
+"de l'époque de l'invasion des mantis ! Je ne sais pas ce que vous cherchez à"
+" gagner en me vendant cette arme incroyable, mais je peux essayer de faire "
+"en sorte que cela en vaille la peine.\""
 
 #: src-en/data/events_special_piracy.xml.append:5628
 msgid ""
@@ -5748,7 +5849,10 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:5634
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"BLUELIST_RIFT\"]/text"
-msgstr "À moins que vous ne souhaitiez que cette réalité soit conquise par les contrebandiers, vendre votre \"Éventre-Espace\" au contrebandier est une très mauvaise idée."
+msgstr ""
+"À moins que vous ne souhaitiez que cette réalité soit conquise par les "
+"contrebandiers, vendre votre \"Éventre-Espace\" au contrebandier est une "
+"très mauvaise idée."
 
 #: src-en/data/events_special_piracy.xml.append:5638
 msgid ""
@@ -7191,7 +7295,10 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:6984
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_TECH_SELL\"]/choice[@req=\"WEAPON_PREIGNITE\"]/event/text"
-msgstr "\"Incroyable du cul ! La technologie interdite jugée trop puissante ! La demande explose et j'en ai enfin trouvé un pour satisfaire un client. Je vous en prie, prenez ceci en guise de compensation.\""
+msgstr ""
+"\"Incroyable du cul ! La technologie interdite jugée trop puissante ! La "
+"demande explose et j'en ai enfin trouvé un pour satisfaire un client. Je "
+"vous en prie, prenez ceci en guise de compensation.\""
 
 #: src-en/data/events_special_piracy.xml.append:6990
 msgid ""
@@ -7673,7 +7780,11 @@ msgstr "Ne rien faire."
 #: src-en/data/events_special_piracy.xml.append:7521
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_SPECIAL_STORE_PLAYERWEAPONS\"]/text"
-msgstr "\"Vous n'avez jamais eu peur d'atteindre la limite de puissance de vos armes ? Eh bien, j'ai quelques armes à faible consommation d'énergie pour toi, peut-être que tu pourras faire fonctionner ton Vouge gratuit avec ces mauvais garçons.\""
+msgstr ""
+"\"Vous n'avez jamais eu peur d'atteindre la limite de puissance de vos armes"
+" ? Eh bien, j'ai quelques armes à faible consommation d'énergie pour toi, "
+"peut-être que tu pourras faire fonctionner ton Vouge gratuit avec ces "
+"mauvais garçons.\""
 
 #: src-en/data/events_special_piracy.xml.append:7524
 msgid ""

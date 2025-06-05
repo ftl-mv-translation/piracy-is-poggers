@@ -1,15 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_piracy.xml.append:4
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_INTRO\"]/text"
@@ -3093,7 +3087,8 @@ msgstr "攻击走私者。"
 #: src-en/data/events_special_piracy.xml.append:3171
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"SMUGGLER_FRIENDLY\"]/choice[2]/event/text"
-msgstr "走私者通常可能因其军品销售而闻名，但阿尔吉恩运输的是其他很多东西。谁知道什么样的有害物品通过这艘船的货物进入了各种不良分子的手中。唯一负责任的行动就是把这些人拿下。"
+msgstr ""
+"走私者通常可能因其军品销售而闻名，但阿尔吉恩运输的是其他很多东西。谁知道什么样的有害物品通过这艘船的货物进入了各种不良分子的手中。唯一负责任的行动就是把这些人拿下。"
 
 #: src-en/data/events_special_piracy.xml.append:3174
 msgid ""
@@ -3240,7 +3235,8 @@ msgstr "攻击走私者。"
 #: src-en/data/events_special_piracy.xml.append:3279
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_FRIENDLY_START\"]/choice[2]/event/text"
-msgstr "走私者通常可能因其军品销售而闻名，但阿尔吉恩运输的是其他很多东西。谁知道什么样的有害物品通过这艘船的货物进入了各种不良分子的手中。唯一负责任的行动就是把这些人拿下。"
+msgstr ""
+"走私者通常可能因其军品销售而闻名，但阿尔吉恩运输的是其他很多东西。谁知道什么样的有害物品通过这艘船的货物进入了各种不良分子的手中。唯一负责任的行动就是把这些人拿下。"
 
 #: src-en/data/events_special_piracy.xml.append:3282
 msgid ""

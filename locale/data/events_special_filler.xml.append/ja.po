@@ -1,15 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_fillerxmlappend/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_filler.xml.append:15
 msgid ""
@@ -114,7 +108,8 @@ msgstr "次へ…"
 #: src-en/data/events_special_filler.xml.append:168
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_MINER_SHOOT\"]/mod:findWithChildLike/mod:selector"
-msgstr "あなたが何度か砲弾を撃ち込むと、岩は震えて砕け散った。シールドのない海賊船はかなりの損傷を負いながらも、最後には逃げ出すことができた。海賊たちはあなたの支援に感謝した。"
+msgstr ""
+"あなたが何度か砲弾を撃ち込むと、岩は震えて砕け散った。シールドのない海賊船はかなりの損傷を負いながらも、最後には逃げ出すことができた。海賊たちはあなたの支援に感謝した。"
 
 #: src-en/data/events_special_filler.xml.append:170
 msgid ""
@@ -288,7 +283,8 @@ msgstr "何も買わない。"
 #: src-en/data/events_special_filler.xml.append:384
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[6]/event/text"
-msgstr "「おおっと、そいつは残念だ。楽しい旅を」あなたが操縦席へ戻った瞬間、一連の爆発が船を揺さぶった。臨戦態勢の海賊船から連絡が入る。「人サマの時間をムダにするもんじゃねえぜ、船長さんよ！」"
+msgstr ""
+"「おおっと、そいつは残念だ。楽しい旅を」あなたが操縦席へ戻った瞬間、一連の爆発が船を揺さぶった。臨戦態勢の海賊船から連絡が入る。「人サマの時間をムダにするもんじゃねえぜ、船長さんよ！」"
 
 #: src-en/data/events_special_filler.xml.append:387
 msgid ""
@@ -835,7 +831,8 @@ msgstr "次へ…"
 #: src-en/data/events_special_filler.xml.append:865
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/text"
-msgstr "あなたが救った民間船は、戦闘で激しく損傷していた。大半のクルーは提案を受け入れ、近くのステーションで降りていったが、1人だけはクルーに加わりたいと言ってきた。"
+msgstr ""
+"あなたが救った民間船は、戦闘で激しく損傷していた。大半のクルーは提案を受け入れ、近くのステーションで降りていったが、1人だけはクルーに加わりたいと言ってきた。"
 
 #: src-en/data/events_special_filler.xml.append:867
 msgid ""
@@ -920,7 +917,8 @@ msgstr "次へ…"
 #: src-en/data/events_special_filler.xml.append:931
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/text"
-msgstr "あなたが救った民間船は、戦闘で激しく損傷していた。大半のクルーは提案を受け入れ、近くのステーションで降りていったが、1人だけはクルーに加わりたいと言ってきた。"
+msgstr ""
+"あなたが救った民間船は、戦闘で激しく損傷していた。大半のクルーは提案を受け入れ、近くのステーションで降りていったが、1人だけはクルーに加わりたいと言ってきた。"
 
 #: src-en/data/events_special_filler.xml.append:933
 msgid ""
@@ -1005,7 +1003,8 @@ msgstr "次へ…"
 #: src-en/data/events_special_filler.xml.append:997
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/text"
-msgstr "あなたが救った民間船は、戦闘で激しく損傷していた。大半のクルーは提案を受け入れ、近くのステーションで降りていったが、1人だけはクルーに加わりたいと言ってきた。"
+msgstr ""
+"あなたが救った民間船は、戦闘で激しく損傷していた。大半のクルーは提案を受け入れ、近くのステーションで降りていったが、1人だけはクルーに加わりたいと言ってきた。"
 
 #: src-en/data/events_special_filler.xml.append:999
 msgid ""

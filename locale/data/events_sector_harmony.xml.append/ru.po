@@ -1,27 +1,25 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_harmonyxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_harmony.xml.append:31
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/text"
-msgstr "(Репутация контрабандистов 3+) Связаться с ними и заверить, что не желаете им зла."
+msgstr ""
+"(Репутация контрабандистов 3+) Связаться с ними и заверить, что не желаете "
+"им зла."
 
 #: src-en/data/events_sector_harmony.xml.append:33
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/text"
-msgstr "\"О, это вы, ребята. У нас тут ВИП который... не в ладах с патрулями энджи. Нас преследуют по всему сектору, не могли бы вы помочь нам?\""
+msgstr ""
+"\"О, это вы, ребята. У нас тут ВИП который... не в ладах с патрулями энджи. "
+"Нас преследуют по всему сектору, не могли бы вы помочь нам?\""
 
 #: src-en/data/events_sector_harmony.xml.append:35
 msgid ""
@@ -33,7 +31,9 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr "\"Отлично, спасибо, что взяли эту задачу на себя. Возьмите немного припасов\". Контрабандисты присылают странного цвета Защитника энджи."
+msgstr ""
+"\"Отлично, спасибо, что взяли эту задачу на себя. Возьмите немного "
+"припасов\". Контрабандисты присылают странного цвета Защитника энджи."
 
 #: src-en/data/events_sector_harmony.xml.append:40
 msgid ""
@@ -45,7 +45,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/choice[1]/event/choice/event/text"
-msgstr "\"Перевозчик на которого я рассчитывал отказался от задания. Прошу вас вывезти мою персону из Гармонии. Я заплачу\"."
+msgstr ""
+"\"Перевозчик на которого я рассчитывал отказался от задания. Прошу вас "
+"вывезти мою персону из Гармонии. Я заплачу\"."
 
 #: src-en/data/events_sector_harmony.xml.append:44
 msgid ""
@@ -69,7 +71,10 @@ msgstr "Нет, спасибо."
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr "\"Жаль. Тогда постараюсь сделать все возможное, чтобы меня не уничтожили патрули энджи\". Вы желаете ему удачи и отправляйтесь по делам на борту корабля."
+msgstr ""
+"\"Жаль. Тогда постараюсь сделать все возможное, чтобы меня не уничтожили "
+"патрули энджи\". Вы желаете ему удачи и отправляйтесь по делам на борту "
+"корабля."
 
 #: src-en/data/events_sector_harmony.xml.append:63
 msgid ""

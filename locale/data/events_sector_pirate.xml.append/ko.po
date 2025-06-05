@@ -1,15 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_piratexmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_pirate.xml.append:14
 msgid ""
@@ -67,7 +61,9 @@ msgstr "너무 수상하다. 공격!"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[2]/event/text"
-msgstr "\"알겠어요! 노예들 다 죽었어요. 죽은 노예를 팔고 있었다구요. 그냥 보내만 줘요!\" 노예상에겐 안 된 일이지만, 당신은 그들을 보내줄 생각이 없습니다."
+msgstr ""
+"\"알겠어요! 노예들 다 죽었어요. 죽은 노예를 팔고 있었다구요. 그냥 보내만 줘요!\" 노예상에겐 안 된 일이지만, 당신은 그들을 "
+"보내줄 생각이 없습니다."
 
 #: src-en/data/events_sector_pirate.xml.append:59
 msgid ""
@@ -408,7 +404,9 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml.append:318
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET\"]/text"
-msgstr "졸탄 평화 연대가 해적들에게 올바른 도덕에 대해 강연하고 있습니다. 당신도 함선을 세우고 강연을 들어보던 도중 해적 하나가 인내심을 잃고 공격을 시작했습니다. 휘말리지 않기에는 거리가 너무 가까우니, 어느 쪽 편을 들 건지 정해야 합니다."
+msgstr ""
+"졸탄 평화 연대가 해적들에게 올바른 도덕에 대해 강연하고 있습니다. 당신도 함선을 세우고 강연을 들어보던 도중 해적 하나가 인내심을 잃고"
+" 공격을 시작했습니다. 휘말리지 않기에는 거리가 너무 가까우니, 어느 쪽 편을 들 건지 정해야 합니다."
 
 #: src-en/data/events_sector_pirate.xml.append:320
 msgid ""
@@ -443,7 +441,9 @@ msgstr "계속..."
 #: src-en/data/events_sector_pirate.xml.append:344
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_PIRATE\"]/text"
-msgstr "성공적으로 졸탄 함선을 격침했습니다. 졸탄군이 퇴각하는 모습을 보니 해적들이 이긴 것 같습니다. 당신은 재빨리 졸탄 함선에서 자원을 인양했습니다."
+msgstr ""
+"성공적으로 졸탄 함선을 격침했습니다. 졸탄군이 퇴각하는 모습을 보니 해적들이 이긴 것 같습니다. 당신은 재빨리 졸탄 함선에서 자원을 "
+"인양했습니다."
 
 #: src-en/data/events_sector_pirate.xml.append:347
 msgid ""
@@ -453,7 +453,9 @@ msgstr "해적 \"동지\"들과 교신한다."
 #: src-en/data/events_sector_pirate.xml.append:349
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_PIRATE\"]/choice/event/text"
-msgstr "\"이야, 꼬맹이 너 싸움 좀 하는구나. 도와줘서 고맙다. 나도 보답할 방법이 있지.\" 당신은 해적들이 감사를 표하는 놀라운 상황을 보고 뭔가 함정이 있지 않을까 의심했지만, 해적선이 보내온 화물엔 놀랍게도 아무 위험 요소도 없는 말끔한 군용 무기가 실려 있었습니다."
+msgstr ""
+"\"이야, 꼬맹이 너 싸움 좀 하는구나. 도와줘서 고맙다. 나도 보답할 방법이 있지.\" 당신은 해적들이 감사를 표하는 놀라운 상황을 "
+"보고 뭔가 함정이 있지 않을까 의심했지만, 해적선이 보내온 화물엔 놀랍게도 아무 위험 요소도 없는 말끔한 군용 무기가 실려 있었습니다."
 
 #: src-en/data/events_sector_pirate.xml.append:352
 msgid ""
@@ -473,7 +475,9 @@ msgstr "졸탄 연대와 교신한다."
 #: src-en/data/events_sector_pirate.xml.append:365
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_ZOLTAN\"]/choice/event/text"
-msgstr "\"연방군의 지원을 받게 될 줄은 전혀 몰랐습니다. 그대들의 도움에 대단히 감사드립니다. 그대들에게 빚을 졌으니, 우리는 졸탄의 관례에 따라 이를 갚으려 합니다.\""
+msgstr ""
+"\"연방군의 지원을 받게 될 줄은 전혀 몰랐습니다. 그대들의 도움에 대단히 감사드립니다. 그대들에게 빚을 졌으니, 우리는 졸탄의 관례에 "
+"따라 이를 갚으려 합니다.\""
 
 #: src-en/data/events_sector_pirate.xml.append:368
 msgid ""

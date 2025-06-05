@@ -1,20 +1,18 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_standardxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_standard.xml.append:13
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:selector"
-msgstr "Вы поднимаетесь на борт, но находите группу пиратов, сгрудившихся вокруг костра из мусора, в то время как сидящие в клетке кристаллины в отчаянии смотрят на них. Как только вы приближаетесь, пираты достают оружие. \"Кто вы такие, черт возьми, назовите себя!\""
+msgstr ""
+"Вы поднимаетесь на борт, но находите группу пиратов, сгрудившихся вокруг "
+"костра из мусора, в то время как сидящие в клетке кристаллины в отчаянии "
+"смотрят на них. Как только вы приближаетесь, пираты достают оружие. \"Кто вы"
+" такие, черт возьми, назовите себя!\""
 
 #: src-en/data/events_special_standard.xml.append:15
 msgid ""
@@ -44,7 +42,11 @@ msgstr "Посетить стенд с рабами."
 #: src-en/data/events_special_standard.xml.append:50
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_ODDSHOP\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod:findLike/mod:setValue"
-msgstr "Вы осторожно переступаете через весь чужеродный мусор и рассматриваете различных пришельцев в клетках. Увидев такую странную рабовладельческую операцию на странном рынке, вы предполагаете, что эти пираты не связаны с рабовладельческим гигантом Тииикака."
+msgstr ""
+"Вы осторожно переступаете через весь чужеродный мусор и рассматриваете "
+"различных пришельцев в клетках. Увидев такую странную рабовладельческую "
+"операцию на странном рынке, вы предполагаете, что эти пираты не связаны с "
+"рабовладельческим гигантом Тииикака."
 
 #: src-en/data/events_special_standard.xml.append:60
 msgid ""
@@ -54,7 +56,9 @@ msgstr "Атаковать пиратов!"
 #: src-en/data/events_special_standard.xml.append:73
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_REFUELING_LIST\"]/mod:findWithChildLike/mod:selector"
-msgstr "Похоже, что после атаки платформа была повреждена. Скорее всего, вы сможете украсть столько топлива, сколько осталось, хотя пираты будут недовольны."
+msgstr ""
+"Похоже, что после атаки платформа была повреждена. Скорее всего, вы сможете "
+"украсть столько топлива, сколько осталось, хотя пираты будут недовольны."
 
 #: src-en/data/events_special_standard.xml.append:75
 msgid ""
@@ -88,7 +92,9 @@ msgstr "Купить орудие."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr "У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами после совершения сделки."
+msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:110
 msgid ""
@@ -106,7 +112,9 @@ msgstr "Купить орудие."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[2]/event/text"
-msgstr "У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами после совершения сделки."
+msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:124
 msgid ""
@@ -124,7 +132,9 @@ msgstr "Купить дрон."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[3]/event/text"
-msgstr "У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами после совершения сделки."
+msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:138
 msgid ""
@@ -142,7 +152,9 @@ msgstr "Купить модуль."
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[4]/event/text"
-msgstr "У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами после совершения сделки."
+msgstr ""
+"У вас еще есть время, чтобы пройтись по магазинам с их обычными товарами "
+"после совершения сделки."
 
 #: src-en/data/events_special_standard.xml.append:152
 msgid ""
@@ -187,7 +199,10 @@ msgstr "Не-а."
 #: src-en/data/events_special_standard.xml.append:218
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/text"
-msgstr "Различные пиратские группировки организовали совместный рынок. Вы сомневаетесь, что это законно, но у них могут быть полезные товары на продажу."
+msgstr ""
+"Различные пиратские группировки организовали совместный рынок. Вы "
+"сомневаетесь, что это законно, но у них могут быть полезные товары на "
+"продажу."
 
 #: src-en/data/events_special_standard.xml.append:220
 msgid ""
@@ -197,7 +212,10 @@ msgstr "Осмотреть рынок."
 #: src-en/data/events_special_standard.xml.append:223
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/text"
-msgstr "Верхняя половина рынка отведена под обычную торговлю, но в нижней половине, похоже, собрались различные пираты, предлагающие свои услуги или особые товары всем, кто готов заплатить."
+msgstr ""
+"Верхняя половина рынка отведена под обычную торговлю, но в нижней половине, "
+"похоже, собрались различные пираты, предлагающие свои услуги или особые "
+"товары всем, кто готов заплатить."
 
 #: src-en/data/events_special_standard.xml.append:225
 msgid ""
@@ -227,7 +245,9 @@ msgstr "Не обращать внимания на рынок."
 #: src-en/data/events_special_standard.xml.append:245
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[2]/event/text"
-msgstr "Сегодня вам не хочется осматривать пиратский рынок, особенно в качестве федерала."
+msgstr ""
+"Сегодня вам не хочется осматривать пиратский рынок, особенно в качестве "
+"федерала."
 
 #: src-en/data/events_special_standard.xml.append:247
 msgid ""

@@ -1,183 +1,208 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_lightspeedxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
-#: src-en/data/events_special_lightspeed.xml.append:11
+#: src-en/data/events_special_lightspeed.xml.append:8
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod:findWithChildLike/mod:selector"
 msgstr "Неважно."
 
-#: src-en/data/events_special_lightspeed.xml.append:15
+#: src-en/data/events_special_lightspeed.xml.append:12
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/text"
 msgstr "(Перегрузка двигателя мод. 5) Активировать конденсатор."
 
-#: src-en/data/events_special_lightspeed.xml.append:17
+#: src-en/data/events_special_lightspeed.xml.append:14
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/text"
-msgstr "Вы осматриваете конденсатор и узнаете, что можете калибровать его скорость. Чем быстрее вы хотите двигаться, тем больше урона вы получите. Вы можете использовать этот конденсатор только один раз."
+msgstr ""
+"Вы осматриваете конденсатор и узнаете, что можете калибровать его скорость. "
+"Чем быстрее вы хотите двигаться, тем больше урона вы получите. Вы можете "
+"использовать этот конденсатор только один раз."
 
-#: src-en/data/events_special_lightspeed.xml.append:19
+#: src-en/data/events_special_lightspeed.xml.append:16
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
-msgstr "Минимальная скорость. [Задерживает флот на 2 прыжка, вызывает возгорание в Двигателях]"
+msgstr ""
+"Минимальная скорость. [Задерживает флот на 2 прыжка, вызывает возгорание в "
+"Двигателях]"
 
-#: src-en/data/events_special_lightspeed.xml.append:21
+#: src-en/data/events_special_lightspeed.xml.append:18
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr "Вы настраиваете конденсатор на минимально возможную скорость. Хотя корпус корабля не получил повреждений, в Двигателях начался пожар."
+msgstr ""
+"Вы настраиваете конденсатор на минимально возможную скорость. Хотя корпус "
+"корабля не получил повреждений, в Двигателях начался пожар."
 
-#: src-en/data/events_special_lightspeed.xml.append:27
+#: src-en/data/events_special_lightspeed.xml.append:24
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:33
+#: src-en/data/events_special_lightspeed.xml.append:30
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
-msgstr "Небольшая скорость. [Задерживает флот на 3 прыжка, наносит 2 единиц урона Двигателям и Корпусу, вызывает возгорание в Двигателях]"
+msgstr ""
+"Небольшая скорость. [Задерживает флот на 3 прыжка, наносит 2 единиц урона "
+"Двигателям и Корпусу, вызывает возгорание в Двигателях]"
 
-#: src-en/data/events_special_lightspeed.xml.append:35
+#: src-en/data/events_special_lightspeed.xml.append:32
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[2]/event/text"
-msgstr "Вы настроили конденсатор на небольшую скорость. Двигатели и корпус получили небольшие повреждения, но, надеюсь, оно того стоило."
+msgstr ""
+"Вы настроили конденсатор на небольшую скорость. Двигатели и корпус получили "
+"небольшие повреждения, но, надеюсь, оно того стоило."
 
-#: src-en/data/events_special_lightspeed.xml.append:41
+#: src-en/data/events_special_lightspeed.xml.append:38
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:47
+#: src-en/data/events_special_lightspeed.xml.append:44
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[3]/text"
-msgstr "Умеренная скорость. [Задерживает флот на 4 прыжка, наносит 4 единиц урона Двигателям и корпусу, вызывает возгорание в Двигателях]"
+msgstr ""
+"Умеренная скорость. [Задерживает флот на 4 прыжка, наносит 4 единиц урона "
+"Двигателям и корпусу, вызывает возгорание в Двигателях]"
 
-#: src-en/data/events_special_lightspeed.xml.append:49
+#: src-en/data/events_special_lightspeed.xml.append:46
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[3]/event/text"
-msgstr "Вы устанавливаете конденсатор на умеренную скорость. Двигатели и корпус получили некоторые повреждения, но, надеюсь, оного того стоило."
+msgstr ""
+"Вы устанавливаете конденсатор на умеренную скорость. Двигатели и корпус "
+"получили некоторые повреждения, но, надеюсь, оного того стоило."
 
-#: src-en/data/events_special_lightspeed.xml.append:55
+#: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[3]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:61
+#: src-en/data/events_special_lightspeed.xml.append:58
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[4]/text"
-msgstr "Высокая скорость. [Задерживает флот на 5 прыжков, наносит 6 единиц урона Двигателям и корпусу, вызывает возгорание в Двигателях]"
+msgstr ""
+"Высокая скорость. [Задерживает флот на 5 прыжков, наносит 6 единиц урона "
+"Двигателям и корпусу, вызывает возгорание в Двигателях]"
 
-#: src-en/data/events_special_lightspeed.xml.append:63
+#: src-en/data/events_special_lightspeed.xml.append:60
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[4]/event/text"
-msgstr "Вы устанавливаете конденсатор на высокую скорость. Двигатели и корпус получили значительные повреждения, но, надеюсь, оно того стоило."
+msgstr ""
+"Вы устанавливаете конденсатор на высокую скорость. Двигатели и корпус "
+"получили значительные повреждения, но, надеюсь, оно того стоило."
 
-#: src-en/data/events_special_lightspeed.xml.append:69
+#: src-en/data/events_special_lightspeed.xml.append:66
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:75
+#: src-en/data/events_special_lightspeed.xml.append:72
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[5]/text"
-msgstr "Чрезвычайно высокая скорость. [Задерживает флот на 6 прыжков, наносит 8 единиц урона двигателям и корпусу, вызывает возгорание в Двигателях, Рулевой рубке, Оружии и Щитах]"
+msgstr ""
+"Чрезвычайно высокая скорость. [Задерживает флот на 6 прыжков, наносит 8 "
+"единиц урона двигателям и корпусу, вызывает возгорание в Двигателях, Рулевой"
+" рубке, Оружии и Щитах]"
 
-#: src-en/data/events_special_lightspeed.xml.append:77
+#: src-en/data/events_special_lightspeed.xml.append:74
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[5]/event/text"
-msgstr "Вы разгоняете конденсатор до максимальной скорости, на которую он способен. От резкого движения корабля вы теряете сознание во время полета. Когда вы приходите в себя, то обнаруживаете, что двигатели полностью разрушены, а основные системные отсеки перегрелись от скачка напряжения. Надеюсь, все эти повреждения того стоили."
+msgstr ""
+"Вы разгоняете конденсатор до максимальной скорости, на которую он способен. "
+"От резкого движения корабля вы теряете сознание во время полета. Когда вы "
+"приходите в себя, то обнаруживаете, что двигатели полностью разрушены, а "
+"основные системные отсеки перегрелись от скачка напряжения. Надеюсь, все эти"
+" повреждения того стоили."
 
-#: src-en/data/events_special_lightspeed.xml.append:86
+#: src-en/data/events_special_lightspeed.xml.append:83
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[5]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:92
+#: src-en/data/events_special_lightspeed.xml.append:89
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[6]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_lightspeed.xml.append:98
+#: src-en/data/events_special_lightspeed.xml.append:95
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[2]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_lightspeed.xml.append:105
+#: src-en/data/events_special_lightspeed.xml.append:102
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
 msgstr "Перейти в Черный рынок."
 
-#: src-en/data/events_special_lightspeed.xml.append:112
+#: src-en/data/events_special_lightspeed.xml.append:109
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
 msgstr "Перейти в Черный рынок."
 
-#: src-en/data/events_special_lightspeed.xml.append:120
+#: src-en/data/events_special_lightspeed.xml.append:117
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/text"
 msgstr "Продолжить прыжок."
 
-#: src-en/data/events_special_lightspeed.xml.append:122
+#: src-en/data/events_special_lightspeed.xml.append:119
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/event/text"
-msgstr "Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля соответствующим образом."
+msgstr ""
+"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
+"соответствующим образом."
 
-#: src-en/data/events_special_lightspeed.xml.append:126
+#: src-en/data/events_special_lightspeed.xml.append:123
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:132
+#: src-en/data/events_special_lightspeed.xml.append:129
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[2]/text"
 msgstr "Неважно."
 
-#: src-en/data/events_special_lightspeed.xml.append:142
+#: src-en/data/events_special_lightspeed.xml.append:139
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/text"
 msgstr "Продолжить прыжок."
 
-#: src-en/data/events_special_lightspeed.xml.append:144
+#: src-en/data/events_special_lightspeed.xml.append:141
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/event/text"
-msgstr "Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля соответствующим образом."
+msgstr ""
+"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
+"соответствующим образом."
 
-#: src-en/data/events_special_lightspeed.xml.append:149
+#: src-en/data/events_special_lightspeed.xml.append:146
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_lightspeed.xml.append:155
+#: src-en/data/events_special_lightspeed.xml.append:152
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[2]/text"
 msgstr "Неважно."

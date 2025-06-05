@@ -1,15 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_piratexmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_pirate.xml.append:14
 msgid ""
@@ -67,7 +61,10 @@ msgstr "Attaquer-les, c'est louche !"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[2]/event/text"
-msgstr "\"D'accord, d'accord ! Ils sont tous morts, nous vendons des esclaves morts, maintenant laissez-nous partir !\" Malheureusement pour eux, vous n'avez pas l'intention de les laisser s'en sortir."
+msgstr ""
+"\"D'accord, d'accord ! Ils sont tous morts, nous vendons des esclaves morts,"
+" maintenant laissez-nous partir !\" Malheureusement pour eux, vous n'avez "
+"pas l'intention de les laisser s'en sortir."
 
 #: src-en/data/events_sector_pirate.xml.append:59
 msgid ""
@@ -79,13 +76,18 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr "(Membre d'équipage Limace) Demandez à votre Limace de vérifier leurs intentions."
+msgstr ""
+"(Membre d'équipage Limace) Demandez à votre Limace de vérifier leurs "
+"intentions."
 
 #: src-en/data/events_sector_pirate.xml.append:67
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
-msgstr "\"Il ssssemble que cccces essssclavagisssstes vendent des essssclaves morts ! Hah, quelle arnaque. Il faut admirer leur audacccce. Ccccependant, vous ne devriez rien acheter.\""
+msgstr ""
+"\"Il ssssemble que cccces essssclavagisssstes vendent des essssclaves morts "
+"! Hah, quelle arnaque. Il faut admirer leur audacccce. Ccccependant, vous ne"
+" devriez rien acheter.\""
 
 #: src-en/data/events_sector_pirate.xml.append:69
 msgid ""
@@ -97,7 +99,9 @@ msgstr "Attaquer ces satanés esclavagistes !"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[1]/event/text"
-msgstr "Vous vous préparez à attaquer le vaisseau esclavagistes , prêts à vous assurer qu'ils n'escroqueront personne d'autre."
+msgstr ""
+"Vous vous préparez à attaquer le vaisseau esclavagistes , prêts à vous "
+"assurer qu'ils n'escroqueront personne d'autre."
 
 #: src-en/data/events_sector_pirate.xml.append:74
 msgid ""
@@ -115,7 +119,10 @@ msgstr "Suivre les conseils de votre Limace et partir."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[2]/event/text"
-msgstr "Le vaisseau esclavagiste continue de faire de la publicité pour ses \"produits\", vous mettez donc simplement en sourdine tous les appels provenant de son vaisseau."
+msgstr ""
+"Le vaisseau esclavagiste continue de faire de la publicité pour ses "
+"\"produits\", vous mettez donc simplement en sourdine tous les appels "
+"provenant de son vaisseau."
 
 #: src-en/data/events_sector_pirate.xml.append:84
 msgid ""
@@ -133,13 +140,17 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr "(Coquille Télépathique) Faites en sorte que votre Coquille vérifie leurs intentions."
+msgstr ""
+"(Coquille Télépathique) Faites en sorte que votre Coquille vérifie leurs "
+"intentions."
 
 #: src-en/data/events_sector_pirate.xml.append:98
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
-msgstr "\"Ces esclaffagistes ffendent des cadaffres ! Ffous ne deffriez rien leur donner, sauf peut-être une leçon bien méritée.\""
+msgstr ""
+"\"Ces esclaffagistes ffendent des cadaffres ! Ffous ne deffriez rien leur "
+"donner, sauf peut-être une leçon bien méritée.\""
 
 #: src-en/data/events_sector_pirate.xml.append:100
 msgid ""
@@ -151,7 +162,9 @@ msgstr "Attaquer ces satanés esclavagistes !"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[1]/event/text"
-msgstr "Vous vous préparez à attaquer le vaisseau esclavagistes , prêts à vous assurer qu'ils n'escroqueront personne d'autre."
+msgstr ""
+"Vous vous préparez à attaquer le vaisseau esclavagistes , prêts à vous "
+"assurer qu'ils n'escroqueront personne d'autre."
 
 #: src-en/data/events_sector_pirate.xml.append:105
 msgid ""
@@ -169,7 +182,10 @@ msgstr "Suivre les conseils de votre Coquille et partir."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[2]/event/text"
-msgstr "Le vaisseau esclavagiste continue de faire de la publicité pour ses \"produits\", vous mettez donc simplement en sourdine tous les appels provenant de son vaisseau."
+msgstr ""
+"Le vaisseau esclavagiste continue de faire de la publicité pour ses "
+"\"produits\", vous mettez donc simplement en sourdine tous les appels "
+"provenant de son vaisseau."
 
 #: src-en/data/events_sector_pirate.xml.append:115
 msgid ""
@@ -193,7 +209,10 @@ msgstr "C'est louche, partons."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[5]/event/text"
-msgstr "Le vaisseau esclavagiste continue de faire de la publicité pour ses \"produits\", vous mettez donc simplement en sourdine tous les appels provenant de son vaisseau."
+msgstr ""
+"Le vaisseau esclavagiste continue de faire de la publicité pour ses "
+"\"produits\", vous mettez donc simplement en sourdine tous les appels "
+"provenant de son vaisseau."
 
 #: src-en/data/events_sector_pirate.xml.append:131
 msgid ""
@@ -217,7 +236,10 @@ msgstr "Les ignorer."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[2]/event/text"
-msgstr "Le vaisseau esclavagiste continue de faire de la publicité pour ses \"produits\", vous mettez donc simplement en sourdine tous les appels provenant de son vaisseau."
+msgstr ""
+"Le vaisseau esclavagiste continue de faire de la publicité pour ses "
+"\"produits\", vous mettez donc simplement en sourdine tous les appels "
+"provenant de son vaisseau."
 
 #: src-en/data/events_sector_pirate.xml.append:147
 msgid ""
@@ -277,7 +299,9 @@ msgstr "Nous ne sommes pas intéressés."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_BETRAYAL\"]/mod-"
 "append:choice/event/choice[3]/event/text"
-msgstr "\"Ah, donc nous avons quelques idiots ici !\" L'esclavagiste raccroche et prend la fuite."
+msgstr ""
+"\"Ah, donc nous avons quelques idiots ici !\" L'esclavagiste raccroche et "
+"prend la fuite."
 
 #: src-en/data/events_sector_pirate.xml.append:183
 msgid ""
@@ -295,13 +319,17 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_BETRAYAL\"]/mod-"
 "append:choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr "(Membre d'équipage Limace) Demandez à votre Limace de vérifier leurs intentions."
+msgstr ""
+"(Membre d'équipage Limace) Demandez à votre Limace de vérifier leurs "
+"intentions."
 
 #: src-en/data/events_sector_pirate.xml.append:197
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_BETRAYAL\"]/mod-"
 "append:choice/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr "(Coquille Télépathique) Faites en sorte que votre Coquille vérifie leurs intentions."
+msgstr ""
+"(Coquille Télépathique) Faites en sorte que votre Coquille vérifie leurs "
+"intentions."
 
 #: src-en/data/events_sector_pirate.xml.append:207
 msgid ""
@@ -408,7 +436,11 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_pirate.xml.append:318
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET\"]/text"
-msgstr "Une brigade de paix Zoltan fait la leçon à des pirates sur l'importance de la bonne moralité. Vous vous arrêtez pour regarder amusé quand l'un des pirates devient impatient et attaque. Vous êtes trop près pour vous enfuir, vous allez devoir choisir votre camp."
+msgstr ""
+"Une brigade de paix Zoltan fait la leçon à des pirates sur l'importance de "
+"la bonne moralité. Vous vous arrêtez pour regarder amusé quand l'un des "
+"pirates devient impatient et attaque. Vous êtes trop près pour vous enfuir, "
+"vous allez devoir choisir votre camp."
 
 #: src-en/data/events_sector_pirate.xml.append:320
 msgid ""
@@ -443,7 +475,10 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_pirate.xml.append:344
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_PIRATE\"]/text"
-msgstr "Vous parvenez à éliminer avec succès le vaisseau Zoltan. Vous remarquez que les forces Zoltan battent en retraite, il semble que les pirates aient gagné. Vous recyclez rapidement le vaisseau vaincu."
+msgstr ""
+"Vous parvenez à éliminer avec succès le vaisseau Zoltan. Vous remarquez que "
+"les forces Zoltan battent en retraite, il semble que les pirates aient "
+"gagné. Vous recyclez rapidement le vaisseau vaincu."
 
 #: src-en/data/events_sector_pirate.xml.append:347
 msgid ""
@@ -453,7 +488,12 @@ msgstr "Contacter vos \"frères\" pirates."
 #: src-en/data/events_sector_pirate.xml.append:349
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_PIRATE\"]/choice/event/text"
-msgstr "\"Dites donc, c'était un bon combat, gamin. Merci pour l'aide. Je suis sûr d'avoir quelque chose pour vous rembourser.\" Vous êtes surpris de la gratitude des pirates et vous méfiez d'un piège, mais la caisse de cargaison qu'ils vous livrent est étonnamment inoffensive et contient une nouvelle arme de classe militaire étincelante."
+msgstr ""
+"\"Dites donc, c'était un bon combat, gamin. Merci pour l'aide. Je suis sûr "
+"d'avoir quelque chose pour vous rembourser.\" Vous êtes surpris de la "
+"gratitude des pirates et vous méfiez d'un piège, mais la caisse de cargaison"
+" qu'ils vous livrent est étonnamment inoffensive et contient une nouvelle "
+"arme de classe militaire étincelante."
 
 #: src-en/data/events_sector_pirate.xml.append:352
 msgid ""
@@ -473,7 +513,10 @@ msgstr "Contactez la brigade Zoltan."
 #: src-en/data/events_sector_pirate.xml.append:365
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_ZOLTAN\"]/choice/event/text"
-msgstr "\"Nous n'attendions pas de renforts de la Fédération. Votre aide est très appréciée. Comme le veut la coutume Zoltan, nous avons une dette envers vous et nous nous en acquitterons consciencieusement.\""
+msgstr ""
+"\"Nous n'attendions pas de renforts de la Fédération. Votre aide est très "
+"appréciée. Comme le veut la coutume Zoltan, nous avons une dette envers vous"
+" et nous nous en acquitterons consciencieusement.\""
 
 #: src-en/data/events_sector_pirate.xml.append:368
 msgid ""

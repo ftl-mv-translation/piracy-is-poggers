@@ -1,15 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_droppointxmlappend/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_droppoint.xml.append:6
 msgid ""
@@ -68,7 +62,10 @@ msgstr "Continua..."
 #: src-en/data/events_sector_droppoint.xml.append:91
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_TRAPPED_MINER_SHOOT\"]/mod:findWithChildLike/mod:selector"
-msgstr "Spari qualche colpo nella roccia e questa inizia a tremare e sgretolarsi. Priva di scudi, la nave pirata ne esce danneggiata, ma riesce a liberarsi. I pirati ti ringraziano per l'assistenza."
+msgstr ""
+"Spari qualche colpo nella roccia e questa inizia a tremare e sgretolarsi. "
+"Priva di scudi, la nave pirata ne esce danneggiata, ma riesce a liberarsi. I"
+" pirati ti ringraziano per l'assistenza."
 
 #: src-en/data/events_sector_droppoint.xml.append:93
 msgid ""

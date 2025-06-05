@@ -1,15 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:16+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_abandonedxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_abandoned.xml.append:12
 msgid ""
@@ -25,7 +19,8 @@ msgstr "Ознакомиться с предлагаемыми рабами."
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_SLAVER_MOON\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod-"
 "append:event/text"
-msgstr "Работорговцы замечают ваш интерес и показывают вам несколько предложений."
+msgstr ""
+"Работорговцы замечают ваш интерес и показывают вам несколько предложений."
 
 #: src-en/data/events_sector_abandoned.xml.append:22
 msgid ""
@@ -73,7 +68,10 @@ msgstr "Купить элитного раба."
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_SLAVER_MOON\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod-"
 "append:event/choice[3]/event/text"
-msgstr "\"Ах, я вижу, вы предпочитаете рабов только самого высокого качества, капитан. Вот этот - один из лучших рабов, которые когда-либо были у нас. Пусть он хорошо послужит вам, капитан...\""
+msgstr ""
+"\"Ах, я вижу, вы предпочитаете рабов только самого высокого качества, "
+"капитан. Вот этот - один из лучших рабов, которые когда-либо были у нас. "
+"Пусть он хорошо послужит вам, капитан...\""
 
 #: src-en/data/events_sector_abandoned.xml.append:58
 msgid ""
@@ -95,7 +93,8 @@ msgstr "Атаковать работорговцев!"
 #: src-en/data/events_sector_abandoned.xml.append:85
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"ABANDONED_COLONY_EXPLORE_SCANS\"]/mod:findWithChildLike/mod:selector"
-msgstr "Похоже, в колонии скрывается известный пират-беглец, и он еще не видел вас."
+msgstr ""
+"Похоже, в колонии скрывается известный пират-беглец, и он еще не видел вас."
 
 #: src-en/data/events_sector_abandoned.xml.append:87
 msgid ""
@@ -110,7 +109,8 @@ msgstr "Атаковать пиратов."
 #: src-en/data/events_sector_abandoned.xml.append:114
 msgid ""
 "data/events_sector_abandoned.xml.append$//mod:findName[@name=\"QUEST_ABANDONED_RAID_WIN\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr "Связаться с пиратами и сообщить им, что колонии больше не угрожают ланиусы."
+msgstr ""
+"Связаться с пиратами и сообщить им, что колонии больше не угрожают ланиусы."
 
 #: src-en/data/events_sector_abandoned.xml.append:117
 msgid ""

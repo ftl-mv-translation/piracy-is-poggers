@@ -1,408 +1,402 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/datahyperspace-xml-append/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
-#: src-en/data/hyperspace.xml.append:482
+#: src-en/data/hyperspace.xml.append:481
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[1]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:500
+#: src-en/data/hyperspace.xml.append:499
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[2]/customTitle"
 msgstr "ОБЫЧНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:518
+#: src-en/data/hyperspace.xml.append:517
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[3]/customTitle"
 msgstr "ХОРОШИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:536
+#: src-en/data/hyperspace.xml.append:535
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[4]/customTitle"
 msgstr "ЭКЗОТИЧЕСКИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:554
+#: src-en/data/hyperspace.xml.append:553
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[5]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:576
+#: src-en/data/hyperspace.xml.append:575
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[1]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:594
+#: src-en/data/hyperspace.xml.append:593
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[2]/customTitle"
 msgstr "ОБЫЧНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:612
+#: src-en/data/hyperspace.xml.append:611
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[3]/customTitle"
 msgstr "ХОРОШИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:630
+#: src-en/data/hyperspace.xml.append:629
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[4]/customTitle"
 msgstr "ЭКЗОТИЧЕСКИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:648
+#: src-en/data/hyperspace.xml.append:647
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[5]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:666
+#: src-en/data/hyperspace.xml.append:665
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[6]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:684
+#: src-en/data/hyperspace.xml.append:683
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[7]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:707
+#: src-en/data/hyperspace.xml.append:706
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[1]/customTitle"
 msgstr "ЭЛИТНЫЕ АБОРДАЖНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:725
+#: src-en/data/hyperspace.xml.append:724
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[2]/customTitle"
 msgstr "АБОРДАЖНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:743
+#: src-en/data/hyperspace.xml.append:742
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[3]/customTitle"
 msgstr "ОБЫЧНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:761
+#: src-en/data/hyperspace.xml.append:760
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[4]/customTitle"
 msgstr "ХОРОШИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:779
+#: src-en/data/hyperspace.xml.append:778
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[5]/customTitle"
 msgstr "ЭКЗОТИЧЕСКИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:797
+#: src-en/data/hyperspace.xml.append:796
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[6]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:819
+#: src-en/data/hyperspace.xml.append:818
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[1]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ-БОЙЦЫ"
 
-#: src-en/data/hyperspace.xml.append:837
+#: src-en/data/hyperspace.xml.append:836
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[2]/customTitle"
 msgstr "РАБЫ-БОЙЦЫ"
 
-#: src-en/data/hyperspace.xml.append:855
+#: src-en/data/hyperspace.xml.append:854
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[3]/customTitle"
 msgstr "ОБЫЧНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:873
+#: src-en/data/hyperspace.xml.append:872
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[4]/customTitle"
 msgstr "ХОРОШИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:891
+#: src-en/data/hyperspace.xml.append:890
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[5]/customTitle"
 msgstr "ЭКЗОТИЧЕСКИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:909
+#: src-en/data/hyperspace.xml.append:908
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[6]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:931
+#: src-en/data/hyperspace.xml.append:930
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[1]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ-РАЗРУШИТЕЛИ"
 
-#: src-en/data/hyperspace.xml.append:949
+#: src-en/data/hyperspace.xml.append:948
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[2]/customTitle"
 msgstr "РАБЫ-РАЗРУШИТЕЛИ"
 
-#: src-en/data/hyperspace.xml.append:967
+#: src-en/data/hyperspace.xml.append:966
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[3]/customTitle"
 msgstr "ОБЫЧНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:985
+#: src-en/data/hyperspace.xml.append:984
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[4]/customTitle"
 msgstr "ХОРОШИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1003
+#: src-en/data/hyperspace.xml.append:1002
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[5]/customTitle"
 msgstr "ЭКЗОТИЧЕСКИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1021
+#: src-en/data/hyperspace.xml.append:1020
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[6]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:1043
+#: src-en/data/hyperspace.xml.append:1042
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[1]/customTitle"
 msgstr "ЭЛИТНЫЕ АНАЭРОБНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1061
+#: src-en/data/hyperspace.xml.append:1060
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[2]/customTitle"
 msgstr "АНАЭРОБНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1079
+#: src-en/data/hyperspace.xml.append:1078
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[3]/customTitle"
 msgstr "ОБЫЧНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1097
+#: src-en/data/hyperspace.xml.append:1096
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[4]/customTitle"
 msgstr "ХОРОШИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1115
+#: src-en/data/hyperspace.xml.append:1114
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[5]/customTitle"
 msgstr "ЭКЗОТИЧЕСКИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1133
+#: src-en/data/hyperspace.xml.append:1132
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[6]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:1155
+#: src-en/data/hyperspace.xml.append:1154
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[1]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1173
+#: src-en/data/hyperspace.xml.append:1172
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[2]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1191
+#: src-en/data/hyperspace.xml.append:1190
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[3]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1209
+#: src-en/data/hyperspace.xml.append:1208
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[4]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1227
+#: src-en/data/hyperspace.xml.append:1226
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[5]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:1249
+#: src-en/data/hyperspace.xml.append:1248
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[1]/customTitle"
 msgstr "СУПЕР-ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1267
+#: src-en/data/hyperspace.xml.append:1266
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[2]/customTitle"
 msgstr "ЭЛИТНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1285
+#: src-en/data/hyperspace.xml.append:1284
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[3]/customTitle"
 msgstr "ОБЫЧНЫЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1303
+#: src-en/data/hyperspace.xml.append:1302
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[4]/customTitle"
 msgstr "ХОРОШИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1321
+#: src-en/data/hyperspace.xml.append:1320
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[5]/customTitle"
 msgstr "ЭКЗОТИЧЕСКИЕ РАБЫ"
 
-#: src-en/data/hyperspace.xml.append:1339
+#: src-en/data/hyperspace.xml.append:1338
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[6]/customTitle"
 msgstr "МОДУЛИ ДЛЯ ЛАБ. И ЭКИПАЖА"
 
-#: src-en/data/hyperspace.xml.append:1361
+#: src-en/data/hyperspace.xml.append:1360
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_BASIC\"]/category[1]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1434
+#: src-en/data/hyperspace.xml.append:1433
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[1]/customTitle"
 msgstr "ЭНЕРГОЭФФЕКТИВНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1452
+#: src-en/data/hyperspace.xml.append:1451
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[2]/customTitle"
 msgstr "ЭНЕРГОЭФФЕКТИВНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1470
+#: src-en/data/hyperspace.xml.append:1469
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[3]/customTitle"
 msgstr "ЭНЕРГОЭФФЕКТИВНОЕ ДРОНЫ"
 
-#: src-en/data/hyperspace.xml.append:1493
+#: src-en/data/hyperspace.xml.append:1492
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[1]/customTitle"
 msgstr "ЭНЕРГОЭФФЕКТИВНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1511
+#: src-en/data/hyperspace.xml.append:1510
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[2]/customTitle"
 msgstr "ЭНЕРГОЭФФЕКТИВНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1529
+#: src-en/data/hyperspace.xml.append:1528
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[3]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1602
+#: src-en/data/hyperspace.xml.append:1601
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[1]/customTitle"
 msgstr "СВЕРХМОЩНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1620
+#: src-en/data/hyperspace.xml.append:1619
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[2]/customTitle"
 msgstr "СВЕРХМОЩНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1638
+#: src-en/data/hyperspace.xml.append:1637
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[3]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1711
+#: src-en/data/hyperspace.xml.append:1710
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[1]/customTitle"
 msgstr "БОЕВЫЕ ДРОНЫ"
 
-#: src-en/data/hyperspace.xml.append:1729
+#: src-en/data/hyperspace.xml.append:1728
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[2]/customTitle"
 msgstr "БОЕВЫЕ ДРОНЫ"
 
-#: src-en/data/hyperspace.xml.append:1747
+#: src-en/data/hyperspace.xml.append:1746
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[3]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1820
+#: src-en/data/hyperspace.xml.append:1819
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[1]/customTitle"
 msgstr "ЗАЩИТНЫЕ ДРОНЫ"
 
-#: src-en/data/hyperspace.xml.append:1838
+#: src-en/data/hyperspace.xml.append:1837
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[2]/customTitle"
 msgstr "ЗАЩИТНЫЕ/ПЕХОТНЫЕ ДРОНЫ"
 
-#: src-en/data/hyperspace.xml.append:1856
+#: src-en/data/hyperspace.xml.append:1855
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[3]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:1929
+#: src-en/data/hyperspace.xml.append:1928
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_MOREAUGMENTS\"]/category[1]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:2036
+#: src-en/data/hyperspace.xml.append:2035
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[1]/customTitle"
 msgstr "ТРАНСПОРТНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:2054
+#: src-en/data/hyperspace.xml.append:2053
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[2]/customTitle"
 msgstr "ТРАНСПОРТНОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:2072
+#: src-en/data/hyperspace.xml.append:2071
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[3]/customTitle"
 msgstr "ТРАНСПОРТНОЕ ДРОНЫ"
 
-#: src-en/data/hyperspace.xml.append:2090
+#: src-en/data/hyperspace.xml.append:2089
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[4]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:2165
+#: src-en/data/hyperspace.xml.append:2164
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[1]/customTitle"
 msgstr "ОРУЖИЕ РЕНЕГАТОВ"
 
-#: src-en/data/hyperspace.xml.append:2183
+#: src-en/data/hyperspace.xml.append:2182
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[2]/customTitle"
 msgstr "ОРУЖИЕ РЕНЕГАТОВ"
 
-#: src-en/data/hyperspace.xml.append:2201
+#: src-en/data/hyperspace.xml.append:2200
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[3]/customTitle"
 msgstr "ДРОНЫ РЕНЕГАТОВ"
 
-#: src-en/data/hyperspace.xml.append:2219
+#: src-en/data/hyperspace.xml.append:2218
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[4]/customTitle"
 msgstr "ЭКИПАЖ РЕНЕГАТОВ"
 
-#: src-en/data/hyperspace.xml.append:2256
+#: src-en/data/hyperspace.xml.append:2255
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[1]/customTitle"
 msgstr "ОСОБОЕ ОРУЖИЕ"
 
-#: src-en/data/hyperspace.xml.append:2325
+#: src-en/data/hyperspace.xml.append:2324
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[5]/customTitle"
 msgstr "ОСНОВНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:2343
+#: src-en/data/hyperspace.xml.append:2342
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[6]/customTitle"
 msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:2356
+#: src-en/data/hyperspace.xml.append:2355
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[7]/customTitle"
 msgstr "ОРУЖИЕ ДНЯ [СКИДКА 40%]"
 
-#: src-en/data/hyperspace.xml.append:2379
+#: src-en/data/hyperspace.xml.append:2378
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[8]/customTitle"
 msgstr "ДРОНЫ ДНЯ [СКИДКА 40%]"
 
-#: src-en/data/hyperspace.xml.append:2402
+#: src-en/data/hyperspace.xml.append:2401
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[9]/customTitle"
 msgstr "МОДУЛИ ДНЯ [СКИДКА 40%]"

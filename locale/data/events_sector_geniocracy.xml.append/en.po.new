@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_geniocracy.xml.append:13
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:selector"
+msgstr "Express interest."
+
+#: src-en/data/events_sector_geniocracy.xml.append:16
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "Agree."
+
+#: src-en/data/events_sector_geniocracy.xml.append:19
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "(Smuggler Rep 2+) Hail them and negotiate for the fossils."
+
+#: src-en/data/events_sector_geniocracy.xml.append:22
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"Though the smugglers recognise you now, they're still reluctant to give up "
+"the fossils. You suggest a compromise: You only take a few of the fossils, "
+"enough to satisfy the biologist, and offer to trade with the smugglers to "
+"repay them for the fossils. They think about this and eventually accept."
+
+#: src-en/data/events_sector_geniocracy.xml.append:25
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr "Hand over the fossils."
+
+#: src-en/data/events_sector_geniocracy.xml.append:27
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"\"Ohhh, you did it! Thhhis is amazing. I cannot thhhank you enough. H-How "
+"about if I work for you? I can study thhhese on my own time, and pay off my "
+"debt with labour!\""
+
+#: src-en/data/events_sector_geniocracy.xml.append:41
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/text"
+msgstr "(Smuggler Rep 2+) Calm down, we're not here to report you."
+
+#: src-en/data/events_sector_geniocracy.xml.append:43
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"\"Oh, it's you guys. Well, I don't have anything that might interest ya' "
+"unfortunately. We're currently smuggling these hard shells exteriors out for"
+" a high-paying customer. I do know a fella nearby that has stuff that'll "
+"suit your needs more, feel free to check 'em out."
+
+#: src-en/data/events_sector_geniocracy.xml.append:47
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "Thank them and take this time to do something onboard the ship."
+
+#: src-en/data/events_sector_geniocracy.xml.append:49
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr "You thank them for the info and wish them luck for their journey."
+
+#: src-en/data/events_sector_geniocracy.xml.append:51
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/choice[1]/text"
+msgstr "Check the storage."
+
+#: src-en/data/events_sector_geniocracy.xml.append:55
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_geniocracy.xml.append:61
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "Offer to buy a Shell off them."
+
+#: src-en/data/events_sector_geniocracy.xml.append:63
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/event/text"
+msgstr ""
+"\"Whaddya mean a Shell? These guys are all dead, I can tell yo- wait, what "
+"was that?\" The smuggler rustles off-screen and comes back a few moments "
+"later. \"Alright, I dunno what psycho powers you got there, but we somehow "
+"brought an alive one onboard that's making a real fuss in our cargo. This "
+"the fella you wanted?\""
+
+#: src-en/data/events_sector_geniocracy.xml.append:69
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_geniocracy.xml.append:80
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_MERCENARY\"]/mod:findWithChildLike/mod:selector"
+msgstr "Attack the mercenaries."

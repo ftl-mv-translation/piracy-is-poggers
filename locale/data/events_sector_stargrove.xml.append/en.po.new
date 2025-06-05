@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_stargrove.xml.append:5
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
+"append:choice/text"
+msgstr "(Pirate Rep 2+) Remind the Highwayman of your good reputation."
+
+#: src-en/data/events_sector_stargrove.xml.append:7
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"You inform the pirate that you've helped out pirates on multiple occasions.\n"
+"\t\n"
+"\t\t\t\t\"Bah. you've done good things for some of my friends, it's true. You have my respect. In that case, I'll offer you my friends-only discount. Or would you prefer to do this the hard way?\""
+
+#: src-en/data/events_sector_stargrove.xml.append:11
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "Pay up."
+
+#: src-en/data/events_sector_stargrove.xml.append:13
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+"The pirate collects his toll from you, with a slight frown. \"Move along, "
+"Renegade. We have upgrades to perform.\""
+
+#: src-en/data/events_sector_stargrove.xml.append:20
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
+"append:choice/event/choice[@req=\"loc_scrap\"]/text"
+msgstr "We don't even have 40~. Could we make some other deal?"
+
+#: src-en/data/events_sector_stargrove.xml.append:24
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
+"append:choice/event/choice[3]/text"
+msgstr "That offer is still unacceptable."
+
+#: src-en/data/events_sector_stargrove.xml.append:33
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "Attack the mercenary."
+
+#: src-en/data/events_sector_stargrove.xml.append:43
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "Avoid the pirates."
+
+#: src-en/data/events_sector_stargrove.xml.append:47
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice[1]/text"
+msgstr "(Mercenary Rep 2+) Ask the mercenary to leave the smuggler alone."
+
+#: src-en/data/events_sector_stargrove.xml.append:49
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"The mercenary is initially hesitant to drop the chase, but eventually "
+"relents. \"Pah, fine. I have no intention of pissing off a loyal customer as"
+" much as I want to kill these smug bastards, and we need to refuel "
+"anyways.\" They turn to face the smugglers. \"Don't think this is over. As "
+"soon as we refuel and the Renegade is done with your services, we'll be "
+"right back on your tail.\" The mercenary jumps away."
+
+#: src-en/data/events_sector_stargrove.xml.append:51
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Contact the smuggler."
+
+#: src-en/data/events_sector_stargrove.xml.append:57
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice[2]/text"
+msgstr "Avoid the pirates."
+
+#: src-en/data/events_sector_stargrove.xml.append:59
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"The two ships continue their dance through the stars as you prepare to "
+"leave."
+
+#: src-en/data/events_sector_stargrove.xml.append:61
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_stargrove.xml.append:65
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_stargrove.xml.append:74
+msgid ""
+"data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_SMUGGLER_STORE\"]/mod-"
+"append:choice/text"
+msgstr "Continue..."
