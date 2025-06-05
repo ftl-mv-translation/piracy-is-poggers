@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-06-06 10:50+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_moralityxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -124,7 +124,7 @@ msgstr ""
 "[РЕПУТАЦИЯ СНИЖЕНА - КОНТРАБАНДИСТЫ].\n"
 "Ваши действия здесь плохо отразятся на контрабандистах, которые могут предложить вам свои услуги. Они больше не смогут предложить вам более выгодные сделки, если вы до этого пользовались хорошей репутацией.\n"
 "\n"
-"За ваши усилия по уничтожению флота Аргеонна ваша репутация была снижена двое."
+"За ваши усилия по уничтожению флота Арджонна ваша репутация была снижена двое."
 
 #: src-en/data/events_special_morality.xml.append:187
 msgid ""
