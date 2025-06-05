@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
+"PO-Revision-Date: 2025-06-05 10:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_stargrovexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -48,6 +48,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_stargrove.xml.append:33
+#, fuzzy
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[1]/mod:selector"
 msgstr "攻击雇佣兵。"
