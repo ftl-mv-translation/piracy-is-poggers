@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-05 06:42+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/piracy-is-poggers/"
+"dataevents_sector_gatheringxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_gathering.xml.append:16
 msgid ""
@@ -243,7 +250,8 @@ msgstr "교전을 피한다."
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[2]/event/text"
-msgstr "신디케이트와 배회자들이 사이가 좋지 않은 만큼, 이 사건에 관여할 이유는 없습니다."
+msgstr "신디케이트와 배회자들이 사이가 좋지 않은 만큼, 이 사건에 관여할 이유는 "
+"없습니다."
 
 #: src-en/data/events_sector_gathering.xml.append:185
 msgid ""
