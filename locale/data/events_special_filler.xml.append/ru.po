@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-06 10:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-06-12 23:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_fillerxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1190,7 +1190,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_filler.xml.append:1146
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[3]/text"
-msgstr "Вы переходите к разбору гражданского корабля, на котором теперь уже нету экипажа. Ничего особенного не осталось, но он все равно принесет вам немного лома."
+msgstr "Вы переходите к разбору гражданского корабля, на котором теперь уже нет экипажа. Ничего особенного не осталось, но он все равно принесет вам немного лома."
 
 #: src-en/data/events_special_filler.xml.append:1149
 msgid ""
@@ -1200,7 +1200,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_filler.xml.append:1154
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[4]/text"
-msgstr "Вы переходите к разбору гражданского корабля, на котором теперь уже нету экипажа. Ничего особенного не осталось, но он все равно принесет вам немного лома."
+msgstr "Вы переходите к разбору гражданского корабля, на котором теперь уже нет экипажа. Ничего особенного не осталось, но он все равно принесет вам немного лома."
 
 #: src-en/data/events_special_filler.xml.append:1157
 msgid ""
