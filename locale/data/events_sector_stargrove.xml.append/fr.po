@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 10:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-24 07:46+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_stargrovexmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Pirate Rep 2+) Rappelez au Brigand votre bonne réputation."
 
 #: src-en/data/events_sector_stargrove.xml.append:7
 msgid ""
