@@ -1,0 +1,23 @@
+<FTL>
+    <mod:findName name="EX_MIND_IMMUNITY" type="augBlueprint">
+        <mod:findLike type="desc">
+            <mod:selector>While Mind Control is powered to lvl 3, all allied crew gain complete MC immunity and adjacent vision on any ship.
+    
+	[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Mind Control system.</mod:selector>
+            <mod:setValue>Если Контроль Разума запитан до 3 уровня, все союзники получают иммунитет к КР и информацию о ближайших отсеках на любом корабле.
+    
+Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из меню Встроенных улучшений, если у вас есть Контроль разума.</mod:setValue>
+        </mod:findLike>
+    </mod:findName>
+	
+    <mod:findName name="EX_MIND_BUFF" type="augBlueprint">
+        <mod:findLike type="desc">
+            <mod:selector>While Mind Control is powered, allied crew gain a 15% buff to repair and combat damage, and heal twice as fast.
+    
+	[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Mind Control system.</mod:selector>
+            <mod:setValue>Если Контроль Разума запитан, союзный экипаж получает +15% к ремонту и боевому урону, а также лечится на 50% быстрее.
+
+Так как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, но занимает слот модуля. Может быть бесплатно конвертировано во встроенную версию из меню Встроенных улучшений, если у вас есть Контроль разума.</mod:setValue>
+        </mod:findLike>
+    </mod:findName>
+</FTL>
