@@ -275,7 +275,7 @@
     <name>rock_crusader</name>
     <name>rock_paladin</name>
     <name>crystal_sentinel</name>
-    <name>orchid_chieftain</name>
+    <name>orchid_praetor</name>
     <name>orchid_cultivator</name>
     <name>shell_radiant</name>
     <name>leech_ampere</name>
@@ -299,7 +299,7 @@
     <name>mantis_warlord</name>
     <name>rock_crusader</name>
     <name>crystal_sentinel</name>
-    <name>orchid_chieftain</name>
+    <name>orchid_praetor</name>
     <name>orchid_cultivator</name>
     <name>shell_radiant</name>
     <name>leech_ampere</name>
@@ -416,7 +416,7 @@
 
 	  <name>engi_defender</name>
 	  <name>human_technician</name>
-	  <name>orchid_chieftain</name>
+	  <name>orchid_praetor</name>
 	  <name>mantis_warlord</name>
 	  <name>rock_cultist</name>
 	  <name>shell_radiant</name>
@@ -438,7 +438,7 @@
 
 	  <name>engi_defender</name>
 	  <name>human_technician</name>
-	  <name>orchid_chieftain</name>
+	  <name>orchid_praetor</name>
 	  <name>mantis_warlord</name>
 	  <name>rock_cultist</name>
 	  <name>shell_radiant</name>
@@ -539,7 +539,7 @@
   </blueprintList>
   <blueprintList name="LIST_SLAVES_ANAEROBIC_ELITE">
     <name>engi_defender</name>
-    <name>orchid_chieftain</name>
+    <name>orchid_praetor</name>
     <name>crystal_sentinel</name>
     <name>lanius_welder</name>
     <name>phantom_alpha</name>
@@ -629,20 +629,23 @@
     <name>CRYSTAL_HEAVY_2_RED</name>
     <name>CRYSTAL_SHOTGUN_RED</name>
 
-    <name>LASER_BURST_8</name>
+    <name>LASER_HULL_3_PLAYER</name>
     <name>LASER_FROST_2_PLAYER</name>
+	<name>LASER_FIRE_PLAYER</name>
     <name>MISSILES_PARTICLE_PLAYER</name>
     <name>ION_STUN_CHARGEGUN_PLAYER</name>
-    <name>MISSILES_BURST_2_PLAYER</name>
+	<name>ION_FIRE_PLAYER</name>
+	<name>MISSILES_BURST_2_PLAYER</name>
     <name>MISSILES_FIRE_PLAYER</name>
-	<name>BEAM_LONG_PLAYER</name>
+	<name>MISSILES_CLOAK_PLAYER</name>
     <name>BEAM_2_PLAYER</name>
+	<name>BEAM_LONG_PLAYER</name>
     <name>BEAM_GUILLOTINE_PLAYER</name>
     <name>ENERGY_2_PLAYER</name>
     <name>ENERGY_STUN_PLAYER</name>
     <name>ENERGY_CHARGEGUN_PLAYER</name>
-    <name>SHOTGUN_2_PLAYER</name>
     <name>SHOTGUN_TOXIC_PLAYER</name>
+	<name>SHOTGUN_2_PLAYER</name>
   </blueprintList>
 	
   <blueprintList name="PIP_LIST_SMUGGLER_WEAPON_GOOD"> <!--Literally same as above list but minus burst laser 4 and everything else has the same drop rate-->
@@ -676,19 +679,23 @@
 	  <name>CRYSTAL_HEAVY_2_RED</name>
 	  <name>CRYSTAL_SHOTGUN_RED</name>
 
+	  <name>LASER_HULL_3_PLAYER</name>
 	  <name>LASER_FROST_2_PLAYER</name>
+	  <name>LASER_FIRE_PLAYER</name>
 	  <name>MISSILES_PARTICLE_PLAYER</name>
 	  <name>ION_STUN_CHARGEGUN_PLAYER</name>
+	  <name>ION_FIRE_PLAYER</name>
 	  <name>MISSILES_BURST_2_PLAYER</name>
 	  <name>MISSILES_FIRE_PLAYER</name>
-	  <name>BEAM_LONG_PLAYER</name>
+	  <name>MISSILES_CLOAK_PLAYER</name>
 	  <name>BEAM_2_PLAYER</name>
+	  <name>BEAM_LONG_PLAYER</name>
 	  <name>BEAM_GUILLOTINE_PLAYER</name>
 	  <name>ENERGY_2_PLAYER</name>
 	  <name>ENERGY_STUN_PLAYER</name>
 	  <name>ENERGY_CHARGEGUN_PLAYER</name>
-	  <name>SHOTGUN_2_PLAYER</name>
 	  <name>SHOTGUN_TOXIC_PLAYER</name>
+	  <name>SHOTGUN_2_PLAYER</name>
   </blueprintList>
 
   <mod:findName type="blueprintList" name="LIST_CONTRABAND_AUGMENT_SMUGGLER">
@@ -716,13 +723,16 @@
   </blueprintList>
 
   <blueprintList name="LIST_CONTRABAND_WEAPON_SMUGGLER_SPECIAL">
-    <name>LASER_FROST_2_PLAYER</name>
+	<name>LASER_HULL_3_PLAYER</name>
+	<name>LASER_FROST_2_PLAYER</name>
+	<name>LASER_FIRE_PLAYER</name>
     <name>MISSILES_PARTICLE_PLAYER</name>
     <name>ION_STUN_CHARGEGUN_PLAYER</name>
+	<name>ION_FIRE_PLAYER</name>
+	<name>MISSILES_BURST_2_PLAYER</name>
     <name>MISSILES_FIRE_PLAYER</name>
 	<name>BEAM_LONG_PLAYER</name>
     <name>BEAM_2_PLAYER</name>
-    <name>BEAM_FIRE_PLAYER</name>
     <name>BEAM_GUILLOTINE_PLAYER</name>
     <name>ENERGY_2_PLAYER</name>
     <name>ENERGY_STUN_PLAYER</name>
@@ -744,14 +754,17 @@
   </blueprintList>
 
   <blueprintList name="LIST_CONTRABAND_WEAPON_SMUGGLER_POWER">
+	<name>LASER_HULL_3_PLAYER</name>
     <name>LASER_FROST_2_PLAYER</name>
+	<name>LASER_FIRE_PLAYER</name>
     <name>MISSILES_PARTICLE_PLAYER</name>
     <name>ION_STUN_CHARGEGUN_PLAYER</name>
+	<name>ION_FIRE_PLAYER</name>
+	<name>MISSILES_BURST_2_PLAYER</name>
     <name>MISSILES_FIRE_PLAYER</name>
 	<name>MISSILES_CLOAK_PLAYER</name>
     <name>BEAM_2_PLAYER</name>
 	<name>BEAM_LONG_PLAYER</name>
-    <name>BEAM_FIRE_PLAYER</name>
     <name>BEAM_GUILLOTINE_PLAYER</name>
     <name>ENERGY_2_PLAYER</name>
     <name>ENERGY_STUN_PLAYER</name>

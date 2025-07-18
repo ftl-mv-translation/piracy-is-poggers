@@ -91,9 +91,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/piracy-is-poggers/raw/piracy-is-poggers-english/Piracy_is_Poggers_2.7.1.zip",
+            "https://github.com/ftl-mv-translation/piracy-is-poggers/raw/piracy-is-poggers-english/Piracy_is_Poggers_2.7.2.zip",
         ],
         "prefix": "Piracy-is-Poggers",
-        "version": "2.7.1"
+        "version": "2.7.2"
     }
 }
