@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 13:11+0000\n"
+"PO-Revision-Date: 2025-08-02 16:06+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/mod-appendixmetadataxml/fr/>\n"
 "Language: fr\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr "Piracy is Poggers"
+msgstr "Addon PIRACY IS POGGERS (Etre pirate c'est génial !)"
 
 #: src-en/mod-appendix/metadata.xml:6
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
