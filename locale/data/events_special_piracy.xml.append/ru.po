@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-29 13:34+0000\n"
+"PO-Revision-Date: 2025-09-18 09:18+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -11375,7 +11375,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_piracy.xml.append:10743
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_AETHERDRONE\"]/text"
-msgstr "\"Вот я думал, что моя система дронов крутая, а тут появляется эта штука и сбивает всех моих дронов! У меня есть несколько сканов схемі дрона для себя, чтобы использовать позже, хех. Но все равно придется передать вам оригинальные схемы\". Вы благодарите наемника и отправляетесь по своим делам на борту корабля."
+msgstr "\"Вот я думал, что моя система дронов крутая, а тут появляется эта штука и сбивает всех моих дронов! У меня есть несколько сканов схемы дрона для себя, чтобы использовать позже, хех. Но все равно придется передать вам оригинальные схемы\". Вы благодарите наемника и отправляетесь по своим делам на борту корабля."
 
 #: src-en/data/events_special_piracy.xml.append:10747
 msgid ""
