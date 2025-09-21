@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-10 13:11+0000\n"
+"PO-Revision-Date: 2025-09-21 19:27+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/fr/>\n"
 "Language: fr\n"
@@ -464,7 +464,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:477
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:483
 msgid ""
@@ -484,7 +484,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:494
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_MEDIC\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:500
 msgid ""
@@ -504,7 +504,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:511
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ENGINEER_EASTER\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:517
 msgid ""
@@ -524,7 +524,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:528
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:534
 msgid ""
@@ -544,7 +544,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:545
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:551
 msgid ""
@@ -564,7 +564,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:562
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:568
 msgid ""
@@ -584,7 +584,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:579
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_monk\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves est perplexe quant à la raison pour laquelle vous lui vendez un moine, mais se dit qu’il pourra quand même être utile pour fournir de l’énergie et occuper des postes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves est perplexe quant à la raison pour laquelle vous lui vendez un moine, mais se dit qu'il pourra quand même être utile pour fournir de l'énergie et occuper des postes."
 
 #: src-en/data/events_special_piracy.xml.append:585
 msgid ""
@@ -604,7 +604,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:596
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_devotee\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:602
 msgid ""
@@ -624,7 +624,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:613
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_osmian\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:619
 msgid ""
@@ -644,7 +644,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:630
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:636
 msgid ""
@@ -664,7 +664,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:647
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_caretaker\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:653
 msgid ""
@@ -684,7 +684,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:664
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_vampweed\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:670
 msgid ""
@@ -704,7 +704,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:681
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:687
 msgid ""
@@ -724,7 +724,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:698
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_scientist\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:704
 msgid ""
@@ -744,7 +744,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:715
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_mechanic\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:721
 msgid ""
@@ -764,7 +764,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:732
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_guardian\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:738
 msgid ""
@@ -784,7 +784,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:749
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:755
 msgid ""
@@ -804,7 +804,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:766
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_free\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:772
 msgid ""
@@ -824,7 +824,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:783
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"PIP_LIST_CREW_ROCK_EASTER\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:789
 msgid ""
@@ -844,7 +844,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:800
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_outcast\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:806
 msgid ""
@@ -864,7 +864,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:817
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_commando\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:823
 msgid ""
@@ -884,7 +884,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:834
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_cultist\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:840
 msgid ""
@@ -904,7 +904,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:851
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:857
 msgid ""
@@ -924,7 +924,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:868
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_liberator\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:874
 msgid ""
@@ -944,7 +944,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:885
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:891
 msgid ""
@@ -964,7 +964,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:902
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_VARIANT_HEKTAR\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:908
 msgid ""
@@ -984,7 +984,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:919
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_clansman\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:925
 msgid ""
@@ -1004,7 +1004,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:936
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:942
 msgid ""
@@ -1024,7 +1024,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:953
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:959
 msgid ""
@@ -1044,7 +1044,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:970
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:976
 msgid ""
@@ -1064,7 +1064,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:987
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:993
 msgid ""
@@ -1084,7 +1084,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1004
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:1010
 msgid ""
@@ -1104,7 +1104,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1021
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:1027
 msgid ""
@@ -1124,7 +1124,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1038
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_augmented\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:1044
 msgid ""
@@ -1144,7 +1144,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1055
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_soldier\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1061
 msgid ""
@@ -1164,7 +1164,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1072
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_mfk\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous remet une grande quantité de ferraille en échange de l’équipage super élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous remet une grande quantité de ferraille en échange de l'équipage super élite."
 
 #: src-en/data/events_special_piracy.xml.append:1078
 msgid ""
@@ -1184,7 +1184,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1089
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous remet une grande quantité de ferraille en échange de l’équipage ultra élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous remet une grande quantité de ferraille en échange de l'équipage ultra élite."
 
 #: src-en/data/events_special_piracy.xml.append:1095
 msgid ""
@@ -1204,7 +1204,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1106
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_legion_pyro\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous remet une grande quantité de ferraille en échange de l’équipage ultra élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous remet une grande quantité de ferraille en échange de l'équipage ultra élite."
 
 #: src-en/data/events_special_piracy.xml.append:1112
 msgid ""
@@ -1224,7 +1224,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1123
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_technician\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1129
 msgid ""
@@ -1244,7 +1244,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1140
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"human_angel\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous remet une grande quantité de ferraille en échange de l’équipage super élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous remet une grande quantité de ferraille en échange de l'équipage super élite."
 
 #: src-en/data/events_special_piracy.xml.append:1146
 msgid ""
@@ -1264,7 +1264,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1157
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"engi_defender\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1163
 msgid ""
@@ -1284,7 +1284,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1174
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_peacekeeper\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1180
 msgid ""
@@ -1304,7 +1304,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1191
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"zoltan_martyr\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1197
 msgid ""
@@ -1324,7 +1324,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1208
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_praetor\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1214
 msgid ""
@@ -1344,7 +1344,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1225
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"orchid_cultivator\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1231
 msgid ""
@@ -1364,7 +1364,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1242
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_suzerain\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1248
 msgid ""
@@ -1384,7 +1384,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1259
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_warlord\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1265
 msgid ""
@@ -1404,7 +1404,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1276
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"mantis_bishop\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous remet une grande quantité de ferraille en échange de l’équipage super élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous remet une grande quantité de ferraille en échange de l'équipage super élite."
 
 #: src-en/data/events_special_piracy.xml.append:1282
 msgid ""
@@ -1424,7 +1424,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1293
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_crusader\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1299
 msgid ""
@@ -1444,7 +1444,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1310
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"rock_paladin\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous remet une grande quantité de ferraille en échange de l’équipage super élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous remet une grande quantité de ferraille en échange de l'équipage super élite."
 
 #: src-en/data/events_special_piracy.xml.append:1316
 msgid ""
@@ -1464,7 +1464,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1327
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"crystal_sentinel\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1333
 msgid ""
@@ -1484,7 +1484,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1344
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"shell_radiant\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1350
 msgid ""
@@ -1504,7 +1504,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1361
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"leech_ampere\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1367
 msgid ""
@@ -1524,7 +1524,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1378
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_saboteur\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1384
 msgid ""
@@ -1544,7 +1544,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1395
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_ranger\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1401
 msgid ""
@@ -1564,7 +1564,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1412
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"slug_knight\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous remet une grande quantité de ferraille en échange de l’équipage super élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous remet une grande quantité de ferraille en échange de l'équipage super élite."
 
 #: src-en/data/events_special_piracy.xml.append:1418
 msgid ""
@@ -1584,7 +1584,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1429
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_alpha\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1435
 msgid ""
@@ -1604,7 +1604,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1446
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_goul_alpha\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1452
 msgid ""
@@ -1624,7 +1624,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1463
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_mare_alpha\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1469
 msgid ""
@@ -1644,7 +1644,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1480
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"phantom_wraith_alpha\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1486
 msgid ""
@@ -1664,7 +1664,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1497
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lanius_welder\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous offre une compensation supplémentaire pour cet équipage d’élite."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous offre une compensation supplémentaire pour cet équipage d'élite."
 
 #: src-en/data/events_special_piracy.xml.append:1503
 msgid ""
@@ -1784,7 +1784,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1599
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"lizard\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes."
 
 #: src-en/data/events_special_piracy.xml.append:1605
 msgid ""
@@ -1804,7 +1804,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1616
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_COGNITIVE\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous paie de la ferraille en plus pour le cognitif exotique."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous paie de la ferraille en plus pour le cognitif exotique."
 
 #: src-en/data/events_special_piracy.xml.append:1622
 msgid ""
@@ -1824,7 +1824,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1633
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"LIST_CREW_RCOGNITIVE\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous paie de la ferraille en plus pour le puissant cognitif exotique."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous paie de la ferraille en plus pour le puissant cognitif exotique."
 
 #: src-en/data/events_special_piracy.xml.append:1639
 msgid ""
@@ -1844,7 +1844,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1650
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous paie de la ferraille en plus pour l'Obélisque exotique."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous paie de la ferraille en plus pour l'Obélisque exotique."
 
 #: src-en/data/events_special_piracy.xml.append:1656
 msgid ""
@@ -1864,7 +1864,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:1667
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SLAVER_SELL_CREW\"]/choice[@req=\"obelisk_royal\"]/event/text"
-msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu’ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d’esclaves vous paie de la ferraille en plus pour le puissant et exotique Obélisque."
+msgstr "Votre équipage refuse d'abord de partir, jusqu'à ce que vous expliquiez qu'ils vont rejoindre l'équipage du marchand d'esclaves, et non devenir esclaves eux-mêmes. Une fois la situation clarifiée, ils acceptent, en partie parce qu'ils ont toujours été curieux de découvrir le mode de vie des esclavagistes. Le marchand d'esclaves vous paie de la ferraille en plus pour le puissant et exotique Obélisque."
 
 #: src-en/data/events_special_piracy.xml.append:1673
 msgid ""
