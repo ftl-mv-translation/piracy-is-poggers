@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-22 17:20+0000\n"
+"PO-Revision-Date: 2025-09-25 17:26+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/fr/>\n"
 "Language: fr\n"
@@ -2581,7 +2581,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2426
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[2]/text"
-msgstr "Engagez le mercenaire pour retarder les rebelles."
+msgstr "Engager le mercenaire pour retarder les rebelles."
 
 #: src-en/data/events_special_piracy.xml.append:2428
 msgid ""
@@ -2596,7 +2596,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:2440
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[3]/text"
-msgstr "Engagez le mercenaire pour explorer le secteur."
+msgstr "Engager le mercenaire pour explorer le secteur."
 
 #: src-en/data/events_special_piracy.xml.append:2442
 msgid ""
@@ -2611,7 +2611,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:2455
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[4]/text"
-msgstr "Engagez le mercenaire pour retarder les rebelles."
+msgstr "Engager le mercenaire pour retarder les rebelles."
 
 #: src-en/data/events_special_piracy.xml.append:2457
 msgid ""
@@ -2626,7 +2626,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:2469
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[5]/text"
-msgstr "Engagez le mercenaire pour explorer le secteur."
+msgstr "Engager le mercenaire pour explorer le secteur."
 
 #: src-en/data/events_special_piracy.xml.append:2471
 msgid ""
@@ -2677,7 +2677,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2518
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[1]/text"
-msgstr "Engagez le mercenaire pour retarder les rebelles."
+msgstr "Engager le mercenaire pour retarder les rebelles."
 
 #: src-en/data/events_special_piracy.xml.append:2520
 msgid ""
@@ -2692,7 +2692,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:2532
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[2]/text"
-msgstr "Engagez le mercenaire pour explorer le secteur."
+msgstr "Engager le mercenaire pour explorer le secteur."
 
 #: src-en/data/events_special_piracy.xml.append:2534
 msgid ""
@@ -2802,7 +2802,7 @@ msgstr ""
 #: src-en/data/events_special_piracy.xml.append:2617
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[1]/text"
-msgstr "Engagez le mercenaire pour retarder les rebelles."
+msgstr "Engager le mercenaire pour retarder les rebelles."
 
 #: src-en/data/events_special_piracy.xml.append:2619
 msgid ""
@@ -2817,7 +2817,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_piracy.xml.append:2631
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[2]/text"
-msgstr "Engagez le mercenaire pour explorer le secteur."
+msgstr "Engager le mercenaire pour explorer le secteur."
 
 #: src-en/data/events_special_piracy.xml.append:2633
 msgid ""
@@ -3006,7 +3006,7 @@ msgstr ""
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr "Engagez le mercenaire pour retarder les rebelles."
+msgstr "Engager le mercenaire pour retarder les rebelles."
 
 #: src-en/data/events_special_piracy.xml.append:3082
 msgid ""
@@ -3024,7 +3024,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_piracy.xml.append$//mod:findName[@name=\"MERCENARY_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr "Engagez le mercenaire pour explorer le secteur."
+msgstr "Engager le mercenaire pour explorer le secteur."
 
 #: src-en/data/events_special_piracy.xml.append:3096
 msgid ""
