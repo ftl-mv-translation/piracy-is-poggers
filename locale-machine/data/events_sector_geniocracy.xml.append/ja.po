@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_geniocracy.xml.append:13
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:selector"
+msgstr "興味を示す。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:16
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:19
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "(密輸業者評価2+) 彼らに通信し、化石について交渉する。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:22
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"密輸業者たちは今やあなたを認識しているが、それでも化石を諦めることには乗り気ではない。あなたは妥協案を提案する：あなたは生物学者を満足させるのに十分な数の化石だけを取り、化石の代償として密輸業者と取引をすることを申し出る。彼らはこれを考え、最終的に受け入れる。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:25
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr "化石を渡す。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:27
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"「おおお、やったんですね！こっれは素晴らしい。感謝の言葉もありません。ど-どうです、私があなたのために働くというのは？これらは自分の時間で研究できますし、労働で借りを返します！」"
+
+#: src-en/data/events_sector_geniocracy.xml.append:41
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/text"
+msgstr "(密輸業者評価2+) 落ち着け、我々はお前を報告しに来たわけじゃない。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:43
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"「ああ、あんたらか。まあ、残念ながらあんたらの興味を引くようなものは何もないんだ。今は高値で買ってくれる客のために、この硬い殻の外装を密輸してる最中だ。近くにあんたらのニーズにもっと合うものを持ってる奴を知ってるから、そいつをチェックしてみるといい」"
+
+#: src-en/data/events_sector_geniocracy.xml.append:47
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "彼らに感謝し、この時間を使って船内で何かをする。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:49
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr "あなたは彼らに情報提供の礼を言い、旅の幸運を祈る。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:51
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/choice[1]/text"
+msgstr "倉庫を確認する。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:55
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:61
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "彼らからシェルを一体買うことを申し出る。"
+
+#: src-en/data/events_sector_geniocracy.xml.append:63
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/event/text"
+msgstr ""
+"「シェルだぁ？こいつらはみんな死んでる、俺に言わせりゃ…待て、今の何だ？」密輸業者は画面の外でごそごそと動き、数秒後に戻ってくる。「分かった、あんたがどんなサイコパワーを持ってるかは知らんが、どうやら生きてる奴を船に乗せちまったらしくてな、積荷の中で大騒ぎしてる。こいつがあんたが欲しかった奴か？」"
+
+#: src-en/data/events_sector_geniocracy.xml.append:69
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:80
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_MERCENARY\"]/mod:findWithChildLike/mod:selector"
+msgstr "傭兵を攻撃する。"

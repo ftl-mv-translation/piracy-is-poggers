@@ -1,0 +1,270 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_gathering.xml.append:16
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "移民センターを防衛する。"
+
+#: src-en/data/events_sector_gathering.xml.append:26
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "現場を避ける。"
+
+#: src-en/data/events_sector_gathering.xml.append:30
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/text"
+msgstr "(傭兵評価2+) 傭兵に通信し、支援を申し出る。"
+
+#: src-en/data/events_sector_gathering.xml.append:32
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"「おっと、良いタイミングだな。俺たちの通信を傍受したんだろう。神政国家の船に雇われて、ロスト・サンのコーベンって奴を追ってるんだ。そいつはこのセンターに隠れてる。だが残念なことに、連中は尋問のために生け捕りを望んでるんで、武器でここを破壊するわけにはいかねぇ。奴を捕まえるのに十分なクルーはいるんだが、死傷者を最小限に抑えるために、どうにかして警備員を排除する必要がある。その点で何か手伝ってくれると助かるんだがな」"
+
+#: src-en/data/events_sector_gathering.xml.append:34
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"mind\"]/text"
+msgstr "(マインドコントロール) 警備員たちを同士討ちさせる。"
+
+#: src-en/data/events_sector_gathering.xml.append:36
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"mind\"]/event/text"
+msgstr ""
+"あなたのマインドコントロールは、統制の取れていない警備員たちに効果的であることが証明される。あなたはまだ冷静さを保っている唯一の警備員と思われる警備隊長を見つけ、彼を操って他の警備員を武装解除させる。彼らが全員気絶するのに時間はかからなかった。"
+
+#: src-en/data/events_sector_gathering.xml.append:38
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"mind\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:44
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/text"
+msgstr "(ボーディング・ドローン) 傭兵のチームと共にボーディング・ドローンを送り込む。[-2|]"
+
+#: src-en/data/events_sector_gathering.xml.append:46
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/event/text"
+msgstr ""
+"あなたは警備員の注意を引くためにボーディング・ドローンを送り込む。警備員たちは最初のドローンを破壊することに成功するが、あなたは2機目を送り込み、傭兵チームがすべての警備員を気絶させるのに十分な時間を与える。"
+
+#: src-en/data/events_sector_gathering.xml.append:51
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:57
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"hacking\"]/text"
+msgstr "(ハッキング) センターの警備システムを攪乱する。[-1|]"
+
+#: src-en/data/events_sector_gathering.xml.append:59
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+"あなたのハッキングにより、傭兵チームは妨害されることなくセンター内を進むことができる。あなたのハッキングが警備員たちを孤立させ、通信を無効化したおかげで、統制の取れていない警備員たちは簡単に武装解除される。"
+
+#: src-en/data/events_sector_gathering.xml.append:64
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:70
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"slug_saboteur\"]/text"
+msgstr "(破壊工作員クルー) あなたのクルーがセンターの警備システムを攪乱できる。"
+
+#: src-en/data/events_sector_gathering.xml.append:72
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"slug_saboteur\"]/event/text"
+msgstr ""
+"あなたのクルーは施設内に忍び込み、酔っぱらった警備員から警備室の制御を奪う。彼らの助けのおかげで、傭兵チームは統制の取れていない警備員を一人ずつ特定し、抵抗されることなく武装解除することができた。"
+
+#: src-en/data/events_sector_gathering.xml.append:74
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"slug_saboteur\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:80
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"rock_paladin\"]/text"
+msgstr "(パラディンクルー) あなたのクルーが突撃を率いることができる。"
+
+#: src-en/data/events_sector_gathering.xml.append:82
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"rock_paladin\"]/event/text"
+msgstr ""
+"あなたのパラディンは弾を受け止めるのに適任であるだけでなく、ロスト・サンの捕獲がうまくいくようにと熱望している。彼らは即席の構造物を突き破り、途中で数人の警備員をなぎ倒し、その間ずっと統制の取れていない警備員の砲火を引きつける。予想通り、傭兵チームが残りの警備員を武装解除する頃には、あなたのクルーはほとんど負傷していなかった。"
+
+#: src-en/data/events_sector_gathering.xml.append:84
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"rock_paladin\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:90
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"CREW_FIREARMS\"]/text"
+msgstr ""
+"あなたは改良された火器を傭兵に提供するが、彼は断る。「これだけでは不十分だ。接近する前に気絶させるか、簡単に倒せるように孤立させるか、あるいは我々のために盾になってくれる者が必要だ。」"
+
+#: src-en/data/events_sector_gathering.xml.append:94
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"unique_irwin\"]/text"
+msgstr ""
+"あなたが専門知識を求めてアーウィンに近づくと、彼は首を横に振る。シンジケートでの経験から、彼はその組織の下にいる者なら誰でも警戒するようになったようだ。"
+
+#: src-en/data/events_sector_gathering.xml.append:98
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"unique_turzil\"]/text"
+msgstr ""
+"タージルは傭兵たちを助けることを拒否する。「この[無実の者たち]への攻撃は不当だ。これを支援することは-ない-。私、[要求する]、他の者に頼むように。」"
+
+#: src-en/data/events_sector_gathering.xml.append:102
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[@req=\"unique_ariadne\"]/text"
+msgstr ""
+"アリアドネが、コーベンが追われていると聞くやいなや自室に閉じこもったことにあなたは気づく。彼女が提供できたであろういかなる助けも、もはや期待できない。"
+
+#: src-en/data/events_sector_gathering.xml.append:106
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:108
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/event/text"
+msgstr "「それは残念だ。では失礼するが、チームと攻撃計画を立て直さなければならない。」二人は頷き、通信を切る。"
+
+#: src-en/data/events_sector_gathering.xml.append:110
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:114
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[1]/event/choice[10]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:122
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/text"
+msgstr "現場を避ける。"
+
+#: src-en/data/events_sector_gathering.xml.append:124
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/event/text"
+msgstr "これに関わる理由はあまりなく、いずれにせよ危険な可能性がある。"
+
+#: src-en/data/events_sector_gathering.xml.append:126
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:130
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:138
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"PIP_ORCHID_REFUGEES_MERCENARY_WIN\"]/text"
+msgstr ""
+"警備員がいなくなり、傭兵チームはコーベンを簡単に見つけ出す。彼は反撃して他の移民の命を危険にさらすよりは降伏することを選ぶ。彼が彼らの船に護送されると、傭兵の船長はあなたの船にスクラップをいくつか持ってくる。「今日の援助に感謝する！これは報酬の分け前だ。おまけに、この囚人を引き渡したら、艦隊に対して時間を稼いでやろう」"
+
+#: src-en/data/events_sector_gathering.xml.append:142
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"PIP_ORCHID_REFUGEES_MERCENARY_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:149
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "オーキッド船を助ける。"
+
+#: src-en/data/events_sector_gathering.xml.append:159
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:163
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/text"
+msgstr "(傭兵評価2+) シンジケートを説得して彼らを見逃させる。"
+
+#: src-en/data/events_sector_gathering.xml.append:165
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"あなたはシンジケートの船と状況を話し合う。彼らは報酬を諦めることに乗り気ではないようだが、あなたは彼らを説得し、クライアントには仕事をしたと信じ込ませて報酬を得つつ、親衛隊の優先リストに載らないようにできると納得させる。傭兵はオーキッドたちに向き直り、警告する。「おい、いい子にして死んだふりをしろ！さもなきゃ、すぐに戻ってきて仕事を終わらせるぞ！」傭兵たちがジャンプして去ると、フローラルはあなたに感謝し、手話で連れて行ってくれと懇願する。「お願いです、私が共産主義を捨てようとする過激派の独房に関わって以来、私を殺したい人々にどこまでも追われています！昔の生活には戻れませんが、あなたと一緒なら新しい人生を見つけられるかもしれません！」"
+
+#: src-en/data/events_sector_gathering.xml.append:167
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr "彼らを船に乗せる。"
+
+#: src-en/data/events_sector_gathering.xml.append:173
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr "断って、代わりの支払いを求める。"
+
+#: src-en/data/events_sector_gathering.xml.append:181
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:183
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/event/text"
+msgstr "シンジケートとレネゲイドが仲が悪いのは確かだが、この件に関わる理由はない。"
+
+#: src-en/data/events_sector_gathering.xml.append:185
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:189
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr ""

@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_ministry.xml.append:22
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:selector"
+msgstr "彼らが誰を売っているか見てみる。"
+
+#: src-en/data/events_sector_ministry.xml.append:25
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "ゾルタンを購入する。"
+
+#: src-en/data/events_sector_ministry.xml.append:39
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "(奴隷商人評価2+) ゾルタンの戦士を見せるよう頼む。"
+
+#: src-en/data/events_sector_ministry.xml.append:41
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"「ああ、あんたらか。まあ、気まずいな、ちょうどこの奴隷を騙して買わせようとしてたところだ。こいつは元は訓練されたゾルタンの戦士だったんだが、平和主義の修道士になっちまった。よし、もうバレたからには仕方ない、修道士を安値で提供するぜ、きっと他の方法で役立つだろう…」"
+
+#: src-en/data/events_sector_ministry.xml.append:43
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "修道士を購入する。"
+
+#: src-en/data/events_sector_ministry.xml.append:45
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+"奴隷商人たちは修道士を引き渡して別れを告げる。彼らが去った後、あなたは新しいクルーと話をする。彼は状況を説明する。「私はかつて訓練されたゾルタンの戦士でしたが、やがて光を見て修道士に加わりました。しかし、その後まもなくこの男たちに誘拐されました。あなたは私を奴隷の身から救ってくれました。これからはあなたに仕えます。皮肉なことですがね」"
+
+#: src-en/data/events_sector_ministry.xml.append:51
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:57
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:68
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "法典の代金を支払う。"
+
+#: src-en/data/events_sector_ministry.xml.append:78
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "それのために戦うだけだ。"
+
+#: src-en/data/events_sector_ministry.xml.append:88
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:91
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[3]/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "法典の代金を支払う。"
+
+#: src-en/data/events_sector_ministry.xml.append:101
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod:findWithChildLike[3]/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "それのために戦うだけだ。"
+
+#: src-en/data/events_sector_ministry.xml.append:113
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
+"append:choice/text"
+msgstr "(密輸業者評価2+) 丁重に本を譲ってもらうよう頼む。"
+
+#: src-en/data/events_sector_ministry.xml.append:115
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
+"append:choice/event/text"
+msgstr "「ああ、あんたか！まあ…正直なところ、このガラクタで大儲けできるとは思ってなかったんだ。持って行っていいぜ」"
+
+#: src-en/data/events_sector_ministry.xml.append:117
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "密輸業者に感謝する。"
+
+#: src-en/data/events_sector_ministry.xml.append:152
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_ARREST\"]/mod:findWithChildLike/mod:selector"
+msgstr "海賊のことをゾルタンに報告する。"
+
+#: src-en/data/events_sector_ministry.xml.append:155
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_ARREST\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:164
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "海賊は奴隷商人だったようだ。あなたの援助に感謝し、彼らは「労働者」の一人を無料で提供してくる。"
+
+#: src-en/data/events_sector_ministry.xml.append:166
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[1]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:171
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+"海賊は傭兵のようだ。皮肉なことに、反乱軍に雇われてあなたを追っていた。気まずい沈黙の後、あなたは取引を成立させ、彼らは艦隊に嘘をつくことを約束する。"
+
+#: src-en/data/events_sector_ministry.xml.append:173
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[2]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ministry.xml.append:178
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr ""
+"海賊は密輸業者のようだ。彼らは、クライアントが密告したために逮捕されたと説明する。あなたが彼らを救った今、彼らは代わりにあなたに売ることを申し出る。"
+
+#: src-en/data/events_sector_ministry.xml.append:183
+msgid ""
+"data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_CAPITAL_ARREST_WIN\"]/mod:findWithChildLike[3]/mod-"
+"append:choice/text"
+msgstr ""

@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_asteroid.xml.append:15
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/text"
+msgstr "問題の海賊船は、探知を避けるために小惑星帯に入ったところで見つかったようだ。彼らが逃げ去る前に追い詰めることができる。"
+
+#: src-en/data/events_sector_asteroid.xml.append:19
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:21
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/event/text"
+msgstr "一刻の猶予もないため、あなたは直ちに交戦する。積荷を傷つけないように注意しろ！"
+
+#: src-en/data/events_sector_asteroid.xml.append:24
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:30
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/text"
+msgstr "(海賊評価1+) 通信して積荷を買い取ることを申し出る。"
+
+#: src-en/data/events_sector_asteroid.xml.append:32
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/text"
+msgstr ""
+"海賊たちはまだ積荷をこじ開けていなかった。積荷の中身に賭けるよりも、確実なスクラップを手に入れた方が良いと判断し、彼らはあなたの申し出を受け入れる。"
+
+#: src-en/data/events_sector_asteroid.xml.append:37
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:39
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/text"
+msgstr "あなたは選択を迫られる。"
+
+#: src-en/data/events_sector_asteroid.xml.append:41
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/text"
+msgstr "リーチに連絡し、仕事が完了したことを知らせる。"
+
+#: src-en/data/events_sector_asteroid.xml.append:43
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"「素晴らしい！アーゲン共和国は君に深く感謝している。ただ…このことは誰にも言うなよ。連合全体のことを考えると、この協定はちょっと違法なんだが、君を殺す気にはなれん」"
+
+#: src-en/data/events_sector_asteroid.xml.append:46
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:52
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/text"
+msgstr "積荷を自分のものにする。"
+
+#: src-en/data/events_sector_asteroid.xml.append:54
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/text"
+msgstr "積荷を開けると、中にはドローンが入っていた。満足し、リーチを裏切る気になったあなたは、それを手に入れて立ち去る準備をする。"
+
+#: src-en/data/events_sector_asteroid.xml.append:57
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[@req=\"rep_pirate\"]/event/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_asteroid.xml.append:67
+msgid ""
+"data/events_sector_asteroid.xml.append$//event[@name=\"ASTEROID_TRANSPORT_PIRATES\"]/choice[3]/text"
+msgstr "積荷のことは忘れ、立ち去ろう。"

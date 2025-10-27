@@ -1,0 +1,169 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:5
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"RADIANT_GAS_UNLOCKED\"]/title"
+msgstr "ボツリヌス・ガス"
+
+#: src-en/data/blueprints.xml.append:6
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"RADIANT_GAS_UNLOCKED\"]/desc"
+msgstr ""
+"あなたの船に乗船した敵クルーの大半を即座に殺害する、非常に致死的で即効性のある神経毒。\n"
+"\n"
+"ドローンおよび以下の種族はこの増強パーツによるダメージを受けません：\n"
+"シェル、ラニアス、ゴースト、ヴァンプウィード。"
+
+#: src-en/data/blueprints.xml.append:18
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PALADIN_ARMOR_PLAYER_UNLOCKED\"]/title"
+msgstr "神聖装甲+"
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PALADIN_ARMOR_PLAYER_UNLOCKED\"]/desc"
+msgstr ""
+"先駆者の遺跡から採集したエーテルで強化され、ただでさえ頑丈なロックマンの装甲と融合した、極めて強固な装甲。通常の兵器による船体ダメージをすべて防ぎますが、亀裂兵器には抵抗できません。また、戦闘前に敵船に体当たりする機会も提供します。"
+
+#: src-en/data/blueprints.xml.append:27
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/title"
+msgstr "R.U.E.S.装甲"
+
+#: src-en/data/blueprints.xml.append:28
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/desc"
+msgstr "ロック装甲、マンティス・フェロモン、スラグ修復ゲルのすべての効果を兼ね備えた、非常に強力な装甲セット。"
+
+#: src-en/data/blueprints.xml.append:38
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/title"
+msgstr "エンジンO. C. Mk 5"
+
+#: src-en/data/blueprints.xml.append:39
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/desc"
+msgstr ""
+"オリジナルの「エンジン・オーバードライブ・キャパシタ Mk "
+"3」の改良版。旧モデルよりもダメージは少ないですが、移動速度を選択できます。速度が速いほど、受けるダメージも大きくなります。一度しか使用できません。"
+
+#: src-en/data/blueprints.xml.append:47
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/title"
+msgstr "防護スーツ"
+
+#: src-en/data/blueprints.xml.append:48
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/desc"
+msgstr ""
+"クルーをダメージから保護するために設計されたスーツのセット。あなたのクルーはすべての発生源からのダメージを30%軽減し、スタン時間も30%短縮されますが、戦闘ダメージ、移動速度、修理速度が10%低下します。"
+
+#: src-en/data/blueprints.xml.append:56
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/title"
+msgstr "損傷したゾルタン反応炉"
+
+#: src-en/data/blueprints.xml.append:57
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/desc"
+msgstr ""
+"ゾルタン船から盗まれた反応炉。反応炉の損傷やその他の技術的な問題により、スーパーシールドを1ポイントしか供給しません。主に敵のハッキング、マインドコントロール、テレポーターを遅延させるのに役立ち、ブルーオプションにも使用できます。"
+
+#: src-en/data/blueprints.xml.append:65
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/title"
+msgstr "加速リローダー"
+
+#: src-en/data/blueprints.xml.append:66
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/desc"
+msgstr ""
+"密輸業者が設計した試作リローダーで、各戦闘の開始時にパワー1で起動でき、45秒間、武器の発射速度を50%向上させます。しかし、その機構は持続可能ではなく、初期ブーストが切れた後は武器の発射速度が30%低下します。"
+
+#: src-en/data/blueprints.xml.append:74
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/title"
+msgstr "加速リローダーのブースト"
+
+#: src-en/data/blueprints.xml.append:75
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/desc"
+msgstr "45秒間、武器の発射速度を50%向上させます。これはゲーム内で表示されるべきではありません。"
+
+#: src-en/data/blueprints.xml.append:83
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/title"
+msgstr "加速リローダーのペナルティ"
+
+#: src-en/data/blueprints.xml.append:84
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/desc"
+msgstr "武器の発射速度が30%低下します。これはゲーム内で表示されるべきではありません。"
+
+#: src-en/data/blueprints.xml.append:92
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/title"
+msgstr "ミニ・ペイロード"
+
+#: src-en/data/blueprints.xml.append:93
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/desc"
+msgstr ""
+"標準的なマグネティック・ペイロードとは異なり、これらのミニ・ペイロードは、確実な火災発生効果を維持しつつ、それぞれ船体ダメージ1、システムダメージ2しか与えません。ただし、セットになっており、戦闘チェックオプションを消費することなく、戦闘ごとに一度使用できます。\n"
+"\t\n"
+"このスタックにはミニ・ペイロードが5個残っています。"
+
+#: src-en/data/blueprints.xml.append:103
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/title"
+msgstr "ミニ・ペイロード"
+
+#: src-en/data/blueprints.xml.append:104
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/desc"
+msgstr ""
+"標準的なマグネティック・ペイロードとは異なり、これらのミニ・ペイロードは、確実な火災発生効果を維持しつつ、それぞれ船体ダメージ1、システムダメージ2しか与えません。ただし、セットになっており、戦闘チェックオプションを消費することなく、戦闘ごとに一度使用できます。\n"
+"\n"
+"このスタックにはミニ・ペイロードが4個残っています。"
+
+#: src-en/data/blueprints.xml.append:114
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/title"
+msgstr "ミニ・ペイロード"
+
+#: src-en/data/blueprints.xml.append:115
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/desc"
+msgstr ""
+"標準的なマグネティック・ペイロードとは異なり、これらのミニ・ペイロードは、確実な火災発生効果を維持しつつ、それぞれ船体ダメージ1、システムダメージ2しか与えません。ただし、セットになっており、戦闘チェックオプションを消費することなく、戦闘ごとに一度使用できます。\n"
+"\n"
+"このスタックにはミニ・ペイロードが3個残っています。"
+
+#: src-en/data/blueprints.xml.append:125
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/title"
+msgstr "ミニ・ペイロード"
+
+#: src-en/data/blueprints.xml.append:126
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/desc"
+msgstr ""
+"標準的なマグネティック・ペイロードとは異なり、これらのミニ・ペイロードは、確実な火災発生効果を維持しつつ、それぞれ船体ダメージ1、システムダメージ2しか与えません。ただし、セットになっており、戦闘チェックオプションを消費することなく、戦闘ごとに一度使用できます。\n"
+"\n"
+"このスタックにはミニ・ペイロードが2個残っています。"
+
+#: src-en/data/blueprints.xml.append:136
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/title"
+msgstr "ミニ・ペイロード"
+
+#: src-en/data/blueprints.xml.append:137
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/desc"
+msgstr ""
+"標準的なマグネティック・ペイロードとは異なり、これらのミニ・ペイロードは、確実な火災発生効果を維持しつつ、それぞれ船体ダメージ1、システムダメージ2しか与えません。ただし、セットになっており、戦闘チェックオプションを消費することなく、戦闘ごとに一度使用できます。\n"
+"\n"
+"このスタックにはミニ・ペイロードが1個残っています。"

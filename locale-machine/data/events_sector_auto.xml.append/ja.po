@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_auto.xml.append:22
+msgid ""
+"data/events_sector_auto.xml.append$//mod:findName[@name=\"AUTO_ENGINEERS_SAVE\"]/mod:findWithChildLike/mod:selector"
+msgstr "海賊から彼らを救う。"
+
+#: src-en/data/events_sector_auto.xml.append:35
+msgid ""
+"data/events_sector_auto.xml.append$//mod:findName[@name=\"AUTO_PIRATE_CHOICE\"]/mod:findWithChildLike/mod:selector"
+msgstr "海賊を攻撃する。"
+
+#: src-en/data/events_sector_auto.xml.append:48
+msgid ""
+"data/events_sector_auto.xml.append$//mod:findName[@name=\"AUTO_PIRATE_CHOICE_AUTO_WIN\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_auto.xml.append:55
+msgid ""
+"data/events_sector_auto.xml.append$//mod:findName[@name=\"AUTO_PIRATE_CHOICE_PIRATE_WIN\"]/mod:findLike/mod:setValue"
+msgstr ""
+"「論理エラー：連邦船が戦闘支援を提供。内部コードに矛盾…再起動が必要。」オートシップはオフラインになる。この隙にスクラップにすると、艦隊に位置情報を中継するフィードが内蔵されていることを発見する。オートシップを短時間オンラインにし、艦隊にあなたの偽の位置情報を送信する。"

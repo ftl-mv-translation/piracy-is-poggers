@@ -1,0 +1,125 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:5
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SLUG_PIRATE\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:20
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:30
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:40
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "スラグを攻撃する。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:42
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr "その海賊は厄介な相手かもしれないが、彼に味方すれば報酬をくれるかもしれない。あなたは武器をスラグに向ける。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:45
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:51
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "彼らを海賊に任せる。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:53
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr "あなたは通信を切り、戦闘から離脱する。どちらの船もあなたを邪魔できないと確信すると、船内で何かを始める。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:55
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:59
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:69
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"ESCAPE_SLUG_PIRATE\"]/text"
+msgstr ""
+"「ああ、クソ、奴らがこっちに来るぞ！」スラグはエンジンを起動させ始める。交戦する直前、海賊からメッセージが届く：「あの腐ったスライムどもは、あまりにも長く俺を悩ませてきた！最後の一匹を始末してくれれば、報酬を用意して待ってるぜ」"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:73
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/text"
+msgstr "最善を尽くしたにもかかわらず、スラグは脱出に成功した。残念ながら、それは海賊の報酬も得られないことを意味する。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:75
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/choice/text"
+msgstr "海賊に連絡する。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:77
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/choice/event/text"
+msgstr ""
+"「あのスライムどもを破壊することはできなかったが、俺たちと組んで襲いかかるのではなく、俺たちに味方することを選んだことは認めよう。だからほら、このガラクタを持って失せろ」"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:84
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/text"
+msgstr "スラグ船は破壊された。海賊に連絡する前に残骸をスクラップにする。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:87
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/text"
+msgstr "海賊に連絡する。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:89
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/event/text"
+msgstr "「上出来だ。鬱陶しいスライム生物の最後の一匹を排除してくれた。約束通り、お前の報酬だ」"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:92
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:100
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/text"
+msgstr "スラグのクルーは全滅した。海賊に連絡する前に残骸をスクラップにする。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:103
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/text"
+msgstr "海賊に連絡する。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:105
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/event/text"
+msgstr "「上出来だ。鬱陶しいスライム生物の最後の一匹を排除してくれた。約束通り、お前の報酬だ」"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:108
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/event/choice/text"
+msgstr ""

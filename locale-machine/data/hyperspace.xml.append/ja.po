@@ -1,0 +1,396 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:481
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[1]/customTitle"
+msgstr "エリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:499
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[2]/customTitle"
+msgstr "一般奴隷"
+
+#: src-en/data/hyperspace.xml.append:517
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[3]/customTitle"
+msgstr "上質奴隷"
+
+#: src-en/data/hyperspace.xml.append:535
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[4]/customTitle"
+msgstr "エキゾチック奴隷"
+
+#: src-en/data/hyperspace.xml.append:553
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[5]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:575
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[1]/customTitle"
+msgstr "エリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:593
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[2]/customTitle"
+msgstr "一般奴隷"
+
+#: src-en/data/hyperspace.xml.append:611
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[3]/customTitle"
+msgstr "上質奴隷"
+
+#: src-en/data/hyperspace.xml.append:629
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[4]/customTitle"
+msgstr "エキゾチック奴隷"
+
+#: src-en/data/hyperspace.xml.append:647
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[5]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:665
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[6]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:683
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[7]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:706
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[1]/customTitle"
+msgstr "エリート艦内奴隷"
+
+#: src-en/data/hyperspace.xml.append:724
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[2]/customTitle"
+msgstr "艦内奴隷"
+
+#: src-en/data/hyperspace.xml.append:742
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[3]/customTitle"
+msgstr "一般奴隷"
+
+#: src-en/data/hyperspace.xml.append:760
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[4]/customTitle"
+msgstr "上質奴隷"
+
+#: src-en/data/hyperspace.xml.append:778
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[5]/customTitle"
+msgstr "エキゾチック奴隷"
+
+#: src-en/data/hyperspace.xml.append:796
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[6]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:818
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[1]/customTitle"
+msgstr "エリート戦闘奴隷"
+
+#: src-en/data/hyperspace.xml.append:836
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[2]/customTitle"
+msgstr "戦闘奴隷"
+
+#: src-en/data/hyperspace.xml.append:854
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[3]/customTitle"
+msgstr "一般奴隷"
+
+#: src-en/data/hyperspace.xml.append:872
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[4]/customTitle"
+msgstr "上質奴隷"
+
+#: src-en/data/hyperspace.xml.append:890
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[5]/customTitle"
+msgstr "エキゾチック奴隷"
+
+#: src-en/data/hyperspace.xml.append:908
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[6]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:930
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[1]/customTitle"
+msgstr "エリート妨害奴隷"
+
+#: src-en/data/hyperspace.xml.append:948
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[2]/customTitle"
+msgstr "妨害奴隷"
+
+#: src-en/data/hyperspace.xml.append:966
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[3]/customTitle"
+msgstr "一般奴隷"
+
+#: src-en/data/hyperspace.xml.append:984
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[4]/customTitle"
+msgstr "上質奴隷"
+
+#: src-en/data/hyperspace.xml.append:1002
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[5]/customTitle"
+msgstr "エキゾチック奴隷"
+
+#: src-en/data/hyperspace.xml.append:1020
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[6]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:1042
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[1]/customTitle"
+msgstr "エリート嫌気性奴隷"
+
+#: src-en/data/hyperspace.xml.append:1060
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[2]/customTitle"
+msgstr "嫌気性奴隷"
+
+#: src-en/data/hyperspace.xml.append:1078
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[3]/customTitle"
+msgstr "一般奴隷"
+
+#: src-en/data/hyperspace.xml.append:1096
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[4]/customTitle"
+msgstr "上質奴隷"
+
+#: src-en/data/hyperspace.xml.append:1114
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[5]/customTitle"
+msgstr "エキゾチック奴隷"
+
+#: src-en/data/hyperspace.xml.append:1132
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[6]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:1154
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[1]/customTitle"
+msgstr "エリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:1172
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[2]/customTitle"
+msgstr "エリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:1190
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[3]/customTitle"
+msgstr "エリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:1208
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[4]/customTitle"
+msgstr "エリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:1226
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[5]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:1248
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[1]/customTitle"
+msgstr "スーパーエリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:1266
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[2]/customTitle"
+msgstr "エリート奴隷"
+
+#: src-en/data/hyperspace.xml.append:1284
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[3]/customTitle"
+msgstr "一般奴隷"
+
+#: src-en/data/hyperspace.xml.append:1302
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[4]/customTitle"
+msgstr "上質奴隷"
+
+#: src-en/data/hyperspace.xml.append:1320
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[5]/customTitle"
+msgstr "エキゾチック奴隷"
+
+#: src-en/data/hyperspace.xml.append:1338
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[6]/customTitle"
+msgstr "研究室およびクルー増設"
+
+#: src-en/data/hyperspace.xml.append:1360
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_BASIC\"]/category[1]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:1433
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[1]/customTitle"
+msgstr "省電力武器"
+
+#: src-en/data/hyperspace.xml.append:1451
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[2]/customTitle"
+msgstr "省電力武器"
+
+#: src-en/data/hyperspace.xml.append:1469
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[3]/customTitle"
+msgstr "省電力ドローン"
+
+#: src-en/data/hyperspace.xml.append:1492
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[1]/customTitle"
+msgstr "省電力武器"
+
+#: src-en/data/hyperspace.xml.append:1510
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[2]/customTitle"
+msgstr "省電力武器"
+
+#: src-en/data/hyperspace.xml.append:1528
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[3]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:1601
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[1]/customTitle"
+msgstr "重火器"
+
+#: src-en/data/hyperspace.xml.append:1619
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[2]/customTitle"
+msgstr "重火器"
+
+#: src-en/data/hyperspace.xml.append:1637
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[3]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:1710
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[1]/customTitle"
+msgstr "戦闘ドローン"
+
+#: src-en/data/hyperspace.xml.append:1728
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[2]/customTitle"
+msgstr "戦闘ドローン"
+
+#: src-en/data/hyperspace.xml.append:1746
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[3]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:1819
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[1]/customTitle"
+msgstr "防衛ドローン"
+
+#: src-en/data/hyperspace.xml.append:1837
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[2]/customTitle"
+msgstr "防衛/クルードローン"
+
+#: src-en/data/hyperspace.xml.append:1855
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[3]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:1928
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_MOREAUGMENTS\"]/category[1]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:2035
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[1]/customTitle"
+msgstr "輸送船用武器"
+
+#: src-en/data/hyperspace.xml.append:2053
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[2]/customTitle"
+msgstr "輸送船用武器"
+
+#: src-en/data/hyperspace.xml.append:2071
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[3]/customTitle"
+msgstr "輸送船用ドローン"
+
+#: src-en/data/hyperspace.xml.append:2089
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[4]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:2164
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[1]/customTitle"
+msgstr "レネゲイド武器"
+
+#: src-en/data/hyperspace.xml.append:2182
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[2]/customTitle"
+msgstr "レネゲイド武器"
+
+#: src-en/data/hyperspace.xml.append:2200
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[3]/customTitle"
+msgstr "レネゲイドドローン"
+
+#: src-en/data/hyperspace.xml.append:2218
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[4]/customTitle"
+msgstr "レネゲイドクルー"
+
+#: src-en/data/hyperspace.xml.append:2255
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[1]/customTitle"
+msgstr "特殊武器"
+
+#: src-en/data/hyperspace.xml.append:2324
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[5]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2342
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[6]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2355
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[7]/customTitle"
+msgstr "本日の武器 [40% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2378
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[8]/customTitle"
+msgstr "本日のドローン [40% OFF]"
+
+#: src-en/data/hyperspace.xml.append:2401
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[9]/customTitle"
+msgstr "本日の増設 [40% OFF]"

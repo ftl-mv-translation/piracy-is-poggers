@@ -1,0 +1,179 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_lightspeed.xml.append:8
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:12
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/text"
+msgstr "(エンジンオーバードライブ Mk 5) キャパシタを使用する。"
+
+#: src-en/data/events_special_lightspeed.xml.append:14
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"キャパシタを調べたところ、速度を調整できることがわかった。速度を上げれば上げるほど、より大きなダメージを受けることになる。このキャパシタは一度しか使用できない。"
+
+#: src-en/data/events_special_lightspeed.xml.append:16
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr "最低速度。[艦隊の進行を2ジャンプ遅らせる、エンジン室で火災が発生]"
+
+#: src-en/data/events_special_lightspeed.xml.append:18
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[1]/event/text"
+msgstr "キャパシタを可能な限り低い速度で稼働するように設定した。船体にダメージはなかったが、エンジン室で火災が発生した。"
+
+#: src-en/data/events_special_lightspeed.xml.append:24
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:30
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr "低速。[艦隊の進行を3ジャンプ遅らせる、エンジンと船体に2ダメージ、エンジン室で火災が発生]"
+
+#: src-en/data/events_special_lightspeed.xml.append:32
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[2]/event/text"
+msgstr "キャパシタを低速で稼働するように設定した。エンジンと船体に多少のダメージを受けたが、それに見合う価値があることを願う。"
+
+#: src-en/data/events_special_lightspeed.xml.append:38
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:44
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[3]/text"
+msgstr "中速。[艦隊の進行を4ジャンプ遅らせる、エンジンと船体に4ダメージ、エンジン室で火災が発生]"
+
+#: src-en/data/events_special_lightspeed.xml.append:46
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[3]/event/text"
+msgstr "キャパシタを中速で稼働するように設定した。エンジンと船体にいくらかのダメージを受けたが、それに見合う価値があることを願う。"
+
+#: src-en/data/events_special_lightspeed.xml.append:52
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:58
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[4]/text"
+msgstr "高速。[艦隊の進行を5ジャンプ遅らせる、エンジンと船体に6ダメージ、エンジン室で火災が発生]"
+
+#: src-en/data/events_special_lightspeed.xml.append:60
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[4]/event/text"
+msgstr "キャパシタを高速で稼働するように設定した。エンジンと船体にかなりのダメージを受けたが、それに見合う価値があることを願う。"
+
+#: src-en/data/events_special_lightspeed.xml.append:66
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:72
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[5]/text"
+msgstr "最高速。[艦隊の進行を6ジャンプ遅らせる、エンジンと船体に8ダメージ、エンジン、操縦室、兵器室、シールド室で火災が発生]"
+
+#: src-en/data/events_special_lightspeed.xml.append:74
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[5]/event/text"
+msgstr ""
+"キャパシタを可能な限りの最高速で稼働するようにオーバークロックした。船が急発進した衝撃で、移動中に意識を失ってしまった。意識を取り戻すと、エンジンは完全に破壊され、主要なシステムルームは電力サージでオーバーヒートしていた。このすべてのダメージに見合う価値があったことを願う。"
+
+#: src-en/data/events_special_lightspeed.xml.append:83
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:89
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/event/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:95
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:102
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
+"append:choice/text"
+msgstr "ブラックマーケットへジャンプする。"
+
+#: src-en/data/events_special_lightspeed.xml.append:109
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
+"append:choice/text"
+msgstr "ブラックマーケットへジャンプする。"
+
+#: src-en/data/events_special_lightspeed.xml.append:117
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:119
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:123
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:129
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:139
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:141
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:146
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:152
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[2]/text"
+msgstr ""

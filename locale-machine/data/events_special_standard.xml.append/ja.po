@@ -1,0 +1,236 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_standard.xml.append:13
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+"乗り込むと、ゴミの火を囲む海賊の一団と、絶望の中で見つめるクリスタル族の檻があった。あなたが近づくとすぐに、海賊たちは銃を抜いた。「てめえら、何者だ！名乗れ！」"
+
+#: src-en/data/events_special_standard.xml.append:15
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "落ち着け、取引に来ただけだ。"
+
+#: src-en/data/events_special_standard.xml.append:18
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "クリスタル族の奴隷を買う。"
+
+#: src-en/data/events_special_standard.xml.append:30
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_CRYSTAL_PIRATES_DOCK\"]/mod:findWithChildLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "汚い海賊め！クリスタル族を解放しろ。"
+
+#: src-en/data/events_special_standard.xml.append:44
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_ODDSHOP\"]/mod:findWithChildLike/mod:selector"
+msgstr "市場を見て回る。"
+
+#: src-en/data/events_special_standard.xml.append:47
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_ODDSHOP\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "奴隷のブースを調べる。"
+
+#: src-en/data/events_special_standard.xml.append:50
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_ODDSHOP\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod:findLike/mod:setValue"
+msgstr ""
+"異星人の廃棄物を慎重に避けながら、檻の中の様々な異星人を見る。奇妙な市場でこのような変わった奴隷売買が行われているのを見て、これらの海賊は奴隷売買の巨人、ティイイカカとは関係がないと推測する。"
+
+#: src-en/data/events_special_standard.xml.append:60
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_AWKWARD\"]/mod:findWithChildLike/mod:selector"
+msgstr "海賊を攻撃する！"
+
+#: src-en/data/events_special_standard.xml.append:73
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_REFUELING_LIST\"]/mod:findWithChildLike/mod:selector"
+msgstr "攻撃の後、プラットフォームが損傷したようだ。残っている燃料を盗むことはできそうだが、海賊たちは喜ばないだろう。"
+
+#: src-en/data/events_special_standard.xml.append:75
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_REFUELING_LIST\"]/mod:findWithChildLike/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:89
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "市場で買い物をする。"
+
+#: src-en/data/events_special_standard.xml.append:98
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "特別な品物を見せるよう頼む。"
+
+#: src-en/data/events_special_standard.xml.append:100
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr "密輸業者はあなたに気づき、特別な密輸品のセレクションを提示する。"
+
+#: src-en/data/events_special_standard.xml.append:102
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr "武器を購入する。"
+
+#: src-en/data/events_special_standard.xml.append:104
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/text"
+msgstr "取引の後も、まだ通常の品物を見て回る時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:110
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:116
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr "武器を購入する。"
+
+#: src-en/data/events_special_standard.xml.append:118
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[2]/event/text"
+msgstr "取引の後も、まだ通常の品物を見て回る時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:124
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:130
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[3]/text"
+msgstr "ドローンを購入する。"
+
+#: src-en/data/events_special_standard.xml.append:132
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[3]/event/text"
+msgstr "取引の後も、まだ通常の品物を見て回る時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:138
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:144
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[4]/text"
+msgstr "増設を購入する。"
+
+#: src-en/data/events_special_standard.xml.append:146
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[4]/event/text"
+msgstr "取引の後も、まだ通常の品物を見て回る時間がある。"
+
+#: src-en/data/events_special_standard.xml.append:152
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:158
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[1]/event/choice[5]/text"
+msgstr "いや、いい。通常の品物を見てみよう。"
+
+#: src-en/data/events_special_standard.xml.append:164
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:168
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:182
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:188
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "市場を襲撃してみる。"
+
+#: src-en/data/events_special_standard.xml.append:201
+msgid ""
+"data/events_special_standard.xml.append$//mod:findName[@name=\"TONY_HQ_ANGEL\"]/mod:findWithChildLike/mod:selector"
+msgstr "いや。"
+
+#: src-en/data/events_special_standard.xml.append:218
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/text"
+msgstr "様々な海賊派閥の間で共同市場が開かれている。これが合法であるとは到底思えないが、役立つ物資が売られているかもしれない。"
+
+#: src-en/data/events_special_standard.xml.append:220
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/text"
+msgstr "市場を探索する。"
+
+#: src-en/data/events_special_standard.xml.append:223
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/text"
+msgstr "市場の上半分は通常の取引専用だが、下半分では様々な海賊が、金払いの良い客にサービスや特別な品を提供しているようだ。"
+
+#: src-en/data/events_special_standard.xml.append:225
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[1]/text"
+msgstr "奴隷商人に近づく。"
+
+#: src-en/data/events_special_standard.xml.append:229
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[2]/text"
+msgstr "傭兵に近づく。"
+
+#: src-en/data/events_special_standard.xml.append:233
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[3]/text"
+msgstr "密輸業者に近づく。"
+
+#: src-en/data/events_special_standard.xml.append:237
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[4]/text"
+msgstr "通常の品物にしておこう。"
+
+#: src-en/data/events_special_standard.xml.append:243
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[2]/text"
+msgstr "市場を無視する。"
+
+#: src-en/data/events_special_standard.xml.append:245
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[2]/event/text"
+msgstr "今日、特に連邦軍として、海賊市場を探索する気にはなれない。"
+
+#: src-en/data/events_special_standard.xml.append:247
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_standard.xml.append:251
+msgid ""
+"data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[2]/event/choice[2]/text"
+msgstr ""

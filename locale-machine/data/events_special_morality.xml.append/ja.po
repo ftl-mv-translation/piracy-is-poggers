@@ -1,0 +1,242 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_morality.xml.append:38
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_PIRATES_FREE\"]/text"
+msgstr ""
+"[海賊との友好度上昇]\n"
+"あなたの行動は海賊たちの間での評判を向上させました。一部の海賊クランは、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:44
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_DECREASE_PIRATES\"]/text"
+msgstr ""
+"[海賊との友好度低下]\n"
+"ここでのあなたの行動は、海賊たちに悪影響を及ぼすでしょう。以前に友好度を上げていたとしても、一部の海賊クランはもはや友好的でなくなり、特別な取引を提示しなくなるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:50
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_DECREASE_PIRATES_COMBAT\"]/text"
+msgstr ""
+"[海賊との友好度低下]\n"
+"ここでのあなたの行動は、海賊たちに悪影響を及ぼすでしょう。以前に友好度を上げていたとしても、一部の海賊クランはもはや友好的でなくなり、特別な取引を提示しなくなるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:55
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_DECREASE_PIRATES_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:62
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SLAVER_FREE\"]/text"
+msgstr ""
+"[奴隷商人との友好度上昇]\n"
+"\t奴隷を受け入れたり、購入したり、あるいは奴隷商人を守ったりすることで、あなたは奴隷商人界での評判を向上させました。一部の奴隷商人は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:68
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SLAVER_SELLCREW\"]/text"
+msgstr ""
+"[奴隷商人との友好度上昇]\n"
+"奴隷を受け入れたり、購入したり、あるいは奴隷商人を守ったりすることで、あなたは奴隷商人界での評判を向上させました。一部の奴隷商人は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:72
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SLAVER_SELLCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:79
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_MERCENARY_FREE\"]/text"
+msgstr ""
+"[傭兵との友好度上昇]\n"
+"傭兵のサービスを購入したり、あるいは傭兵を守ったりすることで、あなたはシンジケート内での評判を向上させました。一部の傭兵は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:89
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_DOUBLE_FREE\"]/text"
+msgstr ""
+"[密輸業者との友好度上昇]\n"
+"禁制品を購入したり、あるいは密輸業者を守ったりすることで、あなたはブラックマーケット内での評判を向上させました。一部の密輸業者は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"彼らの活動への寛大な貢献により、あなたの友好度は2倍上昇しました。"
+
+#: src-en/data/events_special_morality.xml.append:95
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_DOUBLE_FREE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:101
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_SELLTECH\"]/text"
+msgstr ""
+"[密輸業者との友好度上昇]\n"
+"禁制品を購入したり、あるいは密輸業者を守ったりすることで、あなたはブラックマーケット内での評判を向上させました。一部の密輸業者は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:105
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_SELLTECH\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:111
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_SELLTECH_DOUBLE\"]/text"
+msgstr ""
+"[密輸業者との友好度上昇]\n"
+"禁制品を購入したり、あるいは密輸業者を守ったりすることで、あなたはブラックマーケット内での評判を向上させました。一部の密輸業者は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"あなたの優れた技術を密輸業者に売却したため、友好度は2倍上昇しました。"
+
+#: src-en/data/events_special_morality.xml.append:117
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_SELLTECH_DOUBLE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:123
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_DOUBLE_WORKSHOP\"]/text"
+msgstr ""
+"[密輸業者との友好度上昇]\n"
+"禁制品を購入したり、あるいは密輸業者を守ったりすることで、あなたはブラックマーケット内での評判を向上させました。一部の密輸業者は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"あなたの非常に有用な技術を密輸業者に売却したため、エンジニアが口添えしてくれて友好度が2倍上昇しました。"
+
+#: src-en/data/events_special_morality.xml.append:129
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SMUGGLING_DOUBLE_WORKSHOP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:135
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_DECREASE_SMUGGLING_DOUBLE\"]/text"
+msgstr ""
+"[密輸業者との友好度低下]\n"
+"ここでのあなたの行動は、あなたにサービスを提供するかもしれない密輸業者に悪影響を及ぼすでしょう。以前に友好度を上げていたとしても、彼らはもはやより良い取引を提示しなくなるかもしれません。\n"
+"\n"
+"アルジェオン艦隊を壊滅させたあなたの努力により、友好度は2倍低下しました。"
+
+#: src-en/data/events_special_morality.xml.append:187
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_MERCENARY_NOTORIETY_DOUBLE\"]/text"
+msgstr ""
+"[傭兵との友好度上昇]\n"
+"傭兵のサービスを購入したり、あるいは傭兵を守ったりすることで、あなたはシンジケート内での評判を向上させました。一部の傭兵は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"[悪評上昇 - 全般的]\n"
+"ここでのあなたの行動は、正当化できるかどうかにかかわらず、連邦やその市民の目には良く映らないでしょう。このような行動を続けると、連邦やその同盟国からの否定的な反応が見られるようになるかもしれません。\n"
+"あなたの信じられないほど卑劣な行動により、悪評は2倍上昇しました。"
+
+#: src-en/data/events_special_morality.xml.append:208
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_REMOVE_GENERAL_DECREASE_PIRATES\"]/text"
+msgstr ""
+"[悪評低下 - 全般的]\n"
+"あなたはここで連邦の目に良い行いをしました。過去の他の行動で悪評を得ていた場合、それらが許される可能性が高くなります。\n"
+"\n"
+"[海賊との友好度低下]\n"
+"ここでのあなたの行動は、海賊たちに悪影響を及ぼすでしょう。以前に友好度を上げていたとしても、一部の海賊クランはもはや友好的でなくなり、特別な取引を提示しなくなるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:219
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_PIRATES_CRYSTAL_STORE\"]/text"
+msgstr ""
+"[海賊との友好度上昇]\n"
+"あなたの行動は海賊たちの間での評判を向上させました。一部の海賊クランは、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"[悪評上昇 - クリスタル帝国]\n"
+"ここでのあなたの行動は、正当化できるかどうかにかかわらず、帝国やその市民の目には良く映らないでしょう。このような行動を続けると、帝国やその同盟国からの否定的な反応が見られるようになるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:227
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_PIRATES_CRYSTAL_STORE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:236
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SLAVER_ORCHID\"]/text"
+msgstr ""
+"[奴隷商人との友好度上昇]\n"
+"奴隷を受け入れたり、購入したり、あるいは奴隷商人を守ったりすることで、あなたは奴隷商人界での評判を向上させました。一部の奴隷商人は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\t\t\n"
+"[悪評上昇 - ギャザリング]\n"
+"ここでのあなたの行動は、正当化できるかどうかにかかわらず、ギャザリングやその市民の目には良く映らないでしょう。このような行動を続けると、ギャザリングやその同盟国からの否定的な反応が見られるようになるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:247
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SLAVER_VAMPWEED\"]/text"
+msgstr ""
+"[奴隷商人との友好度上昇]\n"
+"奴隷を受け入れたり、購入したり、あるいは奴隷商人を守ったりすることで、あなたは奴隷商人界での評判を向上させました。一部の奴隷商人は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\t\t\n"
+"[悪評上昇 - 連合国]\n"
+"ここでのあなたの行動は、正当化できるかどうかにかかわらず、連合国やその市民の目には良く映らないでしょう。このような行動を続けると、ギャザリングやその同盟国からの否定的な反応が見られるようになるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:258
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_SLAVER_ZOLTAN\"]/text"
+msgstr ""
+"[奴隷商人との友好度上昇]\n"
+"奴隷を受け入れたり、購入したり、あるいは奴隷商人を守ったりすることで、あなたは奴隷商人界での評判を向上させました。一部の奴隷商人は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"[悪評上昇 - ミニストリー]\n"
+"ここでのあなたの行動は、正当化できるかどうかにかかわらず、ミニストリーやその市民の目には良く映らないでしょう。このような行動を続けると、ミニストリーやその同盟国からの否定的な反応が見られるようになるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:268
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_REMOVE_ZOLTAN_SLAVER\"]/text"
+msgstr ""
+"[悪評低下 - ミニストリー]\n"
+"あなたはここでミニストリーの目に良い行いをしました。過去の他の行動で悪評を得ていた場合、それらが許される可能性が高くなります。\n"
+"\t\t\n"
+"[奴隷商人との友好度低下]\n"
+"ここでのあなたの行動は、あなたにサービスを提供するかもしれない奴隷商人に悪影響を及ぼすでしょう。以前に友好度を上げていたとしても、彼らはもはやより良い取引を提示しなくなるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:278
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_DECREASE_SLAVER_PIRATES_COMBAT\"]/text"
+msgstr ""
+"[海賊との友好度低下]\n"
+"ここでのあなたの行動は、海賊たちに悪影響を及ぼすでしょう。以前に友好度を上げていたとしても、一部の海賊クランはもはや友好的でなくなり、特別な取引を提示しなくなるかもしれません。\n"
+"\n"
+"[奴隷商人との友好度低下]\n"
+"ここでのあなたの行動は、あなたにサービスを提供するかもしれない奴隷商人に悪影響を及ぼすでしょう。以前に友好度を上げていたとしても、彼らはもはやより良い取引を提示しなくなるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:286
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_DECREASE_SLAVER_PIRATES_COMBAT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:293
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_MERCENARY_ZOLTAN\"]/text"
+msgstr ""
+"[傭兵との友好度上昇]\n"
+"傭兵のサービスを購入したり、あるいは傭兵を守ったりすることで、あなたはシンジケート内での評判を向上させました。一部の傭兵は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"[悪評上昇 - ミニストリー]\n"
+"ここでのあなたの行動は、正当化できるかどうかにかかわらず、ミニストリーやその市民の目には良く映らないでしょう。このような行動を続けると、ミニストリーやその同盟国からの否定的な反応が見られるようになるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:304
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_MERCENARY_ORCHID\"]/text"
+msgstr ""
+"[傭兵との友好度上昇]\n"
+"傭兵のサービスを購入したり、あるいは傭兵を守ったりすることで、あなたはシンジケート内での評判を向上させました。一部の傭兵は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\t\t\n"
+"[悪評上昇 - ギャザリング]\n"
+"ここでのあなたの行動は、正当化できるかどうかにかかわらず、ギャザリングやその市民の目には良く映らないでしょう。このような行動を続けると、ギャザリングやその同盟国からの否定的な反応が見られるようになるかもしれません。"
+
+#: src-en/data/events_special_morality.xml.append:317
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"REPUTATION_UPDATE_PIRATES_SMUGGLER\"]/text"
+msgstr ""
+"[海賊との友好度上昇]\n"
+"あなたの行動は海賊たちの間での評判を向上させました。一部の海賊クランは、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。\n"
+"\n"
+"[密輸業者との友好度上昇]\n"
+"禁制品を購入したり、あるいは密輸業者を守ったりすることで、あなたはブラックマーケット内での評判を向上させました。一部の密輸業者は、より良い、あるいは特別な取引を提示し、あなたに対してより好意的になるかもしれません。"

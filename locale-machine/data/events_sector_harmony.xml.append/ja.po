@@ -1,0 +1,79 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_harmony.xml.append:31
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/text"
+msgstr "(密輸業者評価3+) 通信し、危害を加えるつもりはないと保証する。"
+
+#: src-en/data/events_sector_harmony.xml.append:33
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"「ああ、あんたらか。ここにいるVIPが、その…エンジのパトロールとあまり仲が良くなくてな。このセクター中、地獄のように追いかけられてるんだ。俺たちから引き継いでもらえないか？」"
+
+#: src-en/data/events_sector_harmony.xml.append:35
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_harmony.xml.append:37
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr "「最高だ、この厄介事を引き受けてくれて感謝する。物資も持っていけ。」密輸業者は奇妙な色をしたエンジ・ディフェンダーを送ってくる。"
+
+#: src-en/data/events_sector_harmony.xml.append:40
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_harmony.xml.append:42
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[1]/event/choice/event/text"
+msgstr "「セクター外への主要な輸送手段が任務を放棄。要請：我が身をハーモニーから輸送されたし。報酬は支払う」"
+
+#: src-en/data/events_sector_harmony.xml.append:44
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[1]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_harmony.xml.append:51
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[1]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_harmony.xml.append:59
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_harmony.xml.append:61
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[2]/event/text"
+msgstr "「残念だ。それじゃあ、エンジのパトロールに吹き飛ばされないように最善を尽くすさ。」あなたは彼らの幸運を祈り、船内で何かをする時間を作る。"
+
+#: src-en/data/events_sector_harmony.xml.append:63
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_harmony.xml.append:67
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
+"append:choice/event/choice[2]/event/choice[2]/text"
+msgstr ""

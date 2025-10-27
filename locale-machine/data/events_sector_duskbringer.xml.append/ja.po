@@ -1,0 +1,166 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_duskbringer.xml.append:11
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE\"]/mod:findWithChildLike/mod:selector"
+msgstr "このろくでなしどもを殺す。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:23
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "エンジを一人買う。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:26
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:32
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "ロックマンを一人買う。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:35
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:41
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr "ヴァンプウィードを一体買う。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:44
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_SLAVER_TRADE_BUY_2\"]/mod:findWithChildLike[3]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:53
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/text"
+msgstr "(海賊評価1+) 彼らに通信する。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:55
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"海賊たちはあなたに気づき、警戒を解く。「よう、連邦の仲間じゃないか。俺たちは海賊セクターに戻ろうとしてるんだが、あの緑の連中が船を何隻かぶっ壊してくれてな。今じゃここに足止めされて、集団で脱出する計画を立ててるところだ。だが、近くに厄介そうなエリート巡視船が俺たちを阻んでる。そいつをぶっ壊すのを手伝ってくれないか？報酬は弾むし、火力支援もするぜ」"
+
+#: src-en/data/events_sector_duskbringer.xml.append:57
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:59
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+"「素晴らしい。ついてこい…」あなたはエリートのダスクブリンガー船へと導かれる。その船はあなたを見つけると即座に攻撃してきた。約束通り、海賊たちは側面から火力支援を提供してくれているが、それでも厳しい戦いになるだろう。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:63
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:69
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:71
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
+"append:choice/event/choice[2]/event/text"
+msgstr "「ああ、まあ、お前もあのナチ野郎どもにやられたみたいだな？お前がここにいる間に取引でもしないか？」"
+
+#: src-en/data/events_sector_duskbringer.xml.append:80
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/text"
+msgstr "エリートのダスクブリンガー船は撃墜された。あなたはその残骸をスクラップにする。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:83
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/text"
+msgstr "海賊に連絡する。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:85
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/event/text"
+msgstr "「我ながら、あれは最高に良い戦いだったぜ。助かったよ。約束通り、お前の報酬だ」"
+
+#: src-en/data/events_sector_duskbringer.xml.append:88
+msgid ""
+"data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:97
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING_CONTACT\"]/mod:findWithChildLike/mod:selector"
+msgstr "驚いたことに、あなたが近づいても海賊たちは誰も動かない。一人が通信してきて、あなたの意図を問いただす。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:99
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING_CONTACT\"]/mod:findWithChildLike/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:113
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DISTRESS_DUSK_MONASTERY\"]/mod:findWithChildLike/mod:selector"
+msgstr "ダスクブリンガーが海賊から修道院を奪還するのを助ける。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:126
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr "修道士を解放する。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:129
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:135
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr "修道士の貴重品をいくつか欲しい。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:138
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MONASTERY_PIRATE_WIN\"]/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:147
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:selector"
+msgstr "アヌラックを送り込み、デヴォラックを探させる。"
+
+#: src-en/data/events_sector_duskbringer.xml.append:156
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "何か手を打たなければ！あの船を攻撃しろ！"
+
+#: src-en/data/events_sector_duskbringer.xml.append:166
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "ここから急いで脱出する必要がある！"
+
+#: src-en/data/events_sector_duskbringer.xml.append:169
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DEVORAK_FINALE\"]/mod:findWithChildLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""

@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_knight.xml.append:6
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:selector"
+msgstr "彼らに通信する。何か密輸品を買えるかもしれない。"
+
+#: src-en/data/events_sector_knight.xml.append:9
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "麻薬を買う。ナイツの部下たちの間で貴重な交渉材料になるかもしれない。"
+
+#: src-en/data/events_sector_knight.xml.append:12
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:21
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:30
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:39
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findLike[3]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:45
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:49
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "(密輸業者評価1+) 割引を要求する。"
+
+#: src-en/data/events_sector_knight.xml.append:51
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr "密輸業者は、あなたが忠実なアルゲオンの顧客であることを見て、麻薬を半額で売ることを承諾する。"
+
+#: src-en/data/events_sector_knight.xml.append:53
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr "麻薬を買う。"
+
+#: src-en/data/events_sector_knight.xml.append:55
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/text"
+msgstr ""
+"「素晴らしい買い物だ！ただ、何でできているかは聞かないでくれ。」海賊がオーキッドの子供とエクイノイドの糞について何か呟くのが聞こえ、そして通信が切れる。"
+
+#: src-en/data/events_sector_knight.xml.append:61
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:67
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:73
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "(密輸業者評価3+) 割引を要求する。"
+
+#: src-en/data/events_sector_knight.xml.append:75
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"「ちょっと待て…お前は俺の友達を窮地から救ってくれた連邦の奴じゃないか！皮肉なもんだな、そう思わないか？とにかく、助けてくれたお礼に、麻薬をいくつか無料でやるよ。まだ余分が必要ならもっとあるぜ」"
+
+#: src-en/data/events_sector_knight.xml.append:78
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "麻薬をさらに買う。"
+
+#: src-en/data/events_sector_knight.xml.append:80
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/text"
+msgstr ""
+"「素晴らしい買い物だ！ただ、何でできているかは聞かないでくれ。」海賊がオーキッドの子供とエクイノイドの糞について何か呟くのが聞こえ、そして通信が切れる。"
+
+#: src-en/data/events_sector_knight.xml.append:86
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:92
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr "彼らに感謝して先へ進む。"
+
+#: src-en/data/events_sector_knight.xml.append:117
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+"あなたが攻撃に移ると、密輸業者たちが再び通信してくる。「オーケー、値段が高すぎたのかもしれない！早まるのはやめよう。これならもっと好条件じゃないか？」"
+
+#: src-en/data/events_sector_knight.xml.append:119
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:findWithChildLike[1]/mod:selector"
+msgstr "新しい取引で買う。"
+
+#: src-en/data/events_sector_knight.xml.append:122
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_knight.xml.append:128
+msgid ""
+"data/events_sector_knight.xml.append$//mod:findName[@name=\"KNIGHT_SMUGGLER_ATTACK\"]/mod:findWithChildLike/mod:findWithChildLike[2]/mod:selector"
+msgstr "いや、それでもお前を殺す。"

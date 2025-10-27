@@ -1,0 +1,98 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_guards.xml.append:4
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_PIRATE\"]/mod-"
+"append:choice/text"
+msgstr "(海賊 友好度1+) 丁重に入場を要請する。"
+
+#: src-en/data/events_special_guards.xml.append:6
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_PIRATE\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"「ああ、気づかなくてすまなかった！ これからも協力してくれると嬉しいぜ、相棒？ "
+"それはさておき、最近商売がうまくいってないダチがいるんだ。顔を出してやってくれないか？」"
+
+#: src-en/data/events_special_guards.xml.append:18
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[1]/text"
+msgstr "(海賊 友好度2) 入場を要請する。海賊たちは我々のことを知っているはずだ。"
+
+#: src-en/data/events_special_guards.xml.append:20
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"密輸業者はあなたの評判を簡単に確認した後、より温かい歓迎をしてくれた。「連邦の船が俺たち海賊を助けることに興味があるなんてな、思ってもみなかったぜ。だが文句はねぇ。通過を許可する」"
+
+#: src-en/data/events_special_guards.xml.append:24
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[2]/text"
+msgstr "(海賊 友好度3+) 入場を要請する。海賊たちは我々のことを知っているはずだ。"
+
+#: src-en/data/events_special_guards.xml.append:26
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"密輸業者はあなたの評判を簡単に確認した後、より温かい歓迎をしてくれた。「連邦の船が俺たち海賊を助けることに興味があるなんてな、思ってもみなかったぜ。だが文句はねぇ。こいつを持っていきな」"
+
+#: src-en/data/events_special_guards.xml.append:36
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[3]/text"
+msgstr "(密輸業者 友好度2) 入場を要請する。密輸業者クランは我々のことを知っているはずだ。"
+
+#: src-en/data/events_special_guards.xml.append:38
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"密輸業者はあなたの評判を簡単に確認した後、より温かい歓迎をしてくれた。「我々のクランに親切にしてくれている連邦の船じゃないか。我々の活動を支援してくれて心から感謝する。君の船の入場を許可した。これはおごりだ、スクラップを持っていけ」"
+
+#: src-en/data/events_special_guards.xml.append:43
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[4]/text"
+msgstr "(密輸業者 友好度3+) 入場を要請する。密輸業者クランは我々のことを知っているはずだ。"
+
+#: src-en/data/events_special_guards.xml.append:45
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[4]/event/text"
+msgstr ""
+"密輸業者はあなたの評判を簡単に確認した後、より温かい歓迎をしてくれた。「我々のクランに親切にしてくれている連邦の船じゃないか。我々の活動を支援してくれて心から感謝する。さあ、この贈り物を受け取ってくれ。それと、近くのステーションにいる部下と自由に取引してくれて構わない。きっと君の気に入るものを持っているはずだ」"
+
+#: src-en/data/events_special_guards.xml.append:53
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[5]/text"
+msgstr "(傭兵 友好度3+) 入場を要請する。シンジケートが我々の身元を保証してくれるだろう。"
+
+#: src-en/data/events_special_guards.xml.append:55
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[5]/event/text"
+msgstr ""
+"シンジケート内の連絡係と何度かやり取りした後、密輸業者は警戒を解いた。「まあ、彼らの言葉を信じよう。我々のセクターへようこそ。君の傭兵仲間から、このスクラップを渡して、一番近くにいる傭兵の座標を送るように言われている。これを持っていけ」"
+
+#: src-en/data/events_special_guards.xml.append:61
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[6]/text"
+msgstr "(奴隷商人 友好度3+) 入場を要請する。ティイイカカが我々の身元を保証してくれるだろう。"
+
+#: src-en/data/events_special_guards.xml.append:63
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[6]/event/text"
+msgstr ""
+"ティイイカカ内の連絡係と何度かやり取りした後、密輸業者は警戒を解いた。「まあ、彼らの言葉を信じよう。我々のセクターへようこそ。君の奴隷商人仲間から、このスクラップを渡して、一番近くにいる奴隷商人の座標を送るように言われている。これを持っていけ」"

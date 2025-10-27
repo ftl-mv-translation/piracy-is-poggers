@@ -1,0 +1,193 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_defeat.xml.append:29
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[1]"
+msgstr ""
+"密輸業者の船が崩壊するにつれて、連邦が過去に密輸業者をそのサービスのために雇っていたことが頭をよぎる。あなたは最近の犠牲者が連邦の供給業者でなかったことを願う。"
+
+#: src-en/data/events_special_defeat.xml.append:30
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[2]"
+msgstr "密輸業者の船はスクラップと化し、その積荷は地獄の炎に飲まれた。"
+
+#: src-en/data/events_special_defeat.xml.append:31
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[3]"
+msgstr ""
+"あなたの最後の一撃が密輸業者の船に命中すると、積荷から別の爆発が船を揺るがす。爆発を引き起こした原因は分からないが、かなりの量のサルベージが残っている。"
+
+#: src-en/data/events_special_defeat.xml.append:32
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[4]"
+msgstr "密輸業者の船は破壊された。闇取引を助長する悪役が一人減った。"
+
+#: src-en/data/events_special_defeat.xml.append:48
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[1]"
+msgstr ""
+"密輸業者の船が沈黙すると、連邦が過去に密輸業者をそのサービスのために雇っていたことが頭をよぎる。あなたは最近の犠牲者が連邦の供給業者でなかったことを願う。"
+
+#: src-en/data/events_special_defeat.xml.append:49
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[2]"
+msgstr "密輸業者の船はクルーが一掃され、彼らの海賊行為からかなりの量のスクラップが残された。"
+
+#: src-en/data/events_special_defeat.xml.append:50
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[3]"
+msgstr "密輸業者の船は倒された。闇取引を助長する悪役が一人減った。"
+
+#: src-en/data/events_special_defeat.xml.append:63
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_WEAPON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:65
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_WEAPON\"]/choice/event/text"
+msgstr "サルベージ作業中、彼らが密輸していた武器の一つを、戦闘にもかかわらず無傷で見つける。あなたはそれを船に持ち帰る。"
+
+#: src-en/data/events_special_defeat.xml.append:75
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_DRONE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:77
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_DRONE\"]/choice/event/text"
+msgstr "サルベージ作業中、彼らが密輸していたドローンの一つを、戦闘にもかかわらず無傷で見つける。あなたはそれを船に持ち帰る。"
+
+#: src-en/data/events_special_defeat.xml.append:87
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_AUGMENT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:89
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_AUGMENT\"]/choice/event/text"
+msgstr "サルベージ作業中、彼らが密輸していた増強パーツの一つを、戦闘にもかかわらず無傷で見つける。あなたはそれを船に持ち帰る。"
+
+#: src-en/data/events_special_defeat.xml.append:102
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[1]"
+msgstr ""
+"密輸業者のステーションが崩壊するにつれて、連邦が過去に密輸業者をそのサービスのために雇っていたことが頭をよぎる。あなたは最近の犠牲者が連邦の供給業者でなかったことを願う。"
+
+#: src-en/data/events_special_defeat.xml.append:103
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[2]"
+msgstr "密輸業者のステーションはスクラップと化し、その積荷は地獄の炎に飲まれた。"
+
+#: src-en/data/events_special_defeat.xml.append:104
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[3]"
+msgstr ""
+"あなたの最後の一撃がステーションに命中すると、積荷から別の爆発が船体を揺るがす。爆発を引き起こした原因は分からないが、かなりの量のサルベージが残っている。"
+
+#: src-en/data/events_special_defeat.xml.append:105
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[4]"
+msgstr "密輸業者のステーションは破壊された。闇取引を助長する悪の前哨基地が一つ減った。"
+
+#: src-en/data/events_special_defeat.xml.append:121
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[1]"
+msgstr ""
+"密輸業者のステーションが沈黙すると、連邦が過去に密輸業者をそのサービスのために雇っていたことが頭をよぎる。あなたは最近の犠牲者が連邦の供給業者でなかったことを願う。"
+
+#: src-en/data/events_special_defeat.xml.append:122
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[2]"
+msgstr "密輸業者のステーションはクルーが一掃され、彼らの海賊行為からかなりの量のスクラップが残された。"
+
+#: src-en/data/events_special_defeat.xml.append:123
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[3]"
+msgstr "密輸業者のステーションは倒された。闇取引を助長する悪の前哨基地が一つ減った。"
+
+#: src-en/data/events_special_defeat.xml.append:136
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_WEAPON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:138
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_WEAPON\"]/choice/event/text"
+msgstr "サルベージ作業中、彼らが密輸していた武器の一つを、戦闘にもかかわらず無傷で見つける。あなたはそれを船に持ち帰る。"
+
+#: src-en/data/events_special_defeat.xml.append:148
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_DRONE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:150
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_DRONE\"]/choice/event/text"
+msgstr "サルベージ作業中、彼らが密輸していたドローンの一つを、戦闘にもかかわらず無傷で見つける。あなたはそれを船に持ち帰る。"
+
+#: src-en/data/events_special_defeat.xml.append:160
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_AUGMENT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:162
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_AUGMENT\"]/choice/event/text"
+msgstr "サルベージ作業中、彼らが密輸していた増強パーツの一つを、戦闘にもかかわらず無傷で見つける。あなたはそれを船に持ち帰る。"
+
+#: src-en/data/events_special_defeat.xml.append:176
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[1]"
+msgstr "傭兵の船は破壊された。対処すべきクズの船が一つ減った。"
+
+#: src-en/data/events_special_defeat.xml.append:177
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[2]"
+msgstr "この傭兵の船を破壊することで、あなたはまだこれらのクズに狩られていなかった人々の命を救うことになる。"
+
+#: src-en/data/events_special_defeat.xml.append:178
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[3]"
+msgstr "この傭兵の船を破壊することは、反乱軍があなたを追って送ってくる船が一つ減ることを意味し、あなたはそれに満足している。"
+
+#: src-en/data/events_special_defeat.xml.append:179
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[4]"
+msgstr "あなたは、傭兵が提供できたであろうサービスが、彼らを爆破しない価値があるかどうかを考える。"
+
+#: src-en/data/events_special_defeat.xml.append:196
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[1]"
+msgstr "傭兵の船はクルーが一掃された。対処すべきクズの船が一つ減った。"
+
+#: src-en/data/events_special_defeat.xml.append:197
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[2]"
+msgstr "この傭兵の一団を排除することで、あなたはまだこれらのクズに狩られていなかった人々の命を救うことになる。"
+
+#: src-en/data/events_special_defeat.xml.append:198
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[3]"
+msgstr "死んだ傭兵のクルーは、反乱軍があなたを追って送ってくる船が一つ減ることを意味し、あなたはそれに満足している。"
+
+#: src-en/data/events_special_defeat.xml.append:199
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[4]"
+msgstr "あなたは、傭兵が提供できたであろうサービスが、彼らを生かしておく価値があるかどうかを考える。"
+
+#: src-en/data/events_special_defeat.xml.append:206
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_MAP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:208
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_MAP\"]/choice/event/text"
+msgstr ""
+"船内を再度調査すると、無傷で残されたセクターマップが見つかる。傭兵はおそらく誰かに雇われて、この地域の偵察をしていたのだろう。あなたはそれを手に入れ、自分の地図を更新する。"

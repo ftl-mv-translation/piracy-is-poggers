@@ -1,0 +1,1382 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_filler.xml.append:15
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_HIVECHOICE\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:28
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"MERCENARY_DELIVERY_INTEREST\"]/mod:findWithChildLike/mod:selector"
+msgstr "あなたの燃料を少し彼らに売る。"
+
+#: src-en/data/events_special_filler.xml.append:31
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"MERCENARY_DELIVERY_INTEREST\"]/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:40
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
+"append:choice/text"
+msgstr "(密輸業者評価1+) 確かに持っている。"
+
+#: src-en/data/events_special_filler.xml.append:42
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
+"append:choice/event/text"
+msgstr "あなたは薬物を渡し、相手の船がそれを調べている間待つ。「すべて問題ないようだ…よくやった」"
+
+#: src-en/data/events_special_filler.xml.append:45
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:54
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_TRANSFER\"]/mod:findWithChildLike/mod:selector"
+msgstr "あなたは薬物を渡し、相手の船がそれを調べている間待つ。「すべて問題ないようだ…よくやった」"
+
+#: src-en/data/events_special_filler.xml.append:56
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_TRANSFER\"]/mod:findWithChildLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:64
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:67
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:73
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:76
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:82
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[3]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:85
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[3]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:91
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[4]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:104
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_CROPS\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:150
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_MINER\"]/mod:findLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:159
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_MINER\"]/mod:findLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:168
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_MINER_SHOOT\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:170
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_MINER_SHOOT\"]/mod:findWithChildLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:245
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"CONTACT_PIRATE_SALESMAN\"]/mod-"
+"append:choice/text"
+msgstr "[評判2+] 安全にドッキングすることを要請する。"
+
+#: src-en/data/events_special_filler.xml.append:251
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[1]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:253
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:text"
+msgstr "「取引できて光栄だ！あの素晴らしい設計図を全部活用しないとな、え？」"
+
+#: src-en/data/events_special_filler.xml.append:255
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:261
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[2]/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:264
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[2]/mod:findLike/mod:findLike[1]/mod:setValue"
+msgstr "「取引できて光栄だ！このドローンが君の大きな助けとなることを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:276
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[1]/mod:findLike/mod-"
+"append:text"
+msgstr "「取引できて光栄だ！これで以前よりも多くのドローンを運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:278
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[1]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:286
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[2]/mod:findLike/mod-"
+"append:text"
+msgstr "「取引できて光栄だ！これで以前よりも多くのドローンを運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:288
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[2]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:296
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[3]/mod:findLike/mod-"
+"append:text"
+msgstr "「取引できて光栄だ！これで以前よりも多くのドローンを運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:298
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[3]/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:310
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/text"
+msgstr "豪華なスーツを着た人間が船上であなたを迎える。「私の船へようこそ！我々はあらゆる種類の武器を専門としています、何か興味はありますか？」"
+
+#: src-en/data/events_special_filler.xml.append:312
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:314
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[1]/event/text"
+msgstr "「取引できて光栄だ！君の弾道兵器が敵に破壊の雨を降らせ続けることを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:320
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:326
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[2]/text"
+msgstr "武器を買う。"
+
+#: src-en/data/events_special_filler.xml.append:328
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[2]/event/text"
+msgstr "「取引できて光栄だ！これは君の現在の兵器庫の隣で素晴らしい見栄えになるだろう」"
+
+#: src-en/data/events_special_filler.xml.append:334
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:340
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and not(@lvl)]/text"
+msgstr "武器システムのアップグレードを買う。"
+
+#: src-en/data/events_special_filler.xml.append:342
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and not(@lvl)]/event/text"
+msgstr "「取引できて光栄だ！これで以前よりも多くの武器を運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:348
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and not(@lvl)]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:354
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and @lvl=\"4\"]/text"
+msgstr "武器システムのアップグレードを買う。"
+
+#: src-en/data/events_special_filler.xml.append:356
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and @lvl=\"4\"]/event/text"
+msgstr "「取引できて光栄だ！これで以前よりも多くの武器を運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:362
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and @lvl=\"4\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:368
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and @lvl=\"6\"]/text"
+msgstr "武器システムのアップグレードを買う。"
+
+#: src-en/data/events_special_filler.xml.append:370
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and @lvl=\"6\"]/event/text"
+msgstr "「取引できて光栄だ！これで以前よりも多くの武器を運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:376
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
+" and @lvl=\"6\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:382
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:384
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:387
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[6]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:403
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/text"
+msgstr "「アルゲオンの大切なお客様ですって？まあ、どうぞお入りください！お見せしたい特別なドローンのオファーがたくさんあります！」"
+
+#: src-en/data/events_special_filler.xml.append:405
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:407
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[1]/event/text"
+msgstr "「取引できて光栄だ！あの素晴らしい設計図を全部活用しないとな、え？」"
+
+#: src-en/data/events_special_filler.xml.append:413
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:419
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/text"
+msgstr "ドローン部品の大きなスタックを買う"
+
+#: src-en/data/events_special_filler.xml.append:421
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/event/text"
+msgstr "「取引できて光栄だ！あの素晴らしい設計図を全部活用しないとな、え？」"
+
+#: src-en/data/events_special_filler.xml.append:427
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:433
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:435
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[3]/event/text"
+msgstr "「取引できて光栄だ！このドローンが君の大きな助けとなることを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:441
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:447
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:449
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[4]/event/text"
+msgstr "「取引できて光栄だ！このドローンが君の大きな助けとなることを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:455
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:461
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[5]/text"
+msgstr "先進的なドローンの設計図を買う。"
+
+#: src-en/data/events_special_filler.xml.append:463
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[5]/event/text"
+msgstr "「取引できて光栄だ！この先進的なドローンが君の大きな助けとなることを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:469
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:475
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[6]/text"
+msgstr "ドローンブースター増強パーツを買う。"
+
+#: src-en/data/events_special_filler.xml.append:477
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[6]/event/text"
+msgstr "「取引できて光栄だ！君の内部ドローンが最高の状態で動作することを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:483
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[6]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:489
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:491
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
+" and not(@lvl)]/event/text"
+msgstr "「取引できて光栄だ！これで以前よりも多くのドローンを運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:497
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
+" and not(@lvl)]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:503
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:505
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
+" and @lvl=\"5\"]/event/text"
+msgstr "「取引できて光栄だ！これで以前よりも多くのドローンを運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:511
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
+" and @lvl=\"5\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:517
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:519
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[9]/event/text"
+msgstr ""
+"「ああ、それは残念だ！良い旅を。」あなたは罠を疑うが、海賊は何の策略も使わない。アルゲオンの在庫をすべて買い占めなくても、忠実な顧客であることは報われるようだ。"
+
+#: src-en/data/events_special_filler.xml.append:521
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[9]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:525
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[9]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:533
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/text"
+msgstr "「アルゲオンの大切なお客様ですって？まあ、どうぞお入りください！お見せしたい特別な武器のオファーがたくさんあります！」"
+
+#: src-en/data/events_special_filler.xml.append:535
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[1]/text"
+msgstr "ミサイルをいくつか買う"
+
+#: src-en/data/events_special_filler.xml.append:537
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[1]/event/text"
+msgstr "「取引できて光栄だ！君の弾道兵器が敵に破壊の雨を降らせ続けることを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:543
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:549
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[2]/text"
+msgstr "ミサイルの大きな山を買う"
+
+#: src-en/data/events_special_filler.xml.append:551
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[2]/event/text"
+msgstr "「取引できて光栄だ！君の弾道兵器が敵に破壊の雨を降らせ続けることを願うよ」"
+
+#: src-en/data/events_special_filler.xml.append:557
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:563
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[3]/text"
+msgstr "武器を買う。"
+
+#: src-en/data/events_special_filler.xml.append:565
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[3]/event/text"
+msgstr "「取引できて光栄だ！これは君の現在の兵器庫の隣で素晴らしい見栄えになるだろう」"
+
+#: src-en/data/events_special_filler.xml.append:571
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:577
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[4]/text"
+msgstr "武器を買う。"
+
+#: src-en/data/events_special_filler.xml.append:579
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[4]/event/text"
+msgstr "「取引できて光栄だ！これは君の現在の兵器庫の隣で素晴らしい見栄えになるだろう」"
+
+#: src-en/data/events_special_filler.xml.append:585
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:591
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[5]/text"
+msgstr "先進的な武器を買う。"
+
+#: src-en/data/events_special_filler.xml.append:593
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[5]/event/text"
+msgstr "「取引できて光栄だ！次に君に逆らう愚か者に、助けを送ってやってくれ…」"
+
+#: src-en/data/events_special_filler.xml.append:599
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:605
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[6]/text"
+msgstr "リローダー増強パーツを買う。"
+
+#: src-en/data/events_special_filler.xml.append:607
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[6]/event/text"
+msgstr "「取引できて光栄だ！君の銃が最高速度で動作することを願うよ！」"
+
+#: src-en/data/events_special_filler.xml.append:613
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[6]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:619
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
+" and not(@lvl)]/text"
+msgstr "武器システムのアップグレードを買う。"
+
+#: src-en/data/events_special_filler.xml.append:621
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
+" and not(@lvl)]/event/text"
+msgstr "「取引できて光栄だ！これで以前よりも多くの武器を運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:627
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
+" and not(@lvl)]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:633
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
+" and @lvl=\"5\"]/text"
+msgstr "武器システムのアップグレードを買う。"
+
+#: src-en/data/events_special_filler.xml.append:635
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
+" and @lvl=\"5\"]/event/text"
+msgstr "「取引できて光栄だ！これで以前よりも多くの武器を運用できるぞ！」"
+
+#: src-en/data/events_special_filler.xml.append:641
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
+" and @lvl=\"5\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:647
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:649
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[9]/event/text"
+msgstr ""
+"「ああ、それは残念だ！良い旅を。」あなたは罠を疑うが、海賊は何の策略も使わない。アルゲオンの在庫をすべて買い占めなくても、忠実な顧客であることは報われるようだ。"
+
+#: src-en/data/events_special_filler.xml.append:651
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[9]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:655
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[9]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:683
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/text"
+msgstr "遭難ビーコンは民間船から発信されている。ティーカカの奴隷商人に追われているようだ。"
+
+#: src-en/data/events_special_filler.xml.append:685
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:687
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[1]/event/text"
+msgstr "あなたは武器を起動させ、奴隷商人の船と交戦する。"
+
+#: src-en/data/events_special_filler.xml.append:690
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:696
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[2]/text"
+msgstr "奴隷商人の船を援助する。"
+
+#: src-en/data/events_special_filler.xml.append:698
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[2]/event/text"
+msgstr "あなたは奴隷商人に意図を伝え、無力な民間人と交戦するために急ぐ。"
+
+#: src-en/data/events_special_filler.xml.append:701
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:707
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:709
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:711
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:715
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:721
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[@req=\"weapons\"]/text"
+msgstr "(改良された武器) 最も強力な武器から警告射撃を行う。"
+
+#: src-en/data/events_special_filler.xml.append:727
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/text"
+msgstr "遭難ビーコンは民間船から発信されている。シンジケートの傭兵に追われているようだ。"
+
+#: src-en/data/events_special_filler.xml.append:729
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:731
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[1]/event/text"
+msgstr "あなたは武器を起動させ、傭兵の船と交戦する。"
+
+#: src-en/data/events_special_filler.xml.append:734
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:740
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[2]/text"
+msgstr "傭兵の船を援助する。"
+
+#: src-en/data/events_special_filler.xml.append:742
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[2]/event/text"
+msgstr "あなたは傭兵に意図を伝え、無力な民間人と交戦するために急ぐ。"
+
+#: src-en/data/events_special_filler.xml.append:745
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:751
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:753
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:755
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:759
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:765
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[@req=\"weapons\"]/text"
+msgstr "(改良された武器) 最も強力な武器から警告射撃を行う。"
+
+#: src-en/data/events_special_filler.xml.append:771
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/text"
+msgstr "遭難ビーコンは民間船から発信されている。アルゲオンの密輸業者に追われているようだ。"
+
+#: src-en/data/events_special_filler.xml.append:773
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:775
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[1]/event/text"
+msgstr "あなたは武器を起動させ、奴隷商人の船と交戦する。"
+
+#: src-en/data/events_special_filler.xml.append:778
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:784
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[2]/text"
+msgstr "密輸業者の船を援助する。"
+
+#: src-en/data/events_special_filler.xml.append:786
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[2]/event/text"
+msgstr "あなたは密輸業者に意図を伝え、無力な民間人と交戦するために急ぐ。"
+
+#: src-en/data/events_special_filler.xml.append:789
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:795
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:797
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:799
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:803
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:809
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[@req=\"weapons\"]/text"
+msgstr "(改良された武器) 最も強力な武器から警告射撃を行う。"
+
+#: src-en/data/events_special_filler.xml.append:817
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:820
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:825
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[2]/text"
+msgstr "どうやら奴隷商人は反撃できる相手との戦いを望んでいなかったようだ。彼らは去り、あなたは民間船に連絡するために動く。"
+
+#: src-en/data/events_special_filler.xml.append:827
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:835
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"MERCENARY_CIVILIAN_BEACON_BEAM\"]/event/text"
+msgstr "より大きな脅威を検知し、彼らは民間人への攻撃を再開する前に、向きを変えてあなたの船と交戦する。"
+
+#: src-en/data/events_special_filler.xml.append:838
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"MERCENARY_CIVILIAN_BEACON_BEAM\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:846
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:849
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:854
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[2]/text"
+msgstr "どうやら密輸業者は反撃できる相手との戦いを望んでいなかったようだ。彼らは去り、あなたは民間船に連絡するために動く。"
+
+#: src-en/data/events_special_filler.xml.append:856
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:865
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:867
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:869
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:872
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:878
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[1]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:883
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[2]/text"
+msgstr "襲われていた船は科学船だったようだ。彼らはあなたに救われたことに感謝し、ささやかな報酬を提供する。"
+
+#: src-en/data/events_special_filler.xml.append:886
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:891
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:894
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:899
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:901
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[4]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:903
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[4]/choice/event/text"
+msgstr "あなたは彼らの寛大さに感謝し、武器を貨物室に移動させる。"
+
+#: src-en/data/events_special_filler.xml.append:906
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[4]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:913
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:916
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[5]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:921
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[6]/text"
+msgstr "あなたが敵船の注意を引いている間に、民間船は賢明にも素早く撤退した。"
+
+#: src-en/data/events_special_filler.xml.append:923
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[6]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:931
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:933
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:935
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:938
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:944
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[1]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:949
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[2]/text"
+msgstr "襲われていた船は科学船だったようだ。彼らはあなたに救われたことに感謝し、ささやかな報酬を提供する。"
+
+#: src-en/data/events_special_filler.xml.append:952
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:957
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:960
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:965
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:967
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[4]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:969
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[4]/choice/event/text"
+msgstr "あなたは彼らの寛大さに感謝し、武器を貨物室に移動させる。"
+
+#: src-en/data/events_special_filler.xml.append:972
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[4]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:979
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:982
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[5]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:987
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[6]/text"
+msgstr "あなたが敵船の注意を引いている間に、民間船は賢明にも素早く撤退した。"
+
+#: src-en/data/events_special_filler.xml.append:989
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[6]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:997
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:999
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1001
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1004
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1010
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[1]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1015
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[2]/text"
+msgstr "襲われていた船は科学船だったようだ。彼らはあなたに救われたことに感謝し、ささやかな報酬を提供する。"
+
+#: src-en/data/events_special_filler.xml.append:1018
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1023
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1026
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1031
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1033
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[4]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1035
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[4]/choice/event/text"
+msgstr "あなたは彼らの寛大さに感謝し、武器を貨物室に移動させる。"
+
+#: src-en/data/events_special_filler.xml.append:1038
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[4]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1045
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1048
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[5]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1053
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[6]/text"
+msgstr "あなたが敵船の注意を引いている間に、民間船は賢明にも素早く撤退した。"
+
+#: src-en/data/events_special_filler.xml.append:1055
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[6]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1064
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"ESCAPE_SLAVER_CIVILIAN\"]/text"
+msgstr ""
+"民間人のエンジンがすでに点灯しているのに気づく。つまり、彼らは長くは留まらないだろう。奴隷商人の船は民間人を奴隷にするために捕らえようとしていた可能性が高いので、海賊からの報酬を期待するなら、民間人を生かしておかなければならない。"
+
+#: src-en/data/events_special_filler.xml.append:1068
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"ESCAPE_MERCENARY_CIVILIAN\"]/text"
+msgstr ""
+"民間人のエンジンがすでに点灯しているのに気づく。つまり、彼らは長くは留まらないだろう。傭兵の船は民間人を排除するために雇われていた可能性が高いので、海賊からの報酬を期待するなら、彼らが逃げる前にどんな方法でも倒さなければならない。"
+
+#: src-en/data/events_special_filler.xml.append:1072
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"ESCAPE_SMUGGLER_CIVILIAN\"]/text"
+msgstr ""
+"民間人のエンジンがすでに点灯しているのに気づく。つまり、彼らは長くは留まらないだろう。密輸業者の船は民間人の積荷を狙っていた可能性が高いので、海賊からの報酬を期待するなら、船を破壊するのを避けなければならない。"
+
+#: src-en/data/events_special_filler.xml.append:1078
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/text"
+msgstr "あなたが止める前に、民間人は逃げてしまった。海賊はこれに満足しないだろう…"
+
+#: src-en/data/events_special_filler.xml.append:1080
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/choice/text"
+msgstr "海賊に通信する"
+
+#: src-en/data/events_special_filler.xml.append:1082
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/choice/event/text"
+msgstr ""
+"「一体何なんだ！お前の邪魔がなければ確保できたのに…でも、連邦が民間人を攻撃するのを見るのは笑えるな。分かった、戦わないことには同意するが、今後の恩恵は期待するな」"
+
+#: src-en/data/events_special_filler.xml.append:1088
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/text"
+msgstr "あなたが止める前に、民間人は逃げてしまった。海賊はこれに満足しないだろう…"
+
+#: src-en/data/events_special_filler.xml.append:1090
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/choice/text"
+msgstr "海賊に通信する"
+
+#: src-en/data/events_special_filler.xml.append:1092
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/choice/event/text"
+msgstr ""
+"「一体何なんだ！お前の邪魔がなければ確保できたのに…でも、連邦が民間人を攻撃するのを見るのは笑えるな。分かった、戦わないことには同意するが、今後の恩恵は期待するな」"
+
+#: src-en/data/events_special_filler.xml.append:1098
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/text"
+msgstr "あなたが止める前に、民間人は逃げてしまった。海賊はこれに満足しないだろう…"
+
+#: src-en/data/events_special_filler.xml.append:1100
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/choice/text"
+msgstr "海賊に通信する"
+
+#: src-en/data/events_special_filler.xml.append:1102
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/choice/event/text"
+msgstr ""
+"「一体何なんだ！お前の邪魔がなければ確保できたのに…でも、連邦が民間人を攻撃するのを見るのは笑えるな。分かった、戦わないことには同意するが、今後の恩恵は期待するな」"
+
+#: src-en/data/events_special_filler.xml.append:1109
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/text"
+msgstr "民間人は破壊寸前だ。恐怖に駆られ、民間人は降伏し、あなたのどんな要求にも応じることに同意する。"
+
+#: src-en/data/events_special_filler.xml.append:1111
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[1]/text"
+msgstr "彼らの降伏を受け入れる"
+
+#: src-en/data/events_special_filler.xml.append:1113
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[1]/event/text"
+msgstr ""
+"あなたは奴隷商人に通信する前に、民間人のエンジンを無効化する。彼らが民間人とドッキングし、彼らを積荷に縛り付けると、奴隷商人の船長はあなたの助けに感謝し、スクラップをいくつか送ってくる。"
+
+#: src-en/data/events_special_filler.xml.append:1117
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1123
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[2]/text"
+msgstr "ただ彼らを始末するだけだ。"
+
+#: src-en/data/events_special_filler.xml.append:1130
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[1]/text"
+msgstr "あなたはクルーのいなくなった民間船をスクラップにし始める。持ち帰るための資源をいくつか見つける。"
+
+#: src-en/data/events_special_filler.xml.append:1133
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1138
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[2]/text"
+msgstr "あなたはクルーのいなくなった民間船をスクラップにし始める。持ち帰るための資源をいくつか見つける。"
+
+#: src-en/data/events_special_filler.xml.append:1141
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1146
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[3]/text"
+msgstr "あなたはクルーのいなくなった民間船をスクラップにし始める。あまり何も残っていないが、それでもいくらかのスクラップにはなる。"
+
+#: src-en/data/events_special_filler.xml.append:1149
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1154
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[4]/text"
+msgstr "あなたはクルーのいなくなった民間船をスクラップにし始める。あまり何も残っていないが、それでもいくらかのスクラップにはなる。"
+
+#: src-en/data/events_special_filler.xml.append:1157
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[4]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1162
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[5]/text"
+msgstr "あなたはクルーのいなくなった民間船をスクラップにし始める。彼らの基本的な武器の一つが無傷で残っているのを見つけ、それを船に持ち帰る。"
+
+#: src-en/data/events_special_filler.xml.append:1166
+msgid ""
+"data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[5]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1173
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/text"
+msgstr "民間人は破壊寸前だ。恐怖に駆られ、民間人は降伏し、あなたのどんな要求にも応じることに同意する。"
+
+#: src-en/data/events_special_filler.xml.append:1175
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[1]/text"
+msgstr "彼らの降伏を受け入れる"
+
+#: src-en/data/events_special_filler.xml.append:1177
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[1]/event/text"
+msgstr ""
+"あなたは傭兵に通信する前に、民間人のエンジンを無効化する。しかし、傭兵からのミサイルがあなたの船をかすめ、すでに脆い民間船に衝突し、即座に破壊する。「おっと、危うく当たるところだったな、友よ！彼らの船に特に用はなかった、ただ彼らを追い詰める必要があっただけだ。とにかく、協力ありがとう。反乱軍の艦隊で助けが必要だろう…」"
+
+#: src-en/data/events_special_filler.xml.append:1183
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1189
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[2]/text"
+msgstr "ただ彼らを始末するだけだ。"
+
+#: src-en/data/events_special_filler.xml.append:1195
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/text"
+msgstr "民間人は破壊寸前だ。恐怖に駆られ、民間人は降伏し、あなたのどんな要求にも応じることに同意する。"
+
+#: src-en/data/events_special_filler.xml.append:1197
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[1]/text"
+msgstr "彼らの降伏を受け入れる"
+
+#: src-en/data/events_special_filler.xml.append:1200
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[1]/event/text"
+msgstr ""
+"あなたは奴隷商人に通信する前に、民間人のエンジンを無効化する。彼らが民間人とドッキングすると、あなたに感謝しに来る。「この男が近くの惑星で友達に自分のものを見せびらかしているのを見たから、ここまで追ってきて攻撃したんだ。積荷を手に入れた今、残りのクルーをどうするかよく分からない。つまり、もう民間人を攻撃したんだから、少しの奴隷稼業も問題ないだろう？」"
+
+#: src-en/data/events_special_filler.xml.append:1204
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1210
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[2]/text"
+msgstr "ただ彼らを始末するだけだ。"
+
+#: src-en/data/events_special_filler.xml.append:1216
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SLAVER_CIVILIAN\"]/text"
+msgstr "あなたは民間船を破壊した。奴隷商人がそれに満足するとは思えないが、彼らが通信してくる前に、あなたは船を短時間スクラップにする。"
+
+#: src-en/data/events_special_filler.xml.append:1219
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SLAVER_CIVILIAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1221
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SLAVER_CIVILIAN\"]/choice/event/text"
+msgstr ""
+"「一体何なんだ！我々が狙っていたのは奴隷だったのに、お前が吹き飛ばしちまった…でも、連邦が民間人を攻撃するのを見るのは笑えるな。分かった、戦わないことには同意するが、今後の恩恵は期待するな」"
+
+#: src-en/data/events_special_filler.xml.append:1226
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SLAVER_CIVILIAN\"]/text"
+msgstr "あなたはすべての民間人を倒した。奴隷商人がそれに満足するとは思えないが、彼らが通信してくる前に、あなたは船を短時間スクラップにする。"
+
+#: src-en/data/events_special_filler.xml.append:1229
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SLAVER_CIVILIAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1231
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SLAVER_CIVILIAN\"]/choice/event/text"
+msgstr ""
+"「一体何なんだ！我々が狙っていたのは奴隷だったのに、お前が皆殺しにしちまった…でも、連邦が民間人を攻撃するのを見るのは笑えるな。分かった、戦わないことには同意するが、今後の恩恵は期待するな」"
+
+#: src-en/data/events_special_filler.xml.append:1237
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/text"
+msgstr "あなたは民間船を破壊した。傭兵が船をスクラップにしても気にしないことを願う。"
+
+#: src-en/data/events_special_filler.xml.append:1240
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1242
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/choice/event/text"
+msgstr "「素晴らしい、我々の仕事をしてくれたな！感謝する。反乱軍の艦隊で助けが必要だろう…」"
+
+#: src-en/data/events_special_filler.xml.append:1245
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1252
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/text"
+msgstr "あなたはすべての民間人を倒した。傭兵が船をスクラップにしても気にしないことを願う。"
+
+#: src-en/data/events_special_filler.xml.append:1255
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1257
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/choice/event/text"
+msgstr "「素晴らしい、我々の仕事をしてくれたな！感謝する。反乱軍の艦隊で助けが必要だろう…」"
+
+#: src-en/data/events_special_filler.xml.append:1260
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1268
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SMUGGLER_CIVILIAN\"]/text"
+msgstr "あなたは民間船を破壊した。密輸業者がそれに満足するとは思えないが、彼らが通信してくる前に、あなたは船を短時間スクラップにする。"
+
+#: src-en/data/events_special_filler.xml.append:1271
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SMUGGLER_CIVILIAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1273
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SMUGGLER_CIVILIAN\"]/choice/event/text"
+msgstr ""
+"「一体何なんだ！我々が狙っていた積荷を全部吹き飛ばしちまった…でも、連邦が民間人を攻撃するのを見るのは笑えるな。分かった、戦わないことには同意するが、今後の恩恵は期待するな」"
+
+#: src-en/data/events_special_filler.xml.append:1278
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/text"
+msgstr "あなたはすべての民間人を倒した。密輸業者が船をスクラップにしても気にしないことを願う。"
+
+#: src-en/data/events_special_filler.xml.append:1281
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:1283
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/choice/event/text"
+msgstr ""
+"「積荷を無傷で保ってくれてありがとう！この男が近くの惑星で友達に自分のものを見せびらかしているのを見たから、ここまで追ってきて攻撃したんだ。ほら、彼らの積荷から武器を一つ持っていけ」"
+
+#: src-en/data/events_special_filler.xml.append:1286
+msgid ""
+"data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/choice/event/choice/text"
+msgstr ""
