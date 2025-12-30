@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 19:27+0000\n"
+"PO-Revision-Date: 2025-12-30 14:58+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/mod-appendixmetadataxml/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
@@ -18,6 +18,10 @@ msgstr "Addon PIRACY IS POGGERS (Etre pirate c'est génial !)"
 #: src-en/mod-appendix/metadata.xml:6
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
+"---------------------------------------------------\n"
+"TRADUIT A 40% EN FRANCAIS\n"
+"---------------------------------------------------\n"
+"\n"
 "Cet addon se concentre sur les pirates (qui l'aurait cru).\n"
 "\n"
 "Le système de réputation des pirates du Multivers de base a été largement étendu dans PiP. Vos choix en matière d'assistance ou d'attaque des pirates détermineront leur degré de sympathie à votre égard, ainsi que les offres spéciales qu'ils peuvent vous proposer.\n"
