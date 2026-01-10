@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-08 18:44+0000\n"
+"PO-Revision-Date: 2026-01-10 16:34+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_geniocracyxmlappend/fr/>\n"
 "Language: fr\n"
@@ -43,7 +43,7 @@ msgstr "Remettre les fossils."
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/choice/event/text"
-msgstr "\"Ooooh, ffous l’avez fait ! C’est… incroyable. Che ne peux pas ffous remercier assez. E-et si che traffaillais pour ffous ? Che pourrais étudier celles-ci pendant mon temps libre, et rembourser ma dette par le travail !\""
+msgstr "\"Ooooh, ffous l'avez fait ! C'est… incroyable. Che ne peux pas ffous remercier assez. E-et si che traffaillais pour ffous ? Che pourrais étudier celles-ci pendant mon temps libre, et rembourser ma dette par le travail !\""
 
 #: src-en/data/events_sector_geniocracy.xml.append:41
 msgid ""
