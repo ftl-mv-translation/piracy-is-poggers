@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-09 04:46+0000\n"
+"PO-Revision-Date: 2026-01-11 17:07+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_piratexmlappend/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_pirate.xml.append:14
 msgid ""
@@ -2894,7 +2894,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_pirate.xml.append:2795
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_PIRATE_TRADING_HAIL_OK\"]/choice[1]/event/choice[1]/text"
 msgstr "Les attaquer !"
@@ -4490,7 +4489,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_pirate.xml.append:4137
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[2]/text"
 msgstr "Les attaquer !"
