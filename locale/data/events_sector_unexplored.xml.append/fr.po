@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
+"PO-Revision-Date: 2026-01-11 17:07+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_unexploredxmlappend/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_unexplored.xml.append:17
 msgid ""
@@ -73,7 +73,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_unexplored.xml.append:83
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[4]/mod:selector"
 msgstr "Laisser tomber."
@@ -240,7 +239,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_unexplored.xml.append:262
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -296,7 +294,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_unexplored.xml.append:308
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -352,7 +349,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_unexplored.xml.append:354
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[3]/text"
 msgstr "Laisser tomber."
