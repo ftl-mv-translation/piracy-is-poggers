@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-01-11 17:07+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_duskbringerxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_duskbringer.xml.append:11
 msgid ""
@@ -117,7 +117,6 @@ msgid ""
 msgstr "Surprenament, aucun des pirates ne bougent quand vous vous approchez. L'un vous contacte, voulant connaître vos intentions."
 
 #: src-en/data/events_sector_duskbringer.xml.append:99
-#, fuzzy
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING_CONTACT\"]/mod:findWithChildLike/mod:findWithChildLike/mod:selector"
 msgstr "Attaquer !"
