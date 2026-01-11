@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-25 17:26+0000\n"
+"PO-Revision-Date: 2026-01-11 17:07+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_piracy.xml.append:4
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_INTRO\"]/text"
@@ -431,7 +431,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_piracy.xml.append:451
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[6]/text"
 msgstr "Laisser tomber."
@@ -2768,7 +2767,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_piracy.xml.append:2595
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[10]/text"
 msgstr "Laisser tomber."
@@ -2893,7 +2891,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_piracy.xml.append:2694
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[10]/text"
 msgstr "Laisser tomber."
@@ -2919,7 +2916,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_piracy.xml.append:2716
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[8]/text"
 msgstr "Laisser tomber."
@@ -3490,7 +3486,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_piracy.xml.append:3512
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[6]/text"
 msgstr "Laisser tomber."
@@ -7799,7 +7794,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_piracy.xml.append:7619
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP\"]/choice[@req=\"rep_comb_smuggler\""
 " and @lvl=\"1\"]/event/choice[2]/text"
@@ -7848,7 +7842,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_piracy.xml.append:7650
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP\"]/choice[4]/text"
 msgstr "Les attaquer !"
@@ -10577,7 +10570,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_piracy.xml.append:10088
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_1\"]/choice[1]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -10618,7 +10610,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_piracy.xml.append:10150
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_2\"]/choice[1]/event/choice[2]/text"
 msgstr "Laisser tomber."
