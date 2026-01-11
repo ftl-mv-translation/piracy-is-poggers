@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-24 07:46+0000\n"
+"PO-Revision-Date: 2026-01-11 17:07+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_stargrovexmlappend/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_stargrove.xml.append:5
 msgid ""
@@ -48,10 +48,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_sector_stargrove.xml.append:33
-#, fuzzy
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[1]/mod:selector"
-msgstr "Attaquer les mercenaires."
+msgstr "Attaquer le mercenaire."
 
 #: src-en/data/events_sector_stargrove.xml.append:43
 msgid ""
