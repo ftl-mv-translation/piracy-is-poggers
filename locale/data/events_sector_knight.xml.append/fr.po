@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:50+0000\n"
+"PO-Revision-Date: 2026-01-11 17:07+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_knightxmlappend/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_knight.xml.append:6
 msgid ""
@@ -81,7 +81,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_knight.xml.append:67
-#, fuzzy
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[2]/text"
