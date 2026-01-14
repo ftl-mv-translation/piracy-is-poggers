@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_guards.xml.append:4
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_PIRATE\"]/mod-"
+"append:choice/text"
+msgstr "(Réputation Pirate 1+) Demander gentiment l'entrée."
+
+#: src-en/data/events_special_guards.xml.append:6
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_PIRATE\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"« Ah, mes excuses de ne pas vous avoir reconnu ! J'espère que vous "
+"continuerez à nous aider, n'est-ce pas, ami ? En dehors de ça, j'ai un pote "
+"qui a eu un peu de mal avec les affaires dernièrement. Allez lui rendre "
+"visite, voulez-vous ? »"
+
+#: src-en/data/events_special_guards.xml.append:18
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+"(Réputation Pirate 2) Demander l'entrée, les pirates devraient savoir qui "
+"nous sommes."
+
+#: src-en/data/events_special_guards.xml.append:20
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"Les contrebandiers vérifient brièvement votre réputation avant de vous "
+"offrir un accueil plus chaleureux. « Je n'aurais jamais cru voir un Fed "
+"intéressé à nous aider, nous les pirates, mais je ne me plains pas. Vous "
+"êtes autorisé à passer. »"
+
+#: src-en/data/events_special_guards.xml.append:24
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+"(Réputation Pirate 3+) Demander l'entrée, les pirates devraient savoir qui "
+"nous sommes."
+
+#: src-en/data/events_special_guards.xml.append:26
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"Les contrebandiers vérifient brièvement votre réputation avant de vous "
+"offrir un accueil plus chaleureux. « Je n'aurais jamais cru voir un Fed "
+"intéressé à nous aider, nous les pirates, mais je ne me plains pas. Servez-"
+"vous de ça. »"
+
+#: src-en/data/events_special_guards.xml.append:36
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+"(Réputation Contrebandier 2) Demander l'entrée, le clan des Contrebandiers "
+"devrait savoir qui nous sommes."
+
+#: src-en/data/events_special_guards.xml.append:38
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"Les contrebandiers vérifient brièvement votre réputation avant de vous "
+"offrir un accueil plus chaleureux. « Si ce n'est pas le Fed qui a été si "
+"gentil avec notre clan. Je vous remercie sincèrement d'avoir soutenu notre "
+"cause. Nous avons autorisé votre vaisseau à entrer. Prenez de la ferraille "
+"en guise de cadeau. »"
+
+#: src-en/data/events_special_guards.xml.append:43
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[4]/text"
+msgstr ""
+"(Réputation Contrebandier 3+) Demander l'entrée, le clan des Contrebandiers "
+"devrait savoir qui nous sommes."
+
+#: src-en/data/events_special_guards.xml.append:45
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[4]/event/text"
+msgstr ""
+"Les contrebandiers vérifient brièvement votre réputation avant de vous "
+"offrir un accueil plus chaleureux. « Si ce n'est pas le Fed qui a été si "
+"gentil avec notre clan. Je vous remercie sincèrement d'avoir soutenu notre "
+"cause. Tenez, prenez ce cadeau, et n'hésitez pas à commercer avec l'un de "
+"mes gars à la station voisine. Je suis sûr qu'il a quelque chose qui vous "
+"plaira. »"
+
+#: src-en/data/events_special_guards.xml.append:53
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+"(Réputation Mercenaire 3+) Demander l'entrée, le Syndicat peut se porter "
+"garant pour nous."
+
+#: src-en/data/events_special_guards.xml.append:55
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[5]/event/text"
+msgstr ""
+"Après quelques échanges avec un contact au sein du Syndicat, les "
+"contrebandiers baissent leur garde. « Eh bien, nous allons les croire sur "
+"parole, alors bienvenue dans notre secteur. Certains de vos copains "
+"mercenaires nous ont également dit de vous remettre cette ferraille et de "
+"vous envoyer les coordonnées du mercenaire disponible le plus proche, alors "
+"prenez ceci. »"
+
+#: src-en/data/events_special_guards.xml.append:61
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[6]/text"
+msgstr ""
+"(Réputation Marchand d'esclaves 3+) Demander l'entrée, Tiiikaka peut se "
+"porter garant pour nous."
+
+#: src-en/data/events_special_guards.xml.append:63
+msgid ""
+"data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
+"append:choice[6]/event/text"
+msgstr ""
+"Après quelques échanges avec un contact au sein de Tiiikaka, les "
+"contrebandiers baissent leur garde. « Eh bien, nous allons les croire sur "
+"parole, alors bienvenue dans notre secteur. Certains de vos copains "
+"marchands d'esclaves nous ont également dit de vous remettre cette ferraille"
+" et de vous envoyer les coordonnées du marchand d'esclaves disponible le "
+"plus proche, alors prenez ceci. »"
