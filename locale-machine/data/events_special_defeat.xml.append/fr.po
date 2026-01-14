@@ -1,0 +1,261 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_defeat.xml.append:29
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[1]"
+msgstr ""
+"Alors que le vaisseau du contrebandier se brise, il vous vient à l'esprit "
+"que la Fédération a employé des contrebandiers pour leurs services par le "
+"passé. Vous espérez que votre récente victime n'était pas un fournisseur de "
+"la Fédération."
+
+#: src-en/data/events_special_defeat.xml.append:30
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[2]"
+msgstr ""
+"Le vaisseau du contrebandier a été réduit en ferraille, et sa cargaison "
+"consumée dans l'incendie."
+
+#: src-en/data/events_special_defeat.xml.append:31
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[3]"
+msgstr ""
+"Alors que votre dernier tir frappe le vaisseau du contrebandier, une autre "
+"explosion secoue leur vaisseau depuis la cargaison. Bien que vous ne sachiez"
+" pas ce qui a déclenché l'explosion, une bonne partie de la ferraille reste."
+
+#: src-en/data/events_special_defeat.xml.append:32
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[4]"
+msgstr ""
+"Le vaisseau du contrebandier a été détruit. Un acteur malveillant de moins "
+"pour alimenter le commerce sombre."
+
+#: src-en/data/events_special_defeat.xml.append:48
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[1]"
+msgstr ""
+"Alors que le vaisseau du contrebandier se tait, il vous vient à l'esprit que"
+" la Fédération a employé des contrebandiers pour leurs services par le "
+"passé. Vous espérez que votre récente victime n'était pas un fournisseur de "
+"la Fédération."
+
+#: src-en/data/events_special_defeat.xml.append:49
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[2]"
+msgstr ""
+"Le vaisseau du contrebandier a été débarrassé de son équipage, laissant "
+"derrière lui une bonne quantité de ferraille provenant de leurs activités de"
+" piraterie."
+
+#: src-en/data/events_special_defeat.xml.append:50
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[3]"
+msgstr ""
+"Le vaisseau du contrebandier a été vaincu. Un acteur malveillant de moins "
+"pour alimenter le commerce sombre."
+
+#: src-en/data/events_special_defeat.xml.append:63
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_WEAPON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:65
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_WEAPON\"]/choice/event/text"
+msgstr ""
+"Pendant votre opération de récupération, vous trouvez l'une des armes qu'ils"
+" faisaient passer en contrebande, toujours intacte malgré la bataille. Vous "
+"la rapportez à votre vaisseau."
+
+#: src-en/data/events_special_defeat.xml.append:75
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_DRONE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:77
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_DRONE\"]/choice/event/text"
+msgstr ""
+"Pendant votre opération de récupération, vous trouvez l'un des drones qu'ils"
+" faisaient passer en contrebande, toujours intact malgré la bataille. Vous "
+"le ramenez à votre vaisseau."
+
+#: src-en/data/events_special_defeat.xml.append:87
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_AUGMENT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:89
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_AUGMENT\"]/choice/event/text"
+msgstr ""
+"Pendant votre opération de récupération, vous trouvez l'une des "
+"augmentations qu'ils faisaient passer en contrebande, toujours intacte "
+"malgré la bataille. Vous la rapportez à votre vaisseau."
+
+#: src-en/data/events_special_defeat.xml.append:102
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[1]"
+msgstr ""
+"Alors que la station du contrebandier se désintègre, il vous vient à "
+"l'esprit que la Fédération a employé des contrebandiers pour leurs services "
+"par le passé. Vous espérez que votre récente victime n'était pas un "
+"fournisseur de la Fédération."
+
+#: src-en/data/events_special_defeat.xml.append:103
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[2]"
+msgstr ""
+"La station du contrebandier a été réduite en ferraille, et sa cargaison "
+"consumée dans l'incendie."
+
+#: src-en/data/events_special_defeat.xml.append:104
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[3]"
+msgstr ""
+"Alors que votre dernier tir touche la station, une autre explosion secoue "
+"leur coque depuis la cargaison. Bien que vous ne sachiez pas ce qui a "
+"déclenché l'explosion, une bonne partie de la ferraille reste."
+
+#: src-en/data/events_special_defeat.xml.append:105
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[4]"
+msgstr ""
+"La station du contrebandier a été détruite. Un avant-poste malveillant de "
+"moins pour alimenter le commerce sombre."
+
+#: src-en/data/events_special_defeat.xml.append:121
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[1]"
+msgstr ""
+"Alors que la station du contrebandier tombe silencieuse, il vous vient à "
+"l'esprit que la Fédération a employé des contrebandiers pour leurs services "
+"par le passé. Vous espérez que votre récente victime n'était pas un "
+"fournisseur de la Fédération."
+
+#: src-en/data/events_special_defeat.xml.append:122
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[2]"
+msgstr ""
+"La station du contrebandier a été débarrassée de son équipage, laissant "
+"derrière elle une bonne quantité de ferraille provenant de leurs activités "
+"de piraterie."
+
+#: src-en/data/events_special_defeat.xml.append:123
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[3]"
+msgstr ""
+"La station du contrebandier a été vaincue. Un avant-poste malveillant de "
+"moins pour alimenter le commerce sombre."
+
+#: src-en/data/events_special_defeat.xml.append:136
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_WEAPON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:138
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_WEAPON\"]/choice/event/text"
+msgstr ""
+"Pendant votre opération de récupération, vous trouvez l'une des armes qu'ils"
+" faisaient passer en contrebande, toujours intacte malgré la bataille. Vous "
+"la rapportez à votre vaisseau."
+
+#: src-en/data/events_special_defeat.xml.append:148
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_DRONE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:150
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_DRONE\"]/choice/event/text"
+msgstr ""
+"Pendant votre opération de récupération, vous trouvez l'un des drones qu'ils"
+" faisaient passer en contrebande, toujours intact malgré la bataille. Vous "
+"le ramenez à votre vaisseau."
+
+#: src-en/data/events_special_defeat.xml.append:160
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_AUGMENT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:162
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_AUGMENT\"]/choice/event/text"
+msgstr ""
+"Pendant votre opération de récupération, vous trouvez l'une des "
+"augmentations qu'ils faisaient passer en contrebande, toujours intacte "
+"malgré la bataille. Vous la rapportez à votre vaisseau."
+
+#: src-en/data/events_special_defeat.xml.append:176
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:177
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[2]"
+msgstr ""
+"En détruisant ce vaisseau de mercenaires, vous aurez sauvé la vie de ceux "
+"qui devaient encore être chassés par ces racailles."
+
+#: src-en/data/events_special_defeat.xml.append:178
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[3]"
+msgstr ""
+"Détruire ce vaisseau de mercenaires signifie un vaisseau de moins que les "
+"Rebelles peuvent envoyer à vos trousses, et vous en êtes heureux."
+
+#: src-en/data/events_special_defeat.xml.append:179
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[4]"
+msgstr ""
+"Vous vous demandez si les services que le mercenaire pourrait fournir en "
+"vaudraient la peine pour ne pas les faire exploser."
+
+#: src-en/data/events_special_defeat.xml.append:196
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[1]"
+msgstr ""
+"Le vaisseau mercenaire a été débarrassé de son équipage. Un vaisseau de "
+"racailles de moins à gérer."
+
+#: src-en/data/events_special_defeat.xml.append:197
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[2]"
+msgstr ""
+"En éliminant ce gang de mercenaires, vous aurez sauvé la vie de ceux qui "
+"devaient encore être chassés par ces racailles."
+
+#: src-en/data/events_special_defeat.xml.append:198
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[3]"
+msgstr ""
+"Un équipage de mercenaires morts signifie un vaisseau de moins que les "
+"Rebelles peuvent envoyer à vos trousses, et vous en êtes heureux."
+
+#: src-en/data/events_special_defeat.xml.append:199
+msgid ""
+"data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[4]"
+msgstr ""
+"Vous vous demandez si les services que le mercenaire pourrait fournir en "
+"vaudraient la peine pour les laisser vivre."
+
+#: src-en/data/events_special_defeat.xml.append:206
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_MAP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_defeat.xml.append:208
+msgid ""
+"data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_MAP\"]/choice/event/text"
+msgstr ""
+"Un second balayage de l'intérieur du vaisseau révèle une carte de secteur "
+"intacte. Le mercenaire a probablement été engagé par quelqu'un pour explorer"
+" la région locale. Vous la prenez pour mettre à jour votre propre carte."

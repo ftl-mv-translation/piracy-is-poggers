@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_theocracy.xml.append:32
+msgid ""
+"data/events_sector_theocracy.xml.append$//mod:findName[@name=\"ROCK_ASTEROID_COLONY\"]/mod:findWithChildLike/mod:selector"
+msgstr ""

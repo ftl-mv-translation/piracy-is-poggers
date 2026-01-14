@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_geniocracy.xml.append:13
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:16
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:19
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+"(Réputation de contrebandier 2+) Les saluer et négocier pour les fossiles."
+
+#: src-en/data/events_sector_geniocracy.xml.append:22
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"Bien que les contrebandiers vous reconnaissent maintenant, ils sont toujours"
+" réticents à céder les fossiles. Vous suggérez un compromis : vous ne prenez"
+" que quelques fossiles, juste assez pour satisfaire le biologiste, et "
+"proposez de faire du troc avec les contrebandiers pour les dédommager des "
+"fossiles. Ils y réfléchissent et finissent par accepter."
+
+#: src-en/data/events_sector_geniocracy.xml.append:25
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:27
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:41
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/text"
+msgstr ""
+"(Réputation de contrebandier 2+) Calmez-vous, nous ne sommes pas ici pour "
+"vous dénoncer."
+
+#: src-en/data/events_sector_geniocracy.xml.append:43
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"« Oh, c'est vous. Eh bien, je n'ai malheureusement rien qui pourrait vous "
+"intéresser. Nous sommes actuellement en train de faire passer en contrebande"
+" ces carapaces extérieures dures pour un client très bien payé. Je connais "
+"un gars dans le coin qui a des trucs qui vous conviendront mieux, n'hésitez "
+"pas à aller voir. »"
+
+#: src-en/data/events_sector_geniocracy.xml.append:47
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr ""
+"Les remercier et en profiter pour faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_sector_geniocracy.xml.append:49
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/text"
+msgstr ""
+"Vous les remerciez pour l'information et leur souhaitez bonne chance pour "
+"leur voyage."
+
+#: src-en/data/events_sector_geniocracy.xml.append:51
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/choice[1]/text"
+msgstr "Vérifier le stockage."
+
+#: src-en/data/events_sector_geniocracy.xml.append:55
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:61
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "Proposer de leur acheter une Carapace."
+
+#: src-en/data/events_sector_geniocracy.xml.append:63
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/event/text"
+msgstr ""
+"« Qu'est-ce que vous voulez dire par Carapace ? Ces gars sont tous morts, je"
+" peux vous dire... attendez, qu'est-ce que c'était ? » Le contrebandier "
+"fouille hors champ et revient quelques instants plus tard. « Bon, je ne sais"
+" pas quels pouvoirs psychiques vous avez, mais nous avons réussi à faire "
+"monter à bord un spécimen vivant qui fait un sacré grabuge dans notre "
+"cargaison. C'est celui que vous vouliez ? »"
+
+#: src-en/data/events_sector_geniocracy.xml.append:69
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
+"append:choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_geniocracy.xml.append:80
+msgid ""
+"data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_MERCENARY\"]/mod:findWithChildLike/mod:selector"
+msgstr ""
