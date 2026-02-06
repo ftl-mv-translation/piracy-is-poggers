@@ -28,7 +28,7 @@ msgstr "ESCLAVES EXOTIQUES"
 #: src-en/data/hyperspace.xml.append:553
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[5]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:575
 msgid ""
@@ -53,27 +53,27 @@ msgstr "ESCLAVES EXOTIQUES"
 #: src-en/data/hyperspace.xml.append:647
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[5]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:665
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[6]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:683
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[7]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:706
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[1]/customTitle"
-msgstr "ESCLAVES EMBARQUÉS D'ÉLITE"
+msgstr "ESCLAVES D'ÉLITE À BORD DU VAISSEAU"
 
 #: src-en/data/hyperspace.xml.append:724
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[2]/customTitle"
-msgstr "ESCLAVES EMBARQUÉS"
+msgstr "ESCLAVES À BORD DU VAISSEAU"
 
 #: src-en/data/hyperspace.xml.append:742
 msgid ""
@@ -93,17 +93,17 @@ msgstr "ESCLAVES EXOTIQUES"
 #: src-en/data/hyperspace.xml.append:796
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[6]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:818
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[1]/customTitle"
-msgstr "ESCLAVES COMBATTANTS D'ÉLITE"
+msgstr "ESCLAVES CHASSEURS D'ÉLITE"
 
 #: src-en/data/hyperspace.xml.append:836
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[2]/customTitle"
-msgstr "ESCLAVES COMBATTANTS"
+msgstr "ESCLAVES CHASSEURS"
 
 #: src-en/data/hyperspace.xml.append:854
 msgid ""
@@ -123,17 +123,17 @@ msgstr "ESCLAVES EXOTIQUES"
 #: src-en/data/hyperspace.xml.append:908
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[6]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:930
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[1]/customTitle"
-msgstr "ESCLAVES PERTURBATEURS D'ÉLITE"
+msgstr "ESCLAVES DISRUPTEURS D'ÉLITE"
 
 #: src-en/data/hyperspace.xml.append:948
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[2]/customTitle"
-msgstr "ESCLAVES PERTURBATEURS"
+msgstr "ESCLAVES DISRUPTEURS"
 
 #: src-en/data/hyperspace.xml.append:966
 msgid ""
@@ -153,7 +153,7 @@ msgstr "ESCLAVES EXOTIQUES"
 #: src-en/data/hyperspace.xml.append:1020
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[6]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:1042
 msgid ""
@@ -183,7 +183,7 @@ msgstr "ESCLAVES EXOTIQUES"
 #: src-en/data/hyperspace.xml.append:1132
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[6]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:1154
 msgid ""
@@ -208,7 +208,7 @@ msgstr "ESCLAVES D'ÉLITE"
 #: src-en/data/hyperspace.xml.append:1226
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[5]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:1248
 msgid ""
@@ -238,7 +238,7 @@ msgstr "ESCLAVES EXOTIQUES"
 #: src-en/data/hyperspace.xml.append:1338
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[6]/customTitle"
-msgstr "AUGMENTATEURS DE LABORATOIRE ET D'ÉQUIPAGE"
+msgstr "AUGMENTATIONS DE LABORATOIRE ET D'ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:1360
 msgid ""
@@ -313,7 +313,7 @@ msgstr "DRONES DE DÉFENSE"
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[2]/customTitle"
-msgstr "DRONES DE DÉFENSE/D'ÉQUIPAGE"
+msgstr "DRONES DE DÉFENSE/ÉQUIPAGE"
 
 #: src-en/data/hyperspace.xml.append:1855
 msgid ""
@@ -348,22 +348,22 @@ msgstr "ARMES SPÉCIALES"
 #: src-en/data/hyperspace.xml.append:2164
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[1]/customTitle"
-msgstr "ARMES RENÉGATES"
+msgstr "ARMES DE RENÉGATS"
 
 #: src-en/data/hyperspace.xml.append:2182
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[2]/customTitle"
-msgstr "ARMES RENÉGATES"
+msgstr "ARMES DE RENÉGATS"
 
 #: src-en/data/hyperspace.xml.append:2200
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[3]/customTitle"
-msgstr "DRONES RENÉGATS"
+msgstr "DRONES DE RENÉGATS"
 
 #: src-en/data/hyperspace.xml.append:2218
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[4]/customTitle"
-msgstr "ÉQUIPAGE RENÉGAT"
+msgstr "ÉQUIPAGE DE RENÉGATS"
 
 #: src-en/data/hyperspace.xml.append:2255
 msgid ""
@@ -393,4 +393,4 @@ msgstr "DRONES DU JOUR [40% DE RÉDUCTION]"
 #: src-en/data/hyperspace.xml.append:2401
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[9]/customTitle"
-msgstr "AUGMENTATEURS DU JOUR [40% DE RÉDUCTION]"
+msgstr "AUGMENTATIONS DU JOUR [40% DE RÉDUCTION]"

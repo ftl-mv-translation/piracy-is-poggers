@@ -9,7 +9,7 @@ msgstr ""
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/text"
-msgstr "(Réputation d'esclavagiste 2+) Les saluer et demander à commercer."
+msgstr "(Réputation esclavagiste 2+) Contactez-les et demandez à échanger."
 
 #: src-en/data/events_sector_outcast.xml.append:47
 msgid ""
@@ -17,7 +17,7 @@ msgid ""
 "append:choice/event/text"
 msgstr ""
 "Les esclavagistes vous reconnaissent et vous accueillent. Ils vous montrent "
-"quelques-uns des esclaves actuellement en vente."
+"quelques-uns des esclaves actuellement proposés."
 
 #: src-en/data/events_sector_outcast.xml.append:49
 msgid ""
@@ -30,7 +30,7 @@ msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[1]/event/text"
 msgstr ""
-"Les esclavagistes vous remercient pour la transaction et vous transfèrent "
+"Les esclavagistes vous remercient pour l'échange et vous transfèrent "
 "l'esclave."
 
 #: src-en/data/events_sector_outcast.xml.append:57
@@ -43,14 +43,14 @@ msgstr ""
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr "Acheter un Paria Lithoïde."
+msgstr "Acheter un Rocailleux Exilé."
 
 #: src-en/data/events_sector_outcast.xml.append:65
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[2]/event/text"
 msgstr ""
-"Les esclavagistes vous remercient pour la transaction et vous transfèrent "
+"Les esclavagistes vous remercient pour l'échange et vous transfèrent "
 "l'esclave."
 
 #: src-en/data/events_sector_outcast.xml.append:71
@@ -63,14 +63,14 @@ msgstr ""
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[3]/text"
-msgstr "Acheter un Libérateur Cristallin."
+msgstr "Acheter un Cristalien Libérateur."
 
 #: src-en/data/events_sector_outcast.xml.append:79
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[3]/event/text"
 msgstr ""
-"Les esclavagistes vous remercient pour la transaction et vous transfèrent "
+"Les esclavagistes vous remercient pour l'échange et vous transfèrent "
 "l'esclave."
 
 #: src-en/data/events_sector_outcast.xml.append:85

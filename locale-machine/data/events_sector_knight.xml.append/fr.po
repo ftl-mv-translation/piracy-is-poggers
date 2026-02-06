@@ -48,7 +48,7 @@ msgstr ""
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "(Réputation de contrebandier 1+) Demander une réduction."
+msgstr "(Réputation contrebandier 1+) Demander une réduction."
 
 #: src-en/data/events_sector_knight.xml.append:51
 msgid ""
@@ -56,13 +56,13 @@ msgid ""
 "append:choice[1]/event/text"
 msgstr ""
 "Le contrebandier, voyant que vous êtes un client fidèle d'Argeonn, est prêt "
-"à vous vendre les stupéfiants à moitié prix."
+"à vous vendre les narcotiques à moitié prix."
 
 #: src-en/data/events_sector_knight.xml.append:53
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/text"
-msgstr "Acheter les stupéfiants."
+msgstr "Acheter les narcotiques."
 
 #: src-en/data/events_sector_knight.xml.append:55
 msgid ""
@@ -86,23 +86,24 @@ msgstr ""
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr "(Réputation de contrebandier 3+) Demander une réduction."
+msgstr "(Réputation contrebandier 3+) Demander une réduction."
 
 #: src-en/data/events_sector_knight.xml.append:75
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"« Attendez une seconde... Vous êtes ce Fédéré qui a sorti mon ami d'un sale "
-"pétrin ! Assez ironique, n'est-ce pas ? Quoi qu'il en soit, en remerciement "
-"de votre aide, prenez gratuitement quelques stupéfiants. J'en ai encore si "
-"vous en voulez plus. »"
+"\" Attendez une seconde... Vous êtes cet agent de la Fédération qui a sorti "
+"mon ami d'un mauvais pas ! Plutôt ironique, vous ne trouvez pas ? Quoi qu'il"
+" en soit, en guise de remerciement pour votre aide, prenez gratuitement une "
+"partie des narcotiques. J'en ai encore si vous avez besoin de suppléments. "
+"\""
 
 #: src-en/data/events_sector_knight.xml.append:78
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/text"
-msgstr "Acheter plus de stupéfiants."
+msgstr "Acheter plus de narcotiques."
 
 #: src-en/data/events_sector_knight.xml.append:80
 msgid ""
@@ -120,7 +121,7 @@ msgstr ""
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[2]/text"
-msgstr "Les remercier et passer à autre chose."
+msgstr "Remerciez-les et passez à autre chose."
 
 #: src-en/data/events_sector_knight.xml.append:117
 msgid ""
