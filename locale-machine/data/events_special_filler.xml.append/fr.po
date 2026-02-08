@@ -25,7 +25,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
 "append:choice/text"
-msgstr "(Réputation Contrebandier 1+) Bien sûr que oui."
+msgstr "(Réputation de Contrebandier 1+) Bien sûr que oui."
 
 #: src-en/data/events_special_filler.xml.append:42
 msgid ""
@@ -120,7 +120,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"CONTACT_PIRATE_SALESMAN\"]/mod-"
 "append:choice/text"
-msgstr "[Réputation 2+] Demander l'autorisation d'amarrage en toute sécurité."
+msgstr "[Réputation 2+] Demander à accoster en toute sécurité."
 
 #: src-en/data/events_special_filler.xml.append:251
 msgid ""
@@ -132,8 +132,8 @@ msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Il faut bien mettre tous ces beaux "
-"schémas en pratique, hein ? »"
+"\"Ravi de faire affaire avec vous ! Faut bien utiliser tous ces beaux "
+"schémas, hein ?\""
 
 #: src-en/data/events_special_filler.xml.append:255
 msgid ""
@@ -150,16 +150,16 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[2]/mod:findLike/mod:findLike[1]/mod:setValue"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que ce drone vous soit d'une grande "
-"aide. »"
+"\"Ravi de faire affaire avec vous ! Puisse ce drone vous être d'une grande "
+"aide.\""
 
 #: src-en/data/events_special_filler.xml.append:276
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[1]/mod:findLike/mod-"
 "append:text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus de drones qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus de drones qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:278
 msgid ""
@@ -172,8 +172,8 @@ msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[2]/mod:findLike/mod-"
 "append:text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus de drones qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus de drones qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:288
 msgid ""
@@ -186,8 +186,8 @@ msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[3]/mod:findLike/mod-"
 "append:text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus de drones qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus de drones qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:298
 msgid ""
@@ -199,9 +199,9 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/text"
 msgstr ""
-"Un humain en costume exquis vous accueille à bord. « Bienvenue sur mon "
-"vaisseau ! Nous sommes spécialisés dans les armes de toutes sortes, puis-je "
-"vous en proposer une ? »"
+"Un humain en costume exquis vous accueille à bord. \"Bienvenue à bord de mon"
+" vaisseau ! Nous sommes spécialisés dans les armes de toutes sortes, puis-je"
+" vous en proposer ?\""
 
 #: src-en/data/events_special_filler.xml.append:312
 msgid ""
@@ -212,8 +212,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[1]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que vos balistiques continuent de "
-"pleuvoir la destruction sur vos ennemis. »"
+"\"Ravi de faire affaire avec vous ! Puisse votre balistique continuer de "
+"pleuvoir la destruction sur vos ennemis.\""
 
 #: src-en/data/events_special_filler.xml.append:320
 msgid ""
@@ -223,14 +223,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:326
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[2]/text"
-msgstr "Acheter une Arme."
+msgstr "Acheter une arme."
 
 #: src-en/data/events_special_filler.xml.append:328
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[2]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Cela aura l'air excellent à côté de "
-"votre arsenal actuel. »"
+"\"Ravi de faire affaire avec vous ! Cela fera un excellent ajout à votre "
+"arsenal actuel.\""
 
 #: src-en/data/events_special_filler.xml.append:334
 msgid ""
@@ -248,8 +248,8 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus d'armes qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus d'armes qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:348
 msgid ""
@@ -268,8 +268,8 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus d'armes qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus d'armes qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:362
 msgid ""
@@ -288,8 +288,8 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and @lvl=\"6\"]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus d'armes qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus d'armes qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:376
 msgid ""
@@ -316,8 +316,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/text"
 msgstr ""
-"« Un client estimé d'Argeonn ? Ma parole, entrez ! J'ai de très nombreuses "
-"offres spéciales de drones que j'aimerais vous montrer ! »"
+"\"Un client estimé d'Argeonn ? Par ma parole, entrez donc ! J'ai de très "
+"nombreuses offres spéciales de drones que je voudrais vous montrer !\""
 
 #: src-en/data/events_special_filler.xml.append:405
 msgid ""
@@ -328,8 +328,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[1]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Il faut bien mettre tous ces beaux "
-"schémas en pratique, hein ? »"
+"\"Ravi de faire affaire avec vous ! Faut bien utiliser tous ces beaux "
+"schémas, hein ?\""
 
 #: src-en/data/events_special_filler.xml.append:413
 msgid ""
@@ -339,14 +339,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:419
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/text"
-msgstr "Acheter une grande pile de pièces de drone"
+msgstr "Acheter une grande pile de pièces de drones"
 
 #: src-en/data/events_special_filler.xml.append:421
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Il faut bien mettre tous ces beaux "
-"schémas en pratique, hein ? »"
+"\"Ravi de faire affaire avec vous ! Faut bien utiliser tous ces beaux "
+"schémas, hein ?\""
 
 #: src-en/data/events_special_filler.xml.append:427
 msgid ""
@@ -362,8 +362,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[3]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que ce drone vous soit d'une grande "
-"aide. »"
+"\"Ravi de faire affaire avec vous ! Puisse ce drone vous être d'une grande "
+"aide.\""
 
 #: src-en/data/events_special_filler.xml.append:441
 msgid ""
@@ -379,8 +379,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[4]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que ce drone vous soit d'une grande "
-"aide. »"
+"\"Ravi de faire affaire avec vous ! Puisse ce drone vous être d'une grande "
+"aide.\""
 
 #: src-en/data/events_special_filler.xml.append:455
 msgid ""
@@ -396,8 +396,8 @@ msgstr "Acheter un schéma de drone avancé."
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[5]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que ce drone avancé vous soit d'une "
-"grande aide. »"
+"\"Ravi de faire affaire avec vous ! Puisse ce drone avancé vous être d'une "
+"grande aide.\""
 
 #: src-en/data/events_special_filler.xml.append:469
 msgid ""
@@ -407,14 +407,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:475
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[6]/text"
-msgstr "Acheter une augmentation de Propulseur de Drone."
+msgstr "Acheter une augmentation Amplificateur de Drone."
 
 #: src-en/data/events_special_filler.xml.append:477
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[6]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que vos drones internes fonctionnent "
-"au mieux de leurs capacités. »"
+"\"Ravi de faire affaire avec vous ! Puisse vos drones internes fonctionner "
+"au mieux de leurs capacités.\""
 
 #: src-en/data/events_special_filler.xml.append:483
 msgid ""
@@ -432,8 +432,8 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus de drones qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus de drones qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:497
 msgid ""
@@ -452,8 +452,8 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus de drones qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus de drones qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:511
 msgid ""
@@ -470,9 +470,9 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[9]/event/text"
 msgstr ""
-"« Ah, je suis désolé d'entendre ça ! Bon voyage. » Vous vous méfiez d'un "
+"\"Ah, je suis désolé d'entendre ça ! Bon voyage.\" Vous vous méfiez d'un "
 "piège, mais le pirate ne joue aucun tour. On dirait que ça rapporte d'être "
-"un client fidèle d'Argeonn même si vous ne prenez pas tout leur stock."
+"un client fidèle d'Argeonn, même si vous ne prenez pas tout leur stock."
 
 #: src-en/data/events_special_filler.xml.append:521
 msgid ""
@@ -488,8 +488,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/text"
 msgstr ""
-"« Un client estimé d'Argeonn ? Ma parole, entrez ! J'ai de très nombreuses "
-"offres spéciales d'armes que j'aimerais vous montrer ! »"
+"\"Un client estimé d'Argeonn ? Par ma parole, entrez donc ! J'ai de très "
+"nombreuses offres spéciales d'armes que je voudrais vous montrer !\""
 
 #: src-en/data/events_special_filler.xml.append:535
 msgid ""
@@ -500,8 +500,8 @@ msgstr "Acheter des missiles"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[1]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que vos balistiques continuent de "
-"pleuvoir la destruction sur vos ennemis. »"
+"\"Ravi de faire affaire avec vous ! Puisse votre balistique continuer de "
+"pleuvoir la destruction sur vos ennemis.\""
 
 #: src-en/data/events_special_filler.xml.append:543
 msgid ""
@@ -517,8 +517,8 @@ msgstr "Acheter une grande pile de missiles"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[2]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que vos balistiques continuent de "
-"pleuvoir la destruction sur vos ennemis. »"
+"\"Ravi de faire affaire avec vous ! Puisse votre balistique continuer de "
+"pleuvoir la destruction sur vos ennemis.\""
 
 #: src-en/data/events_special_filler.xml.append:557
 msgid ""
@@ -528,14 +528,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:563
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[3]/text"
-msgstr "Acheter une Arme."
+msgstr "Acheter une arme."
 
 #: src-en/data/events_special_filler.xml.append:565
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[3]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Cela aura l'air excellent à côté de "
-"votre arsenal actuel. »"
+"\"Ravi de faire affaire avec vous ! Cela fera un excellent ajout à votre "
+"arsenal actuel.\""
 
 #: src-en/data/events_special_filler.xml.append:571
 msgid ""
@@ -545,14 +545,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:577
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[4]/text"
-msgstr "Acheter une Arme."
+msgstr "Acheter une arme."
 
 #: src-en/data/events_special_filler.xml.append:579
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[4]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Cela aura l'air excellent à côté de "
-"votre arsenal actuel. »"
+"\"Ravi de faire affaire avec vous ! Cela fera un excellent ajout à votre "
+"arsenal actuel.\""
 
 #: src-en/data/events_special_filler.xml.append:585
 msgid ""
@@ -562,14 +562,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:591
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[5]/text"
-msgstr "Acheter une Arme avancée."
+msgstr "Acheter une arme avancée."
 
 #: src-en/data/events_special_filler.xml.append:593
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[5]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Envoyez de l'aide au prochain fou qui"
-" osera vous défier... »"
+"\"Ravi de faire affaire avec vous ! Envoyez de l'aide au prochain imbécile "
+"qui osera vous défier...\""
 
 #: src-en/data/events_special_filler.xml.append:599
 msgid ""
@@ -579,14 +579,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:605
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[6]/text"
-msgstr "Acheter une augmentation de Re-chargeur."
+msgstr "Acheter une augmentation Ré-chargeur."
 
 #: src-en/data/events_special_filler.xml.append:607
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[6]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Que vos armes fonctionnent à leur "
-"vitesse maximale ! »"
+"\"Ravi de faire affaire avec vous ! Puisse vos canons fonctionner à leur "
+"vitesse maximale !\""
 
 #: src-en/data/events_special_filler.xml.append:613
 msgid ""
@@ -604,8 +604,8 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus d'armes qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus d'armes qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:627
 msgid ""
@@ -624,8 +624,8 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
-"« Heureux de faire affaire avec vous ! Maintenant, vous pouvez utiliser "
-"encore plus d'armes qu'avant ! »"
+"\"Ravi de faire affaire avec vous ! Maintenant, vous pouvez utiliser encore "
+"plus d'armes qu'avant !\""
 
 #: src-en/data/events_special_filler.xml.append:641
 msgid ""
@@ -642,9 +642,9 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[9]/event/text"
 msgstr ""
-"« Ah, je suis désolé d'entendre ça ! Bon voyage. » Vous vous méfiez d'un "
+"\"Ah, je suis désolé d'entendre ça ! Bon voyage.\" Vous vous méfiez d'un "
 "piège, mais le pirate ne joue aucun tour. On dirait que ça rapporte d'être "
-"un client fidèle d'Argeonn même si vous ne prenez pas tout leur stock."
+"un client fidèle d'Argeonn, même si vous ne prenez pas tout leur stock."
 
 #: src-en/data/events_special_filler.xml.append:651
 msgid ""
@@ -661,7 +661,7 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/text"
 msgstr ""
 "La balise de détresse provient d'un vaisseau civil. Il semble qu'il soit "
-"poursuivi par un marchand d'esclaves Tiiikaka."
+"poursuivi par un esclavagiste Tiiikaka."
 
 #: src-en/data/events_special_filler.xml.append:685
 msgid ""
@@ -671,7 +671,7 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:687
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[1]/event/text"
-msgstr "Vous activez vos armes et engagez le vaisseau marchand d'esclaves."
+msgstr "Vous activez vos armes et engagez le vaisseau esclavagiste."
 
 #: src-en/data/events_special_filler.xml.append:690
 msgid ""
@@ -681,14 +681,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:696
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[2]/text"
-msgstr "Aider le vaisseau marchand d'esclaves."
+msgstr "Aider le vaisseau esclavagiste."
 
 #: src-en/data/events_special_filler.xml.append:698
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[2]/event/text"
 msgstr ""
-"Vous informez les marchands d'esclaves de vos intentions et vous précipitez "
-"pour engager les civils sans défense."
+"Vous communiquez vos intentions aux esclavagistes et vous précipitez pour "
+"engager les civils sans défense."
 
 #: src-en/data/events_special_filler.xml.append:701
 msgid ""
@@ -719,7 +719,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[@req=\"weapons\"]/text"
 msgstr ""
-"(Armes Améliorées) Tirer un coup de semonce avec votre arme la plus "
+"(Armes améliorées) Tirez un coup de semonce avec votre arme la plus "
 "puissante."
 
 #: src-en/data/events_special_filler.xml.append:727
@@ -753,7 +753,7 @@ msgstr "Aider le vaisseau mercenaire."
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[2]/event/text"
 msgstr ""
-"Vous informez les mercenaires de vos intentions et vous précipitez pour "
+"Vous communiquez vos intentions aux mercenaires et vous précipitez pour "
 "engager les civils sans défense."
 
 #: src-en/data/events_special_filler.xml.append:745
@@ -785,7 +785,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[@req=\"weapons\"]/text"
 msgstr ""
-"(Armes Améliorées) Tirer un coup de semonce avec votre arme la plus "
+"(Armes améliorées) Tirez un coup de semonce avec votre arme la plus "
 "puissante."
 
 #: src-en/data/events_special_filler.xml.append:771
@@ -793,7 +793,7 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/text"
 msgstr ""
 "La balise de détresse provient d'un vaisseau civil. Il semble qu'il soit "
-"poursuivi par un contrebandier d'Argeonn."
+"poursuivi par un contrebandier Argeonn."
 
 #: src-en/data/events_special_filler.xml.append:773
 msgid ""
@@ -803,7 +803,7 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:775
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[1]/event/text"
-msgstr "Vous activez vos armes et engagez le vaisseau marchand d'esclaves."
+msgstr "Vous activez vos armes et engagez le vaisseau esclavagiste."
 
 #: src-en/data/events_special_filler.xml.append:778
 msgid ""
@@ -813,13 +813,13 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:784
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[2]/text"
-msgstr "Aider le vaisseau du contrebandier."
+msgstr "Aider le vaisseau contrebandier."
 
 #: src-en/data/events_special_filler.xml.append:786
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[2]/event/text"
 msgstr ""
-"Vous informez les contrebandiers de vos intentions et vous précipitez pour "
+"Vous communiquez vos intentions aux contrebandiers et vous précipitez pour "
 "engager les civils sans défense."
 
 #: src-en/data/events_special_filler.xml.append:789
@@ -851,7 +851,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[@req=\"weapons\"]/text"
 msgstr ""
-"(Armes Améliorées) Tirer un coup de semonce avec votre arme la plus "
+"(Armes améliorées) Tirez un coup de semonce avec votre arme la plus "
 "puissante."
 
 #: src-en/data/events_special_filler.xml.append:817
@@ -868,8 +868,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[2]/text"
 msgstr ""
-"Il semble que le marchand d'esclaves ne cherchait pas un combat avec "
-"quelqu'un qui pouvait se défendre. Ils partent et vous vous déplacez pour "
+"Il semble que l'esclavagiste ne cherchait pas de confrontation avec "
+"quelqu'un capable de riposter. Ils s'en vont et vous vous déplacez pour "
 "contacter le vaisseau civil."
 
 #: src-en/data/events_special_filler.xml.append:827
@@ -881,8 +881,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"MERCENARY_CIVILIAN_BEACON_BEAM\"]/event/text"
 msgstr ""
-"Détectant la plus grande menace, ils se retournent et engagent votre "
-"vaisseau avant de pouvoir reprendre leur attaque sur les civils."
+"Détectant la plus grande menace, ils se tournent et engagent votre vaisseau "
+"avant de pouvoir reprendre leur attaque sur les civils."
 
 #: src-en/data/events_special_filler.xml.append:838
 msgid ""
@@ -903,9 +903,9 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[2]/text"
 msgstr ""
-"Il semble que le contrebandier ne cherchait pas un combat avec quelqu'un qui"
-" pouvait se défendre. Ils partent et vous vous déplacez pour contacter le "
-"vaisseau civil."
+"Il semble que le contrebandier ne cherchait pas de confrontation avec "
+"quelqu'un capable de riposter. Ils s'en vont et vous vous déplacez pour "
+"contacter le vaisseau civil."
 
 #: src-en/data/events_special_filler.xml.append:856
 msgid ""
@@ -941,8 +941,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[2]/text"
 msgstr ""
-"Apparemment, le vaisseau assailli était un vaisseau scientifique. Ils vous "
-"remercient de les avoir sauvés et offrent une petite récompense."
+"Apparemment, le vaisseau attaqué était un vaisseau scientifique. Ils vous "
+"remercient de les avoir sauvés et vous offrent une petite récompense."
 
 #: src-en/data/events_special_filler.xml.append:886
 msgid ""
@@ -995,7 +995,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[6]/text"
 msgstr ""
-"Le vaisseau civil a sagement fait une retraite rapide pendant que vous "
+"Le vaisseau civil a sagement effectué une retraite rapide pendant que vous "
 "distrayiez le vaisseau hostile."
 
 #: src-en/data/events_special_filler.xml.append:923
@@ -1032,8 +1032,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[2]/text"
 msgstr ""
-"Apparemment, le vaisseau assailli était un vaisseau scientifique. Ils vous "
-"remercient de les avoir sauvés et offrent une petite récompense."
+"Apparemment, le vaisseau attaqué était un vaisseau scientifique. Ils vous "
+"remercient de les avoir sauvés et vous offrent une petite récompense."
 
 #: src-en/data/events_special_filler.xml.append:952
 msgid ""
@@ -1086,7 +1086,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[6]/text"
 msgstr ""
-"Le vaisseau civil a sagement fait une retraite rapide pendant que vous "
+"Le vaisseau civil a sagement effectué une retraite rapide pendant que vous "
 "distrayiez le vaisseau hostile."
 
 #: src-en/data/events_special_filler.xml.append:989
@@ -1123,8 +1123,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[2]/text"
 msgstr ""
-"Apparemment, le vaisseau assailli était un vaisseau scientifique. Ils vous "
-"remercient de les avoir sauvés et offrent une petite récompense."
+"Apparemment, le vaisseau attaqué était un vaisseau scientifique. Ils vous "
+"remercient de les avoir sauvés et vous offrent une petite récompense."
 
 #: src-en/data/events_special_filler.xml.append:1018
 msgid ""
@@ -1177,7 +1177,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[6]/text"
 msgstr ""
-"Le vaisseau civil a sagement fait une retraite rapide pendant que vous "
+"Le vaisseau civil a sagement effectué une retraite rapide pendant que vous "
 "distrayiez le vaisseau hostile."
 
 #: src-en/data/events_special_filler.xml.append:1055
@@ -1190,99 +1190,96 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"ESCAPE_SLAVER_CIVILIAN\"]/text"
 msgstr ""
 "Vous remarquez que les moteurs des civils s'allument déjà, ce qui signifie "
-"qu'ils ne resteront pas longtemps. Il y a de fortes chances que le vaisseau "
-"de marchands d'esclaves ait voulu capturer les civils pour les réduire en "
-"esclavage, donc si vous attendez une récompense des pirates, vous devez "
-"garder les civils en vie."
+"qu'ils ne resteront pas longtemps. Il est probable que le vaisseau "
+"esclavagiste voulait capturer les civils pour les réduire en esclavage, donc"
+" si vous attendez une récompense des pirates, vous devez garder les civils "
+"en vie."
 
 #: src-en/data/events_special_filler.xml.append:1068
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"ESCAPE_MERCENARY_CIVILIAN\"]/text"
 msgstr ""
 "Vous remarquez que les moteurs des civils s'allument déjà, ce qui signifie "
-"qu'ils ne resteront pas longtemps. Il y a de fortes chances que le vaisseau "
-"mercenaire ait été engagé pour éliminer les civils, donc si vous attendez "
-"une récompense des pirates, vous devez les abattre de quelque manière que ce"
-" soit avant qu'ils ne s'échappent."
+"qu'ils ne resteront pas longtemps. Il est probable que le vaisseau "
+"mercenaire a été engagé pour éliminer les civils, donc si vous attendez une "
+"récompense des pirates, vous devez les abattre de quelque manière que ce "
+"soit avant qu'ils ne s'échappent."
 
 #: src-en/data/events_special_filler.xml.append:1072
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"ESCAPE_SMUGGLER_CIVILIAN\"]/text"
 msgstr ""
 "Vous remarquez que les moteurs des civils s'allument déjà, ce qui signifie "
-"qu'ils ne resteront pas longtemps. Il y a de fortes chances que le vaisseau "
-"du contrebandier ait voulu la cargaison des civils, donc si vous attendez "
-"une récompense des pirates, vous devez éviter de détruire le vaisseau."
+"qu'ils ne resteront pas longtemps. Il est probable que le vaisseau "
+"contrebandier voulait la cargaison des civils, donc si vous attendez une "
+"récompense des pirates, vous devez éviter de détruire le vaisseau."
 
 #: src-en/data/events_special_filler.xml.append:1078
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/text"
 msgstr ""
-"Les civils se sont enfuis avant que vous ne puissiez les arrêter. Les "
-"pirates ne seront pas contents de ça..."
+"Les civils se sont échappés avant que vous ne puissiez les arrêter. Les "
+"pirates ne seront pas contents de cela..."
 
 #: src-en/data/events_special_filler.xml.append:1080
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/choice/text"
-msgstr "Héler les pirates"
+msgstr "Contacter les pirates"
 
 #: src-en/data/events_special_filler.xml.append:1082
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Qu'est-ce que c'était que ça ! Nous aurions pu les sécuriser sans votre "
-"interférence... mais voir un Fed attaquer des civils me fait rire. D'accord,"
-" nous accepterons de ne pas nous battre, mais n'attendez aucune faveur "
-"future. »"
+"\"C'était quoi, ça ?! On aurait pu les sécuriser sans votre interférence... "
+"mais voir un Fed attaquer des civils, ça me fait rire. Bien, on acceptera de"
+" ne pas se battre, mais n'attendez aucune faveur future.\""
 
 #: src-en/data/events_special_filler.xml.append:1088
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/text"
 msgstr ""
-"Les civils se sont enfuis avant que vous ne puissiez les arrêter. Les "
-"pirates ne seront pas contents de ça..."
+"Les civils se sont échappés avant que vous ne puissiez les arrêter. Les "
+"pirates ne seront pas contents de cela..."
 
 #: src-en/data/events_special_filler.xml.append:1090
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/choice/text"
-msgstr "Héler les pirates"
+msgstr "Contacter les pirates"
 
 #: src-en/data/events_special_filler.xml.append:1092
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Qu'est-ce que c'était que ça ! Nous aurions pu les sécuriser sans votre "
-"interférence... mais voir un Fed attaquer des civils me fait rire. D'accord,"
-" nous accepterons de ne pas nous battre, mais n'attendez aucune faveur "
-"future. »"
+"\"C'était quoi, ça ?! On aurait pu les sécuriser sans votre interférence... "
+"mais voir un Fed attaquer des civils, ça me fait rire. Bien, on acceptera de"
+" ne pas se battre, mais n'attendez aucune faveur future.\""
 
 #: src-en/data/events_special_filler.xml.append:1098
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/text"
 msgstr ""
-"Les civils se sont enfuis avant que vous ne puissiez les arrêter. Les "
-"pirates ne seront pas contents de ça..."
+"Les civils se sont échappés avant que vous ne puissiez les arrêter. Les "
+"pirates ne seront pas contents de cela..."
 
 #: src-en/data/events_special_filler.xml.append:1100
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/choice/text"
-msgstr "Héler les pirates"
+msgstr "Contacter les pirates"
 
 #: src-en/data/events_special_filler.xml.append:1102
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Qu'est-ce que c'était que ça ! Nous aurions pu les sécuriser sans votre "
-"interférence... mais voir un Fed attaquer des civils me fait rire. D'accord,"
-" nous accepterons de ne pas nous battre, mais n'attendez aucune faveur "
-"future. »"
+"\"C'était quoi, ça ?! On aurait pu les sécuriser sans votre interférence... "
+"mais voir un Fed attaquer des civils, ça me fait rire. Bien, on acceptera de"
+" ne pas se battre, mais n'attendez aucune faveur future.\""
 
 #: src-en/data/events_special_filler.xml.append:1109
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/text"
 msgstr ""
 "Les civils sont au bord de la destruction. Terrifiés, les civils se rendent "
-"et acceptent de répondre à toutes vos exigences."
+"et acceptent de satisfaire toutes vos exigences."
 
 #: src-en/data/events_special_filler.xml.append:1111
 msgid ""
@@ -1293,10 +1290,10 @@ msgstr "Accepter leur reddition"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[1]/event/text"
 msgstr ""
-"Vous désactivez les moteurs des civils avant d'héler les marchands "
-"d'esclaves. Une fois qu'ils ont accosté avec les civils et les ont enchaînés"
-" dans leur cargaison, le capitaine marchand d'esclaves vous remercie pour "
-"votre aide et vous envoie de la ferraille."
+"Vous désactivez les moteurs des civils avant de contacter les esclavagistes."
+" Une fois qu'ils ont accosté les civils et les ont enchaînés dans leur "
+"cargaison, le capitaine esclavagiste vous remercie de votre aide et vous "
+"envoie de la ferraille."
 
 #: src-en/data/events_special_filler.xml.append:1117
 msgid ""
@@ -1306,13 +1303,13 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:1123
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[2]/text"
-msgstr "Juste les achever."
+msgstr "Finissez-les simplement."
 
 #: src-en/data/events_special_filler.xml.append:1130
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[1]/text"
 msgstr ""
-"Vous passez au ferraillage du vaisseau civil, maintenant vide d'équipage. "
+"Vous passez au démantèlement du vaisseau civil, maintenant sans équipage. "
 "Vous trouvez quelques ressources à ramener avec vous."
 
 #: src-en/data/events_special_filler.xml.append:1133
@@ -1324,7 +1321,7 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[2]/text"
 msgstr ""
-"Vous passez au ferraillage du vaisseau civil, maintenant vide d'équipage. "
+"Vous passez au démantèlement du vaisseau civil, maintenant sans équipage. "
 "Vous trouvez quelques ressources à ramener avec vous."
 
 #: src-en/data/events_special_filler.xml.append:1141
@@ -1336,8 +1333,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[3]/text"
 msgstr ""
-"Vous passez au ferraillage du vaisseau civil, maintenant vide d'équipage. Il"
-" ne reste pas grand-chose, mais c'est quand même de la ferraille."
+"Vous passez au démantèlement du vaisseau civil, maintenant sans équipage. Il"
+" ne reste pas grand-chose, mais c'est toujours un peu de ferraille."
 
 #: src-en/data/events_special_filler.xml.append:1149
 msgid ""
@@ -1348,8 +1345,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[4]/text"
 msgstr ""
-"Vous passez au ferraillage du vaisseau civil, maintenant vide d'équipage. Il"
-" ne reste pas grand-chose, mais c'est quand même de la ferraille."
+"Vous passez au démantèlement du vaisseau civil, maintenant sans équipage. Il"
+" ne reste pas grand-chose, mais c'est toujours un peu de ferraille."
 
 #: src-en/data/events_special_filler.xml.append:1157
 msgid ""
@@ -1360,8 +1357,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[5]/text"
 msgstr ""
-"Vous passez au ferraillage du vaisseau civil, maintenant vide d'équipage. "
-"Vous trouvez même l'une de leurs armes de base toujours intacte, que vous "
+"Vous passez au démantèlement du vaisseau civil, maintenant sans équipage. "
+"Vous trouvez même l'une de leurs armes de base encore intacte, que vous "
 "ramenez au vaisseau."
 
 #: src-en/data/events_special_filler.xml.append:1166
@@ -1374,7 +1371,7 @@ msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/text"
 msgstr ""
 "Les civils sont au bord de la destruction. Terrifiés, les civils se rendent "
-"et acceptent de répondre à toutes vos exigences."
+"et acceptent de satisfaire toutes vos exigences."
 
 #: src-en/data/events_special_filler.xml.append:1175
 msgid ""
@@ -1385,13 +1382,13 @@ msgstr "Accepter leur reddition"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[1]/event/text"
 msgstr ""
-"Vous désactivez les moteurs des civils avant d'héler les mercenaires. "
+"Vous désactivez les moteurs des civils avant de contacter les mercenaires. "
 "Cependant, un missile des mercenaires manque de peu votre vaisseau et entre "
 "en collision avec le vaisseau civil déjà fragile, le détruisant "
-"instantanément. « Oups, désolé de vous avoir presque frappé, ami ! Nous ne "
-"cherchions rien de particulier sur leur vaisseau, nous n'avions besoin que "
-"de les traquer. Quoi qu'il en soit, merci pour votre service. Je suis sûr "
-"que vous pourriez avoir besoin d'aide avec la flotte Rebelle... »"
+"instantanément. \"Oups, désolé de vous avoir presque touché, ami ! Nous ne "
+"cherchions rien de particulier sur leur vaisseau, nous avions seulement "
+"besoin de les traquer. Quoi qu'il en soit, merci pour votre service. Je suis"
+" sûr que vous pourriez avoir besoin d'aide avec la flotte rebelle...\""
 
 #: src-en/data/events_special_filler.xml.append:1183
 msgid ""
@@ -1401,14 +1398,14 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:1189
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[2]/text"
-msgstr "Juste les achever."
+msgstr "Finissez-les simplement."
 
 #: src-en/data/events_special_filler.xml.append:1195
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/text"
 msgstr ""
 "Les civils sont au bord de la destruction. Terrifiés, les civils se rendent "
-"et acceptent de répondre à toutes vos exigences."
+"et acceptent de satisfaire toutes vos exigences."
 
 #: src-en/data/events_special_filler.xml.append:1197
 msgid ""
@@ -1419,13 +1416,13 @@ msgstr "Accepter leur reddition"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[1]/event/text"
 msgstr ""
-"Vous désactivez les moteurs des civils avant d'héler les marchands "
-"d'esclaves. Une fois qu'ils ont accosté avec les civils, ils viennent vous "
-"remercier. « Nous avons vu ce gars montrer ses affaires à ses amis sur la "
-"planète voisine, alors nous les avons suivis ici avant de les attaquer. "
-"Maintenant que nous avons leur cargaison, nous ne savons pas vraiment quoi "
-"faire de l'équipage restant. Je veux dire, puisque vous avez déjà attaqué "
-"des civils, un peu d'esclavage ne fera pas de mal, n'est-ce pas ? »"
+"Vous désactivez les moteurs des civils avant de contacter les esclavagistes."
+" Une fois qu'ils ont accosté les civils, ils viennent vous remercier. \"Nous"
+" avons vu ce type montrer ses affaires à ses amis sur la planète voisine, "
+"alors nous l'avons suivi ici avant de l'attaquer. Maintenant que nous avons "
+"leur cargaison, nous ne savons pas vraiment quoi faire avec le reste de "
+"l'équipage. Je veux dire, puisque vous avez déjà attaqué des civils, un peu "
+"d'esclavage ne fera pas de mal, n'est-ce pas ?\""
 
 #: src-en/data/events_special_filler.xml.append:1204
 msgid ""
@@ -1435,15 +1432,15 @@ msgstr ""
 #: src-en/data/events_special_filler.xml.append:1210
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[2]/text"
-msgstr "Juste les achever."
+msgstr "Finissez-les simplement."
 
 #: src-en/data/events_special_filler.xml.append:1216
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SLAVER_CIVILIAN\"]/text"
 msgstr ""
-"Vous avez détruit le vaisseau civil. Vous doutez que les marchands "
-"d'esclaves soient heureux de cela, mais vous ferraillez brièvement le "
-"vaisseau avant qu'ils ne vous hèlent."
+"Vous avez détruit le vaisseau civil. Vous doutez que les esclavagistes en "
+"soient satisfaits, mais vous démantèlez brièvement le vaisseau avant qu'ils "
+"ne vous contactent."
 
 #: src-en/data/events_special_filler.xml.append:1219
 msgid ""
@@ -1454,18 +1451,18 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SLAVER_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Qu'est-ce que c'était que ça ! Les esclaves étaient la marchandise que "
-"nous cherchions et vous les avez fait exploser... mais voir un Fed attaquer "
-"des civils me fait rire. D'accord, nous accepterons de ne pas nous battre, "
-"mais n'attendez aucune faveur future. »"
+"\"C'était quoi, ça ?! Les esclaves étaient la marchandise que nous "
+"recherchions et vous les avez fait exploser... mais voir un Fed attaquer des"
+" civils, ça me fait rire. Bien, on acceptera de ne pas se battre, mais "
+"n'attendez aucune faveur future.\""
 
 #: src-en/data/events_special_filler.xml.append:1226
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SLAVER_CIVILIAN\"]/text"
 msgstr ""
-"Vous avez vaincu tous les civils. Vous doutez que les marchands d'esclaves "
-"soient contents, mais vous ferraillez brièvement le vaisseau avant qu'ils ne"
-" vous hèlent."
+"Vous avez vaincu tous les civils. Vous doutez que les esclavagistes en "
+"soient satisfaits, mais vous démantèlez brièvement le vaisseau avant qu'ils "
+"ne vous contactent."
 
 #: src-en/data/events_special_filler.xml.append:1229
 msgid ""
@@ -1476,17 +1473,17 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SLAVER_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Qu'est-ce que c'était que ça ! Les esclaves étaient la marchandise que "
-"nous cherchions et vous les avez tous tués... mais voir un Fed attaquer des "
-"civils me fait rire. D'accord, nous accepterons de ne pas nous battre, mais "
-"n'attendez aucune faveur future. »"
+"\"C'était quoi, ça ?! Les esclaves étaient la marchandise que nous "
+"recherchions et vous les avez tous tués... mais voir un Fed attaquer des "
+"civils, ça me fait rire. Bien, on acceptera de ne pas se battre, mais "
+"n'attendez aucune faveur future.\""
 
 #: src-en/data/events_special_filler.xml.append:1237
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/text"
 msgstr ""
 "Vous avez détruit le vaisseau civil. Vous espérez que les mercenaires ne "
-"s'en soucieront pas si vous ferraillez le vaisseau."
+"vous en voudront pas si vous démantèlez le vaisseau."
 
 #: src-en/data/events_special_filler.xml.append:1240
 msgid ""
@@ -1497,9 +1494,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Magnifique, vous avez fait notre travail pour nous ! Vous avez nos "
-"remerciements. Je suis sûr que vous pourriez avoir besoin d'aide avec la "
-"flotte rebelle... »"
+"\"Magnifique, vous avez fait notre travail ! Nous vous remercions. Je suis "
+"sûr que vous pourriez avoir besoin d'aide avec la flotte rebelle...\""
 
 #: src-en/data/events_special_filler.xml.append:1245
 msgid ""
@@ -1510,8 +1506,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/text"
 msgstr ""
-"Vous avez vaincu tous les civils. Vous espérez que les mercenaires ne s'en "
-"soucieront pas si vous ferraillez le vaisseau."
+"Vous avez vaincu tous les civils. Vous espérez que les mercenaires ne vous "
+"en voudront pas si vous démantèlez le vaisseau."
 
 #: src-en/data/events_special_filler.xml.append:1255
 msgid ""
@@ -1522,9 +1518,8 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Magnifique, vous avez fait notre travail pour nous ! Vous avez nos "
-"remerciements. Je suis sûr que vous pourriez avoir besoin d'aide avec la "
-"flotte rebelle... »"
+"\"Magnifique, vous avez fait notre travail ! Nous vous remercions. Je suis "
+"sûr que vous pourriez avoir besoin d'aide avec la flotte rebelle...\""
 
 #: src-en/data/events_special_filler.xml.append:1260
 msgid ""
@@ -1535,9 +1530,9 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SMUGGLER_CIVILIAN\"]/text"
 msgstr ""
-"Vous avez détruit le vaisseau civil. Vous doutez que les contrebandiers "
-"soient heureux de cela, mais vous ferraillez brièvement le vaisseau avant "
-"qu'ils ne vous hèlent."
+"Vous avez détruit le vaisseau civil. Vous doutez que les contrebandiers en "
+"soient satisfaits, mais vous démantèlez brièvement le vaisseau avant qu'ils "
+"ne vous contactent."
 
 #: src-en/data/events_special_filler.xml.append:1271
 msgid ""
@@ -1548,17 +1543,17 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SMUGGLER_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Qu'est-ce que c'était que ça ! Vous avez fait exploser toute la cargaison "
-"que nous cherchions... Bien que voir un Fed attaquer des civils me fasse "
-"rire. D'accord, nous accepterons de ne pas nous battre, mais n'attendez "
-"aucune faveur future. »"
+"\"C'était quoi, ça ?! Vous venez de faire exploser toute la cargaison que "
+"nous recherchions... Mais voir un Fed attaquer des civils, ça me fait rire. "
+"Bien, on acceptera de ne pas se battre, mais n'attendez aucune faveur "
+"future.\""
 
 #: src-en/data/events_special_filler.xml.append:1278
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/text"
 msgstr ""
 "Vous avez vaincu tous les civils. Vous espérez que les contrebandiers ne "
-"s'en soucieront pas si vous ferraillez le vaisseau."
+"vous en voudront pas si vous démantèlez le vaisseau."
 
 #: src-en/data/events_special_filler.xml.append:1281
 msgid ""
@@ -1569,10 +1564,9 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/choice/event/text"
 msgstr ""
-"« Merci d'avoir gardé la cargaison intacte ! Nous avons vu ce gars montrer "
-"ses affaires à ses amis sur la planète voisine, alors nous les avons suivis "
-"ici avant de les attaquer. Tenez, prenez l'une des armes de leur cargaison. "
-"»"
+"\"Merci d'avoir gardé la cargaison intacte ! Nous avons vu ce type montrer "
+"ses affaires à ses amis sur la planète voisine, alors nous l'avons suivi ici"
+" avant de l'attaquer. Tenez, prenez l'une des armes de leur cargaison.\""
 
 #: src-en/data/events_special_filler.xml.append:1286
 msgid ""

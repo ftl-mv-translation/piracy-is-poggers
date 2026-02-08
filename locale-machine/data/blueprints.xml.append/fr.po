@@ -14,10 +14,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RADIANT_GAS_UNLOCKED\"]/desc"
 msgstr ""
-"Une neurotoxine incroyablement mortelle et rapide qui tuera rapidement la plupart des membres d'équipage hostiles à bord de votre vaisseau.\n"
+"Une neurotoxine incroyablement mortelle et rapide qui tuera rapidement la plupart des membres d'équipage hostiles sur votre vaisseau.\n"
 "\n"
-"Les drones et les espèces suivantes seront immunisés contre les dégâts du module :\n"
-"Crustacés, Lanius, Spectres, Vampi-herbes."
+"Les drones et les espèces suivantes seront immunisés contre les dégâts de cette augmentation :\n"
+"Coquilles, Lanius, Fantômes, Vampiflores."
 
 #: src-en/data/blueprints.xml.append:18
 msgid ""
@@ -28,11 +28,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PALADIN_ARMOR_PLAYER_UNLOCKED\"]/desc"
 msgstr ""
-"Une armure extrêmement solide renforcée avec de l'Éther récolté dans des "
-"ruines précurseurs, fusionnée avec l'armure déjà résistante des Hommes-"
-"Rochers. Résiste à tous les dégâts de coque des armes normales, mais ne peut"
-" pas résister aux armes de brèche. Offre également une opportunité "
-"d'éperonner le vaisseau ennemi avant le combat."
+"Une armure extrêmement solide, renforcée par l'Éther récolté dans les ruines"
+" précurseurs, fusionnée avec l'armure déjà résistante des Rocailleux. "
+"Résiste à tous les dégâts de coque des armes normales, mais ne peut pas "
+"résister aux armes à brèche. Offre également la possibilité de percuter le "
+"vaisseau ennemi avant le combat."
 
 #: src-en/data/blueprints.xml.append:27
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/title"
@@ -45,13 +45,13 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:38
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/title"
-msgstr "Condensateur de Suralimentation Moteurs Mk 5"
+msgstr "Moteur O. C. MK 5"
 
 #: src-en/data/blueprints.xml.append:39
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/desc"
 msgstr ""
-"Une version améliorée du \"Condensateur de Suralimentation Moteurs Mk 3\" "
+"Une version améliorée du \" Condensateur de Surcharge Moteur MK 3 \" "
 "original. Inflige moins de dégâts que l'ancien modèle et vous permet de "
 "choisir votre vitesse de déplacement. Plus la vitesse est élevée, plus vous "
 "subirez de dégâts. Ne peut être utilisé qu'une seule fois."
@@ -59,36 +59,36 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:47
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/title"
-msgstr "Combinaisons Défensives"
+msgstr "Combinaisons défensives"
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/desc"
 msgstr ""
 "Un ensemble de combinaisons conçues pour protéger votre équipage des dégâts."
-" Votre équipage subit 30% de dégâts en moins de toutes les sources et est "
-"étourdi 30% moins longtemps, mais perd 10% de dégâts de combat, de vitesse "
-"de déplacement et de vitesse de réparation."
+" Votre équipage subit 30 % de dégâts en moins de toutes les sources et est "
+"étourdi pendant 30 % de temps en moins, mais perd 10 % de dégâts de combat, "
+"de vitesse de déplacement et de vitesse de réparation."
 
 #: src-en/data/blueprints.xml.append:56
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/title"
-msgstr "Réacteur Zoltan Endommagé"
+msgstr "Réacteur Zoltan endommagé"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/desc"
 msgstr ""
-"Un réacteur volé à un vaisseau Zoltan. En raison des dommages subis par le "
-"réacteur et d'autres difficultés techniques, il ne fournit qu'un seul point "
-"de super-boucliers. Principalement utile pour retarder le Piratage, le "
-"Contrôle Mental et le Téléporteur ennemis, et peut être utilisé pour les "
-"options bleues."
+"Un réacteur volé à un vaisseau Zoltan. En raison des dommages causés au "
+"réacteur et d'autres difficultés techniques, il ne fournit qu'un point de "
+"super bouclier. Principalement utile pour retarder le Piratage, le Contrôle "
+"mental et le Téléporteur de l'ennemi, et peut être utilisé pour les options "
+"bleues."
 
 #: src-en/data/blueprints.xml.append:65
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/title"
-msgstr "Rechargeur Accéléré"
+msgstr "Rechargeur accéléré"
 
 #: src-en/data/blueprints.xml.append:66
 msgid ""
@@ -96,95 +96,95 @@ msgid ""
 msgstr ""
 "Un prototype de rechargeur conçu par les contrebandiers qui peut être activé"
 " au début de chaque combat pour 1 point d'énergie, améliorant la cadence de "
-"tir de vos armes de 50% pendant 45 secondes. Cependant, ses mécanismes ne "
-"sont pas durables, ce qui réduit la cadence de tir de vos armes de 30% une "
-"fois l'impulsion initiale expirée."
+"tir de vos armes de 50 % pendant 45 secondes. Cependant, ses mécanismes ne "
+"sont pas durables, ce qui entraîne une réduction de 30 % de la cadence de "
+"tir de vos armes après l'expiration du bonus initial."
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/title"
-msgstr "Impulsion du Rechargeur Accéléré"
+msgstr "Bonus du Rechargeur accéléré"
 
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/desc"
 msgstr ""
-"Augmentation de 50% de la cadence de tir des armes pendant 45 secondes. Vous"
-" ne devriez pas voir ceci en jeu."
+"Bonus de 50 % de la cadence de tir des armes pendant 45 secondes. Vous ne "
+"devriez pas voir ceci dans le jeu."
 
 #: src-en/data/blueprints.xml.append:83
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/title"
-msgstr "Pénalité du Rechargeur Accéléré"
+msgstr "Pénalité du Rechargeur accéléré"
 
 #: src-en/data/blueprints.xml.append:84
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/desc"
 msgstr ""
-"Réduction de 30% de la cadence de tir des armes. Vous ne devriez pas voir "
-"ceci en jeu."
+"Réduction de 30 % de la cadence de tir des armes. Vous ne devriez pas voir "
+"ceci dans le jeu."
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/title"
-msgstr "Mini-Charges"
+msgstr "Mini-charges"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/desc"
 msgstr ""
-"Contrairement à votre charge magnétique standard, ces Mini-Charges n'infligent que 1 dégât de coque et 2 dégâts de système chacune tout en conservant les incendies garantis. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de contrôle de combat.\n"
-"\t\n"
-"Il vous reste 5 Mini-Charges dans cette pile."
+"Contrairement à votre charge magnétique standard, ces Mini-charges n'infligent que 1 dégât de coque et 2 dégâts au système chacune, tout en garantissant des incendies. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de capacité de combat.\n"
+"\n"
+"Il vous reste 5 Mini-charges dans cette pile."
 
 #: src-en/data/blueprints.xml.append:103
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/title"
-msgstr "Mini-Charges"
+msgstr "Mini-charges"
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/desc"
 msgstr ""
-"Contrairement à votre charge magnétique standard, ces Mini-Charges n'infligent que 1 dégât de coque et 2 dégâts de système chacune tout en conservant les incendies garantis. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de contrôle de combat.\n"
+"Contrairement à votre charge magnétique standard, ces Mini-charges n'infligent que 1 dégât de coque et 2 dégâts au système chacune, tout en garantissant des incendies. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de capacité de combat.\n"
 "\n"
-"Il vous reste 4 Mini-Charges dans cette pile."
+"Il vous reste 4 Mini-charges dans cette pile."
 
 #: src-en/data/blueprints.xml.append:114
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/title"
-msgstr "Mini-Charges"
+msgstr "Mini-charges"
 
 #: src-en/data/blueprints.xml.append:115
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/desc"
 msgstr ""
-"Contrairement à votre charge magnétique standard, ces Mini-Charges n'infligent que 1 dégât de coque et 2 dégâts de système chacune tout en conservant les incendies garantis. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de contrôle de combat.\n"
+"Contrairement à votre charge magnétique standard, ces Mini-charges n'infligent que 1 dégât de coque et 2 dégâts au système chacune, tout en garantissant des incendies. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de capacité de combat.\n"
 "\n"
-"Il vous reste 3 Mini-Charges dans cette pile."
+"Il vous reste 3 Mini-charges dans cette pile."
 
 #: src-en/data/blueprints.xml.append:125
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/title"
-msgstr "Mini-Charges"
+msgstr "Mini-charges"
 
 #: src-en/data/blueprints.xml.append:126
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/desc"
 msgstr ""
-"Contrairement à votre charge magnétique standard, ces Mini-Charges n'infligent que 1 dégât de coque et 2 dégâts de système chacune tout en conservant les incendies garantis. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de contrôle de combat.\n"
+"Contrairement à votre charge magnétique standard, ces Mini-charges n'infligent que 1 dégât de coque et 2 dégâts au système chacune, tout en garantissant des incendies. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de capacité de combat.\n"
 "\n"
-"Il vous reste 2 Mini-Charges dans cette pile."
+"Il vous reste 2 Mini-charges dans cette pile."
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/title"
-msgstr "Mini-Charges"
+msgstr "Mini-charges"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/desc"
 msgstr ""
-"Contrairement à votre charge magnétique standard, ces Mini-Charges n'infligent que 1 dégât de coque et 2 dégâts de système chacune tout en conservant les incendies garantis. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de contrôle de combat.\n"
+"Contrairement à votre charge magnétique standard, ces Mini-charges n'infligent que 1 dégât de coque et 2 dégâts au système chacune, tout en garantissant des incendies. Cependant, elles sont livrées par lots et peuvent être utilisées une fois par combat sans consommer votre option de capacité de combat.\n"
 "\n"
-"Il vous reste 1 Mini-Charge dans cette pile."
+"Il vous reste 1 Mini-charge dans cette pile."
