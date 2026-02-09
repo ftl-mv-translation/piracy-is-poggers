@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:48+0000\n"
+"PO-Revision-Date: 2026-02-09 17:44+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_kleptocracyxmlappend/ru/>\n"
 "Language: ru\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:5
 msgid ""
@@ -71,12 +71,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_kleptocracy.xml.append:69
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"ESCAPE_SLUG_PIRATE\"]/text"
-msgstr "\"Вот дерьмо, они идут по нашшши душшши!\" Слизни начинают включать свои двигатели. Перед тем как вступить с ними в бой, вы получаете сообщение от пиратов: \"Эти гнилые слизняки донимают меня уже чертовски долго! Расправьтесь с ними, и вас ждет награда\"."
+msgstr "\"Вот дерьмо, они идут по нашшши душшши!\" Слизни начинают включать свои двигатели. Перед тем как вступить с ними в бой, вы получаете сообщение от пиратов: \"Эти гнилые слизни донимают меня уже чертовски долго! Расправьтесь с ними, и вас ждет награда\"."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:73
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/text"
-msgstr "Несмотря на все ваши усилия, слизняки благополучно сбежали. К сожалению, это означает, что и награда от пиратов вам тоже не достанется."
+msgstr "Несмотря на все ваши усилия, слизни благополучно сбежали. К сожалению, это означает, что и награда от пиратов вам тоже не достанется."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:75
 msgid ""
