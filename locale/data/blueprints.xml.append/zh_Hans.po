@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-04-13 20:40+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
@@ -20,6 +20,10 @@ msgstr "肉毒杆菌气体"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"RADIANT_GAS_UNLOCKED\"]/desc"
 msgstr ""
+"一种极其致命且起效迅速的神经毒素，能够快速杀死你船上的大多数敌对船员。\n"
+"\n"
+"无人机以及以下物种对该增强部件效果所造成的伤害免疫：\n"
+"甲壳族、食铁族、魂灵族、血兰花。"
 
 #: src-en/data/blueprints.xml.append:18
 msgid ""
@@ -29,7 +33,7 @@ msgstr "神圣装甲+"
 #: src-en/data/blueprints.xml.append:19
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PALADIN_ARMOR_PLAYER_UNLOCKED\"]/desc"
-msgstr ""
+msgstr "极其坚固的装甲，由从先驱遗迹中采集的以太精炼强化，并与岩石族本就坚韧的护甲融合而成。该装甲能抵抗普通武器造成的所有船体伤害，但无法抵御破舱武器的攻击。此外，它还提供了在战斗前冲撞敌方舰船的机会。"
 
 #: src-en/data/blueprints.xml.append:27
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COAL_AUG\"]/title"
@@ -42,109 +46,124 @@ msgstr "一套非常强大的装甲，结合了岩石镀层，螳螂信息素与
 #: src-en/data/blueprints.xml.append:38
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/title"
-msgstr ""
+msgstr "引擎 O. C. Mk 5"
 
 #: src-en/data/blueprints.xml.append:39
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_FLEET_SKIP_GOOD\"]/desc"
-msgstr ""
+msgstr "原版“引擎超频器III”的改进版本。相比旧型号造成的伤害更小，并且允许你自行选择想要的行进速度。速度越快，你受到的伤害就越多。只能使用一次。"
 
 #: src-en/data/blueprints.xml.append:47
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/title"
-msgstr ""
+msgstr "防护服"
 
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_DEFENSIVE_SUITS\"]/desc"
-msgstr ""
+msgstr "这套防护服旨在保护你的船员免受伤害。你的船员从所有来源受到的伤害降低30%，被眩晕的时间缩短30%，但会损失10%的战斗伤害、移动速度和维修速度。"
 
 #: src-en/data/blueprints.xml.append:56
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/title"
-msgstr ""
+msgstr "损坏的超能族反应堆"
 
 #: src-en/data/blueprints.xml.append:57
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_ENERGY_SHIELD_WEAK\"]/desc"
-msgstr ""
+msgstr "从一艘超能族飞船上偷来的反应堆。由于反应堆本身受损以及其他技术问题，它只能提供1点超级护盾。主要用于延缓敌方黑客、心灵控制和阻止传送的效果，同时可用于蓝色选项。"
 
 #: src-en/data/blueprints.xml.append:65
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/title"
-msgstr ""
+msgstr "快速装填器"
 
 #: src-en/data/blueprints.xml.append:66
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER\"]/desc"
-msgstr ""
+msgstr "一种由走私者设计的原型装填器，可在每场战斗开始时消耗1点电力启动，使你的武器在45秒内射速提高50%。然而，其机械结构无法持续运作，因此初始增益效果结束后，你的武器射速会降低30%。"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/title"
-msgstr ""
+msgstr "加速装填器增益"
 
 #: src-en/data/blueprints.xml.append:75
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_BOOST\"]/desc"
-msgstr ""
+msgstr "武器射速提升 50%，持续 45 秒。你不应该在游戏中看到这个。"
 
 #: src-en/data/blueprints.xml.append:83
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/title"
-msgstr ""
+msgstr "初始增益效果结束后，你的武器射速会降低 30%"
 
 #: src-en/data/blueprints.xml.append:84
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_RELOADER_INTERNAL_PENALTY\"]/desc"
-msgstr ""
+msgstr "30% 的武器射速降低——你在游戏中不应该看到这个。"
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/title"
-msgstr ""
+msgstr "微型爆弹"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_5\"]/desc"
 msgstr ""
+"与你标准的磁性爆弹不同，这些微型爆弹每次仅造成 1 点舰体伤害和 2 点系统伤害，但依然保留必定引发火灾的效果。不过，它们以组为单位提供，每场战斗可使用一次，且不消耗你的战斗检查选项。\n"
+"\t\n"
+"你当前还剩 5 枚微型爆弹。"
 
 #: src-en/data/blueprints.xml.append:103
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/title"
-msgstr ""
+msgstr "微型爆弹"
 
 #: src-en/data/blueprints.xml.append:104
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_4\"]/desc"
 msgstr ""
+"与你标准的磁性爆弹不同，这些微型爆弹每次仅造成 1 点舰体伤害和 2 点系统伤害，但依然保留必定引发火灾的效果。不过，它们以组为单位提供，每场战斗可使用一次，且不消耗你的战斗检查选项。\n"
+"\t\n"
+"你当前还剩 4 枚微型爆弹。"
 
 #: src-en/data/blueprints.xml.append:114
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/title"
-msgstr ""
+msgstr "微型爆弹"
 
 #: src-en/data/blueprints.xml.append:115
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_3\"]/desc"
 msgstr ""
+"与你标准的磁性爆弹不同，这些微型爆弹每次仅造成 1 点舰体伤害和 2 点系统伤害，但依然保留必定引发火灾的效果。不过，它们以组为单位提供，每场战斗可使用一次，且不消耗你的战斗检查选项。\n"
+"\t\n"
+"你当前还剩 3 枚微型爆弹。"
 
 #: src-en/data/blueprints.xml.append:125
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/title"
-msgstr ""
+msgstr "微型爆弹"
 
 #: src-en/data/blueprints.xml.append:126
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_2\"]/desc"
 msgstr ""
+"与你标准的磁性爆弹不同，这些微型爆弹每次仅造成 1 点舰体伤害和 2 点系统伤害，但依然保留必定引发火灾的效果。不过，它们以组为单位提供，每场战斗可使用一次，且不消耗你的战斗检查选项。\n"
+"\t\n"
+"你当前还剩 1 枚微型爆弹。"
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/title"
-msgstr ""
+msgstr "微型爆弹"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PIP_COMBAT_EXPLOSIVE_MULTIPLE_1\"]/desc"
 msgstr ""
+"与你标准的磁性爆弹不同，这些微型爆弹每次仅造成 1 点舰体伤害和 2 点系统伤害，但依然保留必定引发火灾的效果。不过，它们以组为单位提供，每场战斗可使用一次，且不消耗你的战斗检查选项。\n"
+"\t\n"
+"你当前还剩 1 枚微型爆弹。"
