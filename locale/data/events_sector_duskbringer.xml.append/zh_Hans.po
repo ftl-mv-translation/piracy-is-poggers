@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-04-13 20:40+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_duskbringerxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_duskbringer.xml.append:11
 msgid ""
@@ -53,13 +53,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（海盗声望 1+）向他们喊话。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:55
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "海盗们认出了你，放松了警惕。“哎哟，这不是咱们的联邦哥们儿嘛。我们一直想回海盗星区去，可那些绿皮怪胎老是把我们的船给打爆。现在我们被困在这儿，正计划集体突围呢，但附近有艘看着很凶的精英巡逻舰挡着。你看这样如何——帮我们干掉那艘船？报酬好商量，火力支援也管够。”"
 
 #: src-en/data/events_sector_duskbringer.xml.append:57
 msgid ""
@@ -71,7 +71,7 @@ msgstr "同意。"
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "“太好了。跟我们来……”你被带到了一艘精英级的暮临派战舰前，对方一见到你就立刻发起了攻击。海盗们倒也算守信用，从侧翼提供了火力支援，但这依然会是一场恶战。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:63
 msgid ""
