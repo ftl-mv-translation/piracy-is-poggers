@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-13 20:40+0000\n"
+"PO-Revision-Date: 2026-04-17 09:08+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_duskbringerxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -83,18 +83,18 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝他们的提议。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:71
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_PIRATES_HIDING\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“啊好吧，看来你也被那些纳粹疯子搞得够呛，嗯？既然你来了，咱们做笔交易如何？”"
 
 #: src-en/data/events_sector_duskbringer.xml.append:80
 msgid ""
 "data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/text"
-msgstr ""
+msgstr "那艘精英暮临派飞船已坠毁。你拆解了残骸"
 
 #: src-en/data/events_sector_duskbringer.xml.append:83
 msgid ""
@@ -104,7 +104,7 @@ msgstr "联系海盗。"
 #: src-en/data/events_sector_duskbringer.xml.append:85
 msgid ""
 "data/events_sector_duskbringer.xml.append$//event[@name=\"DUSK_PIRATES_HIDING_VICTORY\"]/choice/event/text"
-msgstr ""
+msgstr "“不得不说，刚才那场打得真够带劲。多谢帮忙。这是答应你的报酬。”"
 
 #: src-en/data/events_sector_duskbringer.xml.append:88
 msgid ""
