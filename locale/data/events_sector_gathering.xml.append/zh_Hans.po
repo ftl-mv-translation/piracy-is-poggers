@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-04-17 09:08+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_gatheringxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_gathering.xml.append:16
 msgid ""
@@ -25,25 +25,25 @@ msgstr "避开与其接触。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（雇佣兵声望 2+）呼叫雇佣兵并主动提供支援。"
 
 #: src-en/data/events_sector_gathering.xml.append:32
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "“哦嘿，来得真巧。我猜你刚才无意中听到了我们的通讯。一个神权国的飞船雇佣我们来追捕一个名叫科尔本的迷失烈阳成员，他正躲在那座中心建筑里。对我们来说不幸的是，他们要求活捉以进行审讯，所以我们不能用武器摧毁那个地方。我们有足够的船员去抓他，但需要想办法先解决掉守卫以减少伤亡。在这方面，任何帮助我们都感激不尽。”"
 
 #: src-en/data/events_sector_gathering.xml.append:34
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "（心灵控制）让守卫们互相攻击。"
 
 #: src-en/data/events_sector_gathering.xml.append:36
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"mind\"]/event/text"
-msgstr ""
+msgstr "你的心灵控制对那些缺乏组织的守卫果然有效。你找到了守卫队长——似乎是唯一还保持冷静的守卫，并控制他解除了其他守卫的武装。没过多久，他们就都被打晕了。"
 
 #: src-en/data/events_sector_gathering.xml.append:38
 msgid ""
@@ -55,13 +55,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/text"
-msgstr ""
+msgstr "（士兵无人机）派遣登舰无人机与雇佣兵小队一同行动。[-2|]"
 
 #: src-en/data/events_sector_gathering.xml.append:46
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING_DAMAGE\"]/event/text"
-msgstr ""
+msgstr "你派出登舰无人机来协助分散守卫的注意力。尽管守卫们成功摧毁了第一架无人机，但你紧接着派出了第二架，这为雇佣兵小队赢得了足够的时间，让他们击倒了所有守卫。"
 
 #: src-en/data/events_sector_gathering.xml.append:51
 msgid ""
@@ -73,13 +73,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "（黑客）扰乱中心的安全系统。[-1|]"
 
 #: src-en/data/events_sector_gathering.xml.append:59
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"hacking\"]/event/text"
-msgstr ""
+msgstr "你的黑客入侵技术让雇佣兵小队得以畅通无阻地穿过中心。由于你的入侵成功孤立并瘫痪了守卫的通讯，那些毫无组织的安保人员被轻松解除了武装。"
 
 #: src-en/data/events_sector_gathering.xml.append:64
 msgid ""
@@ -91,13 +91,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"slug_saboteur\"]/text"
-msgstr ""
+msgstr "（蛞蝓破坏者）你的船员可以扰乱中心的安全系统。"
 
 #: src-en/data/events_sector_gathering.xml.append:72
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"slug_saboteur\"]/event/text"
-msgstr ""
+msgstr "你的船员潜入建筑群，从一个醉醺醺的守卫手中夺取了监控室的控制权。得益于他们的帮助，雇佣兵小队得以将那些毫无组织的安保人员逐个击破，并在没有抵抗的情况下解除了他们的武装。"
 
 #: src-en/data/events_sector_gathering.xml.append:74
 msgid ""
@@ -109,13 +109,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"rock_paladin\"]/text"
-msgstr ""
+msgstr "（圣骑士船员）你的船员可以带队冲锋。"
 
 #: src-en/data/events_sector_gathering.xml.append:82
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"rock_paladin\"]/event/text"
-msgstr ""
+msgstr "你的圣骑士不仅是个帮忙扛伤害的好人选，而且还热切地希望确保这次捕获迷失烈阳成员的行动顺利进行。他们冲破临时搭建的工事，沿途击倒了几名守卫，同时吸引了那些毫无组织的守卫的火力。果不其然，当雇佣兵小队解除剩余守卫的武装时，你的船员几乎没怎么受伤。"
 
 #: src-en/data/events_sector_gathering.xml.append:84
 msgid ""
@@ -127,25 +127,25 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"CREW_FIREARMS\"]/text"
-msgstr ""
+msgstr "你提议向雇佣兵提供你改良过的枪械，但他们拒绝了。“这些不够。我们需要要么在接近前把他们打晕，要么把他们隔离起来以便轻松制服，要么有愿意替我们扛伤害的人。"
 
 #: src-en/data/events_sector_gathering.xml.append:94
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"unique_irwin\"]/text"
-msgstr ""
+msgstr "当你向厄文请教他的专长时，他摇了摇头。看来他在佣兵团的经历让他对任何在其组织内任职的人都心存戒备。"
 
 #: src-en/data/events_sector_gathering.xml.append:98
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"unique_turzil\"]/text"
-msgstr ""
+msgstr "图尔齐尔拒绝帮助雇佣兵。“这次对【无辜者】的袭击毫无道理。我【不支持】这个行动。我要求你，【去问】别人。"
 
 #: src-en/data/events_sector_gathering.xml.append:102
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"unique_ariadne\"]/text"
-msgstr ""
+msgstr "你注意到，阿里阿德涅一听说科尔本正在被追捕，就把自己锁在了住处。她可能提供的任何帮助都无从谈起了。"
 
 #: src-en/data/events_sector_gathering.xml.append:106
 #, fuzzy
@@ -158,7 +158,7 @@ msgstr "我们没法帮忙。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[10]/event/text"
-msgstr ""
+msgstr "“真可惜。现在，如果你不介意的话，我得回去和我的团队策划进攻了。”你们两人都点了点头，然后切断了通讯。"
 
 #: src-en/data/events_sector_gathering.xml.append:110
 msgid ""
@@ -199,7 +199,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_gathering.xml.append:138
 msgid ""
 "data/events_sector_gathering.xml.append$//event[@name=\"PIP_ORCHID_REFUGEES_MERCENARY_WIN\"]/text"
-msgstr ""
+msgstr "障碍扫清后，雇佣兵小队轻而易举地找到了科尔本。他选择投降，而不是在反抗时让其他移民的生命冒险。当他被押送回他们的飞船时，雇佣兵船长带来了一些废料到你的船上。“非常感谢今天的援助！这是你的那份赏金。另外，等我们把囚犯送到后，我会帮你拖延一下舰队的追击。”"
 
 #: src-en/data/events_sector_gathering.xml.append:142
 msgid ""
@@ -220,25 +220,25 @@ msgstr "避免冲突。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（雇佣兵声望 2+）劝说佣兵团放过他们。"
 
 #: src-en/data/events_sector_gathering.xml.append:165
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "你与佣兵团的飞船进行了沟通。他们似乎不太愿意放弃这笔赏金，但你说服了他们，让他们相信可以欺骗雇主，使其以为他们完成了任务并拿到了报酬，同时也不会让自己出现在审判官的优先名单上。那名雇佣兵转向兰花族，警告道：“现在你们最好乖乖配合，装死！否则，我们很快就会回来把活干完！”佣兵们跃迁离开后，那名兰花族用手语向你表示感谢，并恳求你带他走。“求你了，自从我卷入那个想抛弃共产主义的激进组织后，就一直被想要我命的人四处追杀！我回不去以前的生活了，但也许跟着你，我能找到新的生活！”"
 
 #: src-en/data/events_sector_gathering.xml.append:167
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "带他们上船。"
 
 #: src-en/data/events_sector_gathering.xml.append:173
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝并索要其他形式的报酬。"
 
 #: src-en/data/events_sector_gathering.xml.append:181
 msgid ""
@@ -250,7 +250,7 @@ msgstr "避免冲突。"
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_MERCENARY\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "尽管佣兵团和变元者之间并不和睦，但也没理由掺和这档子事。"
 
 #: src-en/data/events_sector_gathering.xml.append:185
 msgid ""
