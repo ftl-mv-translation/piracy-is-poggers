@@ -1,27 +1,30 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 10:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:54+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_stargrovexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_stargrove.xml.append:5
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（海盗声望2+）提醒拦路海盗你良好的声望。"
 
 #: src-en/data/events_sector_stargrove.xml.append:7
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"你告诉那名海盗，你曾多次帮助过海盗。\n"
+"\n"
+"“哼，你确实帮过我的一些朋友，这没错。我敬重你。既然如此，我给你我的朋友专属折扣。还是说你想来硬的？”"
 
 #: src-en/data/events_sector_stargrove.xml.append:11
 msgid ""
