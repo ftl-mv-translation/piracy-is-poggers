@@ -1,25 +1,25 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_defeatxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_defeat.xml.append:29
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[1]"
-msgstr ""
+msgstr "当走私船解体时，你突然想到，联邦过去曾雇佣过走私者为其服务。你希望刚刚那个被你击毁的倒霉鬼不是联邦的供应商。"
 
 #: src-en/data/events_special_defeat.xml.append:30
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[2]"
-msgstr ""
+msgstr "那艘走私船已被打成废铁，他们的货物也在烈火中焚毁。"
 
 #: src-en/data/events_special_defeat.xml.append:31
 msgid ""
