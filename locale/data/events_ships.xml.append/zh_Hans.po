@@ -1,20 +1,20 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:54+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_shipsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_ships.xml.append:7
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/destroyed/text"
-msgstr ""
+msgstr "你成功击败了海盗船，但只能打捞出残骸的一小部分，就不得不跃迁离开，以避免被剩余的海盗造成进一步伤害。"
 
 #: src-en/data/events_ships.xml.append:10
 msgid ""
