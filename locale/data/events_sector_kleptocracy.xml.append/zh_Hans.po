@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_kleptocracyxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:5
 msgid ""
@@ -19,7 +19,7 @@ msgstr "攻击！"
 #: src-en/data/events_sector_kleptocracy.xml.append:20
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:selector"
-msgstr ""
+msgstr "与海盗交战。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:30
 msgid ""
@@ -30,13 +30,13 @@ msgstr "朝储藏舱进发。"
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "攻击蛞蝓。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:42
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "那名海盗可能不是你招惹得起的人物，但站在他一边或许会有奖赏。你将武器对准了蛞蝓。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:45
 msgid ""
@@ -48,13 +48,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "把他们留给海盗。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:53
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_QUEST_SLUG_PIRATE_TRAP2\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "你切断了通讯，驾驶飞船远离了战场。等你确信两艘船都无法打扰到你之后，便开始在船上忙起自己的事来。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:55
 msgid ""
@@ -71,12 +71,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_kleptocracy.xml.append:69
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"ESCAPE_SLUG_PIRATE\"]/text"
-msgstr ""
+msgstr "“啊糟了，他们冲我们来了！”蛞蝓开始启动引擎。就在你要与他们交战时，你收到了海盗发来的消息：“那些烂泥球烦我太久了！把这最后一个干掉，我有奖励等着你。”"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:73
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/text"
-msgstr ""
+msgstr "尽管你尽了最大努力，蛞蝓还是成功逃脱了。不幸的是，这也意味着你拿不到海盗的奖励了。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:75
 msgid ""
@@ -86,12 +86,12 @@ msgstr "联系海盗。"
 #: src-en/data/events_sector_kleptocracy.xml.append:77
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"GOTAWAY_SLUG_PIRATE\"]/choice/event/text"
-msgstr ""
+msgstr "“虽然你没能把那些烂泥球干掉，但我还是认可你选择了站在我们这边，而不是合伙来对付我们。拿着这些破烂，滚吧。”"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:84
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/text"
-msgstr ""
+msgstr "蛞蝓飞船已被摧毁。你在联系海盗之前先清理了残骸。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:87
 msgid ""
@@ -101,7 +101,7 @@ msgstr "联系海盗。"
 #: src-en/data/events_sector_kleptocracy.xml.append:89
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DESTROYED_SLUG_PIRATE\"]/choice/event/text"
-msgstr ""
+msgstr "“非常好。你消灭了最后一批烦人的烂泥生物。这是你应得的奖励。”"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:92
 msgid ""
@@ -111,7 +111,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_kleptocracy.xml.append:100
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/text"
-msgstr ""
+msgstr "蛞蝓船员已被消灭。你在联系海盗之前先清理了残骸。"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:103
 msgid ""
@@ -121,7 +121,7 @@ msgstr "联系海盗。"
 #: src-en/data/events_sector_kleptocracy.xml.append:105
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"DEAD_CREW_SLUG_PIRATE\"]/choice/event/text"
-msgstr ""
+msgstr "“非常好。你消灭了最后一批烦人的烂泥生物。这是你应得的奖励。”"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:108
 msgid ""
