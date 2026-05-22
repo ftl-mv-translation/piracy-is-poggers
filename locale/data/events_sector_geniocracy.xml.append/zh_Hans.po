@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_geniocracyxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_geniocracy.xml.append:13
 msgid ""
@@ -25,13 +25,13 @@ msgstr "同意。"
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（走私者声望2+）呼叫他们并协商获取化石。"
 
 #: src-en/data/events_sector_geniocracy.xml.append:22
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "尽管走私者们现在认出了你，他们仍然不愿放弃那些化石。你提出了一个折中方案：你只取走少量化石，足以让那位生物学家满意，并提出与走私者们进行交易，以补偿他们提供的化石。他们考虑了一下，最终接受了。"
 
 #: src-en/data/events_sector_geniocracy.xml.append:25
 msgid ""
@@ -43,37 +43,37 @@ msgstr "交出化石。"
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_FOSSILS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/choice/event/text"
-msgstr ""
+msgstr "“哦哦哦，你做到了！这太棒了。我感激不尽。要不……我为你工作怎么样？我可以用自己的时间研究这些，用劳动来偿还我的债务！”"
 
 #: src-en/data/events_sector_geniocracy.xml.append:41
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（走私者声望2+冷静点，我们不是来举报你的。"
 
 #: src-en/data/events_sector_geniocracy.xml.append:43
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“哦，是你们啊。可惜我这儿没什么能引起你们兴趣的东西。我们正在为一位大客户走私这些坚硬甲壳。不过我认识附近一个家伙，他那里的东西可能更符合你们的需求，去看看吧。”"
 
 #: src-en/data/events_sector_geniocracy.xml.append:47
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr ""
+msgstr "向他们道谢，并趁这段时间进行星舰管理。"
 
 #: src-en/data/events_sector_geniocracy.xml.append:49
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "你感谢他们提供的信息，并祝他们旅途顺利。"
 
 #: src-en/data/events_sector_geniocracy.xml.append:51
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
 "append:choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储物间。"
 
 #: src-en/data/events_sector_geniocracy.xml.append:55
 msgid ""
@@ -85,13 +85,13 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr ""
+msgstr "提议向他们购买一个甲壳族。"
 
 #: src-en/data/events_sector_geniocracy.xml.append:63
 msgid ""
 "data/events_sector_geniocracy.xml.append$//mod:findName[@name=\"NEBULA_SHELL_SMUGGLER\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“你说甲壳族是什么意思？这些家伙都死了，我可以告诉——等等，那是什么声音？”走私者跑到画面外一阵忙活，过了一会儿才回来。“好吧，我不知道你有什么超能力，但我们不知怎么把一个活的给搬上了船，它正在我们的货舱里大闹天宫。这就是你要找的家伙？”"
 
 #: src-en/data/events_sector_geniocracy.xml.append:69
 msgid ""
