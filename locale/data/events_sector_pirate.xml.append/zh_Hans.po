@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:54+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_piratexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_pirate.xml.append:14
 msgid ""
@@ -20,13 +20,13 @@ msgstr "逞一回英雄，攻击海盗。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"PIRATE_BRIBER_MV\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "送给他们一些补给，用来对付他们的目标。"
 
 #: src-en/data/events_sector_pirate.xml.append:26
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"PIRATE_BRIBER_MV\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "海盗对你的协助意愿感到困惑，但仍然很感激，并急切地抓起补给，继续他们的进攻。"
 
 #: src-en/data/events_sector_pirate.xml.append:32
 msgid ""
@@ -44,13 +44,13 @@ msgstr "无视对方。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（奴隶贩子声望2+）请求查看奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:48
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "“嗯？你是哪位大人物吗？从来没听说过你。我只能说，呃……奴隶们都睡着了！所以没法给你看……”看来这些奴隶贩子已经不属于提卡卡了，所以你的声望在他们那儿换不来什么特殊待遇。"
 
 #: src-en/data/events_sector_pirate.xml.append:50
 msgid ""
@@ -98,7 +98,7 @@ msgstr "攻击那些该死的奴隶主！"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你准备攻击那艘奴隶贩子飞船，决心让他们再也无法欺骗任何人。"
 
 #: src-en/data/events_sector_pirate.xml.append:74
 msgid ""
@@ -152,7 +152,7 @@ msgstr "攻击那些该死的奴隶主！"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你准备攻击那艘奴隶贩子飞船，决心让他们再也无法欺骗任何人。"
 
 #: src-en/data/events_sector_pirate.xml.append:105
 msgid ""
@@ -237,13 +237,13 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_BETRAYAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（奴隶贩子声望2+）请求获取该奴隶的信息。"
 
 #: src-en/data/events_sector_pirate.xml.append:162
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_BETRAYAL\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“什么？你算老几，敢提这种要求？这么划算的买卖谁都别想多要！最后问你一遍，你是要接受这笔绝佳交易，还是想当个傻子？”看来这些奴隶贩子已经不属于提卡卡了，所以你的声望在他们那儿换不来什么特殊待遇。"
 
 #: src-en/data/events_sector_pirate.xml.append:164
 msgid ""
@@ -319,19 +319,19 @@ msgstr "攻击该船去找星舰。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_WEPS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（走私者声望3+）请求查看更多种类的物品"
 
 #: src-en/data/events_sector_pirate.xml.append:227
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_WEPS\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "走私者们认出了你的身份，欢迎你进入空间站，并将你带到一个更安全的房间，里面存放着大量高功率利用效率的武器供你挑选。"
 
 #: src-en/data/events_sector_pirate.xml.append:236
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_WEPS_LIST\"]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "走私者们把枪交给你，并感谢你完成了这笔交易。"
 
 #: src-en/data/events_sector_pirate.xml.append:238
 msgid ""
@@ -343,7 +343,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_WEPS_LIST_ALT\"]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "走私者们把枪递了过来，感谢你完成这笔交易。"
 
 #: src-en/data/events_sector_pirate.xml.append:248
 msgid ""
@@ -355,7 +355,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_PLAYER_DRONES_LIST\"]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "走私者们把无人机交给你，并感谢你完成了这笔交易。"
 
 #: src-en/data/events_sector_pirate.xml.append:258
 msgid ""
@@ -372,7 +372,7 @@ msgstr "购买神奇无人机。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_WONDERDRONE\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“买得好！希望你觉得这无人机有用，因为我们不接受退货！”"
 
 #: src-en/data/events_sector_pirate.xml.append:270
 msgid ""
@@ -399,7 +399,7 @@ msgstr "购买神奇无人机。"
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SMUGGLER_WONDERDRONE_NEGOTIATE\"]/mod:findWithChildLike/mod:findWithChildLike/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“买得好！希望你觉得这无人机有用，因为我们不接受退货！”"
 
 #: src-en/data/events_sector_pirate.xml.append:295
 msgid ""
@@ -465,7 +465,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:360
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"ZOLTAN_LECTURE_MARKET_WIN_ZOLTAN\"]/text"
-msgstr ""
+msgstr "你成功击退了海盗船。你注意到海盗正在撤退，看来超能族赢了。你迅速清理了战利品残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:363
 msgid ""
@@ -507,7 +507,7 @@ msgstr "奴隶制是可悲的。打击奴隶主。"
 #: src-en/data/events_sector_pirate.xml.append:411
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_LANIUS_SLAVE\"]/mod:findLike/mod:findLike/mod:findWithChildLike[3]/mod:selector"
-msgstr ""
+msgstr "（心灵控制）说服他们将食铁族捐出来。"
 
 #: src-en/data/events_sector_pirate.xml.append:426
 msgid ""
@@ -517,27 +517,27 @@ msgstr "等待奴隶贩子抓住猎物。"
 #: src-en/data/events_sector_pirate.xml.append:677
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/text"
-msgstr ""
+msgstr "附近的空间站已被改建为海盗枢纽。你可以看到相当数量的海盗在空间站里进进出出，而缺乏正规安保措施则表明这里的海盗彼此信任，相信能维持基本的秩序。你琢磨着什么样的海盗才会信任另一个海盗，但如果你想要进入，应该也不会被拒绝。"
 
 #: src-en/data/events_sector_pirate.xml.append:679
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "进入枢纽。"
 
 #: src-en/data/events_sector_pirate.xml.append:683
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[2]/text"
-msgstr ""
+msgstr "趁海盗不备，攻击他们！"
 
 #: src-en/data/events_sector_pirate.xml.append:687
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[3]/text"
-msgstr ""
+msgstr "忽略该枢纽。"
 
 #: src-en/data/events_sector_pirate.xml.append:689
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB\"]/choice[3]/event/text"
-msgstr ""
+msgstr "就算你能进去，联邦军官在海盗团伙里也不受欢迎。谁知道那些海盗会不会突然对你翻脸？最好还是别插手那些可能跟联邦无关的海盗事务。"
 
 #: src-en/data/events_sector_pirate.xml.append:691
 msgid ""
@@ -552,58 +552,58 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:709
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_FAIL\"]/text"
-msgstr ""
+msgstr "尽管你多次与海盗敌对，你还是决定进去。你一走进大厅，全场便安静下来，有几个海盗朝你怒目而视。你感觉到自己在这里完全不受欢迎，于是加快脚步准备离开，但还没来得及走，一群喧闹的海盗就追了上来，把你赶了回去！"
 
 #: src-en/data/events_sector_pirate.xml.append:714
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/text"
-msgstr ""
+msgstr "一进去，就明显看出这里是供海盗们在“工作”之余休息消遣的地方。来自不同派系的海盗们在酒吧里闲逛，玩着某种外星版的台球。大多数休闲活动都提不起你的兴趣，但进一步探索空间站后，你发现了各种正在寻求服务的海盗。讽刺的是，其中一位寻求服务的海盗，正是一名佣兵团佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:716
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "你怀疑那个奴隶贩子不会搭理你。"
 
 #: src-en/data/events_sector_pirate.xml.append:720
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_slaver\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "走近那个奴隶贩子。"
 
 #: src-en/data/events_sector_pirate.xml.append:724
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_mercenary\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "你怀疑那个佣兵不会搭理你。"
 
 #: src-en/data/events_sector_pirate.xml.append:728
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_mercenary\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "走近那个佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:732
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_smuggler\""
 " and @lvl=\"-999\"]/text"
-msgstr ""
+msgstr "你怀疑那个走私者不会搭理你。"
 
 #: src-en/data/events_sector_pirate.xml.append:736
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[@req=\"rep_smuggler\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "走近那个走私者。"
 
 #: src-en/data/events_sector_pirate.xml.append:740
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_ENTER_SUCCESS\"]/choice[7]/text"
-msgstr ""
+msgstr "这里没有我们需要的东西，我们走吧。"
 
 #: src-en/data/events_sector_pirate.xml.append:747
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[1]/text"
-msgstr ""
+msgstr "趁海盗们还在枢纽里，你轻松地击毁了那些空船。然而，还没等你打捞出大部分残骸，传感器就显示有一支更大的海盗舰队正在接近。你赶紧带着现有的战利品离开，赶在那支舰队追来之前脱身。"
 
 #: src-en/data/events_sector_pirate.xml.append:750
 msgid ""
@@ -613,7 +613,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:755
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[2]/text"
-msgstr ""
+msgstr "你俯冲过去，在海盗们还没意识到遭受攻击之前就击毁了他们的多数飞船。由于没有任何其他自卫手段，他们只好不情愿地投降了。你承诺在打捞完几艘被你击毁的飞船后就放过他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:758
 msgid ""
@@ -623,7 +623,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:763
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[3]/text"
-msgstr ""
+msgstr "尽管这个枢纽缺乏正规防护，但它仍然是那些不惧反击的海盗们的聚集点。一艘正准备停靠的海盗船注意到你的武器系统启动，便上前阻止你。战斗将你们带离了枢纽的范围，但你的攻击行为也不可能不被察觉。"
 
 #: src-en/data/events_sector_pirate.xml.append:766
 msgid ""
@@ -633,7 +633,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:771
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_ATTACK\"]/event[4]/text"
-msgstr ""
+msgstr "尽管这个枢纽缺乏正规防护，但它仍然是那些不惧反击的海盗们的聚集点。一群正在自己飞船中休息的海盗发现了你，将你驱离。战斗将你们带离了枢纽的范围，但你仍然遭到多名海盗的锁定，在你与他们的头目交战时，他们在后方持续对你进行火力打击。"
 
 #: src-en/data/events_sector_pirate.xml.append:775
 msgid ""
@@ -643,27 +643,27 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:784
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/text"
-msgstr ""
+msgstr "那个奴隶贩子看到一名联邦变元者靠近显得很惊讶，但还是很快切入正题。“那些星联的混蛋无数次搞砸我的船员。当我听说附近有几艘星联飞船时，我意识到这是个复仇的好机会。我本想亲自去追，但我训练有素的船员还是太少，不敢冒险正面交锋，所以我在找愿意去对付他们小队的人。用你喜欢的任何方式干掉其中任何一个，我就免费送你一个奴隶。”"
 
 #: src-en/data/events_sector_pirate.xml.append:786
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "去追击一艘普通星联飞船。"
 
 #: src-en/data/events_sector_pirate.xml.append:788
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“好，很好。搞定他们之后给我个信儿。”"
 
 #: src-en/data/events_sector_pirate.xml.append:793
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[2]/text"
-msgstr ""
+msgstr "去追击一艘精英星联飞船。"
 
 #: src-en/data/events_sector_pirate.xml.append:795
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“今天胆子不小啊？要是你能干掉这个大家伙，我一定给你准备个更好的奴隶。”"
 
 #: src-en/data/events_sector_pirate.xml.append:800
 msgid ""
@@ -673,32 +673,32 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_pirate.xml.append:802
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“呃，好吧，那就别浪费我的时间了。我去找个真正能帮我的人。”"
 
 #: src-en/data/events_sector_pirate.xml.append:810
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/text"
-msgstr ""
+msgstr "那名佣兵长长地呷了一口啤酒，又深深吸了一口烟，然后才对你开口。“你要是好奇我为什么没给那边那些奴隶贩子和走私者提供服务，那是因为我这周不想打架。我更乐意制造点混乱，又不用冒着跟另一艘愤怒的飞船交火的风险，你明白吗？我想让你帮我干掉一些其他客户雇我铲除的目标。我知道你是联邦的人，你可能更乐意去对付一些叛军，巧了，我现在的单子上正好有两个叛军目标。”"
 
 #: src-en/data/events_sector_pirate.xml.append:812
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[1]/text"
-msgstr ""
+msgstr "去追击一艘普通叛军飞船。"
 
 #: src-en/data/events_sector_pirate.xml.append:814
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“好的，这是那艘叛军飞船的坐标。干掉他们之后联系我，我会在舰队那边动点手脚……”"
 
 #: src-en/data/events_sector_pirate.xml.append:819
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[2]/text"
-msgstr ""
+msgstr "去追击一艘精英叛军飞船。"
 
 #: src-en/data/events_sector_pirate.xml.append:821
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“好的，这是那艘叛军飞船的坐标。我知道这艘比较棘手，所以干掉他们之后联系我，我会让叛军舰队那边好好头疼一阵子……”"
 
 #: src-en/data/events_sector_pirate.xml.append:826
 msgid ""
@@ -708,32 +708,32 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_pirate.xml.append:828
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“我没意见。你要是改主意了，我就在这儿。”可惜对他来说不巧的是，叛军舰队正在推进，你没时间在这里等。"
 
 #: src-en/data/events_sector_pirate.xml.append:836
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/text"
-msgstr ""
+msgstr "你走近时，那个走私者从剪贴板上抬起头，眯着厚厚的眼镜片打量你。你拿不准他对你的看法，但他还是照样开出了条件。“我刚收到一大批货物，要转运到附近的阿尔吉恩空间站。问题是，我的人炸了当地警察的一个空间站，把他们惹毛了，所以我被列为了通缉犯。我自己去送货风险太大，只能找像你这样的人帮忙。完成送货，空间站那边会给你丰厚的报酬，不过我得提醒你，他们可能被一个敌对执法者封锁了。”"
 
 #: src-en/data/events_sector_pirate.xml.append:838
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "将货物运送到一个小型前哨站，报酬不错，风险较低。"
 
 #: src-en/data/events_sector_pirate.xml.append:840
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "走私者示意他的手下把几箱货物递给你。“报酬不用再联系我，前哨站会知道货是从我这儿送的。祝你送货顺利，尽量别把自己炸飞了。”"
 
 #: src-en/data/events_sector_pirate.xml.append:845
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[2]/text"
-msgstr ""
+msgstr "将货物运送到一个大型前哨站，报酬更高，但风险也更大。"
 
 #: src-en/data/events_sector_pirate.xml.append:847
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "走私者示意他的团队跟你走，在对接区把箱子装进你的飞船。“报酬不用再联系我，前哨站会知道货是从我这儿送的。祝你送货顺利，尽量别把自己炸飞了。”"
 
 #: src-en/data/events_sector_pirate.xml.append:852
 msgid ""
@@ -743,12 +743,12 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_pirate.xml.append:854
 msgid ""
 "data/events_sector_pirate.xml.append$//eventList[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "走私者哼了一声，又回去看他的剪贴板了。在尴尬的沉默中等了一分钟后，你觉得这是该走了的信号。"
 
 #: src-en/data/events_sector_pirate.xml.append:862
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER_COALITION\"]/text"
-msgstr ""
+msgstr "到达信标处时，你发现那艘星联飞船正在附近停泊，但一发现你，他们就立刻冲过来发起攻击。无论如何你都得打一场，但如果你能击败他们，就能拿到那个奴隶贩子的奖励。"
 
 #: src-en/data/events_sector_pirate.xml.append:865
 msgid ""
@@ -758,27 +758,27 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:871
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/text"
-msgstr ""
+msgstr "你击败了那艘星联飞船。你在联系奴隶贩子之前尽可能打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:874
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/text"
-msgstr ""
+msgstr "联系那个奴隶贩子。"
 
 #: src-en/data/events_sector_pirate.xml.append:876
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/text"
-msgstr ""
+msgstr "“哈！你让他们知道这儿谁说了算。多谢帮忙。按照约定，我的朋友正在运送几个奴隶给你。从中挑一个吧。”"
 
 #: src-en/data/events_sector_pirate.xml.append:878
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "选择第一个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:880
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "奴隶贩子的朋友把那名奴隶交给你。你们握了握手，你准备跃迁离开。"
 
 #: src-en/data/events_sector_pirate.xml.append:883
 msgid ""
@@ -788,12 +788,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:889
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "选择第二个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:891
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "奴隶贩子的朋友把那名奴隶交给你。你们握了握手，你准备跃迁离开。"
 
 #: src-en/data/events_sector_pirate.xml.append:894
 msgid ""
@@ -803,12 +803,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:900
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "选择第三个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:902
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "奴隶贩子的朋友把那名奴隶交给你。你们握了握手，你准备跃迁离开。"
 
 #: src-en/data/events_sector_pirate.xml.append:905
 msgid ""
@@ -818,7 +818,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:915
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/text"
-msgstr ""
+msgstr "到达信标处时，你发现团结精英飞船正在附近停泊，但一发现你，他们就立刻冲过来发起攻击。无论如何你都得打一场，但如果你能击败他们，就能拿到那个奴隶贩子的奖励。"
 
 #: src-en/data/events_sector_pirate.xml.append:918
 msgid ""
@@ -828,27 +828,27 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:924
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/text"
-msgstr ""
+msgstr "你击败了那艘团结精英飞船。你在联系奴隶贩子之前尽可能打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:927
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/text"
-msgstr ""
+msgstr "联系那个奴隶贩子。"
 
 #: src-en/data/events_sector_pirate.xml.append:929
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/text"
-msgstr ""
+msgstr "“哎呀，我可得说，舰长，你正式成为我雇过的最令人印象深刻的佣兵了。我的朋友正带着我那儿几个更好的奴隶和一些额外的废料赶往你那里，以表敬意。请从中选一个收下吧。”"
 
 #: src-en/data/events_sector_pirate.xml.append:932
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "选择第一个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:934
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "奴隶贩子的朋友把那名奴隶交给你。你们握了握手，你准备跃迁离开。"
 
 #: src-en/data/events_sector_pirate.xml.append:937
 msgid ""
@@ -858,12 +858,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:943
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "选择第二个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:945
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "奴隶贩子的朋友把那名奴隶交给你。你们握了握手，你准备跃迁离开。"
 
 #: src-en/data/events_sector_pirate.xml.append:948
 msgid ""
@@ -873,12 +873,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:954
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "选择第三个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:956
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "奴隶贩子的朋友把那名奴隶交给你。你们握了握手，你准备跃迁离开。"
 
 #: src-en/data/events_sector_pirate.xml.append:959
 msgid ""
@@ -888,12 +888,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:965
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "选择第四个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:967
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_SLAVER_COALITION_ELITE\"]/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "奴隶贩子的朋友把那名奴隶交给你。你们握了握手，你准备跃迁离开。"
 
 #: src-en/data/events_sector_pirate.xml.append:970
 msgid ""
@@ -903,7 +903,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:985
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY_REBEL\"]/text"
-msgstr ""
+msgstr "你很快在指定坐标找到了那艘叛军飞船，双方都立刻开始准备战斗。只要能击败他们，那名佣兵就会满意。"
 
 #: src-en/data/events_sector_pirate.xml.append:988
 msgid ""
@@ -913,17 +913,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:994
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL\"]/text"
-msgstr ""
+msgstr "你击败了那艘叛军飞船。你在联系佣兵之前尽可能打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:997
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL\"]/choice/text"
-msgstr ""
+msgstr "联系那名佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:999
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL\"]/choice/event/text"
-msgstr ""
+msgstr "“干得好。现在轮到我这边的承诺，也是有意思的部分：我要用我的‘战术’去给叛军舰队添点堵了。祝好，舰长。”"
 
 #: src-en/data/events_sector_pirate.xml.append:1002
 msgid ""
@@ -933,7 +933,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1010
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/text"
-msgstr ""
+msgstr "你很快在指定坐标找到了那艘叛军精英飞船，双方都立刻开始准备战斗。只要能击败他们，那名佣兵就会满意。"
 
 #: src-en/data/events_sector_pirate.xml.append:1013
 msgid ""
@@ -943,17 +943,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1019
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/text"
-msgstr ""
+msgstr "你击败了那艘叛军精英飞船。你在联系佣兵之前尽可能打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:1022
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/choice/text"
-msgstr ""
+msgstr "联系那名佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:1024
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEFEATED_PIRATE_HUB_MERCENARY_REBEL_ELITE\"]/choice/event/text"
-msgstr ""
+msgstr "“干得漂亮！我还担心没人在截止日期前替我成功干掉那艘叛军精英飞船呢。既然你这么好心地帮了我，除了约定的舰队延迟之外，我再送你一张星区地图。祝好，舰长。”"
 
 #: src-en/data/events_sector_pirate.xml.append:1028
 msgid ""
@@ -963,7 +963,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1055
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ZOLTAN\"]/text"
-msgstr ""
+msgstr "你抵达了阿尔吉恩空间站，毫不意外地发现一艘牧师团飞船正在攻击空间站。然而，他们一发现你就认定你是来协助走私者的，随即发起攻击！虽然他们的猜测可能没错，但你别无选择，只能应战。"
 
 #: src-en/data/events_sector_pirate.xml.append:1058
 msgid ""
@@ -973,7 +973,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1064
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_FEDERATION\"]/text"
-msgstr ""
+msgstr "你抵达了阿尔吉恩空间站，此时空间站正遭到一艘联邦飞船的攻击。然而，他们一发现你就认定你是来协助走私者的，随即发起攻击！虽然他们的猜测可能没错，但你一边不情愿地启动武器，一边怀疑他们到底有没有意识到你是一名联邦变元者。"
 
 #: src-en/data/events_sector_pirate.xml.append:1067
 msgid ""
@@ -983,7 +983,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1073
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ORCHID\"]/text"
-msgstr ""
+msgstr "你抵达了阿尔吉恩空间站，惊讶地发现空间站正遭到一艘兰花族飞船的攻击。然而，他们一发现你就认定你是来协助走私者的，随即发起攻击！虽然他们的猜测可能没错，但你纳闷为什么兰花族开始攻击海盗空间站了。也许是他们对海盗的立场变得更加严厉了？"
 
 #: src-en/data/events_sector_pirate.xml.append:1076
 msgid ""
@@ -993,7 +993,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1083
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ZOLTAN_ELITE\"]/text"
-msgstr ""
+msgstr "你抵达了阿尔吉恩空间站，毫不意外地发现一艘牧师团维和舰正在攻击空间站。然而，他们一发现你就认定你是来协助走私者的，随即发起攻击！虽然他们的猜测可能没错，但你别无选择，只能应战。"
 
 #: src-en/data/events_sector_pirate.xml.append:1086
 msgid ""
@@ -1003,7 +1003,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1092
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_FEDERATION_ELITE\"]/text"
-msgstr ""
+msgstr "你抵达了阿尔吉恩空间站，此时空间站正遭到一艘联邦统一飞船的攻击。然而，他们一发现你就认定你是来协助走私者的，随即发起攻击！虽然他们的猜测可能没错，但你一边不情愿地启动武器，一边怀疑他们到底有没有意识到你是一名联邦变元者。"
 
 #: src-en/data/events_sector_pirate.xml.append:1095
 msgid ""
@@ -1013,7 +1013,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1101
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_ORCHID_ELITE\"]/text"
-msgstr ""
+msgstr "你抵达了阿尔吉恩空间站，惊讶地发现空间站正遭到一艘集议会军政官飞船的攻击。然而，他们一发现你就认定你是来协助走私者的，随即发起攻击！虽然他们的猜测可能没错，但你纳闷为什么奥克德人开始攻击海盗空间站了。也许是他们对海盗的立场变得更加严厉了？"
 
 #: src-en/data/events_sector_pirate.xml.append:1104
 msgid ""
@@ -1023,27 +1023,27 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1110
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY\"]/text"
-msgstr ""
+msgstr "当飞船解体时，你为不得不与自己的盟友交战感到一丝愧疚。不过，这并不会阻止你打捞残骸并完成送货。"
 
 #: src-en/data/events_sector_pirate.xml.append:1113
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY\"]/choice/text"
-msgstr ""
+msgstr "将货物交付给空间站。"
 
 #: src-en/data/events_sector_pirate.xml.append:1119
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_SMUGGLER_DELIVERY\"]/text"
-msgstr ""
+msgstr "当飞船归于沉寂时，你为不得不与自己的盟友交战感到一丝愧疚。不过，这并不会阻止你打捞残骸并完成送货。"
 
 #: src-en/data/events_sector_pirate.xml.append:1122
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_SMUGGLER_DELIVERY\"]/choice/text"
-msgstr ""
+msgstr "将货物交付给空间站。"
 
 #: src-en/data/events_sector_pirate.xml.append:1128
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/text"
-msgstr ""
+msgstr "货物交接完成后，那位你推测是空间站“主人”的走私者呼叫了你。“感谢你的送货和协助。如果没有你的介入，我们恐怕没法完好无损地挺过那场袭击。作为报酬，我们免费送你一件物品。你想要什么？”"
 
 #: src-en/data/events_sector_pirate.xml.append:1130
 msgid ""
@@ -1053,7 +1053,7 @@ msgstr "请求一件武器。"
 #: src-en/data/events_sector_pirate.xml.append:1132
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“没问题。给我的人5分钟找到那件武器，马上就能装上你的飞船。”"
 
 #: src-en/data/events_sector_pirate.xml.append:1135
 msgid ""
@@ -1063,12 +1063,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1141
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "请求获得一台无人机。"
 
 #: src-en/data/events_sector_pirate.xml.append:1143
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“没问题。给我的人5分钟找到无人机蓝图，马上就给你发过去。”"
 
 #: src-en/data/events_sector_pirate.xml.append:1146
 msgid ""
@@ -1078,12 +1078,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1152
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[3]/text"
-msgstr ""
+msgstr "请求获得一个增强部件。"
 
 #: src-en/data/events_sector_pirate.xml.append:1154
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_QUEST_PIRATE_HUB_SMUGGLER_DELIVERY_REWARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“没问题。给我的人5分钟找到那个部件，马上就能装上你的飞船。”"
 
 #: src-en/data/events_sector_pirate.xml.append:1157
 msgid ""
@@ -1093,12 +1093,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:1165
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY_HARD\"]/text"
-msgstr ""
+msgstr "当飞船解体时，你为不得不与自己的盟友交战感到一丝愧疚。不过，这并不会阻止你打捞残骸并完成送货。"
 
 #: src-en/data/events_sector_pirate.xml.append:1168
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_SMUGGLER_DELIVERY_HARD\"]/choice/text"
-msgstr ""
+msgstr "将货物交付给空间站。"
 
 #: src-en/data/events_sector_pirate.xml.append:1174
 msgid ""
