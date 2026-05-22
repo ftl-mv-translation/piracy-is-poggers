@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_unionxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_union.xml.append:23
 msgid ""
@@ -20,7 +20,7 @@ msgstr "购买预热器。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"QUEST_GATLING_AUGMENT\"]/mod:findLike/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“多谢多谢，谢谢你帮我处理掉这些垃圾！我一定会在朋友们面前为你说好话的。”"
 
 #: src-en/data/events_sector_union.xml.append:27
 msgid ""
