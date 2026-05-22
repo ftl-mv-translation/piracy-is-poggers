@@ -1,27 +1,27 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_harmonyxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_harmony.xml.append:31
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（走私者声望3+）呼叫他们，并向他们保证你无意伤害他们。"
 
 #: src-en/data/events_sector_harmony.xml.append:33
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“哦，是你们啊。我们这儿有位重要人物，呃……跟半械巡逻队关系不太好。我们在这个星区被追得够呛，介意接手吗？”"
 
 #: src-en/data/events_sector_harmony.xml.append:35
 msgid ""
@@ -33,7 +33,7 @@ msgstr "当然。"
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "“太好了，谢谢你帮我卸下这个担子。再给你们一些补给吧。”走私者们送来了一个颜色奇特的半械保卫者。"
 
 #: src-en/data/events_sector_harmony.xml.append:40
 msgid ""
@@ -45,7 +45,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“离开星区的主要运输工具已放弃任务。请求：将我本人运出谐合星区。会支付报酬。”"
 
 #: src-en/data/events_sector_harmony.xml.append:44
 msgid ""
@@ -60,7 +60,6 @@ msgid ""
 msgstr "拒绝。"
 
 #: src-en/data/events_sector_harmony.xml.append:59
-#, fuzzy
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/choice[2]/text"
@@ -70,7 +69,7 @@ msgstr "不，谢谢。"
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"TURZIL_PIRATE_TRANSPORT\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“可惜了。那我们会尽力不被半械巡逻队炸飞的。”你祝他们好运，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_sector_harmony.xml.append:63
 msgid ""
