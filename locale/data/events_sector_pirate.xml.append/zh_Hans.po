@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-31 22:40+0000\n"
+"PO-Revision-Date: 2026-06-02 20:46+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_piratexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -35,7 +35,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_pirate.xml.append:42
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod:findWithChildLike/mod:selector"
 msgstr "无视对方。"
@@ -209,7 +208,6 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_pirate.xml.append:143
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//mod:findName[@name=\"SLAVER_DEAD_SLAVES\"]/mod-"
 "append:choice[2]/text"
@@ -1777,7 +1775,7 @@ msgstr "观看比赛，希望你赢。"
 #: src-en/data/events_sector_pirate.xml.append:1725
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_ENTER\"]/choice/event/choice[@req=\"loc_gladiators_cheat\"]/event/choice[4]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/text"
-msgstr ""
+msgstr "（螳螂信息素）给他们一些信息素。"
 
 #: src-en/data/events_sector_pirate.xml.append:1727
 msgid ""
@@ -2022,7 +2020,7 @@ msgstr "就在你以为能不被抓到逃脱时，你听到一名执法者冲你
 #: src-en/data/events_sector_pirate.xml.append:2043
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_MARKET_SLAVE_GLADIATORS_BET_4_WIN_CHEAT\"]/text"
-msgstr ""
+msgstr "兴奋剂帮助分离者在大多数战斗中得以与对手平起平坐。凭借一点运气和精心计算的攻击，分离者取得了大多数战斗的胜利，并勉强击败了岩石族信徒。你上前领取奖金。"
 
 #: src-en/data/events_sector_pirate.xml.append:2048
 msgid ""
@@ -2821,7 +2819,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_pirate.xml.append:2734
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_MARKET_SMUGGLER_PROTOTYPE\"]/choice[4]/text"
 msgstr "无视对方。"
@@ -3132,7 +3129,6 @@ msgid ""
 msgstr "去看看他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:2995
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP\"]/choice[2]/text"
 msgstr "无视这艘舰船。"
@@ -3315,12 +3311,12 @@ msgstr "你转交了一些燃料棒，海盗们感激地收下了。“多谢了
 #: src-en/data/events_sector_pirate.xml.append:3155
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "给他们大量的燃料，并花些时间修理他们的飞船。"
 
 #: src-en/data/events_sector_pirate.xml.append:3157
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "你还没等他们为燃料道谢，就转交了大量的燃料棒，并着手修理他们的船体和燃料泄漏处。这花了一些时间，但你最终修补好了大部分损伤。这应该能让他们撑过不少跃迁了。"
 
 #: src-en/data/events_sector_pirate.xml.append:3163
 msgid ""
@@ -3330,7 +3326,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3165
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "“我——哇。”海盗震惊了好几分钟才恢复镇定。“这份恩情我真是无以为谢。我虽然是个海盗，但要是白拿不报，那可比海盗行径更可恶了。收下这个吧，这是这艘船原主人的东西。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3168
 msgid ""
@@ -3340,12 +3336,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3176
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/text"
-msgstr ""
+msgstr "（维修无人机）给他们大量的燃料，并快速修理他们的飞船。"
 
 #: src-en/data/events_sector_pirate.xml.append:3178
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/event/text"
-msgstr ""
+msgstr "你还没等他们为燃料道谢，就转交了大量的燃料棒，并着手修理他们的船体和燃料泄漏处。这花了一些时间，但你最终修补好了大部分损伤。这应该能让他们撑过不少跃迁了。"
 
 #: src-en/data/events_sector_pirate.xml.append:3184
 msgid ""
@@ -3355,7 +3351,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3186
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/event/choice/event/text"
-msgstr ""
+msgstr "“我——哇。”海盗震惊了好几分钟才恢复镇定。“这份恩情我真是无以为谢。我虽然是个海盗，但要是白拿不报，那可比海盗行径更可恶了。收下这个吧，这是这艘船原主人的东西。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3189
 msgid ""
@@ -3363,7 +3359,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_pirate.xml.append:3197
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[4]/text"
 msgstr "我们没法帮忙。"
@@ -3371,25 +3366,24 @@ msgstr "我们没法帮忙。"
 #: src-en/data/events_sector_pirate.xml.append:3199
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[1]/event/choice/event/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "“好吧，好吧。至少谢谢你们没杀我们，不过我不知道我们该怎么离开这里……”"
 
 #: src-en/data/events_sector_pirate.xml.append:3209
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_UNKNOWN_SHIP_CHECK_PIRATE_TAKEOVER_MERCY\"]/choice[2]/text"
-msgstr ""
+msgstr "如果他们想要战斗，那就给他们战斗。"
 
 #: src-en/data/events_sector_pirate.xml.append:3216
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK\"]/text"
-msgstr ""
+msgstr "你注意到一艘受损的飞船在附近的卫星附近盘旋。他们似乎没有发现你。"
 
 #: src-en/data/events_sector_pirate.xml.append:3218
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK\"]/choice[1]/text"
-msgstr ""
+msgstr "靠近并呼叫他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3222
-#, fuzzy
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK\"]/choice[2]/text"
 msgstr "无视对方。"
@@ -3397,7 +3391,7 @@ msgstr "无视对方。"
 #: src-en/data/events_sector_pirate.xml.append:3224
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对那艘飞船不感兴趣，不管他们是谁。"
 
 #: src-en/data/events_sector_pirate.xml.append:3226
 msgid ""
@@ -3412,7 +3406,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:3247
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/text"
-msgstr ""
+msgstr "仔细观察后，发现那艘受损的飞船是一艘提卡卡奴隶贩子船。令人惊讶的是，这些奴隶贩子很友好，并回复了你的呼叫。“我们不久前遭到一个佣兵和一个走私者的袭击。不知道我们做了什么惹恼了他们，还是他们只是为了取乐。不管怎样，既然你在这里，你觉得你能替我们报点仇吗？”"
 
 #: src-en/data/events_sector_pirate.xml.append:3249
 msgid ""
@@ -3422,17 +3416,17 @@ msgstr "没问题。"
 #: src-en/data/events_sector_pirate.xml.append:3251
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“太好了。不过，据我所知，他们袭击我们后分别朝相反的方向走了。你看起来时间不多，所以我只要求你攻击其中一个。杀了他们，我就给你一个奴隶。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3253
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "去追击那个佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:3255
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "奴隶贩子为你指明了佣兵前去的方向。你找到了与奴隶贩子描述相符的那艘佣兵飞船，并启动了武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3258
 msgid ""
@@ -3442,12 +3436,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3264
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "去追击那个走私者。"
 
 #: src-en/data/events_sector_pirate.xml.append:3266
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "奴隶贩子为你指明了走私者前去的方向。你找到了与奴隶贩子描述相符的那艘走私者飞船，并启动了武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3269
 msgid ""
@@ -3462,7 +3456,7 @@ msgstr "趁他们虚弱的时候攻击他们！"
 #: src-en/data/events_sector_pirate.xml.append:3279
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "这些海盗一直在银河系的这一区域恐吓平民。现在是你为所有被这些人渣伤害过的人复仇的最好时机。"
 
 #: src-en/data/events_sector_pirate.xml.append:3285
 msgid ""
@@ -3472,47 +3466,47 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3291
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[3]/text"
-msgstr ""
+msgstr "我们不会当你的佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:3293
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“好吧，如果你们不打算帮忙，那就没什么好谈的了。我们正准备修理飞船，请别打扰我们。”奴隶贩子切断了通讯。"
 
 #: src-en/data/events_sector_pirate.xml.append:3299
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_MERCENARY_WIN\"]/text"
-msgstr ""
+msgstr "你成功击败了那些佣兵。你打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:3302
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_MERCENARY_WIN\"]/choice/text"
-msgstr ""
+msgstr "联系那些奴隶贩子。"
 
 #: src-en/data/events_sector_pirate.xml.append:3307
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_SMUGGLER_WIN\"]/text"
-msgstr ""
+msgstr "你成功击败了那些走私者。你打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:3310
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_SMUGGLER_WIN\"]/choice/text"
-msgstr ""
+msgstr "联系那些奴隶贩子。"
 
 #: src-en/data/events_sector_pirate.xml.append:3316
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/text"
-msgstr ""
+msgstr "“干得好。很高兴看到尽管在宏观格局中我们是对手，但还能合作。这些奴隶中哪一个对你有用？”"
 
 #: src-en/data/events_sector_pirate.xml.append:3318
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[1]/text"
-msgstr ""
+msgstr "带走第一个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:3320
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“没问题。我们正一边说一边把他们传送给你。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3323
 msgid ""
@@ -3522,12 +3516,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3329
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "带走第二个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:3331
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“没问题。我们正一边说一边把他们传送给你。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3334
 msgid ""
@@ -3537,12 +3531,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3340
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[3]/text"
-msgstr ""
+msgstr "带走第三个奴隶。"
 
 #: src-en/data/events_sector_pirate.xml.append:3342
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SLAVER_REWARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“没问题。我们正一边说一边把他们传送给你。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3345
 msgid ""
@@ -3552,7 +3546,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3354
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/text"
-msgstr ""
+msgstr "仔细观察后，发现那艘受损的飞船是一艘佣兵团佣兵的飞船。令人惊讶的是，这些佣兵很友好，并回复了你的呼叫。“我们不久前遭到一个奴隶贩子和一个走私者的袭击。不知道我们做了什么惹恼了他们，还是他们只是为了取乐。不管怎样，既然你在这里，你觉得你能替我们报点仇吗？”"
 
 #: src-en/data/events_sector_pirate.xml.append:3356
 msgid ""
@@ -3562,17 +3556,17 @@ msgstr "没问题。"
 #: src-en/data/events_sector_pirate.xml.append:3358
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“太好了。不过，据我所知，他们袭击我们后分别朝相反的方向走了。你看起来时间不多，所以我只要求你攻击其中一个。杀了他们，我就帮你延缓舰队的追击。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3360
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "去追击那个奴隶贩子。"
 
 #: src-en/data/events_sector_pirate.xml.append:3362
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "佣兵为你指明了奴隶贩子前去的方向。你找到了与佣兵描述相符的那艘奴隶贩子飞船，并启动了武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3365
 msgid ""
@@ -3582,12 +3576,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3371
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "去追击那个走私者。"
 
 #: src-en/data/events_sector_pirate.xml.append:3373
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "佣兵为你指明了走私者前去的方向。你找到了与佣兵描述相符的那艘走私者飞船，并启动了武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3376
 msgid ""
@@ -3602,7 +3596,7 @@ msgstr "趁他们虚弱的时候攻击他们！"
 #: src-en/data/events_sector_pirate.xml.append:3386
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "这些海盗一直在银河系的这一区域恐吓平民。现在是你为所有被这些人渣伤害过的人复仇的最好时机。"
 
 #: src-en/data/events_sector_pirate.xml.append:3392
 msgid ""
@@ -3612,37 +3606,37 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3398
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[3]/text"
-msgstr ""
+msgstr "我们不会当你的佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:3400
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“好吧，如果你们不打算帮忙，那就没什么好谈的了。我们正准备修理飞船，请别打扰我们。”佣兵切断了通讯。"
 
 #: src-en/data/events_sector_pirate.xml.append:3406
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SLAVER_WIN\"]/text"
-msgstr ""
+msgstr "你成功击败了那些奴隶贩子。你打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:3409
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SLAVER_WIN\"]/choice/text"
-msgstr ""
+msgstr "联系那些佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:3414
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SMUGGLER_WIN\"]/text"
-msgstr ""
+msgstr "你成功击败了那些走私者。你打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:3417
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_SMUGGLER_WIN\"]/choice/text"
-msgstr ""
+msgstr "联系那些佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:3423
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_MERCENARY_REWARD\"]/text"
-msgstr ""
+msgstr "“干得好。很高兴看到尽管在宏观格局中我们是对手，但还能合作。为了还清人情，等我们修好这些损伤后，我会带着舰队兜个小圈子。这些废料也拿去吧。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3427
 msgid ""
@@ -3652,7 +3646,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3434
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/text"
-msgstr ""
+msgstr "仔细观察后，发现那艘受损的飞船是一艘阿尔吉恩集团走私者的飞船。令人惊讶的是，这些走私者很友好，并回复了你的呼叫。“我们不久前遭到一个奴隶贩子和一个佣兵的袭击。不知道我们做了什么惹恼了他们，还是他们只是为了取乐。不管怎样，既然你在这里，你觉得你能替我们报点仇吗？”"
 
 #: src-en/data/events_sector_pirate.xml.append:3436
 msgid ""
@@ -3662,17 +3656,17 @@ msgstr "没问题。"
 #: src-en/data/events_sector_pirate.xml.append:3438
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“太好了。不过，据我所知，他们袭击我们后分别朝相反的方向走了。你看起来时间不多，所以我只要求你攻击其中一个。杀了他们，我就免费给你一件物品。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3440
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "去追击那个奴隶贩子。"
 
 #: src-en/data/events_sector_pirate.xml.append:3442
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "走私者为你指明了奴隶贩子前去的方向。你找到了与走私者描述相符的那艘奴隶贩子飞船，并启动了武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3445
 msgid ""
@@ -3682,12 +3676,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3451
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "去追击那个佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:3453
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "走私者为你指明了佣兵前去的方向。你找到了与走私者描述相符的那艘佣兵飞船，并启动了武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3456
 msgid ""
@@ -3702,7 +3696,7 @@ msgstr "趁他们虚弱的时候攻击他们！"
 #: src-en/data/events_sector_pirate.xml.append:3466
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "这些海盗一直在银河系的这一区域恐吓平民。现在是你为所有被这些人渣伤害过的人复仇的最好时机。"
 
 #: src-en/data/events_sector_pirate.xml.append:3472
 msgid ""
@@ -3712,47 +3706,47 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3478
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[3]/text"
-msgstr ""
+msgstr "我们不会当你的佣兵。"
 
 #: src-en/data/events_sector_pirate.xml.append:3480
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“好吧，如果你们不打算帮忙，那就没什么好谈的了。我们正准备修理飞船，请别打扰我们。”佣兵切断了通讯。"
 
 #: src-en/data/events_sector_pirate.xml.append:3486
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_SLAVER_WIN\"]/text"
-msgstr ""
+msgstr "你成功击败了那些奴隶贩子。你打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:3489
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_SLAVER_WIN\"]/choice/text"
-msgstr ""
+msgstr "联系那些走私者。"
 
 #: src-en/data/events_sector_pirate.xml.append:3494
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_MERCENARY_WIN\"]/text"
-msgstr ""
+msgstr "你成功击败了那些佣兵。你打捞了残骸。"
 
 #: src-en/data/events_sector_pirate.xml.append:3497
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_MERCENARY_WIN\"]/choice/text"
-msgstr ""
+msgstr "联系那些走私者。"
 
 #: src-en/data/events_sector_pirate.xml.append:3503
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/text"
-msgstr ""
+msgstr "“干得好。很高兴看到尽管在宏观格局中我们是对手，但还能合作。现在，轮到我来兑现承诺了。你想要什么？”"
 
 #: src-en/data/events_sector_pirate.xml.append:3505
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[1]/text"
-msgstr ""
+msgstr "我们想要一件武器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3507
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“没问题。我马上让我的人把它传送给你。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3510
 msgid ""
@@ -3762,12 +3756,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3516
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[2]/text"
-msgstr ""
+msgstr "我们想要一台无人机。"
 
 #: src-en/data/events_sector_pirate.xml.append:3518
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“没问题。我马上让我的人把它传送给你。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3521
 msgid ""
@@ -3777,12 +3771,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3527
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[3]/text"
-msgstr ""
+msgstr "我们想要一个增强部件。"
 
 #: src-en/data/events_sector_pirate.xml.append:3529
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_FACTION_ATTACK_SMUGGLER_REWARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“没问题。我马上让我的人把它传送给你。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3532
 msgid ""
@@ -3792,7 +3786,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3542
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/text"
-msgstr ""
+msgstr "你刚一到达就发现一艘海盗船几乎就在你旁边。你正准备迎战，却发现那艘海盗船正朝向相反方向，还没有注意到你。此外，你能看到某种奇特的装置漂浮在海盗船前方。这是海盗预谋的埋伏吗？"
 
 #: src-en/data/events_sector_pirate.xml.append:3545
 msgid ""
@@ -3802,17 +3796,17 @@ msgstr "向海盗们询问此事。"
 #: src-en/data/events_sector_pirate.xml.append:3549
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[2]/text"
-msgstr ""
+msgstr "慢慢后退，不要惊动海盗。"
 
 #: src-en/data/events_sector_pirate.xml.append:3553
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "（隐形）启动隐形逃跑。"
 
 #: src-en/data/events_sector_pirate.xml.append:3555
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"cloaking\"]/event/text"
-msgstr ""
+msgstr "你成功逃脱，没有被发现。现在你有时间在船上做点什么了。"
 
 #: src-en/data/events_sector_pirate.xml.append:3557
 msgid ""
@@ -3827,12 +3821,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:3567
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "（高级引擎）将功率注入引擎，快速飞走。"
 
 #: src-en/data/events_sector_pirate.xml.append:3569
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP\"]/choice[@req=\"engines\"]/event/text"
-msgstr ""
+msgstr "你的高级引擎让你能迅速与海盗拉开相当远的距离。虽然他们现在很可能已经注意到了你，但他们并没有费心来追。现在你有时间在船上做点什么了。"
 
 #: src-en/data/events_sector_pirate.xml.append:3571
 msgid ""
@@ -3847,7 +3841,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:3585
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_LEAVE\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "不知怎么的，海盗们始终没有转身注意到你。这些海盗的能力值得怀疑，但这意味着你有时间在船上做点什么了。"
 
 #: src-en/data/events_sector_pirate.xml.append:3587
 msgid ""
@@ -3862,7 +3856,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:3596
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_LEAVE\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "还没等你和海盗之间拉开安全距离，那艘海盗船就转了过来，启动了武器！看来你并没有自己以为的那么不引人注意。"
 
 #: src-en/data/events_sector_pirate.xml.append:3599
 msgid ""
@@ -3872,52 +3866,52 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3607
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/text"
-msgstr ""
+msgstr "海盗们转过身来，震惊地看着你。“喂，哥们，你在那儿待了多久了？”你向他们保证你刚到，并指出了现在位于海盗们身后的那个装置。“等等，我以为我们把陷阱放这儿了？啊，该死，这就是为什么在犯罪的时候不能睡着！说实话，我们本来打算用陷阱逮住下一艘到达的飞船，偷走他们所有的东西。不过，你也看到了，没成功。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3609
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/text"
-msgstr ""
+msgstr "你确定这个陷阱管用吗？"
 
 #: src-en/data/events_sector_pirate.xml.append:3611
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“嗯，这倒是个好问题。这是我们第一次尝试用刚从朋友那儿搞到的这个陷阱装置。原本的设想是让它锁定你的引擎，然后‘轰’的一声炸掉！我们真该先确认一下它到底管不管用……”"
 
 #: src-en/data/events_sector_pirate.xml.append:3613
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "送给他们一些补给，让他们试着给舰队设个陷阱。"
 
 #: src-en/data/events_sector_pirate.xml.append:3615
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“嗯，你真想试试？好吧，我想试试也无妨。”海盗接受了你的补给，然后去工作了。你希望他能成功……"
 
 #: src-en/data/events_sector_pirate.xml.append:3621
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "让海盗们完成他们的工作。"
 
 #: src-en/data/events_sector_pirate.xml.append:3627
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/text"
-msgstr ""
+msgstr "（空雷发射器武器）向他们展示你的空雷发射器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3629
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/text"
-msgstr ""
+msgstr "“喂，这是什么？一个能设置真正陷阱的装置？让我看看。”海盗仔细检查了你的武器。过了一会儿，他们得出了结论。“我们想买下你这件可爱的装备。别担心我们打算用它做什么，我们会给你个好价钱的。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3631
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_1\"]/text"
-msgstr ""
+msgstr "以35~的价格把你的“地神”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3633
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_1\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。你把空雷发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3639
 msgid ""
@@ -3927,12 +3921,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3645
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_2\"]/text"
-msgstr ""
+msgstr "以50~的价格把你的“暗神”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3647
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_2\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。你把空雷发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3653
 msgid ""
@@ -3942,12 +3936,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3659
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_3\"]/text"
-msgstr ""
+msgstr "以60~的价格把你的“日神”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3661
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_3\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。你把空雷发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3667
 msgid ""
@@ -3957,12 +3951,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3673
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FREE\"]/text"
-msgstr ""
+msgstr "以40~的价格把你的“亡神”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3675
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FREE\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。你把空雷发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3681
 msgid ""
@@ -3972,12 +3966,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3687
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FIRE\"]/text"
-msgstr ""
+msgstr "以40~的价格把你的“斗神”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3689
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_FIRE\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。你把空雷发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3695
 msgid ""
@@ -3987,12 +3981,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3701
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_BREACH\"]/text"
-msgstr ""
+msgstr "以40~的价格把你的“鳄神”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3703
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_BREACH\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。你把空雷发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3709
 msgid ""
@@ -4002,12 +3996,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3715
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_STUN\"]/text"
-msgstr ""
+msgstr "以45~的价格把你的“豺神'”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3717
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_STUN\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。你把空雷发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3723
 msgid ""
@@ -4017,12 +4011,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3729
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
-msgstr ""
+msgstr "以40~的价格把你的晶片发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3731
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/event/text"
-msgstr ""
+msgstr "虽然它肯定不是传统的空雷发射器，但晶片发射器也不会招致别人的反感，而且海盗们似乎愿意买下它。你把碎片发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3737
 msgid ""
@@ -4032,12 +4026,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3743
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_KERNEL\"]/text"
-msgstr ""
+msgstr "以55~的价格把你的藤蔓发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3745
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_KERNEL\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个藤蔓发射器干各种违法的事，但那不是你的问题。你把藤蔓发射器递了过去，海盗们为此付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3751
 msgid ""
@@ -4047,12 +4041,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3757
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "以110~的价格把你的“猛攻”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3759
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"ANCIENT_MINELAUNCHER\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。海盗们对你那件“猛攻”空雷发射器中所蕴含的古代技术着迷不已，为此付给了你非常丰厚的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3765
 msgid ""
@@ -4062,12 +4056,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3771
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_LOSTSUN_1\"]/text"
-msgstr ""
+msgstr "以70~的价格把你的战利品“斗神”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3773
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_LOSTSUN_1\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。这款“斗神”空雷发射器改型上的改进提升了它的价值，海盗们也为此额外多付了你一些废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:3779
 msgid ""
@@ -4077,12 +4071,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3785
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_MATH_6\"]/text"
-msgstr ""
+msgstr "以55~的价格把你的“百分比”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3787
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"LOOT_MATH_6\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。海盗们对那个异常色彩斑斓的空雷发射器感到好奇，但不管怎样，他们付给了你不错的报酬。"
 
 #: src-en/data/events_sector_pirate.xml.append:3793
 msgid ""
@@ -4092,12 +4086,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3799
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT\"]/text"
-msgstr ""
+msgstr "以120~的价格把你的“法老”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3801
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。海盗们对你那件“法老”空雷发射器所展现出的纯粹威力和尺寸印象深刻，他们尽其所能地凑钱从你这里买下了它。"
 
 #: src-en/data/events_sector_pirate.xml.append:3807
 msgid ""
@@ -4107,12 +4101,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3813
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT_CHAOS\"]/text"
-msgstr ""
+msgstr "以140~的价格把你的混沌“法老”空雷发射器卖给他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3815
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[@req=\"MINELAUNCHER_GIANT_CHAOS\"]/event/text"
-msgstr ""
+msgstr "你有一种感觉，他们会用那个空雷发射器干各种违法的事，但那不是你的问题。海盗们对你那件“法老”空雷发射器所展现出的纯粹威力和尺寸印象深刻，他们尽其所能地凑钱从你这里买下了它。你暗自祈祷，希望这不会给他们带来麻烦。"
 
 #: src-en/data/events_sector_pirate.xml.append:3821
 msgid ""
@@ -4122,12 +4116,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3827
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[15]/text"
-msgstr ""
+msgstr "我们不卖空雷发射器。"
 
 #: src-en/data/events_sector_pirate.xml.append:3829
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[@req=\"BLUELIST_MINELAUNCHERS_ALL\"]/event/choice[15]/event/text"
-msgstr ""
+msgstr "“真可惜。不过，我们现在知道该找什么了。这些是给你提供信息的报酬。”"
 
 #: src-en/data/events_sector_pirate.xml.append:3836
 msgid ""
@@ -4137,17 +4131,17 @@ msgstr "祝你好运。"
 #: src-en/data/events_sector_pirate.xml.append:3838
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "海盗粗声粗气地谢过你，然后结束了通话。你觉得，考虑到他们曾试图设陷阱害你，靠这么近待着有点尴尬，于是你把飞船驶离他们，并为FTL驱动器充能。"
 
 #: src-en/data/events_sector_pirate.xml.append:3844
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[2]/text"
-msgstr ""
+msgstr "攻击那些海盗人渣。"
 
 #: src-en/data/events_sector_pirate.xml.append:3846
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_QUESTION\"]/choice[2]/event/text"
-msgstr ""
+msgstr "陷阱也许没能困住你，但谁知道下一个经过的平民会不会被这些海盗抓住并骚扰呢？你不想让平民成为这种人渣的受害者，尤其是当他们如此无能的时候。你给武器充能。"
 
 #: src-en/data/events_sector_pirate.xml.append:3849
 msgid ""
@@ -4157,57 +4151,57 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3872
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD\"]/text"
-msgstr ""
+msgstr "海盗紧张地呼叫你，告诉你一个坏消息。“很遗憾地通知你，我们的机器又出毛病了，什么结果都没有。”看来你今天得不到任何舰队延迟了。"
 
 #: src-en/data/events_sector_pirate.xml.append:3874
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD\"]/choice[1]/text"
-msgstr ""
+msgstr "要求他们偿还补给。"
 
 #: src-en/data/events_sector_pirate.xml.append:3878
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD\"]/choice[2]/text"
-msgstr ""
+msgstr "别理他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3884
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/text"
-msgstr ""
+msgstr "海盗呼叫你，告诉你消息。“那台机器短暂地工作了一会儿，设法让什么东西运转起来了。可能有点用。”看来海盗们设法弄到了能稍微延缓舰队追击的东西。"
 
 #: src-en/data/events_sector_pirate.xml.append:3886
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/choice[1]/text"
-msgstr ""
+msgstr "要求他们偿还补给。"
 
 #: src-en/data/events_sector_pirate.xml.append:3890
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/choice[2]/text"
-msgstr ""
+msgstr "让他们部署陷阱。[使叛军追击延迟1次。]"
 
 #: src-en/data/events_sector_pirate.xml.append:3892
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你向海盗道谢，然后准备继续前进。"
 
 #: src-en/data/events_sector_pirate.xml.append:3899
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_GOOD\"]/text"
-msgstr ""
+msgstr "海盗急切地呼叫你，告诉你这个好消息。“那台机器居然真的管用了！我们给那些讨厌的叛军准备了一个相当结实的陷阱。”看来海盗们成功造出了一个不错的陷阱，应该能为你争取一些时间。你向他们道谢，然后准备继续前进。"
 
 #: src-en/data/events_sector_pirate.xml.append:3904
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_GREAT\"]/text"
-msgstr ""
+msgstr "海盗急切地呼叫你，告诉你这个好消息。“真是见鬼，那台机器居然第一次完美运行了！我从来没见过它造出这样的陷阱。”看来海盗们成功造出了一个非常高效的陷阱，应该能为你争取大量时间。你向他们道谢，然后准备继续前进。"
 
 #: src-en/data/events_sector_pirate.xml.append:3911
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD_DEMAND\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "海盗们归还了一小部分废料，一半是出于愧疚，一半是害怕与你战斗。"
 
 #: src-en/data/events_sector_pirate.xml.append:3915
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_BAD_DEMAND\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "“嘿，我们可是费了好大劲才用掉那些的！是你们自己选择让我们试的。想把东西要回去，那就先过了我们这关！”"
 
 #: src-en/data/events_sector_pirate.xml.append:3918
 msgid ""
@@ -4217,12 +4211,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3928
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "海盗们归还了一小部分废料，一半是出于愧疚，一半是害怕与你战斗。不过，他们大概不会再那么急着去部署陷阱了。"
 
 #: src-en/data/events_sector_pirate.xml.append:3932
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "“嘿，我们可是费了好大劲才用掉那些的！是你们自己选择让我们试的。想把东西要回去，那就先过了我们这关！”"
 
 #: src-en/data/events_sector_pirate.xml.append:3935
 msgid ""
@@ -4232,7 +4226,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3940
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[3]/text"
-msgstr ""
+msgstr "“嘿，我们可是费了好大劲才用掉那些的！是你们自己选择让我们试的。想把东西要回去，那就先过了我们这关！”"
 
 #: src-en/data/events_sector_pirate.xml.append:3943
 msgid ""
@@ -4242,7 +4236,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3948
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_PIRATE_DUMB_TRAP_ATTEMPT_OK_DEMAND\"]/loadEventList/event[4]/text"
-msgstr ""
+msgstr "“嘿，我们可是费了好大劲才用掉那些的！是你们自己选择让我们试的。想把东西要回去，那就先过了我们这关！”"
 
 #: src-en/data/events_sector_pirate.xml.append:3951
 msgid ""
@@ -4252,7 +4246,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3959
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/text"
-msgstr ""
+msgstr "这里的那个海盗并不想打架。至少现在不想。看起来，船员们已经停下了非法活动，正在休息。"
 
 #: src-en/data/events_sector_pirate.xml.append:3962
 msgid ""
@@ -4262,7 +4256,7 @@ msgstr "攻击对方。"
 #: src-en/data/events_sector_pirate.xml.append:3964
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "当你靠近时，海盗们匆忙奔向各自的战斗岗位，武器已充能。"
 
 #: src-en/data/events_sector_pirate.xml.append:3967
 msgid ""
@@ -4272,22 +4266,22 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:3973
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[@req=\"rep_pirate\"]/text"
-msgstr ""
+msgstr "（海盗声望2+）呼叫他们并请求交易。"
 
 #: src-en/data/events_sector_pirate.xml.append:3975
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[@req=\"rep_pirate\"]/event/text"
-msgstr ""
+msgstr "海盗们对一艘没有向他们开火的联邦飞船靠近感到惊讶，但他们同意交易一些装备。"
 
 #: src-en/data/events_sector_pirate.xml.append:3980
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[3]/text"
-msgstr ""
+msgstr "别理他们。"
 
 #: src-en/data/events_sector_pirate.xml.append:3982
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_ENCOUNTER\"]/choice[3]/event/text"
-msgstr ""
+msgstr "老实说，你也需要在那些敌意满满的海盗四处游荡之余休息一下。你与他们拉开距离，以防他们决定结束休息。"
 
 #: src-en/data/events_sector_pirate.xml.append:3984
 msgid ""
@@ -4302,17 +4296,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:3996
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/text"
-msgstr ""
+msgstr "在这里看到一艘海盗船一点也不奇怪，但看到一艘联邦飞船紧挨着他们就很奇怪了。根据截获的通讯频率，那艘联邦飞船正在追捕海盗，试图以从附近前哨站偷窃军用物资的罪名逮捕他们。你可以帮助他们逮捕……或者，你也可以保护那些海盗。"
 
 #: src-en/data/events_sector_pirate.xml.append:3998
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[1]/text"
-msgstr ""
+msgstr "帮忙抓住海盗。"
 
 #: src-en/data/events_sector_pirate.xml.append:4000
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[1]/event/text"
-msgstr ""
+msgstr "联邦是你真正的盟友，你会尽己所能帮助他们，无论何时何地。你将武器对准海盗，开始追击。"
 
 #: src-en/data/events_sector_pirate.xml.append:4003
 msgid ""
@@ -4322,12 +4316,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4009
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[2]/text"
-msgstr ""
+msgstr "保护海盗。"
 
 #: src-en/data/events_sector_pirate.xml.append:4011
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "虽然严格来说你是联邦舰队的一员，但你唯一的目标是击败旗舰。如果背叛联邦、帮助海盗是实现这一目标的方式，那就这样吧。"
 
 #: src-en/data/events_sector_pirate.xml.append:4014
 msgid ""
@@ -4337,12 +4331,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4020
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[3]/text"
-msgstr ""
+msgstr "避开这场战斗。"
 
 #: src-en/data/events_sector_pirate.xml.append:4022
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_NEUTRAL_PIRATE_FEDERATION_ARREST\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你今天不想惹任何冲突，即使是为了帮助盟友。希望那艘联邦飞船能自己成功抓住海盗。"
 
 #: src-en/data/events_sector_pirate.xml.append:4024
 msgid ""
@@ -4357,72 +4351,72 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:4038
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/text"
-msgstr ""
+msgstr "求救信标的源头是附近的一艘海盗船。他们的武器已离线，但你检测到他们的核心系统仍在运行。海盗们没有呼叫你的意思。"
 
 #: src-en/data/events_sector_pirate.xml.append:4041
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/text"
-msgstr ""
+msgstr "呼叫那些海盗。"
 
 #: src-en/data/events_sector_pirate.xml.append:4043
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "没有人接听你的呼叫，但你发现海盗们正在一个开放频道上交谈。你调频收听，听着那个自称船长的人在说什么。“唉，迈克，这海盗生意比我们预想的还要糟糕！我们听了那些通过偷窃、不劳而获就能舒适生活的故事，可这比上班还累人！我真不该辞掉工作，兄弟。还记得我们享受工会福利的时候吗？我可记得……”"
 
 #: src-en/data/events_sector_pirate.xml.append:4045
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "继续听，虽然可能要花点时间。"
 
 #: src-en/data/events_sector_pirate.xml.append:4048
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "那个海盗接着讲起了他以前在工会工厂当工人的工作和生活：恶劣的工作条件、低收入带来的压力，以及被困在永无休止的朝九晚五工作中的恐惧。然后他讲到自己抛弃那种生活去当海盗的经历，希望这能让他摆脱激烈的竞争，结果却发现，自己为了三个大海盗派系接活干，反而被工作压得喘不过气，还得额外承受被执法部门枪击和追捕的压力。你正打算离开，但他终于讲完了自己的故事。“没错，我想我们现在就这样了。但我现在能怎么办呢？我需要点建议，该死。有人回应我们的求救信号了吗？”"
 
 #: src-en/data/events_sector_pirate.xml.append:4050
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "插话并提供帮助。"
 
 #: src-en/data/events_sector_pirate.xml.append:4052
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“什么？你不就是那些联邦军官之一吗？我不知道你为什么还没开枪，但我接受。我不知道你听了多久，但我猜你已经知道我的困境了。能给我点建议吗？”"
 
 #: src-en/data/events_sector_pirate.xml.append:4054
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "听起来你需要休个假。"
 
 #: src-en/data/events_sector_pirate.xml.append:4056
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "“嗯，我还真没想过这个。我完全忘了我在海盗派系的工作时间是松散的。你知道吗？我想我要去度个假了，就从现在开始。不过，在我去‘天空漂流者’赌场狂欢之前，把这些乱七八糟堆在我船上的箱子拿去吧，算是对你绝佳建议的感谢。我肯定里面有些东西对你有用。”"
 
 #: src-en/data/events_sector_pirate.xml.append:4058
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "打开第一个箱子。"
 
 #: src-en/data/events_sector_pirate.xml.append:4064
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "也许你可以推掉一份海盗工作？"
 
 #: src-en/data/events_sector_pirate.xml.append:4066
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“嗯，这倒是个不错的主意。那我终于可以过上更好的工作生活了！但我该推掉哪一份呢？”"
 
 #: src-en/data/events_sector_pirate.xml.append:4068
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "如果你放弃奴隶贩卖，那你的奴隶们也能体验到属于他们的自由。"
 
 #: src-en/data/events_sector_pirate.xml.append:4070
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“我想那倒是真的。抛开我仍然是个佣兵和走私者不谈，我感觉我的道德立场稍微提升了一点。谢谢你，陌生的联邦飞船。我会把这些人放在下一个空间站，但我知道有一个人似乎很渴望在像你们这样的飞船上工作。”"
 
 #: src-en/data/events_sector_pirate.xml.append:4074
 msgid ""
@@ -4432,12 +4426,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4080
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "如果你不再当佣兵，就不用跑腿干活了。"
 
 #: src-en/data/events_sector_pirate.xml.append:4082
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“说得很有道理。我以前接到过一些奇怪的活，我想我已经准备好告别那些日子了。谢谢你，陌生的联邦飞船。既然我不再需要我的佣兵装备了，那就请自便，拿一些我的装备和一张星区地图吧。”"
 
 #: src-en/data/events_sector_pirate.xml.append:4086
 msgid ""
@@ -4447,12 +4441,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4092
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "结束你的走私生涯可以腾出很多飞船空间来做其他事情。"
 
 #: src-en/data/events_sector_pirate.xml.append:4094
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“既然你提到了，我还真没意识到这里面有多拥挤……也许我可以从‘天空漂流者’赌场给自己买几台老虎机，在空闲时玩，来取代那些走私箱子。谢谢你，陌生的联邦飞船。在我把这些东西卖掉来筹措买老虎机的资金之前，拿一个作为谢礼吧。”"
 
 #: src-en/data/events_sector_pirate.xml.append:4097
 msgid ""
@@ -4462,12 +4456,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4105
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "回到工厂工作吧，那里更安全。"
 
 #: src-en/data/events_sector_pirate.xml.append:4107
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "海盗瞪大了眼睛盯着你看了几秒钟，然后爆发出狂笑。“哈哈哈哈。你刚才难道一直没听我讲故事吗？我当海盗就是为了逃离那个地狱，我宁愿在做某件壮举时死去，也不愿回去做工会的奴隶！你对我来说毫无用处，但至少你给了我做好当前工作的动力。我感谢你的方式，就是把你的东西都抢光！”"
 
 #: src-en/data/events_sector_pirate.xml.append:4110
 msgid ""
@@ -4477,12 +4471,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4116
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "你已经无药可救了。"
 
 #: src-en/data/events_sector_pirate.xml.append:4118
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[1]/event/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "你说完这句话的瞬间，海盗从自怜状态转为愤怒。“哦，滚开，联邦佬！那可不是我说的建议。如果你不能派上用场，我就直接杀了你，然后等下一艘船来给我真正的建议……”"
 
 #: src-en/data/events_sector_pirate.xml.append:4121
 msgid ""
@@ -4492,7 +4486,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4131
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "这样下去毫无意义，我们走吧。"
 
 #: src-en/data/events_sector_pirate.xml.append:4137
 msgid ""
@@ -4502,7 +4496,7 @@ msgstr "攻击对方！"
 #: src-en/data/events_sector_pirate.xml.append:4139
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "谁知道求救信标是不是引诱毫无戒心的平民上钩的陷阱？如果真的是陷阱，你这么做就等于间接拯救了那些原本会成为受害者的人的生命。当然，假设它真是陷阱的话。"
 
 #: src-en/data/events_sector_pirate.xml.append:4142
 msgid ""
@@ -4517,7 +4511,7 @@ msgstr "不管他们。"
 #: src-en/data/events_sector_pirate.xml.append:4150
 msgid ""
 "data/events_sector_pirate.xml.append$//event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你不确定海盗为什么还没发起攻击，但你可不想落入陷阱。你在两艘飞船之间拉开足够远的距离，直到你确信他们无法对你发动突袭。"
 
 #: src-en/data/events_sector_pirate.xml.append:4152
 msgid ""
@@ -4532,7 +4526,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_pirate.xml.append:4177
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_FUEL_ONLY\"]/text"
-msgstr ""
+msgstr "第一个箱子里有一些额外的燃料棒。"
 
 #: src-en/data/events_sector_pirate.xml.append:4180
 msgid ""
@@ -4542,7 +4536,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4185
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_FUEL_SCRAP\"]/text"
-msgstr ""
+msgstr "第一个箱子里有一些燃料棒和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4188
 msgid ""
@@ -4552,7 +4546,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4193
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_MISSILES_ONLY\"]/text"
-msgstr ""
+msgstr "第一个箱子里有一些额外的弹药。"
 
 #: src-en/data/events_sector_pirate.xml.append:4196
 msgid ""
@@ -4562,7 +4556,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4201
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_MISSILES_SCRAP\"]/text"
-msgstr ""
+msgstr "第一个箱子里有一些弹药和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4204
 msgid ""
@@ -4572,7 +4566,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4209
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_DRONEPARTS_ONLY\"]/text"
-msgstr ""
+msgstr "第一个箱子里有一些额外的无人机部件。"
 
 #: src-en/data/events_sector_pirate.xml.append:4212
 msgid ""
@@ -4582,7 +4576,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4217
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_DRONEPARTS_SCRAP\"]/text"
-msgstr ""
+msgstr "第一个箱子里有一些无人机部件和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4220
 msgid ""
@@ -4592,7 +4586,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4225
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_WEAK_WEAPON\"]/text"
-msgstr ""
+msgstr "你在第一个箱子里发现了一件武器，但可惜只是一件非常基础的武器。不过，枪就是枪，总归能卖钱。"
 
 #: src-en/data/events_sector_pirate.xml.append:4228
 msgid ""
@@ -4602,7 +4596,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4233
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_1_SCRAP_ONLY\"]/text"
-msgstr ""
+msgstr "第一个箱子里有一些额外的废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4236
 msgid ""
@@ -4612,7 +4606,7 @@ msgstr "打开第二个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4255
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_FUEL_ONLY\"]/text"
-msgstr ""
+msgstr "第二个箱子里有一些额外的燃料棒。"
 
 #: src-en/data/events_sector_pirate.xml.append:4258
 msgid ""
@@ -4622,7 +4616,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4263
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_FUEL_SCRAP\"]/text"
-msgstr ""
+msgstr "第二个箱子里有一些燃料棒和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4266
 msgid ""
@@ -4632,7 +4626,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4271
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_MISSILES_ONLY\"]/text"
-msgstr ""
+msgstr "第二个箱子里有一些额外的弹药。"
 
 #: src-en/data/events_sector_pirate.xml.append:4274
 msgid ""
@@ -4642,7 +4636,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4279
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_MISSILES_SCRAP\"]/text"
-msgstr ""
+msgstr "第二个箱子里有一些弹药和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4282
 msgid ""
@@ -4652,7 +4646,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4287
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_DRONEPARTS_ONLY\"]/text"
-msgstr ""
+msgstr "第二个箱子里有一些额外的无人机部件。"
 
 #: src-en/data/events_sector_pirate.xml.append:4290
 msgid ""
@@ -4662,7 +4656,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4295
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_DRONEPARTS_SCRAP\"]/text"
-msgstr ""
+msgstr "第二个箱子里有一些无人机部件和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4298
 msgid ""
@@ -4672,7 +4666,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4303
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_WEAK_WEAPON\"]/text"
-msgstr ""
+msgstr "你在第二个箱子里发现了一件武器，但可惜只是一件非常基础的武器。不过，枪就是枪，总归能卖钱。"
 
 #: src-en/data/events_sector_pirate.xml.append:4306
 msgid ""
@@ -4682,7 +4676,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4311
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_SCRAP_ONLY\"]/text"
-msgstr ""
+msgstr "The second crate contains some extra scrap."
 
 #: src-en/data/events_sector_pirate.xml.append:4314
 msgid ""
@@ -4692,7 +4686,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4333
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_FUEL_ONLY\"]/text"
-msgstr ""
+msgstr "最后一个箱子里有一些额外的燃料棒。"
 
 #: src-en/data/events_sector_pirate.xml.append:4336
 msgid ""
@@ -4702,7 +4696,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4341
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_FUEL_SCRAP\"]/text"
-msgstr ""
+msgstr "最后一个箱子里有一些燃料棒和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4344
 msgid ""
@@ -4712,7 +4706,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4349
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_MISSILES_ONLY\"]/text"
-msgstr ""
+msgstr "最后一个箱子里有一些额外的弹药。"
 
 #: src-en/data/events_sector_pirate.xml.append:4352
 msgid ""
@@ -4722,7 +4716,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4357
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_MISSILES_SCRAP\"]/text"
-msgstr ""
+msgstr "最后一个箱子里有一些弹药和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4360
 msgid ""
@@ -4732,7 +4726,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4365
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_DRONEPARTS_ONLY\"]/text"
-msgstr ""
+msgstr "最后一个箱子里有一些额外的无人机部件。"
 
 #: src-en/data/events_sector_pirate.xml.append:4368
 msgid ""
@@ -4742,7 +4736,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4373
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_DRONEPARTS_SCRAP\"]/text"
-msgstr ""
+msgstr "最后一个箱子里有一些无人机部件和少量废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4376
 msgid ""
@@ -4752,7 +4746,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4381
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_WEAK_WEAPON\"]/text"
-msgstr ""
+msgstr "你在最后一个箱子里发现了一件武器，但可惜只是一件非常基础的武器。不过，枪就是枪，总归能卖钱。"
 
 #: src-en/data/events_sector_pirate.xml.append:4384
 msgid ""
@@ -4762,7 +4756,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_pirate.xml.append:4389
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_3_SCRAP_ONLY\"]/text"
-msgstr ""
+msgstr "最后一个箱子里有一些额外的废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4392
 msgid ""
