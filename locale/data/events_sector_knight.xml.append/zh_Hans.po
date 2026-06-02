@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-02 20:46+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_knightxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_knight.xml.append:6
 msgid ""
@@ -54,19 +54,19 @@ msgstr "拒绝。"
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（走私者声望1+）请求打折。"
 
 #: src-en/data/events_sector_knight.xml.append:51
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "走私者看到你是阿尔吉恩的忠实客户，愿意以半价把麻醉品卖给你。"
 
 #: src-en/data/events_sector_knight.xml.append:53
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "购买麻醉品。"
 
 #: src-en/data/events_sector_knight.xml.append:55
 msgid ""
@@ -81,7 +81,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_knight.xml.append:67
-#, fuzzy
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[2]/text"
@@ -91,19 +90,19 @@ msgstr "算了。"
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "（走私者声望3+）请求打折。"
 
 #: src-en/data/events_sector_knight.xml.append:75
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "“等一下……你就是那个帮我朋友摆脱困境的联邦佬！真是讽刺，你不觉得吗？不管怎样，为了感谢你的帮助，这些麻醉品免费送你一些。如果你还需要更多，我这里还有。”"
 
 #: src-en/data/events_sector_knight.xml.append:78
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "购买更多麻醉品。"
 
 #: src-en/data/events_sector_knight.xml.append:80
 msgid ""
@@ -121,7 +120,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_knight.xml.append$//mod:findName[@name=\"NEBULA_KNIGHT_SMUGGLER\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "向他们道谢，然后继续前进。"
 
 #: src-en/data/events_sector_knight.xml.append:117
 msgid ""
