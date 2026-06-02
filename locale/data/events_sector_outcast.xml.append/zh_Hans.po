@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"PO-Revision-Date: 2026-06-02 20:46+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_outcastxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -33,7 +33,7 @@ msgstr "购买一名岩石族。"
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "奴隶贩子感谢你完成交易，并把那名奴隶传送过来。"
 
 #: src-en/data/events_sector_outcast.xml.append:57
 msgid ""
@@ -45,13 +45,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr ""
+msgstr "购买一名岩石族流浪者。"
 
 #: src-en/data/events_sector_outcast.xml.append:65
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "奴隶贩子感谢你完成交易，并把那名奴隶传送过来。"
 
 #: src-en/data/events_sector_outcast.xml.append:71
 msgid ""
@@ -63,13 +63,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[3]/text"
-msgstr ""
+msgstr "购买一名水晶族解放者。"
 
 #: src-en/data/events_sector_outcast.xml.append:79
 msgid ""
 "data/events_sector_outcast.xml.append$//mod:findName[@name=\"OUTCAST_MAKESHIFT\"]/mod-"
 "append:choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "奴隶贩子感谢你完成交易，并把那名奴隶传送过来。"
 
 #: src-en/data/events_sector_outcast.xml.append:85
 msgid ""
