@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-17 09:08+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-06-02 20:46+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_gatheringxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_gathering.xml.append:16
 msgid ""
@@ -148,7 +148,6 @@ msgid ""
 msgstr "你注意到，阿里阿德涅一听说科尔本正在被追捕，就把自己锁在了住处。她可能提供的任何帮助都无从谈起了。"
 
 #: src-en/data/events_sector_gathering.xml.append:106
-#, fuzzy
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_REFUGEES\"]/mod-"
 "append:choice[1]/event/choice[10]/text"
