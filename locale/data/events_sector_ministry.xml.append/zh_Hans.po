@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-02 20:46+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_ministryxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_sector_ministry.xml.append:22
 msgid ""
@@ -25,25 +25,25 @@ msgstr "购买这名超能族战士。"
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（奴隶贩子声望2+）请求查看那名超能族战士。"
 
 #: src-en/data/events_sector_ministry.xml.append:41
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“哦，是你们啊。嗯，这有点尴尬，我刚才正想骗你们买这个奴隶呢。眼前这个以前是训练有素的超能族战士，但现在成了和平主义的信道者。好吧，既然话都说到这个份上了，我们仍然以更便宜的价格出售这个信道者，他们大概能在其他方面派上用场……”"
 
 #: src-en/data/events_sector_ministry.xml.append:43
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/text"
-msgstr ""
+msgstr "购买那名信道者。"
 
 #: src-en/data/events_sector_ministry.xml.append:45
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_FIGHTER_MONK\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "奴隶贩子把那名信道者传送过来，向你告别。他们离开后，你转身与你最新的船员聊天，他解释道：“我曾经是一名训练有素的超能族战士，但最终看到了光明，加入了信道者团体，但不久后就被这些人绑架了。你把我从奴隶制中解救出来，我现在将为你服务。虽然这听起来很讽刺。”"
 
 #: src-en/data/events_sector_ministry.xml.append:51
 msgid ""
@@ -86,19 +86,19 @@ msgstr "直接交战夺回。"
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（走私者声望2+）礼貌地索要那本书。"
 
 #: src-en/data/events_sector_ministry.xml.append:115
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“啊，原来是你！嗯……说实话，我也不觉得我们能靠这堆破烂赚到什么大钱。你拿去吧。”"
 
 #: src-en/data/events_sector_ministry.xml.append:117
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"ZOLTAN_QUEST_LAWBOOK_PIRATE\"]/mod-"
 "append:choice/event/choice/text"
-msgstr ""
+msgstr "感谢那些走私者。"
 
 #: src-en/data/events_sector_ministry.xml.append:152
 msgid ""
