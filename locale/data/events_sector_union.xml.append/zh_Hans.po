@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"PO-Revision-Date: 2026-06-03 13:00+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_unionxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -37,7 +37,7 @@ msgstr "购买预热器与\"超值优惠\"。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"QUEST_GATLING_AUGMENT\"]/mod:findLike/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“多谢多谢，谢谢你帮我处理掉这些垃圾！我一定会在朋友们面前为你说好话的。”"
 
 #: src-en/data/events_sector_union.xml.append:37
 msgid ""
