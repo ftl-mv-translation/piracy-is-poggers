@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:54+0000\n"
+"PO-Revision-Date: 2026-06-03 13:00+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_stargrovexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -30,28 +30,27 @@ msgstr ""
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr ""
+msgstr "付钱。"
 
 #: src-en/data/events_sector_stargrove.xml.append:13
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "海盗从你这里收了通行费，微微皱了皱眉。“走吧，变元者。我们还要搞升级呢。”"
 
 #: src-en/data/events_sector_stargrove.xml.append:20
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[@req=\"loc_scrap\"]/text"
-msgstr ""
+msgstr "我们连40~都拿不出来。能换个别的条件吗？"
 
 #: src-en/data/events_sector_stargrove.xml.append:24
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"STARGROVE_HIGHWAYMAN_INITIAL\"]/mod-"
 "append:choice/event/choice[3]/text"
-msgstr ""
+msgstr "这个条件还是无法接受。"
 
 #: src-en/data/events_sector_stargrove.xml.append:33
-#, fuzzy
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[1]/mod:selector"
 msgstr "攻击雇佣兵。"
@@ -59,37 +58,37 @@ msgstr "攻击雇佣兵。"
 #: src-en/data/events_sector_stargrove.xml.append:43
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
+msgstr "避开那些海盗。"
 
 #: src-en/data/events_sector_stargrove.xml.append:47
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（佣兵声望2+）请那名佣兵放过走私者。"
 
 #: src-en/data/events_sector_stargrove.xml.append:49
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "那名佣兵起初对放弃追捕有些犹豫，但最终还是让步了。“哼，好吧。我虽然很想杀了这些走私的混蛋，但同样不想惹恼一位忠实客户，而且我们反正也需要补充燃料。”他们转身面向走私者。“别以为这事儿就完了。等我们加完油，等变元者用完了你们的服务，我们马上就会回来咬住你们。”佣兵跃迁离开了。"
 
 #: src-en/data/events_sector_stargrove.xml.append:51
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[1]/event/choice/text"
-msgstr ""
+msgstr "联系那个走私者。"
 
 #: src-en/data/events_sector_stargrove.xml.append:57
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "避开那些海盗。"
 
 #: src-en/data/events_sector_stargrove.xml.append:59
 msgid ""
 "data/events_sector_stargrove.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_SMUGGLER_STORE\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "当你准备离开时，那两艘船继续在星空中缠斗。"
 
 #: src-en/data/events_sector_stargrove.xml.append:61
 msgid ""
