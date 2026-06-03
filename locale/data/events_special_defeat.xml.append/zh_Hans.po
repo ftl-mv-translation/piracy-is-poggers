@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"PO-Revision-Date: 2026-06-03 13:00+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_defeatxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -24,27 +24,27 @@ msgstr "那艘走私船已被打成废铁，他们的货物也在烈火中焚毁
 #: src-en/data/events_special_defeat.xml.append:31
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[3]"
-msgstr ""
+msgstr "当你最后一击命中那艘走私者飞船时，另一场爆炸从他们的货舱处震动了飞船。虽然你不会知道是什么引发了爆炸，但仍有相当一部分残骸留存下来。"
 
 #: src-en/data/events_special_defeat.xml.append:32
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER\"]/text[4]"
-msgstr ""
+msgstr "那艘走私者飞船已被摧毁。从事黑暗贸易的坏蛋又少了一个。"
 
 #: src-en/data/events_special_defeat.xml.append:48
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[1]"
-msgstr ""
+msgstr "当那艘走私者飞船归于沉寂时，你突然想到，联邦过去曾雇佣过走私者为其服务。你希望刚刚那个被你击毁的倒霉鬼不是联邦的供应商。"
 
 #: src-en/data/events_special_defeat.xml.append:49
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[2]"
-msgstr ""
+msgstr "那艘走私者飞船上的船员已被清除，留下了他们海盗活动所得的大量废料。"
 
 #: src-en/data/events_special_defeat.xml.append:50
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER\"]/text[3]"
-msgstr ""
+msgstr "那艘走私者飞船已被击败。从事黑暗贸易的坏蛋又少了一个。"
 
 #: src-en/data/events_special_defeat.xml.append:63
 msgid ""
@@ -54,7 +54,7 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml.append:65
 msgid ""
 "data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_WEAPON\"]/choice/event/text"
-msgstr ""
+msgstr "在打捞过程中，你发现了一件他们正在走私的武器，尽管经历了战斗，它仍然完好无损。你把它带回了你的飞船。"
 
 #: src-en/data/events_special_defeat.xml.append:75
 msgid ""
@@ -64,7 +64,7 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml.append:77
 msgid ""
 "data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_DRONE\"]/choice/event/text"
-msgstr ""
+msgstr "在打捞过程中，你发现了一件他们正在走私的无人机，尽管经历了战斗，它仍然完好无损。你把它带回了你的飞船。"
 
 #: src-en/data/events_special_defeat.xml.append:87
 msgid ""
@@ -74,42 +74,42 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml.append:89
 msgid ""
 "data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_AUGMENT\"]/choice/event/text"
-msgstr ""
+msgstr "在打捞过程中，你发现了一件他们正在走私的增强部件，尽管经历了战斗，它仍然完好无损。你把它带回了你的飞船。"
 
 #: src-en/data/events_special_defeat.xml.append:102
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[1]"
-msgstr ""
+msgstr "当那艘走私者空间站解体时，你突然想到，联邦过去曾雇佣过走私者为其服务。你希望刚刚被你摧毁的那个倒霉鬼不是联邦的供应商。"
 
 #: src-en/data/events_special_defeat.xml.append:103
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[2]"
-msgstr ""
+msgstr "那个走私者空间站已被打成废铁，他们的货物也在烈火中焚毁。"
 
 #: src-en/data/events_special_defeat.xml.append:104
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[3]"
-msgstr ""
+msgstr "当你最后一击命中空间站时，另一场爆炸从货舱处震动了他们的船体。虽然你不会知道是什么引发了爆炸，但仍有相当一部分残骸留存下来。"
 
 #: src-en/data/events_special_defeat.xml.append:105
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_SMUGGLER_STATION\"]/text[4]"
-msgstr ""
+msgstr "那个走私者空间站已被摧毁。从事黑暗贸易的坏蛋前哨又少了一个。"
 
 #: src-en/data/events_special_defeat.xml.append:121
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[1]"
-msgstr ""
+msgstr "当那个走私者空间站归于沉寂时，你突然想到，联邦过去曾雇佣过走私者为其服务。你希望刚刚被你摧毁的那个倒霉鬼不是联邦的供应商。"
 
 #: src-en/data/events_special_defeat.xml.append:122
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[2]"
-msgstr ""
+msgstr "那个走私者空间站上的船员已被清除，留下了他们海盗活动所得的大量废料。"
 
 #: src-en/data/events_special_defeat.xml.append:123
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_SMUGGLER_STATION\"]/text[3]"
-msgstr ""
+msgstr "那个走私者空间站已被击败。从事黑暗贸易的坏蛋前哨又少了一个。"
 
 #: src-en/data/events_special_defeat.xml.append:136
 msgid ""
@@ -119,7 +119,7 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml.append:138
 msgid ""
 "data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_WEAPON\"]/choice/event/text"
-msgstr ""
+msgstr "在打捞过程中，你发现了一件他们正在走私的武器，尽管经历了战斗，它仍然完好无损。你把它带回了你的飞船。"
 
 #: src-en/data/events_special_defeat.xml.append:148
 msgid ""
@@ -129,7 +129,7 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml.append:150
 msgid ""
 "data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_DRONE\"]/choice/event/text"
-msgstr ""
+msgstr "在打捞过程中，你发现了一件他们正在走私的无人机，尽管经历了战斗，它仍然完好无损。你把它带回了你的飞船。"
 
 #: src-en/data/events_special_defeat.xml.append:160
 msgid ""
@@ -139,7 +139,7 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml.append:162
 msgid ""
 "data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_STATION_AUGMENT\"]/choice/event/text"
-msgstr ""
+msgstr "在打捞过程中，你发现了一件他们正在走私的增强部件，尽管经历了战斗，它仍然完好无损。你把它带回了你的飞船。"
 
 #: src-en/data/events_special_defeat.xml.append:176
 msgid ""
@@ -149,37 +149,37 @@ msgstr "雇佣兵的船被摧毁了。少了一艘满是人渣的船要对付。
 #: src-en/data/events_special_defeat.xml.append:177
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[2]"
-msgstr ""
+msgstr "通过摧毁这艘佣兵飞船，你将拯救那些尚未被这些人渣猎杀的人的生命。"
 
 #: src-en/data/events_special_defeat.xml.append:178
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[3]"
-msgstr ""
+msgstr "摧毁这艘佣兵飞船，意味着叛军能派来追你的船又少了一艘，你对此感到高兴。"
 
 #: src-en/data/events_special_defeat.xml.append:179
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DESTROYED_MERCENARY\"]/text[4]"
-msgstr ""
+msgstr "你想知道，这名佣兵所能提供的服务是否值得你不炸掉他们。"
 
 #: src-en/data/events_special_defeat.xml.append:196
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[1]"
-msgstr ""
+msgstr "那艘佣兵飞船上的船员已被清除。需要对付的满是人渣的飞船又少了一艘。"
 
 #: src-en/data/events_special_defeat.xml.append:197
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[2]"
-msgstr ""
+msgstr "通过消灭这伙佣兵，你将拯救那些尚未被这些人渣猎杀的人的生命。"
 
 #: src-en/data/events_special_defeat.xml.append:198
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[3]"
-msgstr ""
+msgstr "一船佣兵的死亡，意味着叛军能派来追你的船又少了一艘，你对此感到高兴。"
 
 #: src-en/data/events_special_defeat.xml.append:199
 msgid ""
 "data/events_special_defeat.xml.append$//textList[@name=\"TEXT_DEAD_CREW_MERCENARY\"]/text[4]"
-msgstr ""
+msgstr "你想知道，这名佣兵所能提供的服务是否值得你放过他们。"
 
 #: src-en/data/events_special_defeat.xml.append:206
 msgid ""
@@ -189,4 +189,4 @@ msgstr "继续。"
 #: src-en/data/events_special_defeat.xml.append:208
 msgid ""
 "data/events_special_defeat.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_MAP\"]/choice/event/text"
-msgstr ""
+msgstr "对飞船内部进行第二次搜查时，发现了一张完好无损的星区地图。这名佣兵很可能受雇于某人来侦察这片区域。你拿起它来更新自己的地图。"
