@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-03 13:57+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_fillerxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_filler.xml.append:15
 msgid ""
@@ -31,7 +31,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Smuggler Rep 1+) We sure do."
 
 #: src-en/data/events_special_filler.xml.append:42
 msgid ""
@@ -92,7 +92,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:91
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_SELL_MISSILES\"]/mod:findWithChildLike[4]/mod:selector"
-msgstr ""
+msgstr "攻击空间站！"
 
 #: src-en/data/events_special_filler.xml.append:104
 msgid ""
@@ -126,7 +126,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"CONTACT_PIRATE_SALESMAN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "[声望2+] 请求安全停靠。"
 
 #: src-en/data/events_special_filler.xml.append:251
 msgid ""
@@ -137,7 +137,7 @@ msgstr "买一些无人机部件。"
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“很高兴与您合作！得把这些精良的蓝图都用上，对吧？”"
 
 #: src-en/data/events_special_filler.xml.append:255
 msgid ""
@@ -153,13 +153,13 @@ msgstr "买一份无人机设计图。"
 #: src-en/data/events_special_filler.xml.append:264
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findWithChildLike[2]/mod:findLike/mod:findLike[1]/mod:setValue"
-msgstr ""
+msgstr "“很高兴与您合作！愿这台无人机能极大地帮助您。”"
 
 #: src-en/data/events_special_filler.xml.append:276
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[1]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的无人机比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:278
 msgid ""
@@ -171,7 +171,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[2]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的无人机比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:288
 msgid ""
@@ -183,7 +183,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod:findLike[3]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的无人机比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:298
 msgid ""
@@ -194,7 +194,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:310
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/text"
-msgstr ""
+msgstr "一位身着考究西装的人类在你的飞船上迎接你。“欢迎来到我的飞船！我们专营各类武器，有没有您感兴趣的？”"
 
 #: src-en/data/events_special_filler.xml.append:312
 msgid ""
@@ -204,7 +204,7 @@ msgstr "购买一些弹药。"
 #: src-en/data/events_special_filler.xml.append:314
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿您的炮弹继续将毁灭倾泻在敌人头上。”"
 
 #: src-en/data/events_special_filler.xml.append:320
 msgid ""
@@ -214,12 +214,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:326
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[2]/text"
-msgstr ""
+msgstr "购买一件武器。"
 
 #: src-en/data/events_special_filler.xml.append:328
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！这件武器放在您现有的军火库旁边会非常出色。”"
 
 #: src-en/data/events_special_filler.xml.append:334
 msgid ""
@@ -230,13 +230,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "购买武器系统升级。"
 
 #: src-en/data/events_special_filler.xml.append:342
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的武器比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:348
 msgid ""
@@ -248,13 +248,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "购买武器系统升级。"
 
 #: src-en/data/events_special_filler.xml.append:356
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and @lvl=\"4\"]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的武器比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:362
 msgid ""
@@ -266,13 +266,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "购买武器系统升级。"
 
 #: src-en/data/events_special_filler.xml.append:370
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN\"]/choice[@req=\"weapons\""
 " and @lvl=\"6\"]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的武器比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:376
 msgid ""
@@ -298,7 +298,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:403
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/text"
-msgstr ""
+msgstr "“是阿尔吉恩的尊贵客户？天哪，快请进！我有许多许多特殊的无人机优惠想给您看看！”"
 
 #: src-en/data/events_special_filler.xml.append:405
 msgid ""
@@ -308,7 +308,7 @@ msgstr "买一些无人机部件。"
 #: src-en/data/events_special_filler.xml.append:407
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！得把这些精良的蓝图都用上，对吧？”"
 
 #: src-en/data/events_special_filler.xml.append:413
 msgid ""
@@ -318,12 +318,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:419
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/text"
-msgstr ""
+msgstr "购买一大摞无人机部件。"
 
 #: src-en/data/events_special_filler.xml.append:421
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！得把这些精良的蓝图都用上，对吧？”"
 
 #: src-en/data/events_special_filler.xml.append:427
 msgid ""
@@ -338,7 +338,7 @@ msgstr "买一份无人机设计图。"
 #: src-en/data/events_special_filler.xml.append:435
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿这台无人机能极大地帮助您。”"
 
 #: src-en/data/events_special_filler.xml.append:441
 msgid ""
@@ -353,7 +353,7 @@ msgstr "买一份无人机设计图。"
 #: src-en/data/events_special_filler.xml.append:449
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[4]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿这台无人机能极大地帮助您。”"
 
 #: src-en/data/events_special_filler.xml.append:455
 msgid ""
@@ -363,12 +363,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:461
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[5]/text"
-msgstr ""
+msgstr "购买一份先进无人机蓝图。"
 
 #: src-en/data/events_special_filler.xml.append:463
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[5]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿这台先进的无人机能极大地帮助您。”"
 
 #: src-en/data/events_special_filler.xml.append:469
 msgid ""
@@ -378,12 +378,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:475
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[6]/text"
-msgstr ""
+msgstr "购买一个无人机增幅器增强部件。"
 
 #: src-en/data/events_special_filler.xml.append:477
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[6]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿您的内部无人机发挥出最佳性能。”"
 
 #: src-en/data/events_special_filler.xml.append:483
 msgid ""
@@ -400,7 +400,7 @@ msgstr "买一次无人机系统升级。"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的无人机比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:497
 msgid ""
@@ -418,7 +418,7 @@ msgstr "买一次无人机系统升级。"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[@req=\"drones\""
 " and @lvl=\"5\"]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的无人机比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:511
 msgid ""
@@ -434,7 +434,7 @@ msgstr "什么也不买。"
 #: src-en/data/events_special_filler.xml.append:519
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[9]/event/text"
-msgstr ""
+msgstr "“啊，听到这个真遗憾！祝您旅途愉快。”你怀疑有陷阱，但那个海盗并没有耍花招。看来，即使你没有买下他们的全部库存，做阿尔吉恩的忠实客户也是有回报的。"
 
 #: src-en/data/events_special_filler.xml.append:521
 msgid ""
@@ -449,17 +449,17 @@ msgstr "跳过。"
 #: src-en/data/events_special_filler.xml.append:533
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/text"
-msgstr ""
+msgstr "“是阿尔吉恩的尊贵客户？天哪，快请进！我有许多许多特殊的武器优惠想给您看看！”"
 
 #: src-en/data/events_special_filler.xml.append:535
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[1]/text"
-msgstr ""
+msgstr "购买一些导弹。"
 
 #: src-en/data/events_special_filler.xml.append:537
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿您的炮弹继续将毁灭倾泻在敌人头上。”"
 
 #: src-en/data/events_special_filler.xml.append:543
 msgid ""
@@ -469,12 +469,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:549
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[2]/text"
-msgstr ""
+msgstr "购买一大堆导弹。"
 
 #: src-en/data/events_special_filler.xml.append:551
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿您的炮弹继续将毁灭倾泻在敌人头上。”"
 
 #: src-en/data/events_special_filler.xml.append:557
 msgid ""
@@ -484,12 +484,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:563
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[3]/text"
-msgstr ""
+msgstr "购买一件武器。"
 
 #: src-en/data/events_special_filler.xml.append:565
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！这件武器放在您现有的军火库旁边会非常出色。”"
 
 #: src-en/data/events_special_filler.xml.append:571
 msgid ""
@@ -499,12 +499,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:577
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[4]/text"
-msgstr ""
+msgstr "购买一件武器。"
 
 #: src-en/data/events_special_filler.xml.append:579
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[4]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！这件武器放在您现有的军火库旁边会非常出色。”"
 
 #: src-en/data/events_special_filler.xml.append:585
 msgid ""
@@ -514,12 +514,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:591
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[5]/text"
-msgstr ""
+msgstr "购买一件先进武器。"
 
 #: src-en/data/events_special_filler.xml.append:593
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[5]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！给下一个胆敢冒犯您的蠢货一点颜色瞧瞧……”"
 
 #: src-en/data/events_special_filler.xml.append:599
 msgid ""
@@ -529,12 +529,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:605
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[6]/text"
-msgstr ""
+msgstr "购买一个装填器增强部件。"
 
 #: src-en/data/events_special_filler.xml.append:607
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[6]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！愿您的火炮以最高速度运转！”"
 
 #: src-en/data/events_special_filler.xml.append:613
 msgid ""
@@ -545,13 +545,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "购买武器系统升级。"
 
 #: src-en/data/events_special_filler.xml.append:621
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的武器比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:627
 msgid ""
@@ -563,13 +563,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "购买武器系统升级。"
 
 #: src-en/data/events_special_filler.xml.append:635
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/event/text"
-msgstr ""
+msgstr "“很高兴与您合作！现在你能运转的武器比以往更多了！”"
 
 #: src-en/data/events_special_filler.xml.append:641
 msgid ""
@@ -585,7 +585,7 @@ msgstr "什么也不买。"
 #: src-en/data/events_special_filler.xml.append:649
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_WEAPON_SALESMAN_SAFE\"]/choice[9]/event/text"
-msgstr ""
+msgstr "“啊，听到这个真遗憾！祝您旅途愉快。”你怀疑有陷阱，但那个海盗并没有耍花招。看来，即使你没有买下他们的全部库存，做阿尔吉恩的忠实客户也是有回报的。"
 
 #: src-en/data/events_special_filler.xml.append:651
 msgid ""
@@ -600,7 +600,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_filler.xml.append:683
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/text"
-msgstr ""
+msgstr "求救信标来自一艘民用飞船。它似乎正在被一艘提卡卡奴隶贩子船追逐。"
 
 #: src-en/data/events_special_filler.xml.append:685
 msgid ""
@@ -610,7 +610,7 @@ msgstr "援救平民船。"
 #: src-en/data/events_special_filler.xml.append:687
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，与那艘奴隶贩子船交战。"
 
 #: src-en/data/events_special_filler.xml.append:690
 msgid ""
@@ -620,12 +620,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:696
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[2]/text"
-msgstr ""
+msgstr "援助那艘奴隶贩子船。"
 
 #: src-en/data/events_special_filler.xml.append:698
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你向奴隶贩子传达了你的意图，然后冲去攻击那些手无寸铁的平民。"
 
 #: src-en/data/events_special_filler.xml.append:701
 msgid ""
@@ -655,12 +655,12 @@ msgstr "跳过。"
 #: src-en/data/events_special_filler.xml.append:721
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SLAVER\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（改进型武器）用你最强大的武器发射一发警告射击。"
 
 #: src-en/data/events_special_filler.xml.append:727
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/text"
-msgstr ""
+msgstr "求救信标来自一艘民用飞船。它似乎正在被一艘佣兵团佣兵船追逐。"
 
 #: src-en/data/events_special_filler.xml.append:729
 msgid ""
@@ -670,7 +670,7 @@ msgstr "援救平民船。"
 #: src-en/data/events_special_filler.xml.append:731
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，与那艘佣兵船交战。"
 
 #: src-en/data/events_special_filler.xml.append:734
 msgid ""
@@ -680,12 +680,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:740
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[2]/text"
-msgstr ""
+msgstr "援助那艘佣兵船。"
 
 #: src-en/data/events_special_filler.xml.append:742
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你向佣兵传达了你的意图，然后冲去攻击那些手无寸铁的平民。"
 
 #: src-en/data/events_special_filler.xml.append:745
 msgid ""
@@ -715,12 +715,12 @@ msgstr "跳过。"
 #: src-en/data/events_special_filler.xml.append:765
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_MERCENARY\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（改进型武器）用你最强大的武器发射一发警告射击。"
 
 #: src-en/data/events_special_filler.xml.append:771
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/text"
-msgstr ""
+msgstr "求救信标来自一艘民用飞船。它似乎正在被一艘阿尔吉恩走私者船追逐。"
 
 #: src-en/data/events_special_filler.xml.append:773
 msgid ""
@@ -730,7 +730,7 @@ msgstr "援救平民船。"
 #: src-en/data/events_special_filler.xml.append:775
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，与那艘奴隶贩子船交战。"
 
 #: src-en/data/events_special_filler.xml.append:778
 msgid ""
@@ -740,12 +740,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:784
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[2]/text"
-msgstr ""
+msgstr "援助那艘走私者船。"
 
 #: src-en/data/events_special_filler.xml.append:786
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你向走私者传达了你的意图，然后冲去攻击那些手无寸铁的平民。"
 
 #: src-en/data/events_special_filler.xml.append:789
 msgid ""
@@ -775,7 +775,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_filler.xml.append:809
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"PIRATE_CIVILIAN_SMUGGLER\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（改进型武器）用你最强大的武器发射一发警告射击。"
 
 #: src-en/data/events_special_filler.xml.append:817
 msgid ""
@@ -790,7 +790,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:825
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_BEACON_BEAM\"]/event[2]/text"
-msgstr ""
+msgstr "看来那个奴隶贩子并不想和有能力反击的人战斗。他们离开了，你则前去联系那艘民用飞船。"
 
 #: src-en/data/events_special_filler.xml.append:827
 msgid ""
@@ -800,7 +800,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:835
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"MERCENARY_CIVILIAN_BEACON_BEAM\"]/event/text"
-msgstr ""
+msgstr "察觉到更大的威胁后，他们在恢复对平民的攻击之前，先转身与你的飞船交战。"
 
 #: src-en/data/events_special_filler.xml.append:838
 msgid ""
@@ -820,7 +820,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:854
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SMUGGLER_CIVILIAN_BEACON_BEAM\"]/event[2]/text"
-msgstr ""
+msgstr "看来那个走私者并不想和有能力反击的人战斗。他们离开了，你则前去联系那艘民用飞船。"
 
 #: src-en/data/events_special_filler.xml.append:856
 msgid ""
@@ -855,7 +855,7 @@ msgstr "拒绝他们的请求。"
 #: src-en/data/events_special_filler.xml.append:883
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[2]/text"
-msgstr ""
+msgstr "原来那艘被袭击的船是一艘科学考察船。他们感谢你救了他们，并主动提供了一份小小的报酬。"
 
 #: src-en/data/events_special_filler.xml.append:886
 msgid ""
@@ -885,7 +885,7 @@ msgstr "他们提出在你的星舰上安装一件设备。"
 #: src-en/data/events_special_filler.xml.append:903
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[4]/choice/event/text"
-msgstr ""
+msgstr "你感谢他们的慷慨，并将武器移入你的货舱。"
 
 #: src-en/data/events_special_filler.xml.append:906
 msgid ""
@@ -905,7 +905,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:921
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SLAVER\"]/event[6]/text"
-msgstr ""
+msgstr "当你牵制住那艘敌船时，那艘民用飞船明智地迅速撤退了。"
 
 #: src-en/data/events_special_filler.xml.append:923
 msgid ""
@@ -940,7 +940,7 @@ msgstr "拒绝他们的请求。"
 #: src-en/data/events_special_filler.xml.append:949
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[2]/text"
-msgstr ""
+msgstr "原来那艘被袭击的船是一艘科学考察船。他们感谢你救了他们，并主动提供了一份小小的报酬。"
 
 #: src-en/data/events_special_filler.xml.append:952
 msgid ""
@@ -970,7 +970,7 @@ msgstr "他们提出在你的星舰上安装一件设备。"
 #: src-en/data/events_special_filler.xml.append:969
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[4]/choice/event/text"
-msgstr ""
+msgstr "你感谢他们的慷慨，并将武器移入你的货舱。"
 
 #: src-en/data/events_special_filler.xml.append:972
 msgid ""
@@ -990,7 +990,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:987
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_MERCENARY\"]/event[6]/text"
-msgstr ""
+msgstr "当你牵制住那艘敌船时，那艘民用飞船明智地迅速撤退了。"
 
 #: src-en/data/events_special_filler.xml.append:989
 msgid ""
@@ -1025,7 +1025,7 @@ msgstr "拒绝他们的请求。"
 #: src-en/data/events_special_filler.xml.append:1015
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[2]/text"
-msgstr ""
+msgstr "原来那艘被袭击的船是一艘科学考察船。他们感谢你救了他们，并主动提供了一份小小的报酬。"
 
 #: src-en/data/events_special_filler.xml.append:1018
 msgid ""
@@ -1055,7 +1055,7 @@ msgstr "他们提出在你的星舰上安装一件设备。"
 #: src-en/data/events_special_filler.xml.append:1035
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[4]/choice/event/text"
-msgstr ""
+msgstr "你感谢他们的慷慨，并将武器移入你的货舱。"
 
 #: src-en/data/events_special_filler.xml.append:1038
 msgid ""
@@ -1075,7 +1075,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1053
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SAVE_CIVILIAN_LIST_SMUGGLER\"]/event[6]/text"
-msgstr ""
+msgstr "当你牵制住那艘敌船时，那艘民用飞船明智地迅速撤退了。"
 
 #: src-en/data/events_special_filler.xml.append:1055
 msgid ""
@@ -1085,77 +1085,77 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1064
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"ESCAPE_SLAVER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你注意到平民飞船的引擎已经亮起，这意味着他们不会逗留太久。那艘奴隶贩子船很可能是想抓走平民当奴隶，所以如果你期望从海盗那里得到报酬，就必须保证平民活着。"
 
 #: src-en/data/events_special_filler.xml.append:1068
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"ESCAPE_MERCENARY_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你注意到平民飞船的引擎已经亮起，这意味着他们不会逗留太久。那艘佣兵船很可能是受雇来消灭平民的，所以如果你期望从海盗那里得到报酬，就必须在他们逃跑前以任何方式将其击落。"
 
 #: src-en/data/events_special_filler.xml.append:1072
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"ESCAPE_SMUGGLER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你注意到平民飞船的引擎已经亮起，这意味着他们不会逗留太久。那艘走私者船很可能是想要平民的货物，所以如果你期望从海盗那里得到报酬，就必须避免摧毁那艘飞船。"
 
 #: src-en/data/events_special_filler.xml.append:1078
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "在你阻止之前，平民们已经逃走了。海盗们会对此很不高兴……"
 
 #: src-en/data/events_special_filler.xml.append:1080
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/choice/text"
-msgstr ""
+msgstr "呼叫那些海盗。"
 
 #: src-en/data/events_special_filler.xml.append:1082
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SLAVER_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“那到底是怎么回事！没有你的干扰我们本可以抓住他们……但看到一个联邦佬攻击平民确实让我觉得好笑。好吧，我们同意不打了，但以后别指望我们帮忙。”"
 
 #: src-en/data/events_special_filler.xml.append:1088
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/text"
-msgstr ""
+msgstr "在你阻止之前，平民们已经逃走了。海盗们会对此很不高兴……"
 
 #: src-en/data/events_special_filler.xml.append:1090
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/choice/text"
-msgstr ""
+msgstr "呼叫那些海盗。"
 
 #: src-en/data/events_special_filler.xml.append:1092
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_MERCENARY_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“那到底是怎么回事！没有你的干扰我们本可以抓住他们……但看到一个联邦佬攻击平民确实让我觉得好笑。好吧，我们同意不打了，但以后别指望我们帮忙。”"
 
 #: src-en/data/events_special_filler.xml.append:1098
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "在你阻止之前，平民们已经逃走了。海盗们会对此很不高兴……"
 
 #: src-en/data/events_special_filler.xml.append:1100
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/choice/text"
-msgstr ""
+msgstr "呼叫那些海盗。"
 
 #: src-en/data/events_special_filler.xml.append:1102
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"GOTAWAY_SMUGGLER_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“那到底是怎么回事！没有你的干扰我们本可以抓住他们……但看到一个联邦佬攻击平民确实让我觉得好笑。好吧，我们同意不打了，但以后别指望我们帮忙。”"
 
 #: src-en/data/events_special_filler.xml.append:1109
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "那些平民濒临毁灭。他们惊恐万分，投降了，并同意满足你的任何要求。"
 
 #: src-en/data/events_special_filler.xml.append:1111
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[1]/text"
-msgstr ""
+msgstr "接受他们的投降。"
 
 #: src-en/data/events_special_filler.xml.append:1113
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你瘫痪了平民飞船的引擎，然后呼叫了奴隶贩子。当他们与平民飞船对接并将平民锁进货舱后，奴隶贩子船长感谢了你的帮助，并送给你一些废料。"
 
 #: src-en/data/events_special_filler.xml.append:1117
 msgid ""
@@ -1165,12 +1165,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1123
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SLAVER_CIVILIAN\"]/choice[2]/text"
-msgstr ""
+msgstr "直接了结他们。"
 
 #: src-en/data/events_special_filler.xml.append:1130
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[1]/text"
-msgstr ""
+msgstr "你继续拆解那艘已无船员的民用飞船，找到了一些资源带回去。"
 
 #: src-en/data/events_special_filler.xml.append:1133
 msgid ""
@@ -1180,7 +1180,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1138
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[2]/text"
-msgstr ""
+msgstr "你继续拆解那艘已无船员的民用飞船，找到了一些资源带回去。"
 
 #: src-en/data/events_special_filler.xml.append:1141
 msgid ""
@@ -1190,7 +1190,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1146
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[3]/text"
-msgstr ""
+msgstr "你继续拆解那艘已无船员的民用飞船。虽然没剩下多少东西，但总归是一些废料。"
 
 #: src-en/data/events_special_filler.xml.append:1149
 msgid ""
@@ -1200,7 +1200,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1154
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[4]/text"
-msgstr ""
+msgstr "你继续拆解那艘已无船员的民用飞船。虽然没剩下多少东西，但总归是一些废料。"
 
 #: src-en/data/events_special_filler.xml.append:1157
 msgid ""
@@ -1210,7 +1210,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1162
 msgid ""
 "data/events_special_filler.xml.append$//eventList[@name=\"SLAVER_CIVILIAN_SCRAP\"]/event[5]/text"
-msgstr ""
+msgstr "你继续拆解那艘已无船员的民用飞船。你甚至发现他们的一件基础武器仍然完好无损，便带回了自己的飞船。"
 
 #: src-en/data/events_special_filler.xml.append:1166
 msgid ""
@@ -1220,17 +1220,17 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1173
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/text"
-msgstr ""
+msgstr "那些平民濒临毁灭。他们惊恐万分，投降了，并同意满足你的任何要求。"
 
 #: src-en/data/events_special_filler.xml.append:1175
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[1]/text"
-msgstr ""
+msgstr "接受他们的投降。"
 
 #: src-en/data/events_special_filler.xml.append:1177
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你瘫痪了平民飞船的引擎，然后呼叫了佣兵。然而，佣兵的一枚导弹刚好与你的飞船擦身而过，撞上了本就脆弱的民用飞船，瞬间将其摧毁。“哎哟，差点打中你了朋友，抱歉！我们并不是特别想要他们船上的什么东西，只需要把他们干掉就行。不管怎样，感谢你的协助。我相信你需要一些对付叛军舰队的帮助……”"
 
 #: src-en/data/events_special_filler.xml.append:1183
 msgid ""
@@ -1240,22 +1240,22 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1189
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_MERCENARY_CIVILIAN\"]/choice[2]/text"
-msgstr ""
+msgstr "直接了结他们。"
 
 #: src-en/data/events_special_filler.xml.append:1195
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "那些平民濒临毁灭。他们惊恐万分，投降了，并同意满足你的任何要求。"
 
 #: src-en/data/events_special_filler.xml.append:1197
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[1]/text"
-msgstr ""
+msgstr "接受他们的投降。"
 
 #: src-en/data/events_special_filler.xml.append:1200
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你瘫痪了平民飞船的引擎，然后呼叫了奴隶贩子。当他们与平民对接后，便过来感谢你。“我们看到这家伙在附近的行星上向他们的朋友炫耀自己的东西，于是就跟着他们到了这里，然后发动了攻击。现在我们已经拿到了他们的货物，还真不知道该怎么处理剩下的船员。我的意思是，既然你已经袭击过平民了，再搞点奴隶买卖应该也无伤大雅，对吧？”"
 
 #: src-en/data/events_special_filler.xml.append:1204
 msgid ""
@@ -1265,12 +1265,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1210
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"SURRENDER_SMUGGLER_CIVILIAN\"]/choice[2]/text"
-msgstr ""
+msgstr "直接了结他们。"
 
 #: src-en/data/events_special_filler.xml.append:1216
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SLAVER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你摧毁了那艘民用飞船。你怀疑奴隶贩子会对此不高兴，但在他们呼叫你之前，你匆匆打捞了飞船的残骸。"
 
 #: src-en/data/events_special_filler.xml.append:1219
 msgid ""
@@ -1280,12 +1280,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1221
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SLAVER_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“那到底是怎么回事！我们要的是那些奴隶货物，你却把它们炸了……但看到一个联邦佬攻击平民确实让我觉得好笑。好吧，我们同意不打了，但以后别指望我们帮忙。”"
 
 #: src-en/data/events_special_filler.xml.append:1226
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SLAVER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你击败了所有的平民。你怀疑奴隶贩子会对此不高兴，但在他们呼叫你之前，你匆匆打捞了飞船的残骸。"
 
 #: src-en/data/events_special_filler.xml.append:1229
 msgid ""
@@ -1295,12 +1295,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1231
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SLAVER_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“那到底是怎么回事！我们要的是那些奴隶货物，你却把他们全杀了……但看到一个联邦佬攻击平民确实让我觉得好笑。好吧，我们同意不打了，但以后别指望我们帮忙。”"
 
 #: src-en/data/events_special_filler.xml.append:1237
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你摧毁了那艘民用飞船。你希望佣兵们不介意你来打捞残骸。"
 
 #: src-en/data/events_special_filler.xml.append:1240
 msgid ""
@@ -1310,7 +1310,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1242
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_MERCENARY_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“太好了，你帮我们完成了任务！感谢你。我相信你需要一些对付叛军舰队的帮助……”"
 
 #: src-en/data/events_special_filler.xml.append:1245
 msgid ""
@@ -1320,7 +1320,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1252
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你击败了所有的平民。你希望佣兵们不介意你来打捞残骸。"
 
 #: src-en/data/events_special_filler.xml.append:1255
 msgid ""
@@ -1330,7 +1330,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1257
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_MERCENARY_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“太好了，你帮我们完成了任务！感谢你。我相信你需要一些对付叛军舰队的帮助……”"
 
 #: src-en/data/events_special_filler.xml.append:1260
 msgid ""
@@ -1340,7 +1340,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1268
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SMUGGLER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你摧毁了那艘民用飞船。你怀疑走私者会对此不高兴，但在他们呼叫你之前，你匆匆打捞了飞船的残骸。"
 
 #: src-en/data/events_special_filler.xml.append:1271
 msgid ""
@@ -1350,12 +1350,12 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1273
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DESTROYED_SMUGGLER_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "“那到底是怎么回事！你把我们要的货物全炸了……不过，看到一个联邦佬攻击平民确实让我觉得好笑。好吧，我们同意不打了，但以后别指望我们帮忙。”"
 
 #: src-en/data/events_special_filler.xml.append:1278
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/text"
-msgstr ""
+msgstr "你已经肃清所有平民。你暗自盘算，就算把这艘舰船拆解变卖废料，走私贩子应该也不会介意。"
 
 #: src-en/data/events_special_filler.xml.append:1281
 msgid ""
@@ -1365,7 +1365,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:1283
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DEAD_CREW_SMUGGLER_CIVILIAN\"]/choice/event/text"
-msgstr ""
+msgstr "多谢保全货物完好无损。我们先前看见此人在邻近星球向同伴炫耀装备，便一路尾随至此才动手发难。来，从这批货里挑一件武器拿去。"
 
 #: src-en/data/events_special_filler.xml.append:1286
 msgid ""
