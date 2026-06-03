@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:54+0000\n"
+"PO-Revision-Date: 2026-06-03 13:00+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_shipsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -24,12 +24,12 @@ msgstr "继续。"
 #: src-en/data/events_ships.xml.append:14
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:21
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/deadCrew/text"
-msgstr ""
+msgstr "你成功击败了那艘海盗船，但只能打捞出残骸的一小部分，就不得不跃迁离开，以避免被剩下的海盗造成进一步伤害。"
 
 #: src-en/data/events_ships.xml.append:24
 msgid ""
@@ -39,7 +39,7 @@ msgstr "继续。"
 #: src-en/data/events_ships.xml.append:28
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_PIRATE_ASB\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:80
 msgid ""
@@ -62,262 +62,262 @@ msgstr "继续。"
 #: src-en/data/events_ships.xml.append:130
 msgid ""
 "data/events_ships.xml.append$//mod:findName[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP1\"]/mod:findLike/mod:findWithChildLike/mod:selector"
-msgstr ""
+msgstr "放海盗逃走，去追击那艘蛞蝓族飞船。"
 
 #: src-en/data/events_ships.xml.append:148
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/destroyed/text"
-msgstr ""
+msgstr "解决了海盗之后，你打捞了他们的飞船。"
 
 #: src-en/data/events_ships.xml.append:151
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/destroyed/choice/text"
-msgstr ""
+msgstr "寻找储藏罐。"
 
 #: src-en/data/events_ships.xml.append:156
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/deadCrew/text"
-msgstr ""
+msgstr "海盗被击败后，你打捞了他们的飞船。"
 
 #: src-en/data/events_ships.xml.append:159
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "寻找储藏罐。"
 
 #: src-en/data/events_ships.xml.append:167
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[1]/text"
-msgstr ""
+msgstr "不幸的是，储藏罐在战斗中消失在了云层里。你从战斗残骸中又捡到了一点废料，然后准备继续前进。"
 
 #: src-en/data/events_ships.xml.append:171
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[2]/text"
-msgstr ""
+msgstr "不幸的是，储藏罐在战斗中消失在了云层里。你从战斗残骸中又捡到了一点废料，然后准备继续前进。"
 
 #: src-en/data/events_ships.xml.append:175
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[3]/text"
-msgstr ""
+msgstr "不幸的是，储藏罐在战斗中消失在了云层里。你从战斗残骸中又捡到了一点废料，然后准备继续前进。"
 
 #: src-en/data/events_ships.xml.append:179
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[4]/text"
-msgstr ""
+msgstr "幸运的是，储藏罐离得不太远。你撬开它，发现了一件军用级武器！"
 
 #: src-en/data/events_ships.xml.append:183
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[5]/text"
-msgstr ""
+msgstr "幸运的是，储藏罐离得不太远。你撬开它，发现了一个能用的增强部件！"
 
 #: src-en/data/events_ships.xml.append:187
 msgid ""
 "data/events_ships.xml.append$//eventList[@name=\"SHIP_QUEST_SLUG_PIRATE_TRAP2_CACHE\"]/event[6]/text"
-msgstr ""
+msgstr "幸运的是，储藏罐离得不太远。你撬开它，发现了一大批补给！"
 
 #: src-en/data/events_ships.xml.append:201
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/destroyed/text"
-msgstr ""
+msgstr "那艘奴隶贩子飞船解体了。你赶紧联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:204
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:209
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/deadCrew/text"
-msgstr ""
+msgstr "那艘奴隶贩子飞船上再也检测不到生命迹象了。你赶紧联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:212
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SLAVER_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:220
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/destroyed/text"
-msgstr ""
+msgstr "那艘佣兵飞船被击毁了。你赶紧联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:223
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:228
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/deadCrew/text"
-msgstr ""
+msgstr "那艘佣兵飞船上再也检测不到生命迹象了。你赶紧联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:231
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_MERCENARY_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:239
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/destroyed/text"
-msgstr ""
+msgstr "那艘走私者飞船被击毁了。你赶紧联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:242
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/destroyed/choice/text"
-msgstr ""
+msgstr "联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:247
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/deadCrew/text"
-msgstr ""
+msgstr "那艘走私者飞船上再也检测不到生命迹象了。你赶紧联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:250
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"SHIP_SMUGGLER_CIVILIAN_RESCUE\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "联系那艘民用飞船。"
 
 #: src-en/data/events_ships.xml.append:284
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/text"
-msgstr ""
+msgstr "“我们投降！带走我们一个奴隶作为贡品吧；如果你们摧毁我们，他们反正也都会死！”"
 
 #: src-en/data/events_ships.xml.append:286
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/choice[1]/text"
-msgstr ""
+msgstr "接受他们的提议。"
 
 #: src-en/data/events_ships.xml.append:293
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "投降不在选项之内。"
 
 #: src-en/data/events_ships.xml.append:300
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_SHIP_SLAVER_ALL_START\"]/destroyed/text"
-msgstr ""
+msgstr "那艘奴隶船被摧毁了。他们无法继续邪恶的交易了，但那艘船上很可能有许多生命逝去。"
 
 #: src-en/data/events_ships.xml.append:330
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"DESTROYED_PIRATE_HUB_MANY\"]/text"
-msgstr ""
+msgstr "你击败了你认为的海盗头目，因为其他海盗已经放弃与你战斗，返回了枢纽。你打捞了残骸，心里清楚，在海盗们高度戒备的情况下，你在枢纽也做不了什么别的事了。"
 
 #: src-en/data/events_ships.xml.append:336
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"DEAD_CREW_PIRATE_HUB_MANY\"]/text"
-msgstr ""
+msgstr "你击败了你认为的海盗头目，因为其他海盗已经放弃与你战斗，返回了枢纽。你打捞了残骸，心里清楚，在海盗们高度戒备的情况下，你在枢纽也做不了什么别的事了。"
 
 #: src-en/data/events_ships.xml.append:396
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/destroyed/text"
-msgstr ""
+msgstr "你成功击败了那艘奴隶贩子飞船，但你确信海盗们很快会派另一艘来。你尽可能打捞了残骸，并在增援到达之前准备跃迁。"
 
 #: src-en/data/events_ships.xml.append:399
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:406
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/deadCrew/text"
-msgstr ""
+msgstr "你成功击败了那艘奴隶贩子飞船，但你确信海盗们很快会派另一艘来。你尽可能打捞了残骸，并在增援到达之前准备跃迁。"
 
 #: src-en/data/events_ships.xml.append:409
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_1\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:419
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/destroyed/text"
-msgstr ""
+msgstr "你成功击败了那艘奴隶贩子飞船，但几乎没有时间打捞残骸。你必须在受到他们的 ASB 更多伤害之前离开！"
 
 #: src-en/data/events_ships.xml.append:422
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:429
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/deadCrew/text"
-msgstr ""
+msgstr "你成功击败了那艘奴隶贩子飞船，但几乎没有时间打捞残骸。你必须在受到他们的 ASB 更多伤害之前离开！"
 
 #: src-en/data/events_ships.xml.append:432
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_2\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:442
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/destroyed/text"
-msgstr ""
+msgstr "你成功击败了那艘奴隶贩子飞船，但几乎没有时间打捞残骸。你必须在受到他们的 ASB 更多伤害之前离开！"
 
 #: src-en/data/events_ships.xml.append:445
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/destroyed/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:452
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/deadCrew/text"
-msgstr ""
+msgstr "你成功击败了那艘奴隶贩子飞船，但几乎没有时间打捞残骸。你必须在受到他们的 ASB 更多伤害之前离开！"
 
 #: src-en/data/events_ships.xml.append:455
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_GLADIATOR_ENFORCER_3\"]/deadCrew/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "（磁性回收臂）进一步打捞残骸。"
 
 #: src-en/data/events_ships.xml.append:476
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_UNKNOWN_SHIP_PIRATE_TAKEOVER\"]/destroyed/text"
-msgstr ""
+msgstr "你击败了那艘民用飞船里的海盗。你打捞了残骸。"
 
 #: src-en/data/events_ships.xml.append:480
 msgid ""
 "data/events_ships.xml.append$//ship[@name=\"PIP_UNKNOWN_SHIP_PIRATE_TAKEOVER\"]/deadCrew/text"
-msgstr ""
+msgstr "你击败了那艘民用飞船里的海盗。你打捞了残骸。"
 
 #: src-en/data/events_ships.xml.append:533
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"ESCAPE_FEDERATION_ARREST_PIRATE\"]/text"
-msgstr ""
+msgstr "看到现在要对付两艘船，那个海盗重新考虑了这场战斗，正为FTL驱动器充能。联邦飞船呼叫了你。“幸好你来了，我们刚好弹药快用完了。如果你们能在不损坏货物的情况下杀死他们的船员，那是最理想的，但摧毁他们的飞船也行。我们就是不能让海盗带着我们的补给跑掉！”"
 
 #: src-en/data/events_ships.xml.append:537
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_GOTAWAY\"]/text"
-msgstr ""
+msgstr "海盗给跃迁引擎充能完毕，成功逃脱了。联邦船长很沮丧，但依然保持着镇定的表情。“不幸的结果。我们本想用那项技术装备一些新飞船。不过，至少谢谢你的尝试。给你些燃料，祝你接下来的旅程顺利。”"
 
 #: src-en/data/events_ships.xml.append:542
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/text"
-msgstr ""
+msgstr "海盗船燃起了火焰。虽然你现在无法回收那项技术，但至少海盗们无法带着联邦的技术逃跑了。"
 
 #: src-en/data/events_ships.xml.append:545
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/choice/text"
-msgstr ""
+msgstr "联系那艘联邦飞船。"
 
 #: src-en/data/events_ships.xml.append:547
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DESTROYED\"]/choice/event/text"
-msgstr ""
+msgstr "“干得好。虽然我们无法回收那项技术有点可惜，但至少海盗们没法带着它逃跑了。这是给你帮忙的报酬。祝你的任务好运！”"
 
 #: src-en/data/events_ships.xml.append:554
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/text"
-msgstr ""
+msgstr "海盗船归于沉寂，船员已被清除。你在联系联邦飞船之前清理了飞船的外壳。"
 
 #: src-en/data/events_ships.xml.append:557
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/choice/text"
-msgstr ""
+msgstr "联系那艘联邦飞船。"
 
 #: src-en/data/events_ships.xml.append:559
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_PIRATE_DEADCREW\"]/choice/event/text"
-msgstr ""
+msgstr "“太棒了！你们甚至完好无损地回收了那项技术！既然海盗已经死了，我们应该把这些带回基地安装，但如果我悄悄给你一件武器作为报酬，也没人会知道。祝你的任务好运！”"
 
 #: src-en/data/events_ships.xml.append:567
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/text"
-msgstr ""
+msgstr "你击败了那艘联邦飞船。这在你的盟友眼中可能不太光彩，但你仍然借此机会打捞了那艘飞船的残骸。"
 
 #: src-en/data/events_ships.xml.append:570
 msgid ""
@@ -327,7 +327,7 @@ msgstr "联系海盗。"
 #: src-en/data/events_ships.xml.append:572
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"PIP_PIRATE_FEDERATION_ARREST_FEDERATION_DEFEAT\"]/choice/event/text"
-msgstr ""
+msgstr "“嗯？你会背叛自己的盟友来帮助我们？我的意思是……行吧。我想还是谢谢你的帮助。我们仍然需要保留这些偷来的装备，但我会让我朋友帮你延缓舰队追击作为感谢。”"
 
 #: src-en/data/events_ships.xml.append:576
 msgid ""
