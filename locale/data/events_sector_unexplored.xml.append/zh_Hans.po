@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"PO-Revision-Date: 2026-06-03 13:01+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_unexploredxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -24,13 +24,13 @@ msgstr "海盗们向你展示了几箱他们正在出售的补给。当你看到
 #: src-en/data/events_sector_unexplored.xml.append:23
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[1]/mod:selector"
-msgstr ""
+msgstr "购买一箱燃料。"
 
 #: src-en/data/events_sector_unexplored.xml.append:25
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "海盗们急切地把补给送过来，对在长时间生意萧条后终于迎来一个付钱的顾客感到兴奋。不过，他们在这里的生意恐怕也做不长久。"
 
 #: src-en/data/events_sector_unexplored.xml.append:27
 msgid ""
@@ -41,13 +41,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_unexplored.xml.append:43
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
+msgstr "购买一箱导弹。"
 
 #: src-en/data/events_sector_unexplored.xml.append:45
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[2]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "海盗们急切地把补给送过来，对在长时间生意萧条后终于迎来一个付钱的顾客感到兴奋。不过，他们在这里的生意恐怕也做不长久。"
 
 #: src-en/data/events_sector_unexplored.xml.append:47
 msgid ""
@@ -58,13 +58,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_unexplored.xml.append:63
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[3]/mod:selector"
-msgstr ""
+msgstr "购买一箱无人机部件。"
 
 #: src-en/data/events_sector_unexplored.xml.append:65
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[3]/mod:findLike/mod-"
 "append:text"
-msgstr ""
+msgstr "海盗们急切地把补给送过来，对在长时间生意萧条后终于迎来一个付钱的顾客感到兴奋。不过，他们在这里的生意恐怕也做不长久。"
 
 #: src-en/data/events_sector_unexplored.xml.append:67
 msgid ""
@@ -73,7 +73,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_unexplored.xml.append:83
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod:findWithChildLike[4]/mod:selector"
 msgstr "算了。"
@@ -88,7 +87,7 @@ msgstr "出售一些燃料。"
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "海盗们急切地把废料送过来，对能买到廉价补给的前景感到兴奋。不过，他们恐怕再也找不到另一个廉价的供应商了。"
 
 #: src-en/data/events_sector_unexplored.xml.append:95
 msgid ""
@@ -100,13 +99,13 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "卖掉一些导弹。"
 
 #: src-en/data/events_sector_unexplored.xml.append:103
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "海盗们急切地把废料送过来，对能买到廉价补给的前景感到兴奋。不过，他们恐怕再也找不到另一个廉价的供应商了。"
 
 #: src-en/data/events_sector_unexplored.xml.append:109
 msgid ""
@@ -124,7 +123,7 @@ msgstr "出售一些无人机部件。"
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "海盗们急切地把废料送过来，对能买到廉价补给的前景感到兴奋。不过，他们恐怕再也找不到另一个廉价的供应商了。"
 
 #: src-en/data/events_sector_unexplored.xml.append:123
 msgid ""
@@ -136,7 +135,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_PIRATE_STATION\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "这价格太差了，我们走吧。"
 
 #: src-en/data/events_sector_unexplored.xml.append:135
 msgid ""
@@ -146,7 +145,7 @@ msgstr "攻击对方。"
 #: src-en/data/events_sector_unexplored.xml.append:148
 msgid ""
 "data/events_sector_unexplored.xml.append$//eventList[@name=\"PIP_NEBULA_LIGHT_PIRATE_STATION_LEAVE\"]/event[1]/text"
-msgstr ""
+msgstr "你拒绝了空间站的提议，准备跃迁。"
 
 #: src-en/data/events_sector_unexplored.xml.append:150
 msgid ""
@@ -161,7 +160,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_unexplored.xml.append:159
 msgid ""
 "data/events_sector_unexplored.xml.append$//eventList[@name=\"PIP_NEBULA_LIGHT_PIRATE_STATION_LEAVE\"]/event[2]/text"
-msgstr ""
+msgstr "你拒绝了空间站的提议，准备跃迁。"
 
 #: src-en/data/events_sector_unexplored.xml.append:161
 msgid ""
@@ -176,7 +175,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_unexplored.xml.append:170
 msgid ""
 "data/events_sector_unexplored.xml.append$//eventList[@name=\"PIP_NEBULA_LIGHT_PIRATE_STATION_LEAVE\"]/event[3]/text"
-msgstr ""
+msgstr "海盗对你拒绝交易感到愤怒，启动了武器！他们要么是坐不住，要么是走投无路，或者两者兼有，但一场战斗已不可避免。"
 
 #: src-en/data/events_sector_unexplored.xml.append:173
 msgid ""
@@ -191,7 +190,7 @@ msgstr "攻击海盗。"
 #: src-en/data/events_sector_unexplored.xml.append:205
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_PIRATE_SMUGGLE\"]/mod:findWithChildLike[2]/mod:selector"
-msgstr ""
+msgstr "（武器）威胁性地启动你的先进武器。"
 
 #: src-en/data/events_sector_unexplored.xml.append:208
 msgid ""
@@ -202,22 +201,22 @@ msgstr "无视他们的贿赂，攻击。"
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_PIRATE_SMUGGLE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（走私者声望2+）呼叫他们，并向他们保证你无意伤害他们。"
 
 #: src-en/data/events_sector_unexplored.xml.append:232
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/text"
-msgstr ""
+msgstr "“哦，是你们啊。好吧，我们正在为一些特殊客户走私一批重要的先进武器，不过有几件多余的，如果你们有废料的话，或许可以弄到……”"
 
 #: src-en/data/events_sector_unexplored.xml.append:234
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[1]/text"
-msgstr ""
+msgstr "购买一件基础武器。"
 
 #: src-en/data/events_sector_unexplored.xml.append:240
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[1]/event/text"
-msgstr ""
+msgstr "走私者感谢你完成交易，并向你告别，以免耽误了他们的目标进度。"
 
 #: src-en/data/events_sector_unexplored.xml.append:242
 msgid ""
@@ -227,12 +226,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_unexplored.xml.append:248
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[2]/text"
-msgstr ""
+msgstr "购买一件先进武器。"
 
 #: src-en/data/events_sector_unexplored.xml.append:254
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[2]/event/text"
-msgstr ""
+msgstr "走私者感谢你完成交易，并向你告别，以免耽误了他们的目标进度。"
 
 #: src-en/data/events_sector_unexplored.xml.append:256
 msgid ""
@@ -240,7 +239,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_unexplored.xml.append:262
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[3]/text"
 msgstr "算了。"
@@ -248,7 +246,7 @@ msgstr "算了。"
 #: src-en/data/events_sector_unexplored.xml.append:264
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_WEAPON\"]/choice[3]/event/text"
-msgstr ""
+msgstr "走私者们似乎不太在意，但无论如何还是在你离开前向你告别。"
 
 #: src-en/data/events_sector_unexplored.xml.append:266
 msgid ""
@@ -263,17 +261,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_unexplored.xml.append:278
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/text"
-msgstr ""
+msgstr "“哦，是你们啊。好吧，我们正在为一些特殊客户走私一批重要的先进无人机，不过有几件多余的，如果你们有废料的话，或许可以弄到……”"
 
 #: src-en/data/events_sector_unexplored.xml.append:280
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[1]/text"
-msgstr ""
+msgstr "购买一份基础无人机蓝图。"
 
 #: src-en/data/events_sector_unexplored.xml.append:286
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "走私者感谢你完成交易，并向你告别，以免耽误了他们的目标进度。"
 
 #: src-en/data/events_sector_unexplored.xml.append:288
 msgid ""
@@ -283,12 +281,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_unexplored.xml.append:294
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[2]/text"
-msgstr ""
+msgstr "购买一份先进无人机蓝图。"
 
 #: src-en/data/events_sector_unexplored.xml.append:300
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "走私者感谢你完成交易，并向你告别，以免耽误了他们的目标进度。"
 
 #: src-en/data/events_sector_unexplored.xml.append:302
 msgid ""
@@ -296,7 +294,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_unexplored.xml.append:308
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[3]/text"
 msgstr "算了。"
@@ -304,7 +301,7 @@ msgstr "算了。"
 #: src-en/data/events_sector_unexplored.xml.append:310
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_DRONE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "走私者们似乎不太在意，但无论如何还是在你离开前向你告别。"
 
 #: src-en/data/events_sector_unexplored.xml.append:312
 msgid ""
@@ -319,17 +316,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_unexplored.xml.append:324
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/text"
-msgstr ""
+msgstr "“哦，是你们啊。好吧，我们正在为一些特殊客户走私一批重要的先进增强部件，不过有几件多余的，如果你们有废料的话，或许可以弄到……”"
 
 #: src-en/data/events_sector_unexplored.xml.append:326
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[1]/text"
-msgstr ""
+msgstr "购买一个基础增强部件。"
 
 #: src-en/data/events_sector_unexplored.xml.append:332
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "走私者感谢你完成交易，并向你告别，以免耽误了他们的目标进度。"
 
 #: src-en/data/events_sector_unexplored.xml.append:334
 msgid ""
@@ -339,12 +336,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_unexplored.xml.append:340
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[2]/text"
-msgstr ""
+msgstr "购买一个先进增强部件。"
 
 #: src-en/data/events_sector_unexplored.xml.append:346
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "走私者感谢你完成交易，并向你告别，以免耽误了他们的目标进度。"
 
 #: src-en/data/events_sector_unexplored.xml.append:348
 msgid ""
@@ -352,7 +349,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_unexplored.xml.append:354
-#, fuzzy
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[3]/text"
 msgstr "算了。"
@@ -360,7 +356,7 @@ msgstr "算了。"
 #: src-en/data/events_sector_unexplored.xml.append:356
 msgid ""
 "data/events_sector_unexplored.xml.append$//event[@name=\"NEBULA_PIRATE_SMUGGLE_AUGMENT\"]/choice[3]/event/text"
-msgstr ""
+msgstr "走私者们似乎不太在意，但无论如何还是在你离开前向你告别。"
 
 #: src-en/data/events_sector_unexplored.xml.append:358
 msgid ""
