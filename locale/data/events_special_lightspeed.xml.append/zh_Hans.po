@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"PO-Revision-Date: 2026-06-04 11:55+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_lightspeedxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -12,7 +12,6 @@ msgstr ""
 "X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:8
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod:findWithChildLike/mod:selector"
 msgstr "算了。"
@@ -33,13 +32,13 @@ msgstr "你检查了电容器，发现可以校准其速度。你想跑得越快
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "最低速度。[使叛军追击延迟2次跃迁，引擎处引发一场火灾]"
 
 #: src-en/data/events_special_lightspeed.xml.append:18
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你将电容器设置为尽可能最低的速度运行。虽然你的船体没有受到任何损伤，但引擎处引发了一场火灾。"
 
 #: src-en/data/events_special_lightspeed.xml.append:24
 msgid ""
@@ -51,13 +50,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "低速。[使叛军追击延迟3次跃迁，将对引擎和船体造成2点损伤，引擎处引发一场火灾]"
 
 #: src-en/data/events_special_lightspeed.xml.append:32
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你将电容器设置为低速运行。你的引擎和船体受到了一点损伤，但希望这是值得的。"
 
 #: src-en/data/events_special_lightspeed.xml.append:38
 msgid ""
@@ -69,13 +68,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "中速。[使叛军追击延迟4次跃迁，将对引擎和船体造成4点损伤，引擎处引发一场火灾]"
 
 #: src-en/data/events_special_lightspeed.xml.append:46
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你将电容器设置为适中的速度运行。你的引擎和船体受到了一些损伤，但希望这是值得的。"
 
 #: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""
@@ -87,13 +86,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "高速。[使叛军追击延迟5次跃迁，将对引擎和船体造成6点损伤，引擎处引发一场火灾]"
 
 #: src-en/data/events_special_lightspeed.xml.append:60
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "你将电容器设置为高速运行。你的引擎和船体受到了相当严重的损伤，但希望这是值得的。"
 
 #: src-en/data/events_special_lightspeed.xml.append:66
 msgid ""
@@ -105,13 +104,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "极高速。[使叛军追击延迟6次跃迁，将对引擎和船体造成8点损伤，并在引擎、驾驶舱、武器和护盾处引发火灾]"
 
 #: src-en/data/events_special_lightspeed.xml.append:74
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "你将电容器超频到它能达到的最高速度运行。飞船的猛然冲刺让你在旅途中昏了过去。当你恢复意识时，发现引擎已被完全摧毁，而你的主要系统房间也因功率激增而过热。希望这些损伤是值得的。"
 
 #: src-en/data/events_special_lightspeed.xml.append:83
 msgid ""
@@ -120,14 +119,12 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:89
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/event/choice[6]/text"
 msgstr "算了。"
 
 #: src-en/data/events_special_lightspeed.xml.append:95
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[2]/text"
@@ -137,13 +134,13 @@ msgstr "算了。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "跃迁至暗域黑市。"
 
 #: src-en/data/events_special_lightspeed.xml.append:109
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "跃迁至暗域黑市。"
 
 #: src-en/data/events_special_lightspeed.xml.append:117
 msgid ""
@@ -161,7 +158,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:129
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE\"]/choice[2]/text"
 msgstr "算了。"
@@ -182,7 +178,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:152
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"PIP_LIGHTSPEED_SECTOR_WARP_PIRATE_BOSS\"]/choice[2]/text"
 msgstr "算了。"
