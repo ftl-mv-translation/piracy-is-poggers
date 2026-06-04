@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"PO-Revision-Date: 2026-06-04 11:55+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/datahyperspace-xml-append/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -29,352 +29,352 @@ msgstr "优质奴隶"
 #: src-en/data/hyperspace.xml.append:535
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[4]/customTitle"
-msgstr ""
+msgstr "异域奴隶"
 
 #: src-en/data/hyperspace.xml.append:553
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_BASIC\"]/category[5]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:575
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[1]/customTitle"
-msgstr ""
+msgstr "精英奴隶"
 
 #: src-en/data/hyperspace.xml.append:593
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[2]/customTitle"
-msgstr ""
+msgstr "普通奴隶"
 
 #: src-en/data/hyperspace.xml.append:611
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[3]/customTitle"
-msgstr ""
+msgstr "优质奴隶"
 
 #: src-en/data/hyperspace.xml.append:629
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[4]/customTitle"
-msgstr ""
+msgstr "异域奴隶"
 
 #: src-en/data/hyperspace.xml.append:647
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[5]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:665
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[6]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:683
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_AUGMENTS\"]/category[7]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:706
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[1]/customTitle"
-msgstr ""
+msgstr "精英舰载奴隶"
 
 #: src-en/data/hyperspace.xml.append:724
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[2]/customTitle"
-msgstr ""
+msgstr "舰载奴隶"
 
 #: src-en/data/hyperspace.xml.append:742
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[3]/customTitle"
-msgstr ""
+msgstr "普通奴隶"
 
 #: src-en/data/hyperspace.xml.append:760
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[4]/customTitle"
-msgstr ""
+msgstr "优质奴隶"
 
 #: src-en/data/hyperspace.xml.append:778
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[5]/customTitle"
-msgstr ""
+msgstr "异域奴隶"
 
 #: src-en/data/hyperspace.xml.append:796
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SHIPBOARD\"]/category[6]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:818
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[1]/customTitle"
-msgstr ""
+msgstr "精英斗士奴隶"
 
 #: src-en/data/hyperspace.xml.append:836
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[2]/customTitle"
-msgstr ""
+msgstr "斗士奴隶"
 
 #: src-en/data/hyperspace.xml.append:854
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[3]/customTitle"
-msgstr ""
+msgstr "普通奴隶"
 
 #: src-en/data/hyperspace.xml.append:872
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[4]/customTitle"
-msgstr ""
+msgstr "优质奴隶"
 
 #: src-en/data/hyperspace.xml.append:890
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[5]/customTitle"
-msgstr ""
+msgstr "异域奴隶"
 
 #: src-en/data/hyperspace.xml.append:908
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_FIGHTER\"]/category[6]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:930
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[1]/customTitle"
-msgstr ""
+msgstr "精英干扰者奴隶"
 
 #: src-en/data/hyperspace.xml.append:948
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[2]/customTitle"
-msgstr ""
+msgstr "干扰者奴隶"
 
 #: src-en/data/hyperspace.xml.append:966
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[3]/customTitle"
-msgstr ""
+msgstr "普通奴隶"
 
 #: src-en/data/hyperspace.xml.append:984
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[4]/customTitle"
-msgstr ""
+msgstr "优质奴隶"
 
 #: src-en/data/hyperspace.xml.append:1002
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[5]/customTitle"
-msgstr ""
+msgstr "异域奴隶"
 
 #: src-en/data/hyperspace.xml.append:1020
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_DISRUPTOR\"]/category[6]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:1042
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[1]/customTitle"
-msgstr ""
+msgstr "精英厌氧奴隶"
 
 #: src-en/data/hyperspace.xml.append:1060
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[2]/customTitle"
-msgstr ""
+msgstr "厌氧奴隶"
 
 #: src-en/data/hyperspace.xml.append:1078
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[3]/customTitle"
-msgstr ""
+msgstr "普通奴隶"
 
 #: src-en/data/hyperspace.xml.append:1096
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[4]/customTitle"
-msgstr ""
+msgstr "优质奴隶"
 
 #: src-en/data/hyperspace.xml.append:1114
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[5]/customTitle"
-msgstr ""
+msgstr "异域奴隶"
 
 #: src-en/data/hyperspace.xml.append:1132
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ANAEROBIC\"]/category[6]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:1154
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "精英奴隶"
 
 #: src-en/data/hyperspace.xml.append:1172
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "精英奴隶"
 
 #: src-en/data/hyperspace.xml.append:1190
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "精英奴隶"
 
 #: src-en/data/hyperspace.xml.append:1208
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[4]/customTitle"
-msgstr ""
+msgstr "精英奴隶"
 
 #: src-en/data/hyperspace.xml.append:1226
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_ELITE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:1248
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "超级精英奴隶"
 
 #: src-en/data/hyperspace.xml.append:1266
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "精英奴隶"
 
 #: src-en/data/hyperspace.xml.append:1284
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "普通奴隶"
 
 #: src-en/data/hyperspace.xml.append:1302
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[4]/customTitle"
-msgstr ""
+msgstr "优质奴隶"
 
 #: src-en/data/hyperspace.xml.append:1320
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "异域奴隶"
 
 #: src-en/data/hyperspace.xml.append:1338
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SLAVER_SELITE\"]/category[6]/customTitle"
-msgstr ""
+msgstr "实验室与船员增强部件"
 
 #: src-en/data/hyperspace.xml.append:1360
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_BASIC\"]/category[1]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:1433
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[1]/customTitle"
-msgstr ""
+msgstr "高功率利用效率武器"
 
 #: src-en/data/hyperspace.xml.append:1451
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[2]/customTitle"
-msgstr ""
+msgstr "高功率利用效率武器"
 
 #: src-en/data/hyperspace.xml.append:1469
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS_ONLY\"]/category[3]/customTitle"
-msgstr ""
+msgstr "高功率利用效率武器"
 
 #: src-en/data/hyperspace.xml.append:1492
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[1]/customTitle"
-msgstr ""
+msgstr "高功率利用效率武器"
 
 #: src-en/data/hyperspace.xml.append:1510
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[2]/customTitle"
-msgstr ""
+msgstr "高功率利用效率武器"
 
 #: src-en/data/hyperspace.xml.append:1528
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_PLAYERWEAPONS\"]/category[3]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:1601
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[1]/customTitle"
-msgstr ""
+msgstr "重型武器"
 
 #: src-en/data/hyperspace.xml.append:1619
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[2]/customTitle"
-msgstr ""
+msgstr "重型武器"
 
 #: src-en/data/hyperspace.xml.append:1637
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_THICKWEAPONS\"]/category[3]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:1710
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[1]/customTitle"
-msgstr ""
+msgstr "战斗无人机"
 
 #: src-en/data/hyperspace.xml.append:1728
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[2]/customTitle"
-msgstr ""
+msgstr "战斗无人机"
 
 #: src-en/data/hyperspace.xml.append:1746
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_OFFENSEDRONES\"]/category[3]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[1]/customTitle"
-msgstr ""
+msgstr "防御无人机"
 
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[2]/customTitle"
-msgstr ""
+msgstr "防御/船员无人机"
 
 #: src-en/data/hyperspace.xml.append:1855
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_DEFENSEDRONES\"]/category[3]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:1928
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_MOREAUGMENTS\"]/category[1]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:2035
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[1]/customTitle"
-msgstr ""
+msgstr "运输武器"
 
 #: src-en/data/hyperspace.xml.append:2053
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[2]/customTitle"
-msgstr ""
+msgstr "运输武器"
 
 #: src-en/data/hyperspace.xml.append:2071
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[3]/customTitle"
-msgstr ""
+msgstr "运输无人机"
 
 #: src-en/data/hyperspace.xml.append:2089
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_TRANSPORT\"]/category[4]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:2164
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "变元者武器"
 
 #: src-en/data/hyperspace.xml.append:2182
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "变元者武器"
 
 #: src-en/data/hyperspace.xml.append:2200
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "变元者无人机"
 
 #: src-en/data/hyperspace.xml.append:2218
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_MERCENARY_TARGETS_REWARD_RENEGADE\"]/category[4]/customTitle"
-msgstr ""
+msgstr "变元者船员"
 
 #: src-en/data/hyperspace.xml.append:2255
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[1]/customTitle"
-msgstr ""
+msgstr "特殊武器"
 
 #: src-en/data/hyperspace.xml.append:2324
 msgid ""
@@ -389,14 +389,14 @@ msgstr "辅助系统"
 #: src-en/data/hyperspace.xml.append:2355
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[7]/customTitle"
-msgstr ""
+msgstr "今日武器 [40%折扣]"
 
 #: src-en/data/hyperspace.xml.append:2378
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[8]/customTitle"
-msgstr ""
+msgstr "今日无人机 [40%折扣]"
 
 #: src-en/data/hyperspace.xml.append:2401
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SMUGGLER_GUARD\"]/category[9]/customTitle"
-msgstr ""
+msgstr "今日增强部件 [40%折扣]"
