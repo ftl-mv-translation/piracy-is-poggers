@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-05 07:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-04 13:02+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_standardxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_standard.xml.append:13
 msgid ""
@@ -44,7 +44,7 @@ msgstr "看一下奴隶摊位。"
 #: src-en/data/events_special_standard.xml.append:50
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_ODDSHOP\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:findLike/mod:findLike/mod:setValue"
-msgstr ""
+msgstr "你小心翼翼地绕过各种外星生物的排泄物，看着笼子里各式各样的外星人。看到在一个奇怪的市场里有如此怪异的奴隶贩卖活动，你猜测这些海盗与奴隶贩子巨头提卡卡并无关联。"
 
 #: src-en/data/events_special_standard.xml.append:60
 msgid ""
@@ -70,13 +70,13 @@ msgstr "去市场购物。"
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "请求查看他们的特殊货物。"
 
 #: src-en/data/events_special_standard.xml.append:100
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "走私者们认出了你，并提供了一系列特殊违禁品供你挑选。"
 
 #: src-en/data/events_special_standard.xml.append:102
 msgid ""
@@ -88,7 +88,7 @@ msgstr "购买武器。"
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "交易完成后，你仍有时间逛逛他们的普通货物。"
 
 #: src-en/data/events_special_standard.xml.append:110
 msgid ""
@@ -106,7 +106,7 @@ msgstr "购买武器。"
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "交易完成后，你仍有时间逛逛他们的普通货物。"
 
 #: src-en/data/events_special_standard.xml.append:124
 msgid ""
@@ -124,7 +124,7 @@ msgstr "购买一架无人机。"
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "交易完成后，你仍有时间逛逛他们的普通货物。"
 
 #: src-en/data/events_special_standard.xml.append:138
 msgid ""
@@ -136,13 +136,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "购买一个增强部件。"
 
 #: src-en/data/events_special_standard.xml.append:146
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "交易完成后，你仍有时间逛逛他们的普通货物。"
 
 #: src-en/data/events_special_standard.xml.append:152
 msgid ""
@@ -154,7 +154,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_PIRATE_SECURITY\"]/mod:findWithChildLike[1]/mod:findLike/mod-"
 "append:choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "算了，我们还是看看普通货物吧。"
 
 #: src-en/data/events_special_standard.xml.append:164
 msgid ""
@@ -182,42 +182,42 @@ msgstr "试图抢劫市场。"
 #: src-en/data/events_special_standard.xml.append:201
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"TONY_HQ_ANGEL\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
+msgstr "不了。"
 
 #: src-en/data/events_special_standard.xml.append:218
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/text"
-msgstr ""
+msgstr "几个海盗派系联合建立了一个联合市场。你怀疑这完全是非法的，但他们可能有有用的补给出售。"
 
 #: src-en/data/events_special_standard.xml.append:220
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/text"
-msgstr ""
+msgstr "探索市场。"
 
 #: src-en/data/events_special_standard.xml.append:223
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/text"
-msgstr ""
+msgstr "市场的上半部分专门用于普通交易，但下半部分似乎有一些海盗在向任何愿意付钱的人提供服务或特殊商品。"
 
 #: src-en/data/events_special_standard.xml.append:225
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "走近那些奴隶贩子。"
 
 #: src-en/data/events_special_standard.xml.append:229
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "走近那些佣兵。"
 
 #: src-en/data/events_special_standard.xml.append:233
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "走近那些走私者。"
 
 #: src-en/data/events_special_standard.xml.append:237
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "我们还是看普通货物吧。"
 
 #: src-en/data/events_special_standard.xml.append:243
 msgid ""
@@ -227,7 +227,7 @@ msgstr "无视市场。"
 #: src-en/data/events_special_standard.xml.append:245
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_PIRATE_SERVICES\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你今天不想探索海盗市场，尤其是作为一名联邦人员。"
 
 #: src-en/data/events_special_standard.xml.append:247
 msgid ""
