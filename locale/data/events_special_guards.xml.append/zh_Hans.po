@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-22 19:53+0000\n"
+"PO-Revision-Date: 2026-06-04 11:55+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_guardsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -27,70 +27,70 @@ msgstr "“啊，抱歉没认出您！希望您能继续帮衬我们，是吧朋
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（海盗声望2）请求进入，海盗们应该知道我们是谁。"
 
 #: src-en/data/events_special_guards.xml.append:20
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "走私者们简短地核实了你的声望，然后给予了更热情的欢迎。“我从没想过会看到一个联邦佬有兴趣帮助我们海盗，但我可没意见。你获准通过了。”"
 
 #: src-en/data/events_special_guards.xml.append:24
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "（海盗声望3+）请求进入，海盗们应该知道我们是谁。"
 
 #: src-en/data/events_special_guards.xml.append:26
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "走私者们简短地核实了你的声望，然后给予了更热情的欢迎。“我从没想过会看到一个联邦佬有兴趣帮助我们海盗，但我可没意见。这些东西请自便吧。”"
 
 #: src-en/data/events_special_guards.xml.append:36
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "（走私者声望2）请求进入，走私者部族应该知道我们是谁。"
 
 #: src-en/data/events_special_guards.xml.append:38
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "走私者们简短地核实了你的声望，然后给予了更热情的欢迎。“这不是那位对我们集团如此友善的联邦佬吗。我衷心感谢你对我们事业的帮助。你的飞船已获准进入。免费送你些废料。”"
 
 #: src-en/data/events_special_guards.xml.append:43
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "（走私者声望3+）请求进入，走私者集团应该知道我们是谁。"
 
 #: src-en/data/events_special_guards.xml.append:45
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "走私者们简短地核实了你的声望，然后给予了更热情的欢迎。“这不是那位对我们集团如此友善的联邦佬吗。我衷心感谢你对我们事业的帮助。来，收下这份礼物，随便去附近空间站找我手下的人做点交易。我敢肯定他那儿有能让你心动的东西。”"
 
 #: src-en/data/events_special_guards.xml.append:53
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "（佣兵声望3+）请求进入，佣兵团可以为我们担保。"
 
 #: src-en/data/events_special_guards.xml.append:55
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[5]/event/text"
-msgstr ""
+msgstr "在与佣兵团内部的一名联系人反复沟通后，走私者们放松了警惕。“好吧，我们相信他们的话，欢迎来到我们的星区。你的一些佣兵伙伴还让我们把这些废料转交给你，并给你最近可用的佣兵坐标，拿去吧。”"
 
 #: src-en/data/events_special_guards.xml.append:61
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "（奴隶贩子声望3+）请求进入，提卡卡可以为我们担保。"
 
 #: src-en/data/events_special_guards.xml.append:63
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_BLACKMARKET\"]/mod-"
 "append:choice[6]/event/text"
-msgstr ""
+msgstr "在与提卡卡内部的一名联系人反复沟通后，走私者们放松了警惕。“好吧，我们相信他们的话，欢迎来到我们的星区。你的一些奴隶贩子伙伴还让我们把这些废料转交给你，并给你最近可用的奴隶贩子坐标，拿去吧。”"
