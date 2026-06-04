@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-04 14:56+0000\n"
+"PO-Revision-Date: 2026-06-04 16:12+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -8085,22 +8085,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7802
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_6\"]/text"
-msgstr ""
+msgstr "让他检查你的6级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7804
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_6\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再给你一些废料和一件物品。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7806
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_6\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的6级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7808
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_6\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7813
 msgid ""
@@ -8115,22 +8115,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7827
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_7\"]/text"
-msgstr ""
+msgstr "让他检查你的7级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7829
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_7\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再给你一些废料和一件物品。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7831
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_7\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的7级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7833
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_7\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7838
 msgid ""
@@ -8145,22 +8145,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7852
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_8\"]/text"
-msgstr ""
+msgstr "让他检查你的8级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7854
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_8\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再给你一些废料和一件物品。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7856
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_8\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的8级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7858
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_8\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7863
 msgid ""
@@ -8175,22 +8175,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7877
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_9\"]/text"
-msgstr ""
+msgstr "让他检查你的9级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7879
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_9\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再给你一些废料和一件物品。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7881
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_9\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的9级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7883
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_9\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7888
 msgid ""
@@ -8205,22 +8205,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7903
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_10\"]/text"
-msgstr ""
+msgstr "让他检查你的10级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7905
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_10\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一些废料，以及一些船体修理。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7907
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_10\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的10级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7909
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_10\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7916
 msgid ""
@@ -8235,22 +8235,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7930
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_11\"]/text"
-msgstr ""
+msgstr "让他检查你的11级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7932
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_11\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一些废料，以及一些船体修理。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7934
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_11\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的11级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7936
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_11\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7943
 msgid ""
@@ -8265,22 +8265,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7957
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_12\"]/text"
-msgstr ""
+msgstr "让他检查你的12级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7959
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_12\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一些废料，以及一些船体修理。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7961
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_12\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的12级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7963
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_12\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7970
 msgid ""
@@ -8295,22 +8295,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:7984
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_13\"]/text"
-msgstr ""
+msgstr "让他检查你的13级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7986
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_13\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一些废料，以及一些船体修理。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:7988
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_13\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的13级黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:7990
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_13\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:7997
 msgid ""
@@ -8325,22 +8325,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8012
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_ION\"]/text"
-msgstr ""
+msgstr "让他检查你的13级离子抗性黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8014
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_ION\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一个增强部件、一些废料和资源，以及一些船体修理。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8016
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_ION\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的13级离子抗性黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8018
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_ION\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8026
 msgid ""
@@ -8355,22 +8355,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8040
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SYSTEM\"]/text"
-msgstr ""
+msgstr "让他检查你的13级破坏抗性黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8042
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SYSTEM\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一个增强部件、一些废料和资源，以及一些船体修理。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8044
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SYSTEM\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的13级破坏抗性黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8046
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SYSTEM\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8054
 msgid ""
@@ -8385,22 +8385,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8068
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SHARD\"]/text"
-msgstr ""
+msgstr "让他检查你的13级水晶复仇黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8070
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SHARD\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一个增强部件、一些废料和资源，以及一些船体修理。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8072
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SHARD\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的13级水晶复仇黑曜石装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8074
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OBSIDIAN_ARMOR_SHARD\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8082
 msgid ""
@@ -8415,22 +8415,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8097
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"MULTIVERSE_DRIVE_GOOD\"]/text"
-msgstr ""
+msgstr "让他检查你的以太驱动器。"
 
 #: src-en/data/events_special_piracy.xml.append:8099
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"MULTIVERSE_DRIVE_GOOD\"]/event/text"
-msgstr ""
+msgstr "工程师前往引擎室，拿出一些测量工具来评估驱动器。过了一会儿，他提出了一个建议。“这真是一个精良的引擎驱动器！不过它看起来相当……不稳定。我想，由于这个驱动器的存在，你的飞船已经受到了损伤。我可以帮你提取出驱动器，这应该能让你的飞船稳定下来，但需要两个跃迁周期。然后我会留下这个增强部件，并给你一些废料。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8101
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"MULTIVERSE_DRIVE_GOOD\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的以太驱动器。"
 
 #: src-en/data/events_special_piracy.xml.append:8103
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"MULTIVERSE_DRIVE_GOOD\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了驱动器。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8109
 msgid ""
@@ -8445,22 +8445,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8123
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EXTRA_LIFE\"]/text"
-msgstr ""
+msgstr "让他检查你的应急协议。"
 
 #: src-en/data/events_special_piracy.xml.append:8125
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EXTRA_LIFE\"]/event/text"
-msgstr ""
+msgstr "工程师在你的飞船里走动，检查协议的各项机制。过了一会儿，他提出了一个建议。“这真是一套精良的协议！它们似乎与飞船船体结合得很好，这可能会给拆除带来麻烦。我可以帮你把协议从飞船上移除，但需要两个跃迁周期。然后我会留下这个增强部件，并给你一些废料和资源。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8127
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EXTRA_LIFE\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的应急协议。"
 
 #: src-en/data/events_special_piracy.xml.append:8129
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EXTRA_LIFE\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了协议。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8140
 msgid ""
@@ -8475,17 +8475,17 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8154
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EMERGENCY_DRIVE\"]/text"
-msgstr ""
+msgstr "让他检查你的辅助脉冲推进器。"
 
 #: src-en/data/events_special_piracy.xml.append:8156
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EMERGENCY_DRIVE\"]/event/text"
-msgstr ""
+msgstr "工程师前往引擎室，拿出一些测量工具来评估驱动器。过了一会儿，他提出了一个建议。“这确实是一个有趣的驱动器。不过它看起来相当……不稳定。我想，由于这个驱动器的存在，你的飞船已经受到了损伤。我可以帮你提取出驱动器，这应该能让你的飞船稳定下来，但需要两个跃迁周期。然后我会留下这个增强部件，并给你一些废料。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8158
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EMERGENCY_DRIVE\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的辅助脉冲推进器。"
 
 #: src-en/data/events_special_piracy.xml.append:8160
 msgid ""
