@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-04 16:12+0000\n"
+"PO-Revision-Date: 2026-06-05 11:17+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_piracyxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -45,7 +45,7 @@ msgstr "继续。"
 
 #: src-en/data/events_special_piracy.xml.append:33
 msgid "data/events_special_piracy.xml.append$//event[@name=\"PIRACY_RESET\"]/text"
-msgstr "你的海盗声望已被重置为0（特定于各个海盗派系的声望不受影响）。"
+msgstr "你的海盗声望已被重置为0（特定于各个海盗派系的声望不受影响）"
 
 #: src-en/data/events_special_piracy.xml.append:112
 msgid ""
@@ -454,7 +454,6 @@ msgid ""
 msgstr "奴隶贩子已经雇到了足够的人手。"
 
 #: src-en/data/events_special_piracy.xml.append:451
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SLAVER_OFFERS\"]/choice[6]/text"
 msgstr "算了。"
@@ -2376,7 +2375,7 @@ msgstr "综合佣兵声望：-5 或更低"
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_FRIENDLY\"]/choice[@req=\"rep_comb_merc\""
 " and @lvl=\"-4\"]/text"
-msgstr "综合佣兵声望：44"
+msgstr "综合佣兵声望：-4"
 
 #: src-en/data/events_special_piracy.xml.append:2262
 msgid ""
@@ -2523,7 +2522,7 @@ msgstr "综合佣兵声望：-5 或更低"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_MERCENARY_FRIENDLY_START\"]/choice[@req=\"rep_comb_merc\""
 " and @lvl=\"-4\"]/text"
-msgstr "综合佣兵声望：44"
+msgstr "综合佣兵声望：-4"
 
 #: src-en/data/events_special_piracy.xml.append:2371
 msgid ""
@@ -2803,7 +2802,6 @@ msgid ""
 msgstr "你已经有一个发射器了。"
 
 #: src-en/data/events_special_piracy.xml.append:2595
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO_FIRST\"]/choice[10]/text"
 msgstr "算了。"
@@ -2931,7 +2929,6 @@ msgid ""
 msgstr "你已经有一个发射器了。"
 
 #: src-en/data/events_special_piracy.xml.append:2694
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_PREMIUM_INTRO\"]/choice[10]/text"
 msgstr "算了。"
@@ -2957,7 +2954,6 @@ msgid ""
 msgstr "[声望 6+] 我们能获得更好的东西吗？"
 
 #: src-en/data/events_special_piracy.xml.append:2716
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_OFFERS\"]/choice[8]/text"
 msgstr "算了。"
@@ -3410,7 +3406,7 @@ msgstr "综合走私者声望：6"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_FRIENDLY_START\"]/choice[@req=\"rep_comb_smuggler\""
 " and @lvl=\"7\"]/text"
-msgstr "综合走私者声望：7或更多"
+msgstr "综合走私者声望：6或更多"
 
 #: src-en/data/events_special_piracy.xml.append:3378
 msgid ""
@@ -3535,7 +3531,6 @@ msgid ""
 msgstr "卖给他们一些先进设备。"
 
 #: src-en/data/events_special_piracy.xml.append:3512
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"SMUGGLER_OFFERS\"]/choice[6]/text"
 msgstr "算了。"
@@ -7907,7 +7902,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_piracy.xml.append:7661
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP\"]/choice[5]/text"
 msgstr "无视对方。"
@@ -8490,7 +8484,7 @@ msgstr "接受他的提议，移除你的辅助脉冲推进器。"
 #: src-en/data/events_special_piracy.xml.append:8160
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EMERGENCY_DRIVE\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了驱动器。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8166
 msgid ""
@@ -8505,22 +8499,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8181
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EQUINOID_DUPLICATOR\"]/text"
-msgstr ""
+msgstr "让他检查你的马厩。"
 
 #: src-en/data/events_special_piracy.xml.append:8183
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EQUINOID_DUPLICATOR\"]/event/text"
-msgstr ""
+msgstr "工程师前往飞船下部的马厩所在位置。经过简短检查后，他提出了一个建议。“在我加入阿尔吉恩之前，我曾在一个农场工作过。这一片马厩，我一个跃迁周期内就能清理干净，不是什么大事。但有一个条件：我留下那些部件作为我服务的报酬。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8185
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EQUINOID_DUPLICATOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的马厩。"
 
 #: src-en/data/events_special_piracy.xml.append:8187
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"EQUINOID_DUPLICATOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在一个跃迁周期内成功移除了马厩。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8191
 msgid ""
@@ -8535,22 +8529,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8205
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"GOLD_ARMOR\"]/text"
-msgstr ""
+msgstr "让他检查你的金箔镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8207
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"GOLD_ARMOR\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这可真是一件昂贵又闪亮的装甲！可惜它跟你的飞船焊得很紧。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件武器、一个增强部件，以及一些废料。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8209
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"GOLD_ARMOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的金箔镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8211
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"GOLD_ARMOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天让我发财，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8217
 msgid ""
@@ -8565,22 +8559,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8231
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_GLOBAL_TELEPORT\"]/text"
-msgstr ""
+msgstr "让他检查你的集中传送器。"
 
 #: src-en/data/events_special_piracy.xml.append:8233
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_GLOBAL_TELEPORT\"]/event/text"
-msgstr ""
+msgstr "工程师前往主系统室，检查这个独特的传送机制的工作原理。经过彻底检查后，他提出了一个建议。“这确实是一个有趣的增强部件！我知道我的朋友们会很想弄到手。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换这项技术的代价，我会提供卸除服务，并在我朋友们面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8235
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_GLOBAL_TELEPORT\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的集中传送器。"
 
 #: src-en/data/events_special_piracy.xml.append:8237
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_GLOBAL_TELEPORT\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了那项技术。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8241
 msgid ""
@@ -8595,22 +8589,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8255
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SHIP_TELEPORT\"]/text"
-msgstr ""
+msgstr "让他检查你的个人传送器。"
 
 #: src-en/data/events_special_piracy.xml.append:8257
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SHIP_TELEPORT\"]/event/text"
-msgstr ""
+msgstr "工程师前往主系统室，检查这个独特的传送机制的工作原理。经过彻底检查后，他提出了一个建议。“这确实是一个有趣的增强部件！我知道我的朋友们会很想弄到手。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换这项技术的代价，我会提供卸除服务，额外给你一些东西，并在我朋友们面前为你美言几句。不过，我必须警告你，这会让操控你的飞船变得相当困难。还要不要？”"
 
 #: src-en/data/events_special_piracy.xml.append:8259
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SHIP_TELEPORT\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的个人传送器。"
 
 #: src-en/data/events_special_piracy.xml.append:8261
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SHIP_TELEPORT\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了那项技术。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。祝你在飞船管理上好运气，你会需要的。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8271
 msgid ""
@@ -8625,22 +8619,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8285
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"CRYSTAL_ARMOR_100\"]/text"
-msgstr ""
+msgstr "让他检查你的破碎装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8287
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"CRYSTAL_ARMOR_100\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。经过彻底检查后，他提出了一个建议。“这可真是一件极其自虐的装甲！可惜它跟你的飞船焊得很紧。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件精英水晶武器，以及一些废料。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8289
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"CRYSTAL_ARMOR_100\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的破碎装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8291
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"CRYSTAL_ARMOR_100\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8298
 msgid ""
@@ -8655,22 +8649,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8312
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD\"]/text"
-msgstr ""
+msgstr "让他检查你的游商护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:8314
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过彻底检查后，他提出了一个建议。“这真是一种我前所未见的光质技术！不过这些电池，可不容易拆除。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一件超高功率防御者无人机，以及一些废料。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8316
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的游商护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:8318
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8324
 msgid ""
@@ -8685,22 +8679,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8338
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD_CONTINUITY\"]/text"
-msgstr ""
+msgstr "让他检查你的先进游商护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:8340
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD_CONTINUITY\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过彻底检查后，他提出了一个建议。“这真是一种我前所未见的光质技术！不过这些电池，可不容易拆除。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一件超高功率防御者无人机、一件奇怪但强大的武器，以及一些废料和资源。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8342
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD_CONTINUITY\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的先进游商护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:8344
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SYLVAN_SHIELD_CONTINUITY\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8356
 msgid ""
@@ -8715,32 +8709,34 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8370
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/text"
-msgstr ""
+msgstr "让他检查你的舱格能量场。"
 
 #: src-en/data/events_special_piracy.xml.append:8372
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/event/text"
-msgstr ""
+msgstr "工程师前往你的门禁控制系统，查看系统设置并检查你的门体结构。过了一会儿，他提出了一个建议。“这真是一个出色的登船者防御系统！可惜它和你的飞船整合得太好了。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换舱格的代价，我会提供卸除服务，帮你修理一下门，并给你一大笔废料。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8374
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的先进游商护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:8376
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/event/choice[1]/event/text"
 msgstr ""
+"“当然可以。如果你愿意，我还可以免费安装舱室能量墙，不过这部分交易是可选的，因为你不一定需要它。”\n"
+"[效果：任何类型的敌方船员都无法再穿越你的舱门或在你自己的飞船上使用短程传送器。]"
 
 #: src-en/data/events_special_piracy.xml.append:8379
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "请求他为你安装舱室能量墙。"
 
 #: src-en/data/events_special_piracy.xml.append:8381
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8388
 msgid ""
@@ -8750,12 +8746,12 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:8395
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝他关于舱室能量墙的提议。"
 
 #: src-en/data/events_special_piracy.xml.append:8397
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"NO_GHOST\"]/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8403
 msgid ""
@@ -8770,22 +8766,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8420
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROCK_ARMOR\"]/text"
-msgstr ""
+msgstr "让他检查你的岩石镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8422
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROCK_ARMOR\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再额外赠送一件专用导弹武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8424
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROCK_ARMOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的岩石镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8426
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROCK_ARMOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8431
 msgid ""
@@ -8800,22 +8796,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8445
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR\"]/text"
-msgstr ""
+msgstr "让他检查你的神圣装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8447
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这可真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、一些废料，以及一次完整的船体修复。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8449
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的神圣装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8451
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8458
 msgid ""
@@ -8830,22 +8826,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8472
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR_PLAYER\"]/text"
-msgstr ""
+msgstr "让他检查你的神圣装甲+。"
 
 #: src-en/data/events_special_piracy.xml.append:8474
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR_PLAYER\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这可真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用导弹武器、大量弹药、一大笔废料、一架船体修复无人机，以及一次完整的船体修复。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8476
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR_PLAYER\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的神圣装甲+。"
 
 #: src-en/data/events_special_piracy.xml.append:8478
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PALADIN_ARMOR_PLAYER\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8490
 msgid ""
@@ -8860,22 +8856,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8504
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SALT_ARMOR\"]/text"
-msgstr ""
+msgstr "让他检查你的盐镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8506
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SALT_ARMOR\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这可真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一件专用离子武器和一些废料。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8508
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SALT_ARMOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的盐镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8510
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SALT_ARMOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8516
 msgid ""
@@ -8890,22 +8886,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8530
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_ARMOR\"]/text"
-msgstr ""
+msgstr "让他检查你的再生镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8532
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_ARMOR\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再额外赠送一件火焰武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8534
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_ARMOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的再生镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:8536
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_ARMOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8541
 msgid ""
@@ -8920,22 +8916,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8555
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CRYSTAL_ARMOR\"]/text"
-msgstr ""
+msgstr "让他检查你的水晶装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8557
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CRYSTAL_ARMOR\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再额外赠送一件精英水晶武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8559
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CRYSTAL_ARMOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的水晶装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:8561
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CRYSTAL_ARMOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8566
 msgid ""
@@ -8950,22 +8946,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8580
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ENERGY_SHIELD\"]/text"
-msgstr ""
+msgstr "让他检查你的超能护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:8582
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ENERGY_SHIELD\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过简短检查后，他提出了一个建议。“这是不错的光质技术，跟我在这里见过的其他型号很像。我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一架过载无人机。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8584
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ENERGY_SHIELD\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的超能护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:8586
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ENERGY_SHIELD\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8591
 msgid ""
@@ -8980,22 +8976,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8605
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OSMIAN_BATTERIES\"]/text"
-msgstr ""
+msgstr "让他检查你的超能量场。"
 
 #: src-en/data/events_special_piracy.xml.append:8607
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OSMIAN_BATTERIES\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，检查在飞船上重新分配功率的方式。经过简短检查后，他提出了一个建议。“这是一项相当有趣的以太技术。我在这里也没怎么见过这种东西。我估计大概两个跃迁周期内能把它卸掉。作为交换这项技术的代价，我会提供卸除服务，并额外赠送这架特殊的操作无人机，是别人前阵子送给我的。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8609
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OSMIAN_BATTERIES\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的超能量场。"
 
 #: src-en/data/events_special_piracy.xml.append:8611
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"OSMIAN_BATTERIES\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了那项技术。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8616
 msgid ""
@@ -9010,22 +9006,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8630
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SLUG_GEL\"]/text"
-msgstr ""
+msgstr "让他检查你的蛞蝓修复凝胶。"
 
 #: src-en/data/events_special_piracy.xml.append:8632
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SLUG_GEL\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，检查附着在船体上的涂层。过了一会儿，他提出了一个建议。“这种涂层看起来足够坚固，不过它有点粘在你的飞船上了。我大概两个跃迁周期内能把它除掉。我建议我买下这些凝胶，作为交换，我除了提供卸除服务之外，再额外赠送一件专用反生物武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8634
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SLUG_GEL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的蛞蝓修复凝胶。"
 
 #: src-en/data/events_special_piracy.xml.append:8636
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SLUG_GEL\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了凝胶。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8641
 msgid ""
@@ -9040,22 +9036,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8655
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"HEKTAR_GEL\"]/text"
-msgstr ""
+msgstr "让他检查你的赫克塔超黏凝胶(tm)。"
 
 #: src-en/data/events_special_piracy.xml.append:8657
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"HEKTAR_GEL\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，检查附着在船体上的涂层。过了一会儿，他提出了一个建议。“这种涂层看起来足够坚固，不过它有点粘在你的飞船上了。我大概两个跃迁周期内能把它除掉。我建议我买下这些凝胶，作为交换，我除了提供卸除服务之外，再额外赠送一件专用反生物武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8659
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"HEKTAR_GEL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的赫克塔超粘凝胶。"
 
 #: src-en/data/events_special_piracy.xml.append:8661
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"HEKTAR_GEL\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了凝胶。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8666
 msgid ""
@@ -9070,22 +9066,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8680
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PLEASURE_GEL\"]/text"
-msgstr ""
+msgstr "让他检查你的可疑凝胶。"
 
 #: src-en/data/events_special_piracy.xml.append:8682
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PLEASURE_GEL\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，检查附着在船体上的涂层。过了一会儿，他提出了一个建议。“这种涂层看起来足够坚固，不过它有点粘在你的飞船上了。我大概两个跃迁周期内能把它除掉。我建议我买下这些凝胶，作为交换，我除了提供卸除服务之外，再额外赠送一件专用反生物武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8684
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PLEASURE_GEL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的可疑凝胶。"
 
 #: src-en/data/events_special_piracy.xml.append:8686
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PLEASURE_GEL\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了凝胶。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8691
 msgid ""
@@ -9100,22 +9096,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8705
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CREW_STIMS\"]/text"
-msgstr ""
+msgstr "让他检查你的信息素扩散。"
 
 #: src-en/data/events_special_piracy.xml.append:8707
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CREW_STIMS\"]/event/text"
-msgstr ""
+msgstr "工程师检查了生命维持系统，以分析信息素的分布情况。过了一会儿，他提出了一个建议。“这套兴奋剂相当不错，不过它已经和你的生命维持系统混合了不少。我大概两个跃迁周期内能把它除掉。我建议我买下这些信息素，作为交换，我除了提供卸除服务之外，再额外赠送一件专用炸弹武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8709
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CREW_STIMS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的信息素扩散。"
 
 #: src-en/data/events_special_piracy.xml.append:8711
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_CREW_STIMS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了信息素。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8716
 msgid ""
@@ -9130,22 +9126,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8730
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUPER_CREW_STIMS\"]/text"
-msgstr ""
+msgstr "让他检查你的合成信息素。"
 
 #: src-en/data/events_special_piracy.xml.append:8732
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUPER_CREW_STIMS\"]/event/text"
-msgstr ""
+msgstr "工程师检查了生命维持系统，以分析信息素的分布情况。过了一会儿，他提出了一个建议。“这套兴奋剂相当不错，不过它已经和你的生命维持系统混合了不少。我大概两个跃迁周期内能把它除掉。我建议我买下这些信息素，作为交换，我除了提供卸除服务之外，再额外赠送一件专用炸弹武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8734
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUPER_CREW_STIMS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的合成信息素。"
 
 #: src-en/data/events_special_piracy.xml.append:8736
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUPER_CREW_STIMS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了信息素。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8741
 msgid ""
@@ -9160,22 +9156,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8755
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ELITE_STIMS\"]/text"
-msgstr ""
+msgstr "让他检查你的大威力信息素。"
 
 #: src-en/data/events_special_piracy.xml.append:8757
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ELITE_STIMS\"]/event/text"
-msgstr ""
+msgstr "工程师检查了生命维持系统，以分析信息素的分布情况。过了一会儿，他提出了一个建议。“这套兴奋剂相当不错，不过它已经和你的生命维持系统混合了不少。我大概两个跃迁周期内能把它除掉。我建议我买下这些信息素，作为交换，我除了提供卸除服务之外，再额外赠送一件专用炸弹武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8759
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ELITE_STIMS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的大威力信息素。"
 
 #: src-en/data/events_special_piracy.xml.append:8761
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ELITE_STIMS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了信息素。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8766
 msgid ""
@@ -9190,22 +9186,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8780
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUZERAIN_CREW_STIMS\"]/text"
-msgstr ""
+msgstr "让他检查你的领主信息素。"
 
 #: src-en/data/events_special_piracy.xml.append:8782
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUZERAIN_CREW_STIMS\"]/event/text"
-msgstr ""
+msgstr "工程师检查了生命维持系统，以分析信息素的分布情况。过了一会儿，他提出了一个建议。“这套兴奋剂相当不错，不过它已经和你的生命维持系统混合了不少。我大概两个跃迁周期内能把它除掉。我建议我买下这些信息素，作为交换，我除了提供卸除服务之外，再额外赠送一件专用炸弹武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8784
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUZERAIN_CREW_STIMS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的信息素散布器。"
 
 #: src-en/data/events_special_piracy.xml.append:8786
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SUZERAIN_CREW_STIMS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了信息素。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8791
 msgid ""
@@ -9220,22 +9216,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8805
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_KERNAL_REPLICATOR\"]/text"
-msgstr ""
+msgstr "让他检查你的果核温室。"
 
 #: src-en/data/events_special_piracy.xml.append:8807
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_KERNAL_REPLICATOR\"]/event/text"
-msgstr ""
+msgstr "工程师进入温室区域，检查弹药的生长过程。过了一会儿，他提出了一个建议。“这个温室看起来效率很高，不过要卸载它可不容易。我大概两个跃迁周期内能把它卸掉。我建议我买下这个温室，作为交换，我除了提供卸除服务之外，再额外赠送一件精英果核武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8809
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_KERNAL_REPLICATOR\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的果核温室。"
 
 #: src-en/data/events_special_piracy.xml.append:8811
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_KERNAL_REPLICATOR\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了温室。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8816
 msgid ""
@@ -9250,22 +9246,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8830
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_TOXIC\"]/text"
-msgstr ""
+msgstr "让他检查你的孢子散布器。"
 
 #: src-en/data/events_special_piracy.xml.append:8832
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_TOXIC\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查孢子散布器。过了一会儿，他提出了一个建议。“这些孢子可真有意思。我敢打赌，提取孢子散布器并清除你飞船中残留的孢子，大概需要我两个跃迁周期的时间。作为交换这些孢子的代价，我会提供上述服务，并给你一件精英孢子发射器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8834
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_TOXIC\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的孢子散布器。"
 
 #: src-en/data/events_special_piracy.xml.append:8836
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_TOXIC\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了孢子。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8841
 msgid ""
@@ -9280,22 +9276,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8855
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_BUFF\"]/text"
-msgstr ""
+msgstr "让他检查你的孢子散布器。"
 
 #: src-en/data/events_special_piracy.xml.append:8857
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_BUFF\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查孢子散布器。过了一会儿，他提出了一个建议。“这些孢子可真有意思。我敢打赌，提取孢子散布器并清除你飞船中残留的孢子，大概需要我两个跃迁周期的时间。作为交换这些孢子的代价，我会提供上述服务，并给你一件精英孢子发射器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8859
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_BUFF\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的孢子散布器。"
 
 #: src-en/data/events_special_piracy.xml.append:8861
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_BUFF\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了孢子。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8866
 msgid ""
@@ -9310,22 +9306,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8880
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_SHIPMENT\"]/text"
-msgstr ""
+msgstr "让他检查你的贵重孢子。"
 
 #: src-en/data/events_special_piracy.xml.append:8882
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_SHIPMENT\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查孢子散布器。过了一会儿，他提出了一个建议。“这些可真是昂贵的孢子！可惜它们对你的船员有不良影响。我敢打赌，提取孢子散布器并清除你飞船中残留的孢子，大概需要我两个跃迁周期的时间。作为交换这些孢子的代价，我会提供上述服务，并给你一件金色高射炮，以及几套防御护甲给你的船员。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8884
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_SHIPMENT\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的贵重孢子。"
 
 #: src-en/data/events_special_piracy.xml.append:8886
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_SHIPMENT\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了孢子。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8892
 msgid ""
@@ -9340,22 +9336,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8906
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_ELITE\"]/text"
-msgstr ""
+msgstr "让他检查你的孢子再分布器。"
 
 #: src-en/data/events_special_piracy.xml.append:8908
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_ELITE\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查孢子再分布器。过了一会儿，他提出了一个建议。“这些孢子可真有意思。我敢打赌，提取孢子再分布器并清除你飞船中残留的孢子，大概需要我三个跃迁周期的时间。作为交换这些孢子的代价，我会提供上述服务，并给你一件精英孢子发射器，以及几套防御护甲给你的船员。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8910
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_ELITE\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的孢子再分布器。"
 
 #: src-en/data/events_special_piracy.xml.append:8912
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"SPORE_AIR_ELITE\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了孢子。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8918
 msgid ""
@@ -9370,22 +9366,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8932
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PECULIAR_GAS\"]/text"
-msgstr ""
+msgstr "让他检查你的奇异气体。"
 
 #: src-en/data/events_special_piracy.xml.append:8934
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PECULIAR_GAS\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查气体发射器。过了一会儿，他提出了一个建议。“这确实是一种有趣的有毒气体。我敢打赌，提取气体发射器并清除你飞船中残留的气体，大概需要我两个跃迁周期的时间。作为交换这些气体的代价，我会提供上述服务，并给你一件专用船体破坏武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8936
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PECULIAR_GAS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的奇异气体。"
 
 #: src-en/data/events_special_piracy.xml.append:8938
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"PECULIAR_GAS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了气体。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8943
 msgid ""
@@ -9400,22 +9396,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8957
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_TOXIC_GAS\"]/text"
-msgstr ""
+msgstr "让他检查你的有毒气体。"
 
 #: src-en/data/events_special_piracy.xml.append:8959
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_TOXIC_GAS\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查气体发射器。过了一会儿，他提出了一个建议。“这确实是一种有趣的有毒气体。我敢打赌，提取气体发射器并清除你飞船中残留的气体，大概需要我两个跃迁周期的时间。作为交换这些气体的代价，我会提供上述服务，并给你一件专用船体破坏武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8961
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_TOXIC_GAS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的有毒气体。"
 
 #: src-en/data/events_special_piracy.xml.append:8963
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_TOXIC_GAS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了气体。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8968
 msgid ""
@@ -9430,22 +9426,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:8982
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANITE_GAS\"]/text"
-msgstr ""
+msgstr "让他检查你的纳米机气。"
 
 #: src-en/data/events_special_piracy.xml.append:8984
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANITE_GAS\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查气体发射器。过了一会儿，他提出了一个建议。“这确实是一种有趣的有毒气体。我敢打赌，提取气体发射器并清除你飞船中残留的气体，大概需要我两个跃迁周期的时间。作为交换这些气体的代价，我会提供上述服务，并给你一件专用船体破坏武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:8986
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANITE_GAS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的纳米机气。"
 
 #: src-en/data/events_special_piracy.xml.append:8988
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANITE_GAS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了气体。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:8993
 msgid ""
@@ -9460,22 +9456,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9007
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_GAS\"]/text"
-msgstr ""
+msgstr "让他检查你的迅捷气体。"
 
 #: src-en/data/events_special_piracy.xml.append:9009
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_GAS\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查气体发射器。过了一会儿，他提出了一个建议。“这确实是一种有趣的有毒气体。我敢打赌，提取气体发射器并清除你飞船中残留的气体，大概需要我两个跃迁周期的时间。作为交换这些气体的代价，我会提供上述服务，并给你一件专用船体破坏武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9011
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_GAS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的迅捷气体。"
 
 #: src-en/data/events_special_piracy.xml.append:9013
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_REGEN_GAS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了气体。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9018
 msgid ""
@@ -9490,22 +9486,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9032
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RADIANT_GAS\"]/text"
-msgstr ""
+msgstr "让他检查你的肉毒杆菌气体。"
 
 #: src-en/data/events_special_piracy.xml.append:9034
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RADIANT_GAS\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查气体发射器。过了一会儿，他提出了一个建议。“这是一种极其强效的毒素！移除这些发射器会相当棘手，但我想我能搞定。我敢打赌，提取气体发射器并清除你飞船中残留的气体，大概需要我三个跃迁周期的时间。作为交换这些气体的代价，我会提供上述服务，并给你一件专用船体破坏武器、一架高度先进的战斗无人机，以及一大笔废料和资源。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9036
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RADIANT_GAS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的肉毒杆菌气体。"
 
 #: src-en/data/events_special_piracy.xml.append:9038
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RADIANT_GAS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了气体。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9050
 msgid ""
@@ -9520,22 +9516,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9064
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"REPAIR_HULL\"]/text"
-msgstr ""
+msgstr "让他检查你的吸收镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:9066
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"REPAIR_HULL\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这套装甲看起来相当不错，不过它跟你飞船焊得很紧。我大概两个跃迁周期内能把它卸掉。我建议我买下这套装甲，作为交换，我除了提供卸除服务之外，再额外赠送这架特殊的无人机，是我前阵子发现的。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9068
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"REPAIR_HULL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的吸收镀层。"
 
 #: src-en/data/events_special_piracy.xml.append:9070
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"REPAIR_HULL\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了装甲。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9075
 msgid ""
@@ -9550,22 +9546,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9089
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_COAL_AUG\"]/text"
-msgstr ""
+msgstr "让他检查你的团结精英队装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:9091
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_COAL_AUG\"]/event/text"
-msgstr ""
+msgstr "工程师绕着你的飞船走了好几圈，找出了强化装甲的核心点。过了一会儿，他提出了一个建议。“这可真是一件非常精良的装甲！可惜它跟你的飞船焊得太紧了。这得花相当长时间，但我估计大概三个跃迁周期内能把它卸掉。作为交换装甲的代价，我会提供卸除服务，并额外赠送一些废料、一大堆导弹，以及三件专用武器：一件导弹武器、一件炸弹武器和一件反生物武器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9093
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_COAL_AUG\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的团结精英队装甲。"
 
 #: src-en/data/events_special_piracy.xml.append:9095
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_COAL_AUG\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在三个跃迁周期内成功移除了装甲。“好了，这是第一把枪……”"
 
 #: src-en/data/events_special_piracy.xml.append:9104
 msgid ""
@@ -9575,7 +9571,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9106
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_COAL_AUG\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“这是第二把枪……”"
 
 #: src-en/data/events_special_piracy.xml.append:9109
 msgid ""
@@ -9585,7 +9581,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9111
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_COAL_AUG\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "“这是第三把枪。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9114
 msgid ""
@@ -9600,22 +9596,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9132
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ANCIENT_SHIELD\"]/text"
-msgstr ""
+msgstr "让他检查你的以太护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9134
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ANCIENT_SHIELD\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过彻底检查后，他提出了一个建议。“这真是一种我前所未见的光质技术！不过这些电池，可不容易拆除。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一件超高功率防御者无人机。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9136
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ANCIENT_SHIELD\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的以太护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9138
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ANCIENT_SHIELD\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9143
 msgid ""
@@ -9630,22 +9626,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9157
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROYAL_SHIELD\"]/text"
-msgstr ""
+msgstr "让他检查你的飞升护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9159
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROYAL_SHIELD\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过彻底检查后，他提出了一个建议。“这真是一种我前所未见的光质技术！不过这些电池，可不容易拆除。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一件超高功率防御者无人机，以及这件强大的武器，是我前阵子收到的。我还会在我们走私者同行面前为你美言几句。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9161
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROYAL_SHIELD\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的飞升护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9163
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_ROYAL_SHIELD\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9169
 msgid ""
@@ -9660,22 +9656,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9184
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS\"]/text"
-msgstr ""
+msgstr "让他检查你的怪异护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9186
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过彻底检查后，他提出了一个建议。“这真是一种我前所未见的光质技术！不过这些电池，可不容易拆除。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一件超高功率防御者无人机。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9188
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的怪异护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9190
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9195
 msgid ""
@@ -9690,22 +9686,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9209
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_B\"]/text"
-msgstr ""
+msgstr "让他检查你的怪异护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9211
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_B\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过彻底检查后，他提出了一个建议。“这真是一种我前所未见的光质技术！不过这些电池，可不容易拆除。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一件超高功率防御者无人机。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9213
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_B\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的怪异护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9215
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_B\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9220
 msgid ""
@@ -9720,22 +9716,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9234
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_C\"]/text"
-msgstr ""
+msgstr "让他检查你的怪异护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9236
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_C\"]/event/text"
-msgstr ""
+msgstr "工程师带来了一些扫描仪，用来检查为超级护盾供电的电池。经过彻底检查后，他提出了一个建议。“这真是一种我前所未见的光质技术！不过这些电池，可不容易拆除。这得花点时间，但我估计大概两个跃迁周期内能把它卸掉。作为交换护盾的代价，我会提供卸除服务，并额外赠送一件超高功率防御者无人机。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9238
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_C\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的怪异护盾。"
 
 #: src-en/data/events_special_piracy.xml.append:9240
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"RHYME_SHIELDS_C\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了护盾。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9245
 msgid ""
@@ -9750,22 +9746,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9260
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_PROTON_PACK\"]/text"
-msgstr ""
+msgstr "让他检查你的质子祛魂器。"
 
 #: src-en/data/events_special_piracy.xml.append:9262
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_PROTON_PACK\"]/event/text"
-msgstr ""
+msgstr "“嗯？这不就是个追踪器盒子吗？我不明白你为什么需要我来处理这个，但如果你不想要，我可以帮你拿走。不过，我不会给补偿。”"
 
 #: src-en/data/events_special_piracy.xml.append:9264
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_PROTON_PACK\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的质子祛魂器。"
 
 #: src-en/data/events_special_piracy.xml.append:9266
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_PROTON_PACK\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "工程师把那个盒子搬回他的作坊，然后再次联系你。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后准备跃迁。由于这次交付很快，你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:9269
 msgid ""
@@ -9785,22 +9781,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9287
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANOBOT_DEFENSE_SYSTEM\"]/text"
-msgstr ""
+msgstr "让他检查你的纳米扰员机。"
 
 #: src-en/data/events_special_piracy.xml.append:9289
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANOBOT_DEFENSE_SYSTEM\"]/event/text"
-msgstr ""
+msgstr "工程师穿上防护服，登上你的飞船检查纳米机器人。过了一会儿，他提出了一个建议。“这确实是一套有趣的纳米机器人。我敢打赌，提取这些纳米机器人并将其从你的飞船中清除，大概需要我一个跃迁周期的时间。作为交换这些纳米机器人的代价，我会提供上述服务，并给你一个外部无人机增强器。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9291
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANOBOT_DEFENSE_SYSTEM\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的纳米扰员机。"
 
 #: src-en/data/events_special_piracy.xml.append:9293
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NANOBOT_DEFENSE_SYSTEM\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在一个跃迁周期内成功移除了纳米机器人。“谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9298
 msgid ""
@@ -9815,22 +9811,22 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9312
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/text"
-msgstr ""
+msgstr "让他检查你的钛合金系统外壳。"
 
 #: src-en/data/events_special_piracy.xml.append:9314
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/text"
-msgstr ""
+msgstr "工程师四处检查你的系统，分析防护外壳的安装情况。过了一会儿，他提出了一个建议。“这真是一个相当结实的防护外壳。移除它可能需要一点时间，但能做到。我敢打赌，从你的系统中移除这个外壳大概需要我两个跃迁周期的时间。作为交换这个外壳的代价，我会提供上述服务，并升级你所有的子系统。成交？”"
 
 #: src-en/data/events_special_piracy.xml.append:9316
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/text"
-msgstr ""
+msgstr "接受他的提议，移除你的钛合金系统外壳。"
 
 #: src-en/data/events_special_piracy.xml.append:9318
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在一旁看着工程师工作，对他的技艺和操作机器时的精准度感到惊讶。这花了一些时间，但正如承诺的那样，工程师在两个跃迁周期内成功移除了外壳。“好了，现在该给你的子系统升级了。我们从驾驶舱开始。”"
 
 #: src-en/data/events_special_piracy.xml.append:9322
 msgid ""
@@ -9842,7 +9838,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“现在，给你的传感器升级。”"
 
 #: src-en/data/events_special_piracy.xml.append:9327
 msgid ""
@@ -9854,7 +9850,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/event/choice[@req=\"doors\" and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“接下来，给你的门禁系统升级。”"
 
 #: src-en/data/events_special_piracy.xml.append:9332
 msgid ""
@@ -9868,7 +9864,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"1\"]/event/choice[@req=\"battery\" and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“最后，给你的备用电池升级。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9337
 msgid ""
@@ -9889,7 +9885,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"1\"]/event/choice[@req=\"battery\" and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“既然你没有备用电池子系统，那就让我来为你安装一个。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9348
 msgid ""
@@ -9908,7 +9904,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/event/choice[@req=\"doors\" and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“既然你没有门禁子系统，那就让我来为你安装一个。”"
 
 #: src-en/data/events_special_piracy.xml.append:9361
 msgid ""
@@ -9922,7 +9918,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"0\"]/event/choice[@req=\"battery\" and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“最后，给你的备用电池升级。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9366
 msgid ""
@@ -9943,7 +9939,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"1\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"0\"]/event/choice[@req=\"battery\" and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“既然你没有备用电池子系统，那就让我来为你安装一个。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9377
 msgid ""
@@ -9962,7 +9958,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“既然你没有传感器子系统，那就让我来为你安装一个。”"
 
 #: src-en/data/events_special_piracy.xml.append:9392
 msgid ""
@@ -9974,7 +9970,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"0\"]/event/choice[@req=\"doors\" and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“接下来，给你的门禁系统升级。”"
 
 #: src-en/data/events_special_piracy.xml.append:9397
 msgid ""
@@ -9988,7 +9984,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"0\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"1\"]/event/choice[@req=\"battery\" and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“最后，给你的备用电池升级。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9402
 msgid ""
@@ -10009,7 +10005,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"0\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"1\"]/event/choice[@req=\"battery\" and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“既然你没有备用电池子系统，那就让我来为你安装一个。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9413
 msgid ""
@@ -10028,7 +10024,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"0\"]/event/choice[@req=\"doors\" and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“既然你没有门禁子系统，那就让我来为你安装一个。”"
 
 #: src-en/data/events_special_piracy.xml.append:9426
 msgid ""
@@ -10042,7 +10038,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"0\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"0\"]/event/choice[@req=\"battery\" and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“最后，给你的备用电池升级。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9431
 msgid ""
@@ -10063,7 +10059,7 @@ msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_SYSTEM_CASING\"]/event/choice[1]/event/choice[@req=\"sensors\""
 " and @lvl=\"0\"]/event/choice[@req=\"doors\" and "
 "@lvl=\"0\"]/event/choice[@req=\"battery\" and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“既然你没有备用电池子系统，那就让我来为你安装一个。谢谢你今天来见我，伙计！如果你还有更多不想要的东西，希望很快能再见到你。”你向他道谢，然后在舰队进一步逼近之前准备跃迁。"
 
 #: src-en/data/events_special_piracy.xml.append:9442
 msgid ""
@@ -10080,27 +10076,27 @@ msgstr "拒绝他的提议，让他检查别的东西。"
 #: src-en/data/events_special_piracy.xml.append:9463
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"STORY_TELLER\"]/text"
-msgstr ""
+msgstr "工程师显然无法从你的飞船上移除“说书人”。你怀疑如果有人试图这么做，他们肯定不会高兴。"
 
 #: src-en/data/events_special_piracy.xml.append:9467
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_XENOPHOBIA\"]/text"
-msgstr ""
+msgstr "工程师显然无法从你的飞船上移除“排外主义”。无论多高超的机械技艺，都无法说服你的人类船员改变他们的本性。"
 
 #: src-en/data/events_special_piracy.xml.append:9471
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[@req=\"LOCKED_NEWORDER\"]/text"
-msgstr ""
+msgstr "工程师显然无法从你的飞船上移除“新秩序”。无论多高超的机械技艺，都无法说服你的超能族船员改变他们的本性。"
 
 #: src-en/data/events_special_piracy.xml.append:9482
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[66]/text"
-msgstr ""
+msgstr "你在找什么样的技术？"
 
 #: src-en/data/events_special_piracy.xml.append:9484
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[66]/event/text"
-msgstr ""
+msgstr "“我？我想得到别人只能奢望的技术……不过倒也没那么深奥，我们不是在这儿谈论什么被禁止的黑魔法。在我走私生涯比较活跃的那段日子里，我逐渐开始反感某些飞船改装件的限制性。我记得有一次，我所在的一艘船被一些叛军击中无数次，就因为那该死的岩石镀层拖慢了我们的速度！我当时下定决心要找到一种方法，把那没用的镀层从船上剥离下来。于是我花了好几个月研究和与其他同僚探讨，直到最后终于成功让那艘船摆脱了镀层。几年过去了，我逐渐专精于这一行。当有人想除掉某种顽固的、深嵌在船体里无法直接卖掉的改装件时，他们就会来找我。所以，这就是我在找的技术类型。因为我在寻求挑战。也因为，这些物品的收藏真是棒极了！”"
 
 #: src-en/data/events_special_piracy.xml.append:9486
 msgid ""
@@ -10115,7 +10111,7 @@ msgstr "不进行交易。"
 #: src-en/data/events_special_piracy.xml.append:9496
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"PIP_SMUGGLER_WORKSHOP_DOCK\"]/choice[67]/event/text"
-msgstr ""
+msgstr "“啊，真遗憾。好吧，如果你改变主意了，你知道该找谁！”"
 
 #: src-en/data/events_special_piracy.xml.append:9498
 msgid ""
@@ -10130,255 +10126,270 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:9518
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/text"
-msgstr ""
+msgstr "你翻开文件夹，浏览了一些档案。你用余光注意到那个佣兵笑得相当阴险，仿佛这是他最喜欢被人雇佣的服务。"
 
 #: src-en/data/events_special_piracy.xml.append:9520
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[@req=\"loc_merc_target_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于“独眼”叛徒汤米的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9524
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[@req=\"loc_merc_target_1\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉“独眼”叛徒汤米。"
 
 #: src-en/data/events_special_piracy.xml.append:9528
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[@req=\"loc_merc_target_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于失败的创业者布雷特·拉斯的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9532
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[@req=\"loc_merc_target_2\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉失败的创业者布雷特·拉斯。"
 
 #: src-en/data/events_special_piracy.xml.append:9536
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[@req=\"loc_merc_target_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于赏金猎人冈克的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9540
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[@req=\"loc_merc_target_3\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉赏金猎人冈克。"
 
 #: src-en/data/events_special_piracy.xml.append:9544
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[@req=\"MERCENARY_UNIQUE_TARGETS_CHECK\"]/text"
-msgstr ""
+msgstr "[声望 4+] 要求更高级的目标。"
 
 #: src-en/data/events_special_piracy.xml.append:9548
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_1\"]/choice[8]/text"
-msgstr ""
+msgstr "合上文件夹。"
 
 #: src-en/data/events_special_piracy.xml.append:9556
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/text"
-msgstr ""
+msgstr "你翻开文件夹，浏览了一些档案。你用余光注意到那个佣兵笑得相当阴险，仿佛这是他最喜欢被人雇佣的服务。"
 
 #: src-en/data/events_special_piracy.xml.append:9558
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[@req=\"loc_merc_target_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于马克·墨菲的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9562
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[@req=\"loc_merc_target_4\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉马克·墨菲。"
 
 #: src-en/data/events_special_piracy.xml.append:9566
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[@req=\"loc_merc_target_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于狡猾的蛞蝓骗子哈格斯的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9570
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[@req=\"loc_merc_target_5\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉狡猾的蛞蝓骗子哈格斯。"
 
 #: src-en/data/events_special_piracy.xml.append:9574
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[@req=\"loc_merc_target_6\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于“铁拳”威尔逊的资料，他曾是联邦执法者，现已退役。"
 
 #: src-en/data/events_special_piracy.xml.append:9578
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[@req=\"loc_merc_target_6\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉“铁拳”威尔逊，他曾是联邦执法者，现已退役。"
 
 #: src-en/data/events_special_piracy.xml.append:9582
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[@req=\"MERCENARY_UNIQUE_TARGETS_CHECK\"]/text"
-msgstr ""
+msgstr "[声望 4+] 要求更高级的目标。"
 
 #: src-en/data/events_special_piracy.xml.append:9586
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_2\"]/choice[8]/text"
-msgstr ""
+msgstr "合上文件夹。"
 
 #: src-en/data/events_special_piracy.xml.append:9594
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/text"
-msgstr ""
+msgstr "你翻开文件夹，浏览了一些档案。你用余光注意到那个佣兵笑得相当阴险，仿佛这是他最喜欢被人雇佣的服务。"
 
 #: src-en/data/events_special_piracy.xml.append:9596
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[@req=\"loc_merc_target_7\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于疯狂的邪教布道者罗格纳四世的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9600
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[@req=\"loc_merc_target_7\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉疯狂的邪教布道者罗格纳四世。"
 
 #: src-en/data/events_special_piracy.xml.append:9604
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[@req=\"loc_merc_target_8\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于佣兵杀手米尔顿·约翰的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9608
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[@req=\"loc_merc_target_8\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉佣兵杀手米尔顿·约翰。"
 
 #: src-en/data/events_special_piracy.xml.append:9612
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[@req=\"loc_merc_target_9\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于危险黑客安东尼·斯通的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9616
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[@req=\"loc_merc_target_9\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉危险黑客安东尼·斯通。"
 
 #: src-en/data/events_special_piracy.xml.append:9620
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[@req=\"MERCENARY_UNIQUE_TARGETS_CHECK\"]/text"
-msgstr ""
+msgstr "[声望 4+] 要求更高级的目标。"
 
 #: src-en/data/events_special_piracy.xml.append:9624
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_3\"]/choice[8]/text"
-msgstr ""
+msgstr "合上文件夹。"
 
 #: src-en/data/events_special_piracy.xml.append:9632
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/text"
-msgstr ""
+msgstr "你翻开文件夹，浏览了一些档案。你用余光注意到那个佣兵笑得相当阴险，仿佛这是他最喜欢被人雇佣的服务。"
 
 #: src-en/data/events_special_piracy.xml.append:9634
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[@req=\"loc_merc_target_10\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于“独眼”叛徒汤米的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9638
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[@req=\"loc_merc_target_10\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉“独眼”叛徒汤米。"
 
 #: src-en/data/events_special_piracy.xml.append:9642
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[@req=\"loc_merc_target_11\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于失败的创业者布雷特·拉斯的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9646
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[@req=\"loc_merc_target_11\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉失败的创业者布雷特·拉斯。"
 
 #: src-en/data/events_special_piracy.xml.append:9650
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[@req=\"loc_merc_target_12\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于赏金猎人冈克的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9654
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[@req=\"loc_merc_target_12\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉赏金猎人冈克。"
 
 #: src-en/data/events_special_piracy.xml.append:9658
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[@req=\"MERCENARY_UNIQUE_TARGETS_CHECK\"]/text"
-msgstr ""
+msgstr "[声望 4+] 要求更高级的目标。"
 
 #: src-en/data/events_special_piracy.xml.append:9662
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_4\"]/choice[8]/text"
-msgstr ""
+msgstr "合上文件夹。"
 
 #: src-en/data/events_special_piracy.xml.append:9670
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_UNIQUE\"]/text"
 msgstr ""
+"“啊，这么说，‘普通’目标还不够你瞧的？好吧，我们目前有两个超高优先级的目标……”佣兵走向一个小储物柜，输入了一串长得让人觉得不真实的密码，然后拿着两份更整洁的档案回来了。\n"
+"\n"
+"“我们对这两个目标都有详尽的信息。我们自己还没有动手的唯一原因是，佣兵团里的战略家们仍在计划进攻方案，而且我们也需要金主帮忙承担一些潜在的损失。这些家伙可不是闹着玩的：他们很聪明，名气大，而且防卫极其严密。好处是，如果行动成功，他们那里可能有价值极高的财物等着我们。这会花费你一大笔钱，如果行动进展不如预期，花费甚至可能更高。但据说，第一个人手里有很多违禁品，而第二个人可能拥有只有极少数人类才见过的技术。”"
 
 #: src-en/data/events_special_piracy.xml.append:9674
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_UNIQUE\"]/choice[@req=\"loc_merc_target_unique_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于“狼”格雷格·巴拿巴的资料，一位崭露头角的走私者霸主。"
 
 #: src-en/data/events_special_piracy.xml.append:9678
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_UNIQUE\"]/choice[@req=\"loc_merc_target_unique_1\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉“狼”格雷格·巴拿巴，一位崭露头角的走私者霸主。"
 
 #: src-en/data/events_special_piracy.xml.append:9682
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_UNIQUE\"]/choice[@req=\"loc_merc_target_unique_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "阅读关于天才科学家兼联邦首席研究员亨特·布里格斯的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9686
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_UNIQUE\"]/choice[@req=\"loc_merc_target_unique_2\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你已经雇佣了一名佣兵去干掉天才科学家兼联邦首席研究员亨特·布里格斯。"
 
 #: src-en/data/events_special_piracy.xml.append:9690
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_LIST_UNIQUE\"]/choice[5]/text"
-msgstr ""
+msgstr "合上文件。"
 
 #: src-en/data/events_special_piracy.xml.append:9700
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_1\"]/text"
 msgstr ""
+"“姓名：托马斯·巴洛\n"
+"别名：“独眼”叛徒汤米\n"
+"年龄：54岁\n"
+"种族：人类\n"
+"优先级：低\n"
+"成功行动难度：低\n"
+"潜在收益：低\n"
+"\n"
+"托马斯曾是佣兵团的一名成员，在佣兵中拥有不高的军衔。他因在一场枪战中英勇地（或愚蠢地）取回一件货物，结果被一颗跳弹击中了左眼，从而赢得了这个绰号。在一次大任务中获得丰厚报酬后，他带着收益和飞船跑了，多年杳无音信。幸运的是，唯一的重大损失就是那艘飞船本身，托马斯把它卖掉用以维持一个廉价的退休生活。虽然他的廉价退休生活意味着很容易找到并干掉他，但他很可能已经没什么值钱的东西剩下了。"
 
 #: src-en/data/events_special_piracy.xml.append:9710
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_1\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉“独眼”叛徒汤米。"
 
 #: src-en/data/events_special_piracy.xml.append:9712
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_1\"]/choice[1]/event/text"
 msgstr ""
+"“嗯，我听说过这家伙。据我所知，他当年在这一行还是挺有本事的，不知道他为什么要为了一个廉价的退休生活而抛弃一切，明明他本可以赚到更好的退休生活，还不用背上悬赏。哎算了，这不关我的事，也不是人家雇佣我的目的。”\n"
+"\n"
+"佣兵快速清点了废料，然后咧嘴一笑。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:9722
 msgid ""
@@ -10388,22 +10399,34 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9728
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_1\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9736
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_2\"]/text"
 msgstr ""
+"“姓名：布雷特·拉斯\n"
+"别名：无\n"
+"年龄：39岁\n"
+"种族：人类\n"
+"优先级：中\n"
+"成功行动难度：中\n"
+"潜在收益：中\n"
+"\n"
+"布雷特曾雇佣了一些佣兵为他的生意进行某些‘活动’，声称一旦他业务上轨道，就能支付他们三倍于正常费率的报酬。但他的生意没持续多久，那些佣兵一个也没拿到钱。布雷特仍然保留着生意中的部分利润，并将其一部分用于飞船升级，这是他唯一对抗佣兵团的防御手段。他可能仍然在他废弃的仓库里，或者在他的飞船上藏有一些利润。"
 
 #: src-en/data/events_special_piracy.xml.append:9747
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_2\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉失败的创业者布雷特·拉斯。"
 
 #: src-en/data/events_special_piracy.xml.append:9749
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_2\"]/choice[1]/event/text"
 msgstr ""
+"“啊，我的伙计前几天还在抱怨这家伙呢。他们不得不做些奇怪的活动，但谁又能拒绝向当地人发放问卷就能拿到100废料呢？要我说，这听起来就像个骗局，结果也确实差不多就是个骗局。”\n"
+"\n"
+"佣兵快速清点了废料，然后咧嘴一笑。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:9760
 msgid ""
@@ -10413,22 +10436,34 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9766
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_2\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9774
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_3\"]/text"
 msgstr ""
+"“姓名：冈克\n"
+"别名：无\n"
+"年龄：40岁\n"
+"种族：岩石族\n"
+"优先级：中高\n"
+"成功行动难度：中高\n"
+"潜在收益：高\n"
+"\n"
+"冈克在开始他的佣兵生涯（或者更确切地说是赏金猎人生涯）时改了名字。他几乎和维尔的某些天使一样出色，这对于一个相对不为人知的角色来说很能说明问题。佣兵团本来很乐意给他提供一个职位，但他在为联邦执行一项任务时，搞砸了一笔毒品交易，得罪了维尔的一个朋友。冈克不错的能力应该意味着他的收入不错，而他特有的自负体现在他缺乏强大的防御上。不过，他也不是能轻易拿下的目标，但对于一次有计划的行动来说应该不成问题。"
 
 #: src-en/data/events_special_piracy.xml.append:9785
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_3\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉赏金猎人冈克。"
 
 #: src-en/data/events_special_piracy.xml.append:9787
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_3\"]/choice[1]/event/text"
 msgstr ""
+"“让我告诉你一件事，小子。自信是一回事，但像该死的冈克那样自负，最终只会自取灭亡。我能从我们最低端的飞船里挑一艘，它们的防御可能都比这家伙强。当然，他不知道他得罪了维尔的朋友，但作为一个赏金猎人，防御这么差，他简直是在自找麻烦。”\n"
+"\n"
+"佣兵快速清点了废料，然后咧嘴一笑。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:9798
 msgid ""
@@ -10438,22 +10473,36 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9804
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_3\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9812
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_4\"]/text"
 msgstr ""
+"“姓名：马克·墨菲\n"
+"别名：无\n"
+"年龄：42岁\n"
+"种族：人类\n"
+"优先级：高（由一人投票决定）\n"
+"成功行动难度：低\n"
+"潜在收益：低\n"
+"\n"
+"马克是两个孩子的普通父亲，是一个再普通不过的人类。他之所以出现在这份名单上，唯一的原因是他保护了一位酒吧顾客，而那位顾客惹恼了一位佣兵团高级官员的一个妻子的兄弟的朋友的一个醉酒朋友，结果导致那位朋友的朋友血流满面，以及一位愤怒的佣兵团官员。\n"
+"\n"
+"注：不管是谁干掉了这个人，都太不酷了，而且不会因此获得佣兵声望的提升。"
 
 #: src-en/data/events_special_piracy.xml.append:9824
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_4\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉马克·墨菲。"
 
 #: src-en/data/events_special_piracy.xml.append:9826
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_4\"]/choice[1]/event/text"
 msgstr ""
+"佣兵盯着你看了几秒钟，然后确认道：“在所有确实该挨揍的混蛋中，你想让我去追这个人？”你点了点头。“伙计，我知道变元者冷酷无情，但至于这样吗？你只要知道，我从这份工作中得不到任何乐趣就行。”\n"
+"\n"
+"佣兵快速清点了废料，然后皱起了眉头。“哼，我想我还是马上去办吧。到这些坐标来找我，我好把从这个可怜家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:9836
 msgid ""
@@ -10463,22 +10512,34 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9842
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_4\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9850
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_5\"]/text"
 msgstr ""
+"“姓名：哈格斯\n"
+"别名：滑头先生\n"
+"年龄：28岁\n"
+"种族：蛞蝓\n"
+"优先级：高\n"
+"成功行动难度：中高\n"
+"潜在收益：高\n"
+"\n"
+"这位狡猾的蛞蝓骗子实际上欺骗了各种各样的傻瓜，从新晋的联邦官员到最近入伍的星联新兵都有。虽然哈格斯足够聪明，避免去欺骗能下令处死他的重要人物，但他没有考虑到一个被他骗走一箱废料的低级佣兵团保镖。那个低级佣兵团保镖在一次事件后迅速升迁，现在，哈格斯的优先级已从低变成了高。"
 
 #: src-en/data/events_special_piracy.xml.append:9861
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_5\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉狡猾的蛞蝓骗子哈格斯。"
 
 #: src-en/data/events_special_piracy.xml.append:9863
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_5\"]/choice[1]/event/text"
 msgstr ""
+"“我听说过几个关于这只蛞蝓行骗手法的离奇故事。说真的，怎么会有人相信‘我将向你展示如何用50废料在交易中亏钱’这种广告？有些故事令人悲哀，有些则相当阴险，但看来他的把戏快玩到头了。”\n"
+"\n"
+"佣兵快速清点了废料，然后咧嘴一笑。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:9874
 msgid ""
@@ -10488,22 +10549,36 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9880
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_5\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9888
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_6\"]/text"
 msgstr ""
+"“姓名：威尔逊\n"
+"别名：铁拳指挥官\n"
+"年龄：58岁\n"
+"种族：超能族\n"
+"优先级：高\n"
+"成功行动难度：高\n"
+"潜在收益：非常高\n"
+"\n"
+"指挥官威尔逊因用一根棍子上的熔铸铁拳拷打海盗以获取情报而闻名，获得了‘铁拳’的绰号。他一生都在联邦服役，对任何胆敢靠近他基地的海盗执行法律制裁。他强大的联邦背景意味着他在一段时间内是难以对付的目标，但既然他已经退休，应该更容易得手。威尔逊很可能会为任何试图向他复仇的人准备强大的防御，但作为一位有影响力的联邦官员长达30年，他很可能存有大量财物。\n"
+"\n"
+"注：威尔逊是联邦的榜样人物之一。任何与联邦有关联的人若试图谋杀他，联邦肯定会极其不满。"
 
 #: src-en/data/events_special_piracy.xml.append:9901
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_6\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉“铁拳”威尔逊，他曾是联邦执法者，现已退役。"
 
 #: src-en/data/events_special_piracy.xml.append:9903
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_6\"]/choice[1]/event/text"
 msgstr ""
+"佣兵的笑容咧得更大了，伴随着掰响指关节的声音。“非常好！尽管这家伙与联邦有关联，但我还希望你选他呢。我一直想揍这家伙一顿，自从他截获了一些走私者，而他们正带着我的上好酒水。现在有了你给我的这些废料，我可以找些额外帮手来抓住这个混蛋了。”\n"
+"\n"
+"佣兵快速清点了废料，然后发出威胁般的笑声。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。哎呀，考虑到这蠢货对走私者有多挑剔，我希望东西能有很多。”"
 
 #: src-en/data/events_special_piracy.xml.append:9914
 msgid ""
@@ -10513,22 +10588,36 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9920
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_6\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9928
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_7\"]/text"
 msgstr ""
+"“姓名：罗格纳四世\n"
+"别名：疯狂布道者\n"
+"年龄：40岁\n"
+"种族：岩石族\n"
+"优先级：中高\n"
+"成功行动难度：低\n"
+"潜在收益：低\n"
+"\n"
+"这只尖叫的原始狒狒偶尔会说出一些关于忏悔和水晶之神的可理解的话语，但他90%的‘布道’只是响亮而烦人的尖叫。有人认为卖给他一个扩音器是个好主意，于是罗格纳现在乘坐着他那艘小小的穿梭机旅行，骚扰他遇到的每一个组织，在设施附近扎营并向工人们布道。他已经两次光顾过佣兵团基地了，请劝你的客户干掉这家伙。\n"
+"\n"
+"注：这个疯子很可能以前就骚扰过联邦空间站。没人会想念这个白痴，尽管干掉他吧。"
 
 #: src-en/data/events_special_piracy.xml.append:9940
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_7\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉疯狂的邪教布道者罗格纳四世。"
 
 #: src-en/data/events_special_piracy.xml.append:9942
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_7\"]/choice[1]/event/text"
 msgstr ""
+"“呃啊，我不知道成为那个为银河系除掉这种麻烦的人所获得的荣耀，是否值得我付出半条命。请稍等一下。”佣兵回来时头上戴着太空头盔，头盔上还挂着一副耳机。“头盔里还有另一副降噪耳机，以防你好奇。”\n"
+"\n"
+"佣兵快速清点了废料，然后咧嘴一笑。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:9952
 msgid ""
@@ -10538,22 +10627,34 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9958
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_7\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:9966
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_8\"]/text"
 msgstr ""
+"“姓名：米尔顿·约翰\n"
+"别名：佣兵杀手\n"
+"年龄：32岁\n"
+"种族：人类\n"
+"优先级：高\n"
+"成功行动难度：中高\n"
+"潜在收益：高\n"
+"\n"
+"令人惊讶的是，米尔顿并不是一个非常有能力的杀手。由于永远对自己的生命感到偏执，他保留了一堆危险的武器来保护自己，尽管他自己并未接受过专业的瞄准或战斗训练。米尔顿意外炸毁了一艘向他提供服务的佣兵飞船，当另一名佣兵前来追捕他时，米尔顿极其幸运地用他最后一枚导弹的一发幸运射击摧毁了那名佣兵。这个可怜的傻瓜已经一年没有离开他的临时住所了，而且他已经没有弹药了，应该是个容易对付的目标。"
 
 #: src-en/data/events_special_piracy.xml.append:9977
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_8\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉佣兵杀手米尔顿·约翰。"
 
 #: src-en/data/events_special_piracy.xml.append:9979
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_8\"]/choice[1]/event/text"
 msgstr ""
+"“啊，那个幸运的家伙。想象一下，用最后一发弹药击中要害勉强干掉一个杀手，我可没这命。不知怎的，他居然认为躲在他的洞里比补充缺失的弹药更好？尽管这次猎杀应该毫无难度，但他那些老旧武器或许能拆出些好废料。”\n"
+"\n"
+"佣兵快速清点了废料，然后咧嘴一笑。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:9990
 msgid ""
@@ -10563,22 +10664,34 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:9996
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_8\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:10004
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_9\"]/text"
 msgstr ""
+"“姓名：安东尼·斯通\n"
+"别名：危险黑客\n"
+"年龄：26岁\n"
+"种族：人类\n"
+"优先级：高\n"
+"成功行动难度：高\n"
+"潜在收益：非常高\n"
+"\n"
+"安东尼的第一次成功黑客攻击，是在15岁时劫持了防御炮塔的控制系统，向骚扰他所在社区的叛军开火。在过去的一年里，他对佣兵团的攻击已造成巨额废料损失被他窃取，但一周前，安东尼在再次试图攻击佣兵团时犯了一个巨大的错误，暴露了他的居住地位置。观察员已确认安东尼仍居住在同一区域，但需要多名佣兵才能拿下他。虽然他能瘫痪一艘佣兵飞船，但多艘同时进攻就能为地面行动争取足够时间，而安东尼已知没有任何战斗经验。"
 
 #: src-en/data/events_special_piracy.xml.append:10015
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_9\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉危险黑客安东尼·斯通。"
 
 #: src-en/data/events_special_piracy.xml.append:10017
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_9\"]/choice[1]/event/text"
 msgstr ""
+"“你知道吗，我们第一次被黑的时候我就在那里。我去操作室找朋友聊天，结果却撞上了一起安全危机，每个人都在手忙脚乱地清除某个安东尼的病毒。如果我能拉上我的朋友参与这次任务，好好报个仇，那就太好了。”\n"
+"\n"
+"佣兵快速清点了废料，然后咧嘴一笑。“那我马上就去办。到这些坐标来找我，我好把这家伙身上找到的任何东西交给你。”"
 
 #: src-en/data/events_special_piracy.xml.append:10028
 msgid ""
@@ -10588,22 +10701,47 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10034
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_9\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:10042
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_1\"]/text"
 msgstr ""
+"“姓名：格雷格·赫西·巴拿巴\n"
+"别名：狼\n"
+"年龄：47岁\n"
+"种族：人类\n"
+"位置：从一条火车隧道中挖掘出的地下洞穴，只能通过地铁赌场进入\n"
+"优先级：！！！极高！！！\n"
+"成功行动难度：非常高\n"
+"潜在收益：???\n"
+"\n"
+"简介：\n"
+"“狼”格雷格·巴拿巴是名为“托拜厄斯商品”的走私集团的现任头目。他因在商业、战斗、飞船战和领导中表现出的冷酷无情而赢得这个绰号。\n"
+"\n"
+"发家史：\n"
+"“狼”格雷格·巴拿巴在20岁时通过徒手格斗击败了前任头目，夺取了一个相对不知名的走私集团的控制权。\n"
+"\n"
+"走私集团的扩张：\n"
+"在他领导的大约第15年，有传言说格雷格在几乎准备好推出一套优越的走私方法时发现了一些秘密技术，该方法大大降低了他们被官员抓获的风险。这两个因素的结合导致了对“托拜厄斯商品”服务的需求激增。\n"
+"\n"
+"现状：\n"
+"12年后的今天，“托拜厄斯商品”即将超越阿尔吉恩，成为使用最广泛的走私服务。格雷格的领导地位无人挑战，他居住在5年前应他要求建造的一个特殊地下洞穴中。"
 
 #: src-en/data/events_special_piracy.xml.append:10063
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_1\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉“狼”格雷格·巴拿巴。"
 
 #: src-en/data/events_special_piracy.xml.append:10065
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_1\"]/choice[1]/event/text"
 msgstr ""
+"“啊，你对‘狼’感兴趣？这可不像我们以前为你做过的任何目标，所以听好了。”\n"
+"\n"
+"“阿尔吉恩并不太乐意让某个不知名的走私集团在需求上超越他们，所以他们联系了我们，协助我们进行打击。这次行动至少需要阿尔吉恩和佣兵团各出动20艘飞船，因此可想而知，战利品将在所有参与者之间分配。”\n"
+"\n"
+"“不幸的是，行动不能保证按计划进行。虽然我现在需要你预付一大笔钱来装备和拉拢更多朋友加入，但行动可能比预期耗时更长，或者进展不如计划顺利，所以如果你想获得全额回报，之后可能需要额外投入时间或废料。否则，我们只能给你较少的报酬来补偿我们的损失。据说行动按计划进行的概率是50%，所以你也许能幸运地在不增加额外成本的情况下获得全额回报。还愿意支持这次猎杀行动吗？”"
 
 #: src-en/data/events_special_piracy.xml.append:10072
 msgid ""
@@ -10613,7 +10751,7 @@ msgstr "是的。"
 #: src-en/data/events_special_piracy.xml.append:10074
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_1\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“很好。我会在这些坐标等你，把报酬交给你。祈祷这次任务顺利，这样我就能在不额外收费的情况下把货物交给你了。”"
 
 #: src-en/data/events_special_piracy.xml.append:10082
 msgid ""
@@ -10621,7 +10759,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_piracy.xml.append:10088
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_1\"]/choice[1]/event/choice[2]/text"
 msgstr "算了。"
@@ -10629,22 +10766,47 @@ msgstr "算了。"
 #: src-en/data/events_special_piracy.xml.append:10096
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_1\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:10104
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_2\"]/text"
 msgstr ""
+"“姓名：亨特·布里格斯\n"
+"别名：无\n"
+"年龄：43岁\n"
+"种族：人类\n"
+"位置：当地一家托尼餐厅下方隐藏的地下设施中\n"
+"优先级：！！！极高！！！\n"
+"成功行动难度：极高\n"
+"潜在收益：???\n"
+"\n"
+"简介：\n"
+"亨特·布里格斯，更为人所知的联邦军官布里格斯船长的兄弟，是联邦在超自然与超常技术研究领域的首席科学家。\n"
+"\n"
+"发家史：\n"
+"亨特·布里格斯25岁加入联邦，并迅速确立了自己作为银河系最优秀科学家和研究者之一的地位。\n"
+"\n"
+"他是如何转到目前研究领域的：\n"
+"8年前，亨特被任命为联邦在超自然与超常技术研究领域的首席科学家。3年前，亨特从联邦的公开行动中“退休”，根据内部消息，他现在身处一个隐藏在地下、地面由一家假冒的托尼餐厅伪装的设施中。老托尼因收受了贿赂而对这家假店睁一只眼闭一只眼，亨特自“退休”后就一直待在那里。\n"
+"\n"
+"现状：\n"
+"根据内部消息，亨特一直在挖掘甚至超越某些派系一直在研究的难以捉摸的‘以太’技术。然而，最让佣兵团担忧的是他在开发一种逆向工程的计算机病毒方面所做的努力，该病毒最初是在一处带有‘以太’痕迹的废墟残骸中发现的。如果他的开发成功，联邦就可以迅速将该病毒部署到海盗、叛军以及任何其他惹恼他们的派系的系统中，确保联邦对海盗和叛乱的绝对控制。"
 
 #: src-en/data/events_special_piracy.xml.append:10125
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_2\"]/choice[1]/text"
-msgstr ""
+msgstr "雇佣那名佣兵去干掉天才科学家兼联邦首席研究员亨特·布里格斯。"
 
 #: src-en/data/events_special_piracy.xml.append:10127
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_2\"]/choice[1]/event/text"
 msgstr ""
+"“啊，你对那个联邦的家伙感兴趣？这可不像是我们以前为你做过的任何目标，所以听好了。”\n"
+"\n"
+"“他的这种病毒对海盗和叛军总体来说都很危险，所以有一个涉及所有派系的海盗甚至几个叛军的完整秘密项目，就是为了干掉这家伙。虽然地点的保密性是他们主要的防御手段之一，但考虑到这人的重要性，我们几乎可以肯定将面对前所未见的种种防御。”\n"
+"\n"
+"“不幸的是，行动不能保证按计划进行。虽然我现在需要你预付一大笔钱来装备和拉拢更多朋友加入，但行动可能比预期耗时更长，或者进展不如计划顺利，所以如果你想获得全额回报，之后可能需要额外投入时间或废料。否则，我们只能给你较少的报酬来补偿我们的损失。据说行动按计划进行的概率是33%，所以你也许能幸运地在不增加额外成本的情况下获得全额回报。还愿意支持这次猎杀行动吗？”"
 
 #: src-en/data/events_special_piracy.xml.append:10134
 msgid ""
@@ -10654,7 +10816,7 @@ msgstr "是的。"
 #: src-en/data/events_special_piracy.xml.append:10136
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_2\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“很好。我会在这些坐标等你，把报酬交给你。祈祷这次任务顺利，这样我就能在不额外收费的情况下把货物交给你了。”"
 
 #: src-en/data/events_special_piracy.xml.append:10144
 msgid ""
@@ -10662,7 +10824,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_piracy.xml.append:10150
-#, fuzzy
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_2\"]/choice[1]/event/choice[2]/text"
 msgstr "算了。"
@@ -10670,22 +10831,22 @@ msgstr "算了。"
 #: src-en/data/events_special_piracy.xml.append:10158
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_UNIQUE_2\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读其他可用目标的资料。"
 
 #: src-en/data/events_special_piracy.xml.append:10183
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_1\"]/text"
-msgstr ""
+msgstr "你到达了指定坐标，但周围不见佣兵的踪影。估计行动比预期耗时更久……"
 
 #: src-en/data/events_special_piracy.xml.append:10185
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_1\"]/choice[1]/text"
-msgstr ""
+msgstr "等待佣兵出现。"
 
 #: src-en/data/events_special_piracy.xml.append:10187
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "等了一段时间，但你的等待没有白费，佣兵终于跃迁而来。“抱歉来晚了，小子，虽然我确实警告过你行动可能比预期耗时更久。现在，该让你看看我给你带回了什么。”"
 
 #: src-en/data/events_special_piracy.xml.append:10190
 msgid ""
@@ -10700,7 +10861,7 @@ msgstr "离开。"
 #: src-en/data/events_special_piracy.xml.append:10200
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_1\"]/choice[2]/event/text"
-msgstr ""
+msgstr "不幸的是，你的主要任务太重要了，不能再冒险浪费时间。你只能猜想自己错过了什么好东西……"
 
 #: src-en/data/events_special_piracy.xml.append:10202
 msgid ""
@@ -10715,17 +10876,17 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10214
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_1\"]/text"
-msgstr ""
+msgstr "你发现佣兵在约定的会面地点等着你，脸色阴沉。“唉，这次行动很艰难。我们最终还是赢了，但过程中损失了几艘船。我得到的命令是，除非客户愿意帮忙支付部分损失，否则我们必须带回行动中所有的最好货物。”"
 
 #: src-en/data/events_special_piracy.xml.append:10216
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_1\"]/choice[1]/text"
-msgstr ""
+msgstr "我们付。"
 
 #: src-en/data/events_special_piracy.xml.append:10218
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“好吧，谢谢你对修复工作的帮助。既然我被允许把你应得的货物给你了，是时候让你看看我给你带回了什么。”"
 
 #: src-en/data/events_special_piracy.xml.append:10223
 msgid ""
@@ -10735,12 +10896,12 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10231
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_1\"]/choice[2]/text"
-msgstr ""
+msgstr "不了。"
 
 #: src-en/data/events_special_piracy.xml.append:10233
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_1\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“好吧，真可惜。我还是被允许给你一些行动中次要的战利品的，所以看看这个吧。”"
 
 #: src-en/data/events_special_piracy.xml.append:10235
 msgid ""
@@ -10750,7 +10911,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10245
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_PERFECT_UNIQUE_1\"]/text"
-msgstr ""
+msgstr "你到达了指定坐标，不久后佣兵也跃迁而来。“如果我自己说的话，这次行动出奇地顺利。出其不意的效果还真是不错，嗯？我想我们一艘船都没损失。现在，该给你我欠你的东西了……”"
 
 #: src-en/data/events_special_piracy.xml.append:10247
 msgid ""
@@ -10760,17 +10921,17 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10255
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_2\"]/text"
-msgstr ""
+msgstr "你到达了指定坐标，但周围不见佣兵的踪影。估计行动比预期耗时更久……"
 
 #: src-en/data/events_special_piracy.xml.append:10257
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_2\"]/choice[1]/text"
-msgstr ""
+msgstr "等待佣兵出现。"
 
 #: src-en/data/events_special_piracy.xml.append:10259
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "等了一段时间，但你的等待没有白费，佣兵终于跃迁而来。“抱歉来晚了，小子，虽然我确实警告过你行动可能比预期耗时更久。现在，该让你看看我给你带回了什么。”"
 
 #: src-en/data/events_special_piracy.xml.append:10262
 msgid ""
@@ -10785,7 +10946,7 @@ msgstr "离开。"
 #: src-en/data/events_special_piracy.xml.append:10272
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_LATE_UNIQUE_2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "不幸的是，你的主要任务太重要了，不能再冒险浪费时间。你只能猜想自己错过了什么好东西……"
 
 #: src-en/data/events_special_piracy.xml.append:10274
 msgid ""
@@ -10800,17 +10961,17 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10286
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_2\"]/text"
-msgstr ""
+msgstr "你发现佣兵在约定的会面地点等着你，脸色阴沉。“唉，这次行动很艰难。我们最终还是赢了，但过程中损失了几艘船。我得到的命令是，除非客户愿意帮忙支付部分损失，否则我们必须带回行动中所有的最好货物。”"
 
 #: src-en/data/events_special_piracy.xml.append:10288
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_2\"]/choice[1]/text"
-msgstr ""
+msgstr "我们付。"
 
 #: src-en/data/events_special_piracy.xml.append:10290
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“好吧，谢谢你对修复工作的帮助。既然我被允许把你应得的货物给你了，是时候让你看看我给你带回了什么。”"
 
 #: src-en/data/events_special_piracy.xml.append:10295
 msgid ""
@@ -10820,12 +10981,12 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10303
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_2\"]/choice[2]/text"
-msgstr ""
+msgstr "不了。"
 
 #: src-en/data/events_special_piracy.xml.append:10305
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_DAMAGED_UNIQUE_2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“好吧，真可惜。我还是被允许给你一些行动中次要的战利品的，所以看看这个吧。”"
 
 #: src-en/data/events_special_piracy.xml.append:10307
 msgid ""
@@ -10835,7 +10996,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10317
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_QUEST_PERFECT_UNIQUE_2\"]/text"
-msgstr ""
+msgstr "你到达了指定坐标，不久后佣兵也跃迁而来。“如果我自己说的话，这次行动出奇地顺利。出其不意的效果还真是不错，嗯？我想我们一艘船都没损失。现在，该给你我欠你的东西了……”"
 
 #: src-en/data/events_special_piracy.xml.append:10319
 msgid ""
@@ -10845,7 +11006,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10424
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_QUEST_LOW\"]/text"
-msgstr ""
+msgstr "你到达指定坐标后不久，你之前见过的那名佣兵也跃迁而来。“啊，看来我们都很准时。让我给你看看我从你的目标那里弄到了什么……”"
 
 #: src-en/data/events_special_piracy.xml.append:10426
 msgid ""
@@ -10855,7 +11016,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10434
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_QUEST_MEDIUM\"]/text"
-msgstr ""
+msgstr "你到达指定坐标后不久，你之前见过的那名佣兵也跃迁而来。“啊，看来我们都很准时。让我给你看看我从你的目标那里弄到了什么……”"
 
 #: src-en/data/events_special_piracy.xml.append:10436
 msgid ""
@@ -10865,7 +11026,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10444
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_QUEST_HIGH\"]/text"
-msgstr ""
+msgstr "你到达指定坐标后不久，你之前见过的那名佣兵也跃迁而来。“啊，看来我们都很准时。让我给你看看我从你的目标那里弄到了什么……”"
 
 #: src-en/data/events_special_piracy.xml.append:10446
 msgid ""
@@ -10875,7 +11036,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10454
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_QUEST_VERYHIGH\"]/text"
-msgstr ""
+msgstr "你到达指定坐标后不久，你之前见过的那名佣兵也跃迁而来。“啊，看来我们都很准时。让我给你看看我从你的目标那里弄到了什么……”"
 
 #: src-en/data/events_special_piracy.xml.append:10456
 msgid ""
@@ -10885,7 +11046,7 @@ msgstr "继续。"
 #: src-en/data/events_special_piracy.xml.append:10466
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_LOWSTANDARD\"]/text"
-msgstr ""
+msgstr "“他们没剩下多少东西了，连防御设施都老旧生锈。这是我能从他们那里找到的全部了。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10469
 msgid ""
@@ -10900,7 +11061,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10479
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_MEDSTANDARD\"]/text"
-msgstr ""
+msgstr "“虽然他们身上没多少其他物品，但他们的飞船状况还不错。这是我拆解他们飞船得到的东西。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10482
 msgid ""
@@ -10915,7 +11076,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10492
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_HIGHSTANDARD\"]/text"
-msgstr ""
+msgstr "“他们的飞船状况几乎完好。我现在正给你送去不少战利品。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10495
 msgid ""
@@ -10930,7 +11091,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10505
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_HIGHSTUFF\"]/text"
-msgstr ""
+msgstr "“我没找到多少废料，但不知为何，他们在角落里藏了一堆补给。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10508
 msgid ""
@@ -10945,27 +11106,27 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10518
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/text"
-msgstr ""
+msgstr "“我真是见鬼了，真不知道这人哪来这么多废料！我的人拖回了整整三大箱。我们正在把它们运送给你。”你撬开第一个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10521
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/choice/text"
-msgstr ""
+msgstr "打开第二个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10523
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/choice/event/text"
-msgstr ""
+msgstr "你撬开第二个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10526
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/choice/event/choice/text"
-msgstr ""
+msgstr "打开第三个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10528
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREESCRAP\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开最后一个箱子。你向佣兵道谢，开始整理废料。你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10531
 msgid ""
@@ -10980,7 +11141,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10545
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_WEAPON\"]/text"
-msgstr ""
+msgstr "“多亏了我的船员，我们消灭了目标的所有船员，船体完好无损。猜猜我们在那艘精良的军用飞船上找到了什么还能正常工作的东西？”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10548
 msgid ""
@@ -10995,7 +11156,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10558
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_ITEM\"]/text"
-msgstr ""
+msgstr "“我们发现了一些在战斗中幸存下来、还能使用的设备。可能对你有用。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10561
 msgid ""
@@ -11010,37 +11171,37 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10571
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/text"
-msgstr ""
+msgstr "“我真是见鬼了，真不知道这人哪来这么多废料！我的人拖回了整整四大箱。我们正在把它们运送给你。”你撬开第一个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10574
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/text"
-msgstr ""
+msgstr "打开第二个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10576
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/event/text"
-msgstr ""
+msgstr "你撬开第二个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10579
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/event/choice/text"
-msgstr ""
+msgstr "打开第三个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10581
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开第三个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10584
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "打开第四个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10586
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FOURSCRAP\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开最后一个箱子。你向佣兵道谢，开始整理废料。你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10589
 msgid ""
@@ -11055,47 +11216,47 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10605
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/text"
-msgstr ""
+msgstr "“我真是见鬼了，真不知道这人哪来这么多废料！我的人拖回了整整五大箱。我们正在把它们运送给你。”你撬开第一个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10608
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/text"
-msgstr ""
+msgstr "打开第二个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10610
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/text"
-msgstr ""
+msgstr "你撬开第二个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10613
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/choice/text"
-msgstr ""
+msgstr "打开第三个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10615
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开第三个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10618
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "打开第四个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10620
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开第四个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10623
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "打开第五个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10625
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_FIVESCRAP\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开最后一个箱子。你向佣兵道谢，开始整理废料。你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10628
 msgid ""
@@ -11110,7 +11271,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10646
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_ALLRESOURCES\"]/text"
-msgstr ""
+msgstr "“看来他们打算消失一段时间，因为我们发现了一大批补给可以带回来。有了这些，你大概能撑过不少跃迁了。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10654
 msgid ""
@@ -11125,17 +11286,17 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10666
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_TWOWEAPON\"]/text"
-msgstr ""
+msgstr "“目标肯定比我们想的更被通缉：他们的仓库里有两把功能齐全的防御武器！幸好我们打了他们一个措手不及，这些枪才没对准我们。”佣兵们把第一把枪搬上船……"
 
 #: src-en/data/events_special_piracy.xml.append:10669
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_TWOWEAPON\"]/choice/text"
-msgstr ""
+msgstr "检查第二把枪。"
 
 #: src-en/data/events_special_piracy.xml.append:10671
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_TWOWEAPON\"]/choice/event/text"
-msgstr ""
+msgstr "佣兵们把第二把枪搬上船。你向佣兵道谢，把武器移进你的货舱。你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10674
 msgid ""
@@ -11150,27 +11311,27 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10686
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/text"
-msgstr ""
+msgstr "“我说，你中过彩票吗？你可以说你今天刚中了一次，因为我们在目标的安全仓库里发现了三大箱东西！我猜每个箱子里都装着相当不错的装备。”在你船员的帮助下，你撬开了第一个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10689
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/choice/text"
-msgstr ""
+msgstr "打开第二个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10691
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/choice/event/text"
-msgstr ""
+msgstr "你撬开第二个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10694
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/choice/event/choice/text"
-msgstr ""
+msgstr "打开第三个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10696
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_THREEITEM\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开最后一个箱子。你向佣兵道谢，开始整理你的新装备。你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10699
 msgid ""
@@ -11185,7 +11346,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10713
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SPECIALAUGMENT\"]/text"
-msgstr ""
+msgstr "“我很确定在我朋友的走私船上见过这些东西。看来你给自己弄到了一些违禁品！”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10719
 msgid ""
@@ -11200,7 +11361,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10729
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_AETHERWEAPON\"]/text"
-msgstr ""
+msgstr "“我跟你说，这东西在我船上打了个挺大的洞。我以前从没见过这种武器，不过我肯定你能琢磨出怎么用它有效地大规模杀伤敌人。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10733
 msgid ""
@@ -11215,7 +11376,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10743
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_AETHERDRONE\"]/text"
-msgstr ""
+msgstr "“我还以为我的无人机系统很酷呢，结果这玩意儿一出现，就把我所有的无人机都比下去了！我自己留了些扫描件以后用，嘿。不过原版蓝图还是得交给你。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10747
 msgid ""
@@ -11230,37 +11391,37 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10757
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/text"
-msgstr ""
+msgstr "“我们关于这家伙的情报没错：他很有钱。即使我们不得不炸掉他的设施以将损失降到最低，我们仍然发现了一个储藏量很大的仓库。其中有四个箱子状况良好，可以带回来。”你撬开第一个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10760
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/text"
-msgstr ""
+msgstr "打开第二个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10762
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/event/text"
-msgstr ""
+msgstr "你撬开第二个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10765
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/event/choice/text"
-msgstr ""
+msgstr "打开第三个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10767
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开第三个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10770
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "打开第四个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10772
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_FOURSTANDARD\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开最后一个箱子。你向佣兵道谢，开始整理补给。你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10775
 msgid ""
@@ -11275,17 +11436,17 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10791
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_TWOSPECIALAUGMENT\"]/text"
-msgstr ""
+msgstr "“我很确定在我朋友的走私船上见过这些货物。看来你给自己弄到了一大批不错的违禁品！两个特殊的增强部件正在送给你，另外还有一些废料。”你检查了送来的第一个增强部件……"
 
 #: src-en/data/events_special_piracy.xml.append:10797
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_TWOSPECIALAUGMENT\"]/choice/text"
-msgstr ""
+msgstr "检查第二个增强部件。"
 
 #: src-en/data/events_special_piracy.xml.append:10799
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_TWOSPECIALAUGMENT\"]/choice/event/text"
-msgstr ""
+msgstr "你检查了送来的第二个增强部件。你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10802
 msgid ""
@@ -11300,7 +11461,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10814
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_BIGSCRAP\"]/text"
-msgstr ""
+msgstr "“看来他不久前变卖了资产。虽然这意味着他那些见不得光的东西没了，但给你留下了大量废料。给我的人点时间把这些废料都搬给你，好吗？”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10819
 msgid ""
@@ -11315,57 +11476,57 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10829
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/text"
-msgstr ""
+msgstr "“光靠这一票，你可能就准备好面对‘首领’了。别用那种好像不知道‘首领’是什么意思的眼神看我，我知道你知道。不管怎样，我扯远了。这家伙囤积了大量补给。我想我们带回来的补给比咱俩加起来都多！六个箱子正给你送过来。”你撬开第一个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10832
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/text"
-msgstr ""
+msgstr "打开第二个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10834
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/text"
-msgstr ""
+msgstr "你撬开第二个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10837
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/text"
-msgstr ""
+msgstr "打开第三个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10839
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开第三个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10842
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "打开第四个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10844
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开第四个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10847
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "打开第五个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10849
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开第五个箱子……"
 
 #: src-en/data/events_special_piracy.xml.append:10852
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "打开第六个箱子。"
 
 #: src-en/data/events_special_piracy.xml.append:10854
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SIXSTANDARD\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你撬开最后一个箱子。你向佣兵道谢，开始整理补给。你仍有时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10857
 msgid ""
@@ -11380,7 +11541,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10877
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_AETHERGOODS\"]/text"
-msgstr ""
+msgstr "“那个见不得光的家伙有一堆前所未见的技术，意外吧意外吧。我们截获了他最新的一批货，里面包括一些诡异的设备和一些使用它们的资源。维尔已经拿到了我们的扫描件，所以我们被允许把这些转交给你。”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10885
 msgid ""
@@ -11395,7 +11556,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10895
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SYSTEMS\"]/text"
-msgstr ""
+msgstr "“我不确定这家伙是哪种怪才，但他成功地将先进的优化技术压缩进了盒子里的一些发光棒里。别问它是怎么工作的，我也不知道，我只是告诉你我从一个佣兵团朋友那里听说的。旁边的说明书说它显然只对少数几个系统和反应堆有效。”你向佣兵道谢，然后决定用这些部件升级哪个系统。（将一个系统升级3格，或将反应堆升级5格）"
 
 #: src-en/data/events_special_piracy.xml.append:10897
 msgid ""
@@ -11405,7 +11566,7 @@ msgstr "护盾"
 #: src-en/data/events_special_piracy.xml.append:10899
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SYSTEMS\"]/choice[@req=\"shields\"]/event/text"
-msgstr ""
+msgstr "在“发光棒”的帮助下，你的护盾现在以比以前大得多的容量运行！"
 
 #: src-en/data/events_special_piracy.xml.append:10904
 msgid ""
@@ -11415,7 +11576,7 @@ msgstr "武器"
 #: src-en/data/events_special_piracy.xml.append:10906
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SYSTEMS\"]/choice[@req=\"weapons\"]/event/text"
-msgstr ""
+msgstr "在“发光棒”的帮助下，你的武器现在以比以前大得多的容量运行！"
 
 #: src-en/data/events_special_piracy.xml.append:10911
 msgid ""
@@ -11425,7 +11586,7 @@ msgstr "引擎"
 #: src-en/data/events_special_piracy.xml.append:10913
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SYSTEMS\"]/choice[@req=\"engines\"]/event/text"
-msgstr ""
+msgstr "在“发光棒”的帮助下，你的引擎现在以比以前大得多的容量运行！"
 
 #: src-en/data/events_special_piracy.xml.append:10918
 msgid ""
@@ -11435,22 +11596,22 @@ msgstr "无人机控制"
 #: src-en/data/events_special_piracy.xml.append:10920
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SYSTEMS\"]/choice[@req=\"drones\"]/event/text"
-msgstr ""
+msgstr "在“发光棒”的帮助下，你的无人机控制现在以比以前大得多的容量运行！"
 
 #: src-en/data/events_special_piracy.xml.append:10925
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SYSTEMS\"]/choice[5]/text"
-msgstr ""
+msgstr "反应堆。"
 
 #: src-en/data/events_special_piracy.xml.append:10927
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SYSTEMS\"]/choice[5]/event/text"
-msgstr ""
+msgstr "在“发光棒”的帮助下，你的反应堆现在以比以前大得多的容量运行！"
 
 #: src-en/data/events_special_piracy.xml.append:10934
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_RENEGADE\"]/text"
-msgstr ""
+msgstr "“老实说，我一件都不认识我们拖回来的那些技术。有传言说它们来自某些遥远的现实。不管怎样，维尔听说了我们成功的行动，想检查一下其中一些枪，所以我们达成了协议，你可以拿走其中两件。”"
 
 #: src-en/data/events_special_piracy.xml.append:10937
 msgid ""
@@ -11465,7 +11626,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10947
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_SUPERAUGMENT\"]/text"
-msgstr ""
+msgstr "“看来亨特还参与了联邦超级精英系列舰船的研发，因为我们在设施里发现了一些非常先进的飞船增强部件。猜猜看，你的飞船刚刚针对前方的一切获得了一次巨大升级，嗯？”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10950
 msgid ""
@@ -11480,22 +11641,22 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10960
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_ROYALITEM\"]/text"
-msgstr ""
+msgstr "“我们从这次突袭中弄到了一些前所未见的技术。数量不多，你挑选想要哪种物品类型吧。”"
 
 #: src-en/data/events_special_piracy.xml.append:10962
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_ROYALITEM\"]/choice[1]/text"
-msgstr ""
+msgstr "我们想要一件武器。"
 
 #: src-en/data/events_special_piracy.xml.append:10966
 msgid ""
 "data/events_special_piracy.xml.append$/dummyroot/FTL/event[@name=\"MERCENARY_TARGETS_REWARD_ROYALITEM\"]/choice[2]/text"
-msgstr ""
+msgstr "我们想要一台无人机。"
 
 #: src-en/data/events_special_piracy.xml.append:10972
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_ROYALWEAPON\"]/text"
-msgstr ""
+msgstr "“我记得我干掉的最后一个高价值目标有类似这样的武器，但这个似乎更先进。幸好有你给我们的废料，我们可以修补好我们接近时这玩意儿造成的所有损伤。看到它对我们的效果如此之强，我不敢想象它在变元者手里能发挥出什么威力……”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10975
 msgid ""
@@ -11510,7 +11671,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_piracy.xml.append:10985
 msgid ""
 "data/events_special_piracy.xml.append$//event[@name=\"MERCENARY_TARGETS_REWARD_ROYALDRONE\"]/text"
-msgstr ""
+msgstr "“我们被其中一架疯狂的无人机登了船，我告诉你，我们最优秀的死亡使者之一克隆了5次才把那架无人机干掉。5次啊！而且他们甚至还在战斗中得到了他们一些船员的支援！我从没见过这么可怕的无人机技术……”你向佣兵道谢，并趁这段时间在船上做点什么。"
 
 #: src-en/data/events_special_piracy.xml.append:10988
 msgid ""
