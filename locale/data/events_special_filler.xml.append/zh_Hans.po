@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-03 13:57+0000\n"
+"PO-Revision-Date: 2026-06-10 12:03+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_fillerxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -31,7 +31,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"QUEST_MERCENARY_DELIVERY_END\"]/mod-"
 "append:choice/text"
-msgstr "(Smuggler Rep 1+) We sure do."
+msgstr "（走私者声望1+）当然有。"
 
 #: src-en/data/events_special_filler.xml.append:42
 msgid ""
@@ -318,7 +318,7 @@ msgstr "继续。"
 #: src-en/data/events_special_filler.xml.append:419
 msgid ""
 "data/events_special_filler.xml.append$//event[@name=\"DOCK_DRONE_SALESMAN_SAFE\"]/choice[2]/text"
-msgstr "购买一大摞无人机部件。"
+msgstr "购买一大摞无人机部件"
 
 #: src-en/data/events_special_filler.xml.append:421
 msgid ""
