@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-02 20:46+0000\n"
+"PO-Revision-Date: 2026-06-10 12:02+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_sector_piratexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -4676,7 +4676,7 @@ msgstr "打开最后一个箱子。"
 #: src-en/data/events_sector_pirate.xml.append:4311
 msgid ""
 "data/events_sector_pirate.xml.append$/dummyroot/FTL/event[@name=\"PIP_DISTRESS_PIRATE_OVERWORK_CRATE_2_SCRAP_ONLY\"]/text"
-msgstr "The second crate contains some extra scrap."
+msgstr "第二个箱子里有一些额外的废料。"
 
 #: src-en/data/events_sector_pirate.xml.append:4314
 msgid ""
