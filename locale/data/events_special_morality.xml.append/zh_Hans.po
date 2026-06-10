@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-04 11:55+0000\n"
+"PO-Revision-Date: 2026-06-10 12:02+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/piracy-is-poggers/dataevents_special_moralityxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -83,7 +83,6 @@ msgid ""
 msgstr ""
 "[声望提升 - 走私者]\n"
 "通过购买违禁品或保护走私者，你提高了自己在黑市中的声望。某些走私者可能会更愿意为你提供更好或特殊的交易，并且在你身边时会感到更自在。\n"
-"\n"
 "由于你对他们的事业做出了慷慨贡献，你的声望得到了双倍提升。"
 
 #: src-en/data/events_special_morality.xml.append:105
